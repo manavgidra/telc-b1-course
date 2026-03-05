@@ -139,6 +139,42 @@
   color: var(--color-text);
 }
 
+.grammarBtn {
+  padding: 0.45rem 0.85rem;
+  border-radius: var(--radius-md);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-text);
+  background: var(--color-bg);
+  border: 1.5px solid var(--color-border);
+  cursor: pointer;
+  transition: all var(--transition);
+  margin-left: 0.25rem;
+}
+
+.grammarBtn:hover {
+  border-color: var(--color-gold);
+  background: #fffef5;
+}
+
+.mobileGrammarBtn {
+  padding: 0.75rem 0.75rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--color-text);
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  text-align: left;
+  transition: all var(--transition);
+  margin-top: 0.25rem;
+}
+
+.mobileGrammarBtn:hover {
+  background: #edf2f7;
+}
+
 .main {
   flex: 1;
 }

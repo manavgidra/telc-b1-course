@@ -1,0 +1,829 @@
+{
+  "topics": [
+    {
+      "id": "cases",
+      "order": 1,
+      "title": "Cases — Nominativ, Akkusativ, Dativ, Genitiv",
+      "shortTitle": "Die vier Fälle",
+      "icon": "📐",
+      "type": "core",
+      "grammar_table": {
+        "explanation": "German has 4 grammatical cases that change the form of articles, pronouns, and adjectives depending on the word's role in the sentence. Nominativ = subject (who/what does it), Akkusativ = direct object (who/what receives the action), Dativ = indirect object (to/for whom), Genitiv = possession (whose).",
+        "formula": "Nominativ: Wer/Was? | Akkusativ: Wen/Was? | Dativ: Wem? | Genitiv: Wessen?",
+        "table": {
+          "headers": ["Case", "Question", "der (m)", "die (f)", "das (n)", "die (pl)"],
+          "rows": [
+            ["Nominativ", "Wer/Was?", "der", "die", "das", "die"],
+            ["Akkusativ", "Wen/Was?", "den", "die", "das", "die"],
+            ["Dativ", "Wem?", "dem", "der", "dem", "den (+n)"],
+            ["Genitiv", "Wessen?", "des (+s/es)", "der", "des (+s/es)", "der"]
+          ]
+        },
+        "examples": [
+          { "de": "Der Mann (Nom) sieht den Hund (Akk).", "en": "The man sees the dog." },
+          { "de": "Ich gebe dem Kind (Dat) das Buch (Akk).", "en": "I give the child the book." },
+          { "de": "Das ist das Auto des Mannes (Gen).", "en": "That is the man's car." },
+          { "de": "Die Frau (Nom) hilft dem Freund (Dat).", "en": "The woman helps the friend." }
+        ],
+        "common_mistakes": [
+          "Forgetting that Akkusativ only changes masculine: der → den (die/das/die stay the same)",
+          "Using Akkusativ after Dativ verbs like helfen, danken, gehören, gefallen",
+          "Forgetting to add -n to plural nouns in Dativ: den Kindern, den Freunden",
+          "Confusing Dativ and Genitiv — Genitiv adds -s/-es to masculine/neuter nouns"
+        ]
+      },
+      "progression": {
+        "a2_example": { "de": "Ich gebe dem Mann das Buch.", "en": "I give the man the book." },
+        "b1_upgrade": { "de": "Das Buch, das ich dem Mann gegeben habe, war interessant.", "en": "The book that I gave the man was interesting." },
+        "what_changed": "At B1, you combine cases with relative clauses (das/dem/den as relative pronouns). The case of the relative pronoun depends on its role in the subordinate clause.",
+        "telc_section": "Sprachbausteine"
+      },
+      "exercises": [
+        { "type": "fill", "prompt": "___ Hund ist groß. (the dog - Nominativ)", "answer": "Der", "explanation": "Nominativ because 'Hund' is the subject. Masculine → der.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Ich sehe ___ Frau. (the woman - Akkusativ)", "answer": "die", "explanation": "Akkusativ because 'Frau' is the direct object. Feminine → die (same as Nominativ).", "difficulty": "A2" },
+        { "type": "choose", "prompt": "Er hilft ___ Mutter.", "options": ["die", "der", "den"], "answer": "der", "explanation": "helfen takes Dativ. Feminine Dativ → der.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Ich kaufe ___ Kind ein Eis. (the child - Dativ)", "answer": "dem", "explanation": "Dativ because 'Kind' is the indirect object (to/for whom). Neuter Dativ → dem.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Das ist das Haus ___ Lehrerin.", "options": ["der", "die", "dem"], "answer": "der", "explanation": "Genitiv for possession: 'the teacher's house'. Feminine Genitiv → der.", "difficulty": "B1" },
+        { "type": "fix", "prompt": "Ich gebe den Kinder das Geschenk. (Fix the error)", "answer": "Ich gebe den Kindern das Geschenk.", "explanation": "Plural Dativ requires -n on the noun: Kinder → Kindern.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Wegen ___ Wetters bleiben wir zu Hause. (the weather - Genitiv)", "answer": "des", "explanation": "Genitiv after 'wegen'. Neuter → des. Wetter → Wetters (add -s).", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Das Buch, ___ ich gelesen habe, war gut.", "options": ["das", "dem", "den"], "answer": "das", "explanation": "Relative pronoun in Akkusativ (direct object of 'gelesen habe'). Neuter Akk → das.", "difficulty": "B1" }
+      ],
+      "flashcards": [
+        { "front": "What question does Nominativ answer?", "back": "Wer? / Was? — It identifies the SUBJECT (who does the action)" },
+        { "front": "der → ___ (Akkusativ)", "back": "den — Only masculine changes in Akkusativ!" },
+        { "front": "What question does Dativ answer?", "back": "Wem? — It identifies the INDIRECT object (to/for whom)" },
+        { "front": "dem Freund, der Mutter, dem Kind, den ___", "back": "den Freunden — Plural Dativ: article = den, noun adds -n" },
+        { "front": "helfen takes which case?", "back": "DATIV! Er hilft dem Mann. (not den Mann)" },
+        { "front": "des Mannes, der Frau, des Kindes — which case?", "back": "Genitiv (possession). Masc/neuter nouns add -s or -es." },
+        { "front": "'Ich sehe die Frau' — what case is 'die Frau'?", "back": "Akkusativ (direct object). Feminine Akk = die (same as Nom)." },
+        { "front": "Wessen Auto ist das?", "back": "Whose car is that? — Wessen = Genitiv question word" },
+        { "front": "Which case changes the LEAST?", "back": "Akkusativ — only masculine changes (der→den). All others stay same." },
+        { "front": "gefallen, gehören, schmecken — which case?", "back": "DATIV! Das Buch gefällt dem Lehrer. (Dativ verbs!)" }
+      ]
+    },
+    {
+      "id": "articles",
+      "order": 2,
+      "title": "Articles — Definite, Indefinite, and Negative (kein)",
+      "shortTitle": "Artikel",
+      "icon": "📝",
+      "type": "core",
+      "grammar_table": {
+        "explanation": "German has three types of articles: Definite (der/die/das = 'the'), Indefinite (ein/eine = 'a/an'), and Negative (kein/keine = 'not a / no'). Each changes form based on gender, number, and case. Kein follows the same pattern as ein but also has plural forms.",
+        "formula": "Definite: der/die/das/die | Indefinite: ein/eine/ein/— | Negative: kein/keine/kein/keine",
+        "table": {
+          "headers": ["", "Maskulin", "Feminin", "Neutrum", "Plural"],
+          "rows": [
+            ["Nom: der/ein/kein", "der / ein / kein", "die / eine / keine", "das / ein / kein", "die / — / keine"],
+            ["Akk: den/einen/keinen", "den / einen / keinen", "die / eine / keine", "das / ein / kein", "die / — / keine"],
+            ["Dat: dem/einem/keinem", "dem / einem / keinem", "der / einer / keiner", "dem / einem / keinem", "den / — / keinen"],
+            ["Gen: des/eines/keines", "des / eines / keines", "der / einer / keiner", "des / eines / keines", "der / — / keiner"]
+          ]
+        },
+        "examples": [
+          { "de": "Der Mann hat einen Hund, aber keine Katze.", "en": "The man has a dog but no cat." },
+          { "de": "Ich sehe eine Frau mit einem Kind.", "en": "I see a woman with a child." },
+          { "de": "Das ist kein Problem.", "en": "That is not a problem / no problem." },
+          { "de": "Er hat keine Geschwister.", "en": "He has no siblings." }
+        ],
+        "common_mistakes": [
+          "Using 'nicht ein' instead of 'kein': 'Ich habe kein Auto' NOT 'Ich habe nicht ein Auto'",
+          "Forgetting that ein has NO plural form — use keine for plural negation",
+          "Mixing up einen (Akk m) with einem (Dat m) — one letter difference, big meaning change",
+          "Using der/die/das when you should use ein/eine (first mention = indefinite, known = definite)"
+        ]
+      },
+      "progression": {
+        "a2_example": { "de": "Ich habe kein Auto.", "en": "I don't have a car." },
+        "b1_upgrade": { "de": "Ich habe zwar kein Auto, aber trotzdem fahre ich jeden Tag zur Arbeit.", "en": "I may not have a car, but I still drive to work every day." },
+        "what_changed": "B1 adds complex connectors (zwar...aber, trotzdem) around the same article usage. The article rules don't change — but sentences become longer and more nuanced.",
+        "telc_section": "Sprachbausteine"
+      },
+      "exercises": [
+        { "type": "fill", "prompt": "Ich habe ___ Bruder. (a brother)", "answer": "einen", "explanation": "Akkusativ (direct object of 'haben'). Masculine → einen.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Sie hat ___ Kinder. (no children)", "answer": "keine", "explanation": "Negative article, plural Akkusativ → keine.", "difficulty": "A2" },
+        { "type": "choose", "prompt": "Das ist ___ gute Idee!", "options": ["ein", "eine", "einer"], "answer": "eine", "explanation": "Nominativ (after 'ist'). Idee is feminine → eine.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Er fährt mit ___ Bus. (a bus, Dativ)", "answer": "einem", "explanation": "'mit' takes Dativ. Bus is masculine. Dativ masculine → einem.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Ich brauche ___ neuen Computer.", "options": ["ein", "einen", "einem"], "answer": "einen", "explanation": "brauchen takes Akkusativ. Computer is masculine → einen.", "difficulty": "B1" },
+        { "type": "fix", "prompt": "Sie hat nicht ein Handy. (Fix the error)", "answer": "Sie hat kein Handy.", "explanation": "Use 'kein' instead of 'nicht ein' to negate nouns with indefinite articles.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Trotz ___ Regens gehen wir spazieren. (the rain, Gen)", "answer": "des", "explanation": "Genitiv after 'trotz'. Regen is masculine → des Regens.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Das ist das Büro ___ Kollegin.", "options": ["einer", "eine", "einem"], "answer": "einer", "explanation": "Genitiv for possession. Kollegin is feminine → einer.", "difficulty": "B1" }
+      ],
+      "flashcards": [
+        { "front": "ein → ___ (feminine)", "back": "eine — 'eine Frau', 'eine Katze'" },
+        { "front": "How do you say 'not a' / 'no' in German?", "back": "kein/keine/kein — follows ein-pattern but has plural forms" },
+        { "front": "einen vs einem?", "back": "einen = Akkusativ masc, einem = Dativ masc. Watch the ending!" },
+        { "front": "Does ein have a plural form?", "back": "NO! Use keine (negative) or no article at all for indefinite plural." },
+        { "front": "'Ich habe nicht ein Auto' — correct?", "back": "NO! Say 'Ich habe kein Auto.' Use kein to negate nouns with ein-articles." },
+        { "front": "First mention: ___ Frau kommt.", "back": "Eine Frau kommt. (indefinite — first mention, unknown)" },
+        { "front": "Second mention: ___ Frau ist nett.", "back": "Die Frau ist nett. (definite — now we know which woman)" },
+        { "front": "mit + ___ Freund", "back": "mit einem Freund (Dativ! mit always takes Dativ)" },
+        { "front": "Ich sehe ___ Kinder (some children)", "back": "Ich sehe Kinder. (no article — indefinite plural has no article)" },
+        { "front": "kein in all 4 Nominativ forms?", "back": "kein (m), keine (f), kein (n), keine (pl)" }
+      ]
+    },
+    {
+      "id": "modal-verbs",
+      "order": 3,
+      "title": "Modal Verbs — können, müssen, dürfen, sollen, wollen, mögen",
+      "shortTitle": "Modalverben",
+      "icon": "🔧",
+      "type": "core",
+      "grammar_table": {
+        "explanation": "Modal verbs modify the meaning of the main verb. They express ability (können), necessity (müssen), permission (dürfen), obligation/suggestion (sollen), desire (wollen), and liking (mögen/möchten). The modal verb is conjugated and goes in position 2; the main verb stays as infinitive at the end.",
+        "formula": "Subject + Modal (conjugated, pos. 2) + ... + Main verb (infinitive, END)",
+        "table": {
+          "headers": ["", "können", "müssen", "dürfen", "sollen", "wollen", "möchten"],
+          "rows": [
+            ["ich", "kann", "muss", "darf", "soll", "will", "möchte"],
+            ["du", "kannst", "musst", "darfst", "sollst", "willst", "möchtest"],
+            ["er/sie/es", "kann", "muss", "darf", "soll", "will", "möchte"],
+            ["wir", "können", "müssen", "dürfen", "sollen", "wollen", "möchten"],
+            ["ihr", "könnt", "müsst", "dürft", "sollt", "wollt", "möchtet"],
+            ["sie/Sie", "können", "müssen", "dürfen", "sollen", "wollen", "möchten"]
+          ]
+        },
+        "examples": [
+          { "de": "Ich kann gut Deutsch sprechen.", "en": "I can speak German well." },
+          { "de": "Du musst morgen früh aufstehen.", "en": "You have to get up early tomorrow." },
+          { "de": "Man darf hier nicht rauchen.", "en": "You are not allowed to smoke here." },
+          { "de": "Er möchte ein Eis essen.", "en": "He would like to eat an ice cream." }
+        ],
+        "common_mistakes": [
+          "Putting 'zu' before the infinitive: 'Ich kann sprechen' NOT 'Ich kann zu sprechen'",
+          "Conjugating the main verb: 'Er will gehen' NOT 'Er will geht'",
+          "Confusing müssen (must) with sollen (should): müssen = strong necessity, sollen = advice/duty",
+          "Using 'können' for permission instead of 'dürfen': 'Darf ich?' NOT 'Kann ich?' (formally)"
+        ]
+      },
+      "progression": {
+        "a2_example": { "de": "Ich kann gut kochen.", "en": "I can cook well." },
+        "b1_upgrade": { "de": "Ich könnte besser kochen, wenn ich mehr Zeit hätte.", "en": "I could cook better if I had more time." },
+        "what_changed": "B1 uses Konjunktiv II forms of modals (könnte, müsste, dürfte, sollte) for polite requests, hypotheticals, and suggestions. This is heavily tested in TELC Sprechen and Schreiben.",
+        "telc_section": "Sprechen"
+      },
+      "exercises": [
+        { "type": "fill", "prompt": "Ich ___ Deutsch sprechen. (can)", "answer": "kann", "explanation": "können, ich-form → kann. No umlaut in singular forms.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Du ___ deine Hausaufgaben machen. (must)", "answer": "musst", "explanation": "müssen, du-form → musst.", "difficulty": "A2" },
+        { "type": "choose", "prompt": "___ ich hier rauchen?", "options": ["Kann", "Darf", "Will"], "answer": "Darf", "explanation": "Asking for permission = dürfen. 'Darf ich?' = 'Am I allowed to?'", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Er ___ morgen zum Arzt gehen. (should)", "answer": "soll", "explanation": "sollen = should/is supposed to. er/sie/es-form → soll.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Ich ___ gerne nach Berlin fahren. (would like)", "options": ["will", "möchte", "mag"], "answer": "möchte", "explanation": "möchte = would like (polite wish). will = want (stronger/blunter).", "difficulty": "B1" },
+        { "type": "fix", "prompt": "Sie kann zu schwimmen. (Fix the error)", "answer": "Sie kann schwimmen.", "explanation": "No 'zu' before infinitive with modal verbs! Modal + infinitive directly.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "___ Sie mir bitte helfen? (could - polite)", "answer": "Könnten", "explanation": "Konjunktiv II of können = könnten. Polite request form, essential for TELC.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Man ___ hier nicht laut Musik hören.", "options": ["darf", "kann", "muss"], "answer": "darf", "explanation": "Prohibition = nicht dürfen. 'Man darf nicht' = one is not allowed to.", "difficulty": "B1" }
+      ],
+      "flashcards": [
+        { "front": "können = ?", "back": "can / to be able to. Ich kann, du kannst, er kann" },
+        { "front": "müssen vs sollen?", "back": "müssen = MUST (strong necessity). sollen = SHOULD (advice/duty). Big difference!" },
+        { "front": "Modal verb word order?", "back": "Modal (pos. 2, conjugated) + ... + Infinitive (END). 'Ich kann gut kochen.'" },
+        { "front": "'zu' with modal verbs?", "back": "NEVER! No 'zu' before infinitive. 'Ich muss gehen' NOT 'Ich muss zu gehen'" },
+        { "front": "möchten = ?", "back": "would like (polite). Ich möchte, du möchtest. More polite than wollen." },
+        { "front": "dürfen = ?", "back": "may / to be allowed to. 'Darf ich?' = May I? Used for permission." },
+        { "front": "könnte vs kann?", "back": "kann = can (factual). könnte = could (polite/hypothetical). B1 level!" },
+        { "front": "wollen vs möchten?", "back": "wollen = want (direct/blunt). möchten = would like (polite). Use möchten in formal contexts." },
+        { "front": "Man darf hier nicht rauchen.", "back": "You're not allowed to smoke here. nicht + dürfen = prohibition." },
+        { "front": "Perfect tense with modals?", "back": "Double infinitive: 'Ich habe schwimmen können.' (not gekonnt when main verb present)" }
+      ]
+    },
+    {
+      "id": "perfect-tense",
+      "order": 4,
+      "title": "Perfect Tense — haben/sein + Partizip II",
+      "shortTitle": "Perfekt",
+      "icon": "⏰",
+      "type": "core",
+      "grammar_table": {
+        "explanation": "The Perfekt (present perfect) is the main past tense in spoken German. It uses a helper verb (haben or sein) conjugated in position 2, plus the Partizip II (past participle) at the end. Most verbs use haben. Verbs of movement/change of state use sein.",
+        "formula": "Subject + haben/sein (conjugated, pos. 2) + ... + Partizip II (END)",
+        "table": {
+          "headers": ["Type", "Infinitive", "Partizip II", "Helper", "Example"],
+          "rows": [
+            ["Weak (regular)", "machen", "ge-mach-t", "haben", "Ich habe gemacht"],
+            ["Weak (regular)", "kaufen", "ge-kauf-t", "haben", "Er hat gekauft"],
+            ["Strong (irregular)", "fahren", "ge-fahr-en", "sein", "Sie ist gefahren"],
+            ["Strong (irregular)", "schreiben", "ge-schrieb-en", "haben", "Ich habe geschrieben"],
+            ["Mixed", "bringen", "ge-brach-t", "haben", "Er hat gebracht"],
+            ["Inseparable prefix", "besuchen", "besuch-t", "haben", "Ich habe besucht"],
+            ["Separable prefix", "einkaufen", "ein-ge-kauf-t", "haben", "Sie hat eingekauft"],
+            ["-ieren verbs", "telefonieren", "telefonier-t", "haben", "Er hat telefoniert"]
+          ]
+        },
+        "examples": [
+          { "de": "Ich habe gestern Deutsch gelernt.", "en": "I learned/studied German yesterday." },
+          { "de": "Sie ist nach Berlin gefahren.", "en": "She went/drove to Berlin." },
+          { "de": "Wir haben Pizza gegessen.", "en": "We ate pizza." },
+          { "de": "Er hat das Buch gelesen.", "en": "He read the book." }
+        ],
+        "common_mistakes": [
+          "Using haben with movement verbs: 'Ich BIN gefahren' NOT 'Ich habe gefahren'",
+          "Adding ge- to inseparable prefix verbs: 'besucht' NOT 'gebesucht'",
+          "Adding ge- to -ieren verbs: 'telefoniert' NOT 'getelefoniert'",
+          "Wrong Partizip II for strong verbs — these must be memorized (gegessen, geschrieben, gefahren)"
+        ]
+      },
+      "progression": {
+        "a2_example": { "de": "Ich habe gestern einen Film gesehen.", "en": "I watched a movie yesterday." },
+        "b1_upgrade": { "de": "Nachdem ich den Film gesehen hatte, bin ich ins Bett gegangen.", "en": "After I had watched the movie, I went to bed." },
+        "what_changed": "B1 introduces Plusquamperfekt (past perfect: hatte/war + Partizip II) for events that happened BEFORE another past event. Used with nachdem/bevor.",
+        "telc_section": "Sprachbausteine"
+      },
+      "exercises": [
+        { "type": "fill", "prompt": "Ich ___ Deutsch gelernt. (have)", "answer": "habe", "explanation": "Perfekt with haben. Ich-form → habe.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Er ___ nach Hause gegangen. (is)", "answer": "ist", "explanation": "gehen = movement verb → uses sein. Er-form → ist.", "difficulty": "A2" },
+        { "type": "choose", "prompt": "Sie hat gestern ___. (to cook)", "options": ["gekocht", "gekochen", "kochen"], "answer": "gekocht", "explanation": "Weak verb: ge- + Stamm + -t → ge-koch-t = gekocht.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Wir haben das Buch ___. (read, Partizip II)", "answer": "gelesen", "explanation": "lesen is a strong verb: lesen → gelesen (e→e vowel change).", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Er hat seine Freundin ___.", "options": ["besucht", "gebesucht", "begesucht"], "answer": "besucht", "explanation": "Inseparable prefix (be-): no ge-! besuchen → besucht.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Sie hat im Supermarkt ___. (to shop: einkaufen)", "answer": "eingekauft", "explanation": "Separable prefix: ge- goes between prefix and stem. ein-ge-kauf-t.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Wir ___ nach Italien geflogen.", "options": ["haben", "sind", "ist"], "answer": "sind", "explanation": "fliegen = movement → sein. Wir → sind.", "difficulty": "B1" },
+        { "type": "fix", "prompt": "Er hat nach Berlin gefahren. (Fix the error)", "answer": "Er ist nach Berlin gefahren.", "explanation": "fahren = movement verb → uses sein, not haben.", "difficulty": "B1" }
+      ],
+      "flashcards": [
+        { "front": "Perfekt formula?", "back": "haben/sein (pos. 2) + ... + Partizip II (END)" },
+        { "front": "When to use sein?", "back": "Movement (gehen, fahren, fliegen) and change of state (werden, sterben, einschlafen)" },
+        { "front": "Weak verb Partizip II pattern?", "back": "ge- + stem + -t: machen → gemacht, kaufen → gekauft" },
+        { "front": "Strong verb Partizip II pattern?", "back": "ge- + changed stem + -en: fahren → gefahren, schreiben → geschrieben" },
+        { "front": "besuchen → ?", "back": "besucht (NO ge-! Inseparable prefix: be-, er-, ver-, zer-, ent-, emp-, ge-, miss-)" },
+        { "front": "einkaufen → ?", "back": "eingekauft (Separable: ge- goes BETWEEN prefix and stem: ein-ge-kauf-t)" },
+        { "front": "telefonieren → ?", "back": "telefoniert (NO ge-! -ieren verbs never get ge-)" },
+        { "front": "essen → ?", "back": "gegessen (strong verb, vowel change: ess → gess → gegessen)" },
+        { "front": "sein → ? (Partizip II)", "back": "gewesen: Ich bin in Berlin gewesen. (I have been in Berlin)" },
+        { "front": "haben → ? (Partizip II)", "back": "gehabt: Ich habe Glück gehabt. (I was lucky / I had luck)" }
+      ]
+    },
+    {
+      "id": "prateritum",
+      "order": 5,
+      "title": "Präteritum — war, hatte, wurde (The 3 Essentials)",
+      "shortTitle": "Präteritum",
+      "icon": "📜",
+      "type": "core",
+      "grammar_table": {
+        "explanation": "While spoken German mostly uses Perfekt, three verbs are almost always used in Präteritum (simple past) even in speech: sein → war, haben → hatte, werden → wurde. For TELC Schreiben, you also need Präteritum of modal verbs. Written German (newspapers, stories) uses Präteritum for all verbs.",
+        "formula": "Subject + Präteritum verb (pos. 2) + ... (no helper verb needed!)",
+        "table": {
+          "headers": ["", "sein → war", "haben → hatte", "werden → wurde"],
+          "rows": [
+            ["ich", "war", "hatte", "wurde"],
+            ["du", "warst", "hattest", "wurdest"],
+            ["er/sie/es", "war", "hatte", "wurde"],
+            ["wir", "waren", "hatten", "wurden"],
+            ["ihr", "wart", "hattet", "wurdet"],
+            ["sie/Sie", "waren", "hatten", "wurden"]
+          ]
+        },
+        "examples": [
+          { "de": "Ich war gestern in Berlin.", "en": "I was in Berlin yesterday." },
+          { "de": "Er hatte keine Zeit.", "en": "He had no time." },
+          { "de": "Sie wurde Lehrerin.", "en": "She became a teacher." },
+          { "de": "Wir waren sehr müde.", "en": "We were very tired." }
+        ],
+        "common_mistakes": [
+          "Using 'Ich bin gewesen' in casual speech when 'Ich war' is more natural",
+          "Confusing 'war' (was) with 'wurde' (became): Er war krank ≠ Er wurde krank",
+          "Forgetting that wurde is also the Passiv helper: 'Das Haus wurde gebaut' (was built)",
+          "Using Präteritum for regular verbs in speech — stick to Perfekt, only use Prät for sein/haben/werden/modals"
+        ]
+      },
+      "progression": {
+        "a2_example": { "de": "Das Wetter war schlecht.", "en": "The weather was bad." },
+        "b1_upgrade": { "de": "Als das Wetter schlecht war, blieben wir zu Hause, obwohl wir eigentlich wandern wollten.", "en": "When the weather was bad, we stayed home although we actually wanted to hike." },
+        "what_changed": "B1 uses war/hatte in complex sentences with als, obwohl, weil. Also introduces Präteritum of modals (wollte, konnte, musste, durfte, sollte) for narrative writing.",
+        "telc_section": "Schreiben"
+      },
+      "exercises": [
+        { "type": "fill", "prompt": "Ich ___ gestern krank. (was)", "answer": "war", "explanation": "sein → war (ich-form). The most important Präteritum form.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Er ___ keine Lust. (had)", "answer": "hatte", "explanation": "haben → hatte (er-form). Common expression: keine Lust haben.", "difficulty": "A2" },
+        { "type": "choose", "prompt": "Sie ___ Ärztin. (became)", "options": ["war", "wurde", "hatte"], "answer": "wurde", "explanation": "werden → wurde. 'became' a doctor, not 'was' a doctor.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Wir ___ in der Schule. (were)", "answer": "waren", "explanation": "sein → waren (wir-form). Plural past of 'sein'.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Ich ___ nicht kommen. (could, past)", "answer": "konnte", "explanation": "können → konnte (Präteritum). Used in speech and writing for past modal.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Er ___ fleißig lernen. (had to, past)", "options": ["musste", "müsste", "muss"], "answer": "musste", "explanation": "müssen → musste (Präteritum). Not müsste (that's Konjunktiv II).", "difficulty": "B1" },
+        { "type": "fix", "prompt": "Ich bin gestern in Berlin gewesen. (Make it more natural)", "answer": "Ich war gestern in Berlin.", "explanation": "For sein, Präteritum (war) sounds more natural than Perfekt (bin gewesen) in speech.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Sie ___ als Kind immer Eis essen. (wanted, past)", "answer": "wollte", "explanation": "wollen → wollte (Präteritum). Past tense of wanting.", "difficulty": "B1" }
+      ],
+      "flashcards": [
+        { "front": "sein → Präteritum?", "back": "war (ich/er), warst (du), waren (wir/sie), wart (ihr)" },
+        { "front": "haben → Präteritum?", "back": "hatte (ich/er), hattest (du), hatten (wir/sie), hattet (ihr)" },
+        { "front": "werden → Präteritum?", "back": "wurde (ich/er), wurdest (du), wurden (wir/sie), wurdet (ihr)" },
+        { "front": "war vs wurde?", "back": "war = was (state). wurde = became (change). Er WAR krank ≠ Er WURDE krank." },
+        { "front": "können → Präteritum?", "back": "konnte: Ich konnte nicht kommen. (I couldn't come)" },
+        { "front": "müssen → Präteritum?", "back": "musste: Er musste arbeiten. (He had to work)" },
+        { "front": "wollen → Präteritum?", "back": "wollte: Sie wollte nach Hause. (She wanted to go home)" },
+        { "front": "When to use Präteritum in speech?", "back": "Mainly for sein (war), haben (hatte), werden (wurde), and modal verbs" },
+        { "front": "Präteritum vs Perfekt?", "back": "Präteritum = written/formal German + sein/haben/modals. Perfekt = spoken German for most other verbs." },
+        { "front": "wurde + Partizip II = ?", "back": "Passiv Präteritum: 'Das Haus wurde gebaut' = The house was built" }
+      ]
+    },
+    {
+      "id": "conjunctions",
+      "order": 6,
+      "title": "Basic Conjunctions — weil, dass, wenn, obwohl, als",
+      "shortTitle": "Konjunktionen",
+      "icon": "🔗",
+      "type": "core",
+      "grammar_table": {
+        "explanation": "Conjunctions connect clauses. There are two types: Coordinating (und, aber, oder, denn, sondern) keep normal V2 word order. Subordinating (weil, dass, wenn, obwohl, als, ob) send the verb to the END of the clause. This verb-final rule is the single most important grammar rule for TELC B1.",
+        "formula": "Main clause (V2) + Subordinating conjunction + ... + VERB (END)",
+        "table": {
+          "headers": ["Conjunction", "Meaning", "Type", "Word Order"],
+          "rows": [
+            ["und", "and", "Coordinating", "Normal V2"],
+            ["aber", "but", "Coordinating", "Normal V2"],
+            ["denn", "because", "Coordinating", "Normal V2"],
+            ["weil", "because", "Subordinating", "VERB → END"],
+            ["dass", "that", "Subordinating", "VERB → END"],
+            ["wenn", "if / when(ever)", "Subordinating", "VERB → END"],
+            ["obwohl", "although", "Subordinating", "VERB → END"],
+            ["als", "when (past, one-time)", "Subordinating", "VERB → END"],
+            ["ob", "whether", "Subordinating", "VERB → END"]
+          ]
+        },
+        "examples": [
+          { "de": "Ich lerne Deutsch, weil es wichtig ist.", "en": "I learn German because it's important." },
+          { "de": "Er sagt, dass er morgen kommt.", "en": "He says that he'll come tomorrow." },
+          { "de": "Wenn es regnet, bleibe ich zu Hause.", "en": "If/When it rains, I stay home." },
+          { "de": "Als ich jung war, spielte ich Fußball.", "en": "When I was young, I played football." }
+        ],
+        "common_mistakes": [
+          "Not moving the verb to the end in weil/dass/wenn/obwohl clauses",
+          "Using 'weil' with V2 word order: 'weil es ist wichtig' → WRONG! 'weil es wichtig ist'",
+          "Confusing wenn (if/whenever) with als (when, one-time past): 'Als ich ein Kind war' NOT 'Wenn ich ein Kind war'",
+          "Confusing weil (subordinating, verb-end) with denn (coordinating, V2): same meaning, different grammar!"
+        ]
+      },
+      "progression": {
+        "a2_example": { "de": "Ich bleibe zu Hause, weil es regnet.", "en": "I'm staying home because it's raining." },
+        "b1_upgrade": { "de": "Obwohl es regnet, gehe ich spazieren, weil ich frische Luft brauche.", "en": "Although it's raining, I'm going for a walk because I need fresh air." },
+        "what_changed": "B1 chains multiple subordinate clauses together and starts sentences with subordinating conjunctions (inverted main clause: Obwohl..., VERB ich...). Also introduces obwohl, damit, sodass, weshalb.",
+        "telc_section": "Sprachbausteine"
+      },
+      "exercises": [
+        { "type": "fill", "prompt": "Ich lerne Deutsch, ___ es wichtig ist. (because)", "answer": "weil", "explanation": "weil = because (subordinating). Verb 'ist' goes to the end.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Er sagt, ___ er morgen kommt. (that)", "answer": "dass", "explanation": "dass = that (introducing reported speech). Verb 'kommt' at end.", "difficulty": "A2" },
+        { "type": "choose", "prompt": "___ ich jung war, spielte ich Fußball.", "options": ["Wenn", "Als", "Weil"], "answer": "Als", "explanation": "One-time past event → als. wenn = repeated events or if/whenever.", "difficulty": "A2" },
+        { "type": "fix", "prompt": "Ich bleibe zu Hause, weil es regnet draußen. (Fix word order)", "answer": "Ich bleibe zu Hause, weil es draußen regnet.", "explanation": "After weil, the verb MUST go to the end. 'regnet' moves to final position.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "___ es regnet, gehe ich spazieren.", "options": ["Weil", "Obwohl", "Dass"], "answer": "Obwohl", "explanation": "Although it's raining... = Obwohl. Shows contrast between raining and going out.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "___ du Zeit hast, können wir ins Kino gehen. (if)", "answer": "Wenn", "explanation": "wenn = if/when (condition or repeated events). Verb 'hast' at end of wenn-clause.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Ich bin müde, ___ ich schlecht geschlafen habe.", "options": ["denn", "weil", "obwohl"], "answer": "weil", "explanation": "Both weil and denn mean 'because', but here the verb is at the END → weil.", "difficulty": "B1" },
+        { "type": "fix", "prompt": "Der Film war gut, obwohl er war lang. (Fix word order)", "answer": "Der Film war gut, obwohl er lang war.", "explanation": "obwohl = subordinating → verb 'war' must go to END of the clause.", "difficulty": "B1" }
+      ],
+      "flashcards": [
+        { "front": "weil → word order?", "back": "VERB → END: 'weil es wichtig IST' (not 'weil es IST wichtig')" },
+        { "front": "denn vs weil?", "back": "Same meaning (because) but: denn = V2 order, weil = verb-end. 'Ich lerne, denn es IST wichtig' vs 'weil es wichtig IST'" },
+        { "front": "als vs wenn?", "back": "als = one-time past event. wenn = if, whenever, repeated events. 'Als ich 5 war' but 'Wenn es regnet'" },
+        { "front": "dass → ?", "back": "that: 'Er sagt, dass er KOMMT.' Verb at end. Introduces reported speech/opinions." },
+        { "front": "obwohl → ?", "back": "although: 'Obwohl es regnet, gehe ich raus.' Verb at end of obwohl-clause." },
+        { "front": "Subordinating conjunction + verb position?", "back": "VERB goes to the END of the subordinate clause. ALWAYS." },
+        { "front": "wenn-clause FIRST → main clause?", "back": "Verb-first in main clause: 'Wenn es regnet, BLEIBE ich zu Hause.'" },
+        { "front": "Name 5 subordinating conjunctions", "back": "weil, dass, wenn, obwohl, als, ob, damit, bevor, nachdem" },
+        { "front": "Name 4 coordinating conjunctions", "back": "und, aber, oder, denn, sondern — word order stays V2!" },
+        { "front": "ob → ?", "back": "whether: 'Ich weiß nicht, ob er KOMMT.' Verb at end." }
+      ]
+    },
+    {
+      "id": "adjective-endings",
+      "order": 7,
+      "title": "Adjective Endings — after der/die/das and ein/eine",
+      "shortTitle": "Adjektivendungen",
+      "icon": "🎨",
+      "type": "core",
+      "grammar_table": {
+        "explanation": "When an adjective comes BEFORE a noun, it needs an ending. The ending depends on: (1) the article type (definite/indefinite/none), (2) the gender, (3) the case. After definite articles (der/die/das), endings are mostly -e or -en. After indefinite articles (ein/eine/kein), the adjective sometimes shows the gender ending that 'ein' lacks.",
+        "formula": "Article + Adjective(+ending) + Noun: der neue Lehrer / ein neuer Lehrer",
+        "table": {
+          "headers": ["", "Maskulin", "Feminin", "Neutrum", "Plural"],
+          "rows": [
+            ["After der/die/das (Nom)", "-e: der neue", "-e: die neue", "-e: das neue", "-en: die neuen"],
+            ["After der/die/das (Akk)", "-en: den neuen", "-e: die neue", "-e: das neue", "-en: die neuen"],
+            ["After der/die/das (Dat)", "-en: dem neuen", "-en: der neuen", "-en: dem neuen", "-en: den neuen"],
+            ["After ein/eine (Nom)", "-er: ein neuer", "-e: eine neue", "-es: ein neues", "-en: keine neuen"],
+            ["After ein/eine (Akk)", "-en: einen neuen", "-e: eine neue", "-es: ein neues", "-en: keine neuen"],
+            ["After ein/eine (Dat)", "-en: einem neuen", "-en: einer neuen", "-en: einem neuen", "-en: keinen neuen"]
+          ]
+        },
+        "examples": [
+          { "de": "Der neue Lehrer ist nett.", "en": "The new teacher is nice." },
+          { "de": "Ich kaufe ein neues Auto.", "en": "I'm buying a new car." },
+          { "de": "Sie trinkt kalten Kaffee.", "en": "She drinks cold coffee. (no article)" },
+          { "de": "Er spricht mit der freundlichen Nachbarin.", "en": "He speaks with the friendly neighbor." }
+        ],
+        "common_mistakes": [
+          "Forgetting the -e ending after definite articles: 'der neuE Lehrer' not 'der neu Lehrer'",
+          "Using -e instead of -er/-es after ein/eine in Nominativ: 'ein neuER Lehrer', 'ein neuES Buch'",
+          "After Dativ, it's ALWAYS -en regardless of article type: dem neuen, einem neuen, altem",
+          "Thinking the ending changes the meaning — it doesn't, it's just grammatical agreement"
+        ]
+      },
+      "progression": {
+        "a2_example": { "de": "Die kleine Katze schläft.", "en": "The small cat is sleeping." },
+        "b1_upgrade": { "de": "Die auf dem Sofa schlafende kleine Katze gehört meiner Nachbarin.", "en": "The small cat sleeping on the sofa belongs to my neighbor." },
+        "what_changed": "B1 introduces extended adjective phrases (Partizip I/II als Adjektiv) placed before the noun. The adjective ending rules are the SAME, but the phrase before the noun can be very long.",
+        "telc_section": "Sprachbausteine"
+      },
+      "exercises": [
+        { "type": "fill", "prompt": "Der ___ Hund spielt im Garten. (groß)", "answer": "große", "explanation": "After 'der' (definite, Nom masc) → -e ending: große.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Ich habe ein ___ Buch. (gut)", "answer": "gutes", "explanation": "After 'ein' (Nom neuter). Ein doesn't show neuter → adjective takes -es: gutes.", "difficulty": "A2" },
+        { "type": "choose", "prompt": "Er kauft einen ___ Computer.", "options": ["neues", "neuen", "neue"], "answer": "neuen", "explanation": "After 'einen' (Akk masc) → -en: einen neuen Computer.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Das ist eine ___ Idee! (toll)", "answer": "tolle", "explanation": "After 'eine' (Nom feminin) → -e: tolle.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Er trinkt ___ Kaffee. (heiß, no article)", "answer": "heißen", "explanation": "No article, Akk masc → adjective takes the strong ending -en: heißen Kaffee.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Ich fahre mit dem ___ Bus.", "options": ["alten", "alter", "alte"], "answer": "alten", "explanation": "After 'dem' (Dat masc) → ALWAYS -en in Dativ: alten.", "difficulty": "B1" },
+        { "type": "fix", "prompt": "Er hat ein neu Fahrrad. (Fix the error)", "answer": "Er hat ein neues Fahrrad.", "explanation": "After 'ein' (Akk neuter). Ein lacks neuter marker → adj takes -es: neues.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Die ___ Kinder spielen draußen. (klein)", "answer": "kleinen", "explanation": "After 'die' (Nom plural) → -en: die kleinen Kinder.", "difficulty": "B1" }
+      ],
+      "flashcards": [
+        { "front": "After der/die/das (Nom) → ending?", "back": "Always -e: der neue, die neue, das neue" },
+        { "front": "After ein (Nom masc) → ending?", "back": "-er: ein neuer (because 'ein' doesn't show masculine)" },
+        { "front": "After ein (Nom neuter) → ending?", "back": "-es: ein neues (because 'ein' doesn't show neuter)" },
+        { "front": "Dativ rule?", "back": "ALWAYS -en! dem neuen, der neuen, einem neuen, einer neuen" },
+        { "front": "Plural after definite → ending?", "back": "Always -en: die neuen Bücher, den neuen Büchern" },
+        { "front": "Quick trick: after der-words...", "back": "Mostly -e (Nom/Akk) or -en (Dat/Gen + Akk masc)" },
+        { "front": "Quick trick: after ein-words...", "back": "Same as der-words EXCEPT Nom m(-er), Nom n(-es), Akk n(-es)" },
+        { "front": "No article → ?", "back": "Strong endings: the adjective shows gender itself. Like replacing der→-er, die→-e, das→-es" },
+        { "front": "den neuen vs einen neuen?", "back": "Both -en! In Akk masc, both definite and indefinite give -en." },
+        { "front": "Why -er in 'ein neuer Lehrer'?", "back": "'ein' doesn't mark masculine, so the adjective takes the -er ending to show it's masc Nom." }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "order": 8,
+      "title": "Prepositions with Cases — Dativ, Akkusativ, Two-Way",
+      "shortTitle": "Präpositionen",
+      "icon": "📍",
+      "type": "core",
+      "grammar_table": {
+        "explanation": "German prepositions require a specific case. Akkusativ prepositions: für, um, durch, gegen, ohne, bis, entlang. Dativ prepositions: mit, nach, bei, seit, von, zu, aus, außer, gegenüber. Two-way (Wechselpräpositionen) use Akkusativ for MOVEMENT TO and Dativ for LOCATION AT: an, auf, hinter, in, neben, über, unter, vor, zwischen.",
+        "formula": "Two-way: Wohin? (→ Akk) vs Wo? (→ Dat) | Ich gehe IN DEN Park vs Ich bin IM Park",
+        "table": {
+          "headers": ["Type", "Prepositions", "Case", "Memory Aid"],
+          "rows": [
+            ["Akkusativ", "für, um, durch, gegen, ohne, bis", "Akkusativ always", "FU-D-GE-O-B"],
+            ["Dativ", "mit, nach, bei, seit, von, zu, aus, außer, gegenüber", "Dativ always", "MNB-SV-ZA-AG"],
+            ["Two-way (→ Akk)", "an, auf, in, neben, über, unter, vor, hinter, zwischen", "Movement: Wohin?", "AN-AUF-IN..."],
+            ["Two-way (→ Dat)", "an, auf, in, neben, über, unter, vor, hinter, zwischen", "Location: Wo?", "AN-AUF-IN..."]
+          ]
+        },
+        "examples": [
+          { "de": "Ich fahre mit dem Bus. (Dat)", "en": "I go by bus." },
+          { "de": "Das Geschenk ist für dich. (Akk)", "en": "The gift is for you." },
+          { "de": "Ich gehe in den Park. (Akk — movement)", "en": "I'm going into the park." },
+          { "de": "Ich bin im Park. (Dat — location)", "en": "I am in the park." }
+        ],
+        "common_mistakes": [
+          "Using Akkusativ after Dativ prepositions: 'mit dem Bus' NOT 'mit den Bus'",
+          "Forgetting two-way rule: Wohin → Akk, Wo → Dat: 'Ich lege das Buch auf DEN Tisch' but 'Das Buch liegt auf DEM Tisch'",
+          "Contractions: in dem → im, in das → ins, an dem → am, an das → ans, zu dem → zum, zu der → zur",
+          "Using 'nach' for going to a country WITH an article: 'in die Türkei' NOT 'nach die Türkei'"
+        ]
+      },
+      "progression": {
+        "a2_example": { "de": "Ich gehe in die Schule.", "en": "I go to school." },
+        "b1_upgrade": { "de": "Trotz des schlechten Wetters bin ich in die Schule gegangen, anstatt zu Hause zu bleiben.", "en": "Despite the bad weather, I went to school instead of staying home." },
+        "what_changed": "B1 adds Genitiv prepositions (trotz, wegen, während, statt/anstatt) and complex prepositional phrases. These are heavily tested in Sprachbausteine.",
+        "telc_section": "Sprachbausteine"
+      },
+      "exercises": [
+        { "type": "fill", "prompt": "Ich fahre ___ dem Bus. (with)", "answer": "mit", "explanation": "mit = with, always takes Dativ. dem Bus (Dat masc).", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Das Geschenk ist ___ meinen Vater. (for)", "answer": "für", "explanation": "für = for, always takes Akkusativ. meinen Vater (Akk masc).", "difficulty": "A2" },
+        { "type": "choose", "prompt": "Ich bin ___ Park. (in the, location)", "options": ["im", "ins", "in den"], "answer": "im", "explanation": "Location (Wo?) → Dativ. in + dem = im.", "difficulty": "A2" },
+        { "type": "choose", "prompt": "Ich gehe ___ Park. (to/into the, movement)", "options": ["im", "ins", "in den"], "answer": "in den", "explanation": "Movement (Wohin?) → Akkusativ. in + den (Akk masc).", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Das Buch liegt ___ dem Tisch. (on)", "answer": "auf", "explanation": "auf = on. Location → Dativ: auf dem Tisch.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Ich komme ___ der Arbeit.", "options": ["von", "aus", "nach"], "answer": "von", "explanation": "von der Arbeit = from work. von + Dativ.", "difficulty": "B1" },
+        { "type": "fix", "prompt": "Ich fahre mit den Auto. (Fix the error)", "answer": "Ich fahre mit dem Auto.", "explanation": "mit takes Dativ. Auto is neuter → dem Auto, not den.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Ich warte ___ dich. (for, waiting)", "answer": "auf", "explanation": "warten auf + Akk = to wait for. 'auf dich' (Akk).", "difficulty": "B1" }
+      ],
+      "flashcards": [
+        { "front": "Dativ prepositions (8)?", "back": "mit, nach, bei, seit, von, zu, aus, außer (+ gegenüber)" },
+        { "front": "Akkusativ prepositions (6)?", "back": "für, um, durch, gegen, ohne, bis" },
+        { "front": "Two-way prepositions (9)?", "back": "an, auf, hinter, in, neben, über, unter, vor, zwischen" },
+        { "front": "Two-way rule?", "back": "Wohin? (movement) → Akk | Wo? (location) → Dat" },
+        { "front": "in + dem = ?", "back": "im (contraction: Dativ = location)" },
+        { "front": "in + das = ?", "back": "ins (contraction: Akkusativ = movement to neuter)" },
+        { "front": "zu + dem = ?", "back": "zum (contraction: always Dativ)" },
+        { "front": "zu + der = ?", "back": "zur (contraction: always Dativ feminine)" },
+        { "front": "nach vs in for countries?", "back": "nach Berlin, nach Deutschland (no article). In die Schweiz, in die Türkei (with article)." },
+        { "front": "ich gehe IN DEN Park vs ich bin IM Park", "back": "IN DEN = movement (Akk). IM = location (Dat). Same preposition, different case!" }
+      ]
+    },
+    {
+      "id": "comparative-superlative",
+      "order": 9,
+      "title": "Komparativ & Superlativ — Regular + Irregular",
+      "shortTitle": "Komparativ",
+      "icon": "📊",
+      "type": "core",
+      "grammar_table": {
+        "explanation": "The Komparativ (comparative: bigger, faster) adds -er. The Superlativ (superlative: biggest, fastest) adds -(e)st. Many common adjectives also get an umlaut (a→ä, o→ö, u→ü). Some are completely irregular (gut→besser→am besten).",
+        "formula": "Komparativ: Adjective + -er (+ als) | Superlativ: am + Adjective + -(e)sten / der/die/das + Adjective + -(e)ste",
+        "table": {
+          "headers": ["Positiv", "Komparativ", "Superlativ", "Note"],
+          "rows": [
+            ["klein", "kleiner", "am kleinsten", "Regular"],
+            ["schnell", "schneller", "am schnellsten", "Regular"],
+            ["alt", "älter", "am ältesten", "Umlaut: a → ä"],
+            ["groß", "größer", "am größten", "Umlaut: o → ö"],
+            ["jung", "jünger", "am jüngsten", "Umlaut: u → ü"],
+            ["gut", "besser", "am besten", "Irregular!"],
+            ["viel", "mehr", "am meisten", "Irregular!"],
+            ["gern", "lieber", "am liebsten", "Irregular!"],
+            ["hoch", "höher", "am höchsten", "Irregular!"]
+          ]
+        },
+        "examples": [
+          { "de": "Berlin ist größer als München.", "en": "Berlin is bigger than Munich." },
+          { "de": "Er läuft schneller als ich.", "en": "He runs faster than me." },
+          { "de": "Das ist das beste Restaurant der Stadt.", "en": "That is the best restaurant in the city." },
+          { "de": "Ich trinke am liebsten Kaffee.", "en": "I like drinking coffee the most." }
+        ],
+        "common_mistakes": [
+          "Forgetting the umlaut: 'älter' NOT 'alter', 'größer' NOT 'großer'",
+          "Using 'mehr gut' instead of 'besser' — German doesn't use 'mehr' + adjective like English 'more'",
+          "Confusing 'als' (than, comparison) with 'wie' (as, equality): 'größer ALS' but 'so groß WIE'",
+          "Forgetting adjective endings on comparative/superlative before nouns: 'ein größeres Haus' not 'ein größer Haus'"
+        ]
+      },
+      "progression": {
+        "a2_example": { "de": "Berlin ist größer als München.", "en": "Berlin is bigger than Munich." },
+        "b1_upgrade": { "de": "Je größer die Stadt ist, desto mehr Möglichkeiten gibt es.", "en": "The bigger the city, the more opportunities there are." },
+        "what_changed": "B1 introduces je...desto/umso constructions ('the more...the more'). It also uses comparatives in complex sentences for Sprechen Teil 2 (expressing opinions with comparisons).",
+        "telc_section": "Sprechen"
+      },
+      "exercises": [
+        { "type": "fill", "prompt": "Berlin ist ___ als München. (big)", "answer": "größer", "explanation": "groß → größer (umlaut + -er). Comparisons use 'als' (than).", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Das ist ___ Film. (the best)", "answer": "der beste", "explanation": "Superlativ before noun: der/die/das + -(e)ste + ending. gut → best-.", "difficulty": "A2" },
+        { "type": "choose", "prompt": "Er ist so groß ___ sein Bruder.", "options": ["als", "wie", "von"], "answer": "wie", "explanation": "Equality: so...wie (as...as). Comparison: ...als (than).", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Ich trinke ___ Tee als Kaffee. (more gladly = prefer)", "answer": "lieber", "explanation": "gern → lieber (irregular comparative). 'Ich trinke lieber Tee' = I prefer tea.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Er ist der ___ Schüler der Klasse. (youngest)", "answer": "jüngste", "explanation": "jung → jünger → am jüngsten / der jüngste. Umlaut + -ste.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Das Essen schmeckt heute viel ___.", "options": ["besser", "mehr gut", "guter"], "answer": "besser", "explanation": "gut → besser (irregular). German NEVER uses 'mehr + adjective'.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Je mehr man übt, ___ besser wird man.", "answer": "desto", "explanation": "je...desto = the more...the more. B1 construction.", "difficulty": "B1" },
+        { "type": "fix", "prompt": "Mein Bruder ist alter als ich. (Fix the error)", "answer": "Mein Bruder ist älter als ich.", "explanation": "alt → älter (needs umlaut!). Not 'alter'.", "difficulty": "B1" }
+      ],
+      "flashcards": [
+        { "front": "Komparativ formula?", "back": "Adjective + -er: schnell → schneller, klein → kleiner" },
+        { "front": "Superlativ formula?", "back": "am + Adj + -(e)sten: am schnellsten. Or der/die/das + -(e)ste: der schnellste" },
+        { "front": "gut → ?", "back": "besser → am besten (completely irregular!)" },
+        { "front": "viel → ?", "back": "mehr → am meisten (completely irregular!)" },
+        { "front": "gern → ?", "back": "lieber → am liebsten (preference: Ich trinke am liebsten Kaffee)" },
+        { "front": "als vs wie?", "back": "als = than (comparison: größer ALS). wie = as (equality: so groß WIE)" },
+        { "front": "Which adjectives get umlaut?", "back": "Many one-syllable with a/o/u: alt→älter, groß→größer, jung→jünger, kalt→kälter" },
+        { "front": "hoch → ?", "back": "höher → am höchsten (irregular: loses the c!)" },
+        { "front": "je...desto?", "back": "'The more...the more': Je mehr man übt, desto besser wird man." },
+        { "front": "Comparative + noun ending?", "back": "Still needs adjective endings! 'ein größERES Haus' (ein + neuter + comparative)" }
+      ]
+    },
+    {
+      "id": "separable-verbs",
+      "order": 10,
+      "title": "Separable & Inseparable Verbs — Prefix Rules + Partizip II",
+      "shortTitle": "Trennbare Verben",
+      "icon": "✂️",
+      "type": "core",
+      "grammar_table": {
+        "explanation": "Separable verbs have a prefix that splits off and goes to the END of the clause in present/Präteritum. Inseparable verbs keep their prefix attached. In Partizip II: separable verbs put ge- BETWEEN prefix and stem; inseparable verbs get NO ge- at all.",
+        "formula": "Separable (present): Prefix → END: 'Ich stehe um 7 AUF' | Inseparable: stays together: 'Ich besuche meine Oma'",
+        "table": {
+          "headers": ["Type", "Common Prefixes", "Present Tense", "Partizip II"],
+          "rows": [
+            ["Separable", "an-, auf-, aus-, ein-, mit-, vor-, zu-, ab-, weg-, zurück-", "Prefix → END", "Prefix + ge + stem + t/en"],
+            ["Inseparable", "be-, er-, ver-, zer-, ent-, emp-, ge-, miss-", "Stays together", "NO ge-!"],
+            ["Sep. example", "aufstehen", "Ich stehe auf", "aufgestanden"],
+            ["Sep. example", "einkaufen", "Sie kauft ein", "eingekauft"],
+            ["Insep. example", "besuchen", "Ich besuche", "besucht"],
+            ["Insep. example", "verstehen", "Er versteht", "verstanden"],
+            ["Insep. example", "erzählen", "Sie erzählt", "erzählt"]
+          ]
+        },
+        "examples": [
+          { "de": "Ich stehe jeden Tag um 7 Uhr auf.", "en": "I get up at 7 every day." },
+          { "de": "Er kauft im Supermarkt ein.", "en": "He shops at the supermarket." },
+          { "de": "Ich besuche meine Großmutter.", "en": "I visit my grandmother." },
+          { "de": "Sie hat gestern eingekauft.", "en": "She went shopping yesterday." }
+        ],
+        "common_mistakes": [
+          "Not separating in main clause: 'Ich aufstehe um 7' → WRONG! 'Ich stehe um 7 auf'",
+          "Separating in subordinate clause: 'weil ich um 7 aufstehe' NOT 'weil ich stehe um 7 auf' — prefix REJOINS in Nebensatz!",
+          "Adding ge- to inseparable verbs: 'besucht' NOT 'gebesucht'",
+          "Wrong ge- placement: 'eingekauft' (ein-ge-kauf-t) NOT 'geeingekauft'"
+        ]
+      },
+      "progression": {
+        "a2_example": { "de": "Ich stehe um 7 Uhr auf.", "en": "I get up at 7." },
+        "b1_upgrade": { "de": "Ich stehe normalerweise um 7 auf, obwohl ich lieber ausschlafen würde.", "en": "I normally get up at 7, although I'd prefer to sleep in." },
+        "what_changed": "B1 combines separable verbs with subordinate clauses (prefix REJOINS in Nebensatz), Konjunktiv II (würde + aufstehen), and complex tenses. The prefix behavior in Nebensätze is key for Sprachbausteine.",
+        "telc_section": "Sprachbausteine"
+      },
+      "exercises": [
+        { "type": "fill", "prompt": "Ich ___ jeden Morgen um 6 Uhr ___. (aufstehen)", "answer": "stehe ... auf", "explanation": "Separable: stehe (pos. 2) + auf (END). 'Ich stehe um 6 auf.'", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Er ___ im Supermarkt ___. (einkaufen)", "answer": "kauft ... ein", "explanation": "Separable: kauft (pos. 2) + ein (END).", "difficulty": "A2" },
+        { "type": "choose", "prompt": "Sie ___ ihre Freundin. (besuchen)", "options": ["besucht", "sucht be", "gebesucht"], "answer": "besucht", "explanation": "Inseparable (be-): prefix stays attached. Sie besucht.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "..., weil ich jeden Tag früh ___. (aufstehen)", "answer": "aufstehe", "explanation": "In Nebensatz (weil), the prefix REJOINS: aufstehe (one word, at END).", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Sie hat gestern viel ___. (einkaufen, Perfekt)", "answer": "eingekauft", "explanation": "Separable Partizip II: ein + ge + kauf + t = eingekauft.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Er hat den Text nicht ___. (verstehen)", "options": ["verstanden", "geverstanden", "verstehen"], "answer": "verstanden", "explanation": "Inseparable (ver-): NO ge-! verstehen → verstanden.", "difficulty": "B1" },
+        { "type": "fix", "prompt": "Ich rufe dich morgen zurück an. (Fix the error)", "answer": "Ich rufe dich morgen an.", "explanation": "anrufen separates as: rufe ... an. 'zurück' goes in between if needed, but the prefix is 'an', not 'zurück an'.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Sie hat uns die Geschichte ___. (erzählen, Perfekt)", "answer": "erzählt", "explanation": "Inseparable (er-): NO ge-! erzählen → erzählt.", "difficulty": "B1" }
+      ],
+      "flashcards": [
+        { "front": "Separable prefixes (8)?", "back": "an-, auf-, aus-, ein-, mit-, vor-, zu-, ab-, weg-, zurück-, her-, hin-" },
+        { "front": "Inseparable prefixes (8)?", "back": "be-, er-, ver-, zer-, ent-, emp-, ge-, miss-" },
+        { "front": "aufstehen → present?", "back": "Ich stehe auf. (prefix goes to END in main clause)" },
+        { "front": "aufstehen → in Nebensatz?", "back": "...weil ich aufstehe. (prefix REJOINS the verb at end!)" },
+        { "front": "einkaufen → Partizip II?", "back": "eingekauft (ein + ge + kauf + t)" },
+        { "front": "besuchen → Partizip II?", "back": "besucht (NO ge-! Inseparable prefix be-)" },
+        { "front": "verstehen → Partizip II?", "back": "verstanden (NO ge-! Inseparable prefix ver-)" },
+        { "front": "How to tell if separable?", "back": "Separable prefixes are stressed: ÁNfangen, ÁUFstehen. Inseparable are unstressed: beGÍNnen, verSTÉHen." },
+        { "front": "anrufen → Partizip II?", "back": "angerufen (an + ge + ruf + en)" },
+        { "front": "zurückkommen → present?", "back": "Ich komme zurück. (prefix 'zurück' goes to END)" }
+      ]
+    },
+    {
+      "id": "bridge-conjunctions",
+      "order": 11,
+      "title": "Bridge 1: From weil/obwohl → damit/weshalb/sodass",
+      "shortTitle": "Konjunktionen+",
+      "icon": "🌉",
+      "type": "bridge",
+      "grammar_table": {
+        "explanation": "At A2 you learned weil (because) and obwohl (although). B1 adds purpose (damit = so that), result (sodass = so that/with the result), reason-result (weshalb/weswegen = which is why), and alternatives (anstatt dass = instead of, ohne dass = without). These all follow the same verb-END rule and are heavily tested in TELC Sprachbausteine.",
+        "formula": "Main clause + B1 conjunction + ... + VERB (END) — Same rule as weil/obwohl!",
+        "table": {
+          "headers": ["A2 Level", "B1 Upgrade", "Meaning", "Example"],
+          "rows": [
+            ["weil (because)", "da (since/because)", "Same meaning, more formal", "Da es regnet, bleibe ich zu Hause."],
+            ["weil (→ reason)", "weshalb (which is why)", "Result from reason", "Es regnet, weshalb ich zu Hause bleibe."],
+            ["— (purpose)", "damit (so that)", "Purpose/goal", "Ich lerne, damit ich die Prüfung bestehe."],
+            ["— (result)", "sodass (so that)", "Consequence/result", "Es regnete stark, sodass wir nicht gehen konnten."],
+            ["obwohl (although)", "trotzdem (nevertheless)", "Same idea, but V2!", "Es regnet. Trotzdem gehe ich raus."],
+            ["— (instead of)", "anstatt dass", "instead of (clause)", "Anstatt dass er lernt, spielt er."],
+            ["— (without)", "ohne dass", "without (clause)", "Er ging, ohne dass er sich verabschiedete."]
+          ]
+        },
+        "examples": [
+          { "de": "Ich lerne jeden Tag, damit ich die Prüfung bestehe.", "en": "I study every day so that I pass the exam." },
+          { "de": "Er war krank, weshalb er nicht kommen konnte.", "en": "He was sick, which is why he couldn't come." },
+          { "de": "Es regnete so stark, sodass die Straßen überflutet waren.", "en": "It rained so heavily that the streets were flooded." },
+          { "de": "Da ich keine Zeit habe, kann ich nicht mitkommen.", "en": "Since I have no time, I can't come along." }
+        ],
+        "common_mistakes": [
+          "Confusing damit (so that, purpose) with weil (because, reason): damit looks FORWARD, weil looks BACKWARD",
+          "Using trotzdem with verb-end (it's V2!): 'Trotzdem GEHE ich' NOT 'Trotzdem ich gehe'",
+          "Forgetting that weshalb/weswegen introduces a RESULT, not a cause",
+          "Mixing up sodass (result clause) with damit (purpose clause): sodass = actual result, damit = intended goal"
+        ]
+      },
+      "progression": {
+        "a2_example": { "de": "Ich lerne Deutsch, weil ich in Deutschland arbeiten will.", "en": "I learn German because I want to work in Germany." },
+        "b1_upgrade": { "de": "Ich lerne Deutsch, damit ich in Deutschland arbeiten kann, weshalb ich jeden Tag übe.", "en": "I learn German so that I can work in Germany, which is why I practice every day." },
+        "what_changed": "B1 chains purpose (damit) and result (weshalb) in longer sentences. TELC Sprachbausteine cloze tests frequently ask you to choose between weil/damit/sodass/obwohl.",
+        "telc_section": "Sprachbausteine"
+      },
+      "exercises": [
+        { "type": "fill", "prompt": "Ich lerne viel, ___ ich die Prüfung bestehe. (so that)", "answer": "damit", "explanation": "damit = so that (purpose). Verb 'bestehe' at end.", "difficulty": "A2" },
+        { "type": "choose", "prompt": "Er war krank, ___ er nicht kommen konnte.", "options": ["weshalb", "damit", "obwohl"], "answer": "weshalb", "explanation": "weshalb = which is why (result). Cause → weshalb → consequence.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Es regnete stark, ___ wir zu Hause blieben.", "answer": "sodass", "explanation": "sodass = so that / with the result that. Describes the consequence.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "___ es kalt ist, gehe ich schwimmen.", "options": ["Obwohl", "Damit", "Sodass"], "answer": "Obwohl", "explanation": "Although it's cold → contrast = obwohl.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "___ ich müde bin, kann ich nicht einschlafen. (although)", "answer": "Obwohl", "explanation": "Obwohl = although. Contrast: tired BUT can't sleep.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Es regnet. ___ gehe ich spazieren.", "options": ["Trotzdem", "Obwohl", "Sodass"], "answer": "Trotzdem", "explanation": "trotzdem = nevertheless. Note: it takes V2 word order (not verb-end!).", "difficulty": "B1" },
+        { "type": "fix", "prompt": "Trotzdem es regnet, ich gehe raus. (Fix the error)", "answer": "Obwohl es regnet, gehe ich raus. OR: Es regnet. Trotzdem gehe ich raus.", "explanation": "trotzdem is an ADVERB (V2), not a conjunction. Use obwohl for subordinate clause.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Ich spare Geld, ___ ich mir ein Auto kaufen kann.", "options": ["damit", "weil", "weshalb"], "answer": "damit", "explanation": "damit = so that (purpose/goal). Looking forward to the goal.", "difficulty": "B1" }
+      ],
+      "flashcards": [
+        { "front": "damit = ?", "back": "so that (PURPOSE). ich lerne, damit ich bestehe. Looking FORWARD to a goal." },
+        { "front": "sodass = ?", "back": "so that / with the result (CONSEQUENCE). Es regnete, sodass wir blieben. Looking at what HAPPENED." },
+        { "front": "weshalb = ?", "back": "which is why (RESULT from reason). Er war krank, weshalb er fehlte." },
+        { "front": "damit vs weil?", "back": "damit = purpose (forward). weil = reason (backward). I study damit I pass vs I study weil it's important." },
+        { "front": "trotzdem word order?", "back": "V2! NOT verb-end. 'Trotzdem GEHE ich raus.' It's an adverb, not a subordinating conjunction." },
+        { "front": "obwohl vs trotzdem?", "back": "Same meaning (although/nevertheless). obwohl = verb-END (subordinating). trotzdem = V2 (adverb)." },
+        { "front": "da = ?", "back": "since/because (formal weil). 'Da es spät ist, gehe ich.' Same verb-end rule." },
+        { "front": "anstatt dass = ?", "back": "instead of: 'Anstatt dass er lernt, spielt er.' Verb-end." },
+        { "front": "ohne dass = ?", "back": "without: 'Er ging, ohne dass er sich verabschiedete.' Verb-end." },
+        { "front": "Which B1 conjunctions appear in Sprachbausteine?", "back": "damit, sodass, weshalb, anstatt dass, ohne dass — all tested in cloze exercises!" }
+      ]
+    },
+    {
+      "id": "bridge-tense-register",
+      "order": 12,
+      "title": "Bridge 2: From Perfekt → Präteritum in Writing",
+      "shortTitle": "Register-Upgrade",
+      "icon": "🌉",
+      "type": "bridge",
+      "grammar_table": {
+        "explanation": "In spoken German, you use Perfekt ('Ich habe gelernt'). In written German — especially emails, formal letters, and the TELC Schreiben section — Präteritum sounds more natural and professional. This bridge teaches you when to switch and which verbs to prioritize for the written register.",
+        "formula": "Spoken: Ich habe ... gemacht → Written: Ich machte ... | Spoken: Ich bin ... gefahren → Written: Ich fuhr ...",
+        "table": {
+          "headers": ["Verb", "Perfekt (spoken)", "Präteritum (written)", "Priority"],
+          "rows": [
+            ["sein", "Ich bin gewesen", "Ich war", "★★★ Always Prät"],
+            ["haben", "Ich habe gehabt", "Ich hatte", "★★★ Always Prät"],
+            ["werden", "Ich bin geworden", "Ich wurde", "★★★ Always Prät"],
+            ["können", "Ich habe gekonnt", "Ich konnte", "★★★ Always Prät"],
+            ["müssen", "Ich habe gemusst", "Ich musste", "★★★ Always Prät"],
+            ["wollen", "Ich habe gewollt", "Ich wollte", "★★★ Always Prät"],
+            ["gehen", "Ich bin gegangen", "Ich ging", "★★ In writing"],
+            ["kommen", "Ich bin gekommen", "Ich kam", "★★ In writing"],
+            ["sagen/machen", "Ich habe gesagt/gemacht", "Ich sagte/machte", "★ Optional"]
+          ]
+        },
+        "examples": [
+          { "de": "Spoken: Ich habe gestern eine E-Mail bekommen. → Written: Ich bekam gestern eine E-Mail.", "en": "I received an email yesterday." },
+          { "de": "Spoken: Wir sind nach Berlin gefahren. → Written: Wir fuhren nach Berlin.", "en": "We drove to Berlin." },
+          { "de": "Letter: Ich wollte Sie informieren, dass ich leider nicht kommen konnte.", "en": "I wanted to inform you that I unfortunately could not come." },
+          { "de": "Email: Es gab ein Problem mit meiner Bestellung.", "en": "There was a problem with my order." }
+        ],
+        "common_mistakes": [
+          "Using Perfekt for everything in TELC Schreiben emails — mix in Präteritum for sein/haben/modals to sound natural",
+          "Using Präteritum for ALL verbs in emails — only use it for sein/haben/modals; other verbs can stay Perfekt",
+          "Confusing Präteritum forms of strong verbs (ging, kam, fuhr) — these must be memorized",
+          "Using 'ich hatte gemacht' (Plusquamperfekt) when you mean simple past — only use Plusquamperfekt for 'before another past event'"
+        ]
+      },
+      "progression": {
+        "a2_example": { "de": "Ich habe letzte Woche eine E-Mail geschrieben. Es war wichtig.", "en": "I wrote an email last week. It was important." },
+        "b1_upgrade": { "de": "Sehr geehrte Damen und Herren, ich wollte mich erkundigen, ob meine Bewerbung eingegangen ist. Ich hatte die Unterlagen bereits am 10. Mai geschickt.", "en": "Dear Sir/Madam, I wanted to inquire whether my application was received. I had already sent the documents on May 10." },
+        "what_changed": "B1 Schreiben requires mixing Präteritum (for sein/haben/modals) with Perfekt (for other verbs) and Plusquamperfekt (for sequence of past events). This register awareness is what makes your writing sound B1-level.",
+        "telc_section": "Schreiben"
+      },
+      "exercises": [
+        { "type": "fill", "prompt": "Rewrite for formal writing: 'Ich bin krank gewesen.' → Ich ___ krank.", "answer": "war", "explanation": "sein → war. Always use Präteritum for sein in writing.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Rewrite: 'Ich habe keine Zeit gehabt.' → Ich ___ keine Zeit.", "answer": "hatte", "explanation": "haben → hatte. Always use Präteritum for haben in writing.", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Email: 'Ich ___ Sie informieren, dass...' (wanted)", "answer": "wollte", "explanation": "wollen → wollte. Modals always in Präteritum in formal emails.", "difficulty": "A2" },
+        { "type": "choose", "prompt": "Email: 'Leider ___ ich den Termin nicht wahrnehmen.'", "options": ["konnte", "habe gekonnt", "kann"], "answer": "konnte", "explanation": "können → konnte. In emails, Präteritum for modals sounds natural.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Es ___ leider ein Problem mit meiner Bestellung. (geben, past)", "answer": "gab", "explanation": "geben → gab (Präteritum). 'Es gab' = there was. Very common in formal writing.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Which sounds better in a formal email?", "options": ["Ich habe Ihr Angebot bekommen.", "Ich bekam Ihr Angebot.", "Both are fine."], "answer": "Both are fine.", "explanation": "For regular verbs other than sein/haben/modals, both Perfekt and Präteritum are acceptable in emails.", "difficulty": "B1" },
+        { "type": "fix", "prompt": "Formal email: 'Ich bin letzte Woche krank gewesen.' (Improve register)", "answer": "Ich war letzte Woche krank.", "explanation": "Use war instead of bin...gewesen. Simpler and more natural in writing.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Ich ___ die Unterlagen bereits geschickt. (had, Plusquamperfekt)", "answer": "hatte", "explanation": "Plusquamperfekt: hatte + Partizip II. For events BEFORE another past event.", "difficulty": "B1" }
+      ],
+      "flashcards": [
+        { "front": "When to use Präteritum in emails?", "back": "ALWAYS for: sein (war), haben (hatte), werden (wurde), and modals (konnte, musste, wollte, sollte, durfte)" },
+        { "front": "When to use Perfekt in emails?", "back": "For most other verbs: 'Ich habe die E-Mail gelesen.' Mixing Perfekt + Präteritum is natural." },
+        { "front": "'Ich wollte fragen, ob...'", "back": "Standard email opener. wollte (Präteritum) is polite and professional." },
+        { "front": "'Es gab ein Problem.'", "back": "geben → gab. 'There was a problem.' Very common and natural in formal writing." },
+        { "front": "Plusquamperfekt formula?", "back": "hatte/war + Partizip II: 'Ich hatte geschickt' = I had sent (before another past event)" },
+        { "front": "Register rule for TELC Schreiben?", "back": "sein/haben/modals → Präteritum. Other verbs → Perfekt is fine. Mix both to sound natural." },
+        { "front": "Spoken: 'Ich habe nicht kommen können'", "back": "Written: 'Ich konnte leider nicht kommen.' Cleaner, more professional." },
+        { "front": "Priority verbs for Präteritum?", "back": "★★★ war, hatte, wurde, konnte, musste, wollte, sollte, durfte. Learn these first!" },
+        { "front": "'Leider musste ich absagen.'", "back": "Unfortunately I had to cancel. Polite Präteritum form common in TELC Schreiben." },
+        { "front": "Perfekt only in writing sounds...", "back": "...too casual/spoken. 'Ich bin krank gewesen' → use 'Ich war krank' in emails." }
+      ]
+    },
+    {
+      "id": "bridge-adjective-phrases",
+      "order": 13,
+      "title": "Bridge 3: From Basic → Extended Adjective Phrases",
+      "shortTitle": "Erweiterte Adj.",
+      "icon": "🌉",
+      "type": "bridge",
+      "grammar_table": {
+        "explanation": "At A2 you learned 'der neue Lehrer' (simple adjective + noun). B1 introduces EXTENDED adjective phrases where a whole phrase sits before the noun: 'der im letzten Jahr eingestellte neue Lehrer' (the new teacher hired last year). These use Partizip I (present participle: schlafend) and Partizip II (past participle: geschrieben) as adjectives, with the same endings.",
+        "formula": "Article + [extended phrase] + Partizip I/II + adjective ending + Noun",
+        "table": {
+          "headers": ["Type", "Formation", "Meaning", "Example"],
+          "rows": [
+            ["Partizip I as Adj", "Infinitiv + -d + ending", "...ing (active, ongoing)", "der schlafende Hund (the sleeping dog)"],
+            ["Partizip II as Adj", "Partizip II + ending", "...ed (passive, completed)", "das geschriebene Buch (the written book)"],
+            ["Extended P1", "phrase + P1 + ending + Noun", "Active extended", "der laut bellende Hund (the loudly barking dog)"],
+            ["Extended P2", "phrase + P2 + ending + Noun", "Passive extended", "das von Goethe geschriebene Buch (the book written by Goethe)"],
+            ["Relative clause equiv.", "Der Hund, der laut bellt, ...", "Same meaning, easier", "Both = the dog that barks loudly"]
+          ]
+        },
+        "examples": [
+          { "de": "Die auf dem Tisch liegende Zeitung gehört mir.", "en": "The newspaper lying on the table belongs to me." },
+          { "de": "Der gestern angekommene Brief war wichtig.", "en": "The letter that arrived yesterday was important." },
+          { "de": "Das von meiner Kollegin vorbereitete Dokument ist fertig.", "en": "The document prepared by my colleague is ready." },
+          { "de": "Die in der Zeitung stehenden Informationen sind falsch.", "en": "The information in the newspaper is wrong." }
+        ],
+        "common_mistakes": [
+          "Forgetting the adjective ending on the participle: 'der schlafenDE Hund' not 'der schlafend Hund'",
+          "Confusing Partizip I (active/ongoing) with Partizip II (passive/completed): 'der lesende Mann' (reading now) vs 'das gelesene Buch' (already read)",
+          "Making the extended phrase too long — in TELC, 2-3 word extensions are common, not 10-word monsters",
+          "Not recognizing these phrases when reading — they're very common in TELC Lesen Teil 2 texts"
+        ]
+      },
+      "progression": {
+        "a2_example": { "de": "Der neue Lehrer ist nett.", "en": "The new teacher is nice." },
+        "b1_upgrade": { "de": "Der erst letzte Woche eingestellte neue Lehrer ist nett.", "en": "The new teacher who was only hired last week is nice." },
+        "what_changed": "The adjective phrase now contains a whole situation (erst letzte Woche eingestellte). This is very common in newspaper texts (TELC Lesen) and formal writing. At B1, you need to RECOGNIZE these; active use is C1.",
+        "telc_section": "Lesen"
+      },
+      "exercises": [
+        { "type": "fill", "prompt": "Der ___ Hund schläft. (schlafend + ending)", "answer": "schlafende", "explanation": "Partizip I + adjective ending: schlafend + -e (after der, Nom masc).", "difficulty": "A2" },
+        { "type": "fill", "prompt": "Das ___ Buch liegt auf dem Tisch. (geschrieben + ending)", "answer": "geschriebene", "explanation": "Partizip II + ending: geschrieben + -e (after das, Nom neuter).", "difficulty": "A2" },
+        { "type": "choose", "prompt": "Die auf dem Tisch ___ Zeitung... (liegend)", "options": ["liegende", "gelegene", "liegend"], "answer": "liegende", "explanation": "Partizip I (active): die liegENDE Zeitung (the newspaper lying). Needs -e ending after 'die'.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Der von Goethe ___ Roman ist berühmt. (geschrieben + ending)", "answer": "geschriebene", "explanation": "Extended P2 phrase: 'von Goethe geschriebene' (written by Goethe) + -e after 'der'.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "Rewrite: 'Das Dokument, das fertig ist' → 'Das ___ Dokument'", "options": ["fertige", "fertigene", "gefertigte"], "answer": "fertige", "explanation": "Simple adjective before noun: fertig + -e (after das, Nom neuter) = fertige.", "difficulty": "B1" },
+        { "type": "fill", "prompt": "Die laut ___ Kinder spielen im Garten. (lachend + ending)", "answer": "lachenden", "explanation": "Partizip I + ending: die lachenden (after die, Nom plural → -en).", "difficulty": "B1" },
+        { "type": "choose", "prompt": "'Der schlafende Hund' — which participle type?", "options": ["Partizip I (active)", "Partizip II (passive)"], "answer": "Partizip I (active)", "explanation": "schlafend = sleeping (active, happening now). Partizip I = Infinitiv + d.", "difficulty": "B1" },
+        { "type": "choose", "prompt": "'Das gelesene Buch' — which participle type?", "options": ["Partizip I (active)", "Partizip II (passive)"], "answer": "Partizip II (passive)", "explanation": "gelesen = read (passive, completed). Partizip II used as adjective.", "difficulty": "B1" }
+      ],
+      "flashcards": [
+        { "front": "Partizip I formation?", "back": "Infinitiv + d: schlafen → schlafend, lesen → lesend, lachen → lachend" },
+        { "front": "Partizip I meaning?", "back": "Active/ongoing: der schlafende Hund = the sleeping dog (sleeping NOW)" },
+        { "front": "Partizip II as adjective?", "back": "Passive/completed: das geschriebene Buch = the written book (already written)" },
+        { "front": "Do participles as adjectives need endings?", "back": "YES! Same endings as any adjective: der schlafenDE, ein schlafenDER, etc." },
+        { "front": "Extended phrase structure?", "back": "Article + [modifier phrase] + Partizip + ending + Noun" },
+        { "front": "'die auf dem Tisch liegende Zeitung' = ?", "back": "the newspaper lying on the table (= die Zeitung, die auf dem Tisch liegt)" },
+        { "front": "Where do these appear in TELC?", "back": "Lesen Teil 2 (newspaper texts) and Sprachbausteine. You mainly need to RECOGNIZE them." },
+        { "front": "schlafend vs geschlafen?", "back": "schlafend = P1 (sleeping, active). geschlafen = P2 (slept, completed/passive)." },
+        { "front": "Convert to relative clause: 'der gestern angekommene Brief'", "back": "'der Brief, der gestern angekommen ist' — same meaning, easier grammar" },
+        { "front": "How long are typical TELC extended phrases?", "back": "2-4 words before the participial adjective. 'der im letzten Jahr eingestellte Lehrer'" }
+      ]
+    }
+  ]
+}

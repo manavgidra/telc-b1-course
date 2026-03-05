@@ -2,6 +2,7 @@ import React, { useState, ReactNode } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import styles from './Layout.module.css'
+import GrammarReferencePanel from './GrammarReferencePanel'
 
 interface LayoutProps {
   children: ReactNode
@@ -11,6 +12,7 @@ interface LayoutProps {
 export default function Layout({ children, title = 'TELC B1 Deutsch' }: LayoutProps) {
   const router = useRouter()
   const [menuOpen, setMenuOpen] = useState(false)
+  const [grammarOpen, setGrammarOpen] = useState(false)
 
   const isActive = (path: string) => {
     if (path === '/') return router.pathname === '/'
@@ -34,9 +36,19 @@ export default function Layout({ children, title = 'TELC B1 Deutsch' }: LayoutPr
             <Link href="/" className={`${styles.navLink} ${isActive('/') ? styles.navLinkActive : ''}`}>
               Home
             </Link>
+            <Link href="/foundation" className={`${styles.navLink} ${isActive('/foundation') ? styles.navLinkActive : ''}`}>
+              Foundation
+            </Link>
             <Link href="/practice" className={`${styles.navLink} ${isActive('/practice') ? styles.navLinkActive : ''}`}>
               Practice
             </Link>
+            <button
+              className={styles.grammarBtn}
+              onClick={() => setGrammarOpen(true)}
+              title="Open grammar reference panel"
+            >
+              📋 Grammar
+            </button>
           </nav>
           <button
             className={styles.menuToggle}
@@ -54,9 +66,18 @@ export default function Layout({ children, title = 'TELC B1 Deutsch' }: LayoutPr
             <Link href="/" className={styles.mobileNavLink} onClick={() => setMenuOpen(false)}>
               Home
             </Link>
+            <Link href="/foundation" className={styles.mobileNavLink} onClick={() => setMenuOpen(false)}>
+              Foundation
+            </Link>
             <Link href="/practice" className={styles.mobileNavLink} onClick={() => setMenuOpen(false)}>
               Practice
             </Link>
+            <button
+              className={styles.mobileGrammarBtn}
+              onClick={() => { setMenuOpen(false); setGrammarOpen(true) }}
+            >
+              📋 Grammar Reference
+            </button>
           </div>
         )}
       </header>
@@ -69,6 +90,7 @@ export default function Layout({ children, title = 'TELC B1 Deutsch' }: LayoutPr
           </div>
         </div>
       </footer>
+      <GrammarReferencePanel open={grammarOpen} onClose={() => setGrammarOpen(false)} />
     </div>
   )
 }

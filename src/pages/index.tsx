@@ -4,6 +4,7 @@ import Link from 'next/link'
 import Layout from '@/components/Layout'
 import { cleanTitle } from '@/utils/cleanTitle'
 import styles from '@/styles/Home.module.css'
+import grammarData from '@/data/grammar_foundation.json'
 
 // Types
 interface Video {
@@ -94,15 +95,22 @@ function getDaysUntilExam(): number {
   return Math.max(0, Math.ceil(diff / (1000 * 60 * 60 * 24)))
 }
 
+function getFoundationProgress(): Record<string, boolean> {
+  if (typeof window === 'undefined') return {}
+  try { return JSON.parse(localStorage.getItem('telc-foundation') || '{}') } catch { return {} }
+}
+
 export default function HomePage() {
   const videos: Video[] = courseContent?.videos ?? []
   const [search, setSearch] = useState('')
   const [activeSection, setActiveSection] = useState('All')
   const [progress, setProgressState] = useState<Record<string, boolean>>({})
+  const [foundationProgress, setFoundationProgress] = useState<Record<string, boolean>>({})
   const [daysLeft, setDaysLeft] = useState<number | null>(null)
 
   useEffect(() => {
     setProgressState(getProgress())
+    setFoundationProgress(getFoundationProgress())
     setDaysLeft(getDaysUntilExam())
   }, [])
 
@@ -146,6 +154,12 @@ export default function HomePage() {
   }, [videos, progress])
 
   const totalDone = Object.values(progress).filter(Boolean).length
+
+  const foundationTotal = grammarData?.topics?.length ?? 13
+  const foundationDone = grammarData?.topics
+    ? grammarData.topics.filter((t: any) => foundationProgress[t.id]).length
+    : 0
+  const foundationPct = foundationTotal > 0 ? Math.round((foundationDone / foundationTotal) * 100) : 0
   const totalPercent = videos.length > 0 ? Math.round((totalDone / videos.length) * 100) : 0
 
   return (
@@ -235,6 +249,24 @@ export default function HomePage() {
               </button>
             )
           })}
+          <a href="/foundation" className={styles.sectionProgressCard} style={{ textDecoration: 'none', color: 'inherit' }}>
+            <div className={styles.sectionProgressHeader}>
+              <span>📐 A2 Foundation</span>
+              <span className={styles.sectionProgressCount}>
+                {foundationDone}/{foundationTotal}
+                {foundationDone === foundationTotal && foundationTotal > 0 ? ' ✨' : ''}
+              </span>
+            </div>
+            <div className={styles.sectionProgressBarOuter}>
+              <div
+                className={styles.sectionProgressBarInner}
+                style={{ width: `${foundationPct}%`, background: foundationDone === foundationTotal && foundationTotal > 0 ? 'var(--color-success, #38a169)' : undefined }}
+              />
+            </div>
+            {foundationDone === foundationTotal && foundationTotal > 0 && (
+              <div style={{ fontSize: '0.7rem', color: 'var(--color-success, #38a169)', fontWeight: 600, marginTop: 2 }}>Ready for B1</div>
+            )}
+          </a>
         </div>
       </div>
 
