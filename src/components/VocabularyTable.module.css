@@ -1,0 +1,76 @@
+/* VocabularyTable Styles */
+
+.tableWrapper {
+  overflow-x: auto;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--color-border);
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  min-width: 600px;
+}
+
+.th {
+  background: var(--color-black);
+  color: var(--color-white);
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.tr {
+  transition: background var(--transition);
+}
+
+.trEven { background: var(--color-surface); }
+.trOdd  { background: #f8fafc; }
+
+.tr:hover { background: #fff9e6; }
+
+.td {
+  padding: 0.7rem 1rem;
+  border-bottom: 1px solid var(--color-border);
+  vertical-align: top;
+  line-height: 1.5;
+}
+
+.tdDe {
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.tdEn {
+  color: var(--color-info, #3182ce);
+  font-style: italic;
+}
+
+.tdExample {
+  color: var(--color-text);
+}
+
+.tdExampleEn {
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+/* Empty */
+.empty {
+  text-align: center;
+  padding: 3rem;
+  color: var(--color-text-muted);
+  background: var(--color-surface);
+  border-radius: var(--radius-lg);
+  border: 1px dashed var(--color-border);
+}
+
+.emptyIcon {
+  font-size: 2.5rem;
+  margin-bottom: 0.75rem;
+}

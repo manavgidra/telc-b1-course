@@ -1,0 +1,389 @@
+[
+  {
+    "video_id": "RuUIUOOxbxc",
+    "title": "B1 - Lesson 2 | Reflexivverben TEIL 2 | Reflexive verbs Part 2 | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=RuUIUOOxbxc",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Part 2 deepens the study of reflexive verbs, focusing on reflexive verbs with fixed prepositions (sich freuen auf/über, sich ärgern über, sich erinnern an, sich bewerben um, sich kümmern um, sich beschweren über, sich gewöhnen an), the distinction between true reflexive verbs (always reflexive) and pseudo-reflexive verbs (optionally reflexive), and reflexive verbs in perfect tense.",
+      "key_concept": "True reflexive verbs ALWAYS need a reflexive pronoun (sich erinnern, sich beeilen, sich bedanken). Pseudo-reflexive verbs can be used with or without a reflexive pronoun with different meaning (waschen: Ich wasche mich vs. Ich wasche das Auto). In Perfekt, reflexive verbs always use 'haben': Ich habe mich gefreut.",
+      "grammar_rule": "Reflexive verbs in Perfekt: always with 'haben' + reflexive pronoun + Partizip II. 'Ich habe mich gefreut.' 'Er hat sich entschieden.' The reflexive pronoun comes after 'haben' in Hauptsätze. In Nebensätze: ...weil ich mich gefreut habe.",
+      "word_order_note": "In Perfekt: Subject + haben + sich + ... + Partizip II. In Nebensatz: ...weil + Subject + sich + ... + Partizip II + haben. The reflexive pronoun stays close to the subject.",
+      "common_mistakes": [
+        "Using 'sein' instead of 'haben' for reflexive Perfekt — always 'haben': Ich habe mich gefreut",
+        "Confusing prepositions: sich freuen AUF (future) vs. sich freuen ÜBER (existing)",
+        "Forgetting that some verbs change meaning with/without reflexive: vorstellen (introduce) vs. sich vorstellen (imagine/introduce oneself)",
+        "Wrong word order in Perfekt Nebensatz: '...weil ich mich beschwert habe' not '...weil ich habe mich beschwert'",
+        "Not learning the required preposition with the reflexive verb"
+      ]
+    },
+    "vocabulary": [
+      {"de": "sich bewerben um", "en": "to apply for", "example_de": "Ich bewerbe mich um die Stelle.", "example_en": "I'm applying for the position."},
+      {"de": "sich kümmern um", "en": "to take care of", "example_de": "Sie kümmert sich um ihre Mutter.", "example_en": "She takes care of her mother."},
+      {"de": "sich beschweren über", "en": "to complain about", "example_de": "Er beschwert sich über den Service.", "example_en": "He complains about the service."},
+      {"de": "sich gewöhnen an", "en": "to get used to", "example_de": "Ich habe mich an das Wetter gewöhnt.", "example_en": "I've gotten used to the weather."},
+      {"de": "sich beeilen", "en": "to hurry", "example_de": "Beeil dich, wir kommen zu spät!", "example_en": "Hurry up, we'll be late!"},
+      {"de": "sich bedanken bei/für", "en": "to thank someone for", "example_de": "Ich bedanke mich bei Ihnen für die Hilfe.", "example_en": "I thank you for the help."},
+      {"de": "sich unterhalten mit/über", "en": "to chat with/about", "example_de": "Wir unterhalten uns über Politik.", "example_en": "We're chatting about politics."},
+      {"de": "sich verabschieden von", "en": "to say goodbye to", "example_de": "Er hat sich von seinen Kollegen verabschiedet.", "example_en": "He said goodbye to his colleagues."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Reflexivverb + Perfekt", "structure": "haben + sich + Partizip II (always with haben!)", "example_de": "Ich habe mich über das Geschenk gefreut.", "example_en": "I was happy about the gift.", "telc_relevance": "Perfekt of reflexive verbs common in Lesen narratives and Schreiben"},
+      {"pattern": "sich bewerben um + Akk.", "structure": "sich bewerben um = to apply for (a job/position)", "example_de": "Sie hat sich um eine Stelle als Lehrerin beworben.", "example_en": "She applied for a position as a teacher.", "telc_relevance": "Arbeit/Job vocabulary — crucial for Lesen and Schreiben topics"},
+      {"pattern": "sich kümmern um + Akk.", "structure": "sich kümmern um = to take care of / deal with", "example_de": "Wer kümmert sich um die Kinder?", "example_en": "Who takes care of the children?", "telc_relevance": "Common in Familie/Alltag topics in Lesen and Sprechen"},
+      {"pattern": "sich beschweren über + Akk.", "structure": "sich beschweren über = to complain about", "example_de": "Die Nachbarn beschweren sich über den Lärm.", "example_en": "The neighbors complain about the noise.", "telc_relevance": "Reklamation/Beschwerde is a common Schreiben topic"}
+    ],
+    "flashcards": [
+      {"front": "Do reflexive verbs use 'haben' or 'sein' in Perfekt?", "back": "Always HABEN: Ich habe mich gefreut, er hat sich entschieden.", "type": "grammar"},
+      {"front": "sich bewerben um", "back": "to apply for — Ich habe mich um den Job beworben.", "type": "vocabulary"},
+      {"front": "sich kümmern um", "back": "to take care of — Kannst du dich um das Problem kümmern?", "type": "vocabulary"},
+      {"front": "sich beschweren über", "back": "to complain about — Ich möchte mich über den Service beschweren.", "type": "vocabulary"},
+      {"front": "sich gewöhnen an + Akk.", "back": "to get used to — Man gewöhnt sich schnell an das neue System.", "type": "vocabulary"},
+      {"front": "sich beeilen (imperative 'du')", "back": "Beeil dich! — Hurry up!", "type": "vocabulary"},
+      {"front": "sich bedanken bei + Person, für + Sache", "back": "to thank — Ich bedanke mich bei dir für deine Hilfe.", "type": "vocabulary"},
+      {"front": "sich verabschieden von", "back": "to say goodbye to — Wir haben uns von den Gästen verabschiedet.", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich habe __________ um die Stelle als Verkäufer __________.", "en": "I applied for the position as a salesperson.", "hint": "mich...beworben (sich bewerben um, Perfekt)"},
+      {"de": "Kannst du __________ bitte um die Kinder __________?", "en": "Can you please take care of the children?", "hint": "dich...kümmern (sich kümmern um)"},
+      {"de": "Die Gäste haben __________ über das Essen __________.", "en": "The guests complained about the food.", "hint": "sich...beschwert (sich beschweren über, Perfekt)"},
+      {"de": "Ich habe __________ schnell an das neue Leben __________.", "en": "I quickly got used to the new life.", "hint": "mich...gewöhnt (sich gewöhnen an, Perfekt)"},
+      {"de": "__________ __________, der Bus kommt gleich!", "en": "Hurry up, the bus is coming soon!", "hint": "Beeil dich (imperative of sich beeilen)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, reflexive verbs with prepositions are heavily tested. Learn the fixed combinations: sich freuen auf/über, sich bewerben um, sich kümmern um, sich beschweren über, sich gewöhnen an.", "telc_section": "Sprachbausteine"},
+      {"tip": "For Schreiben (complaint letters), use: 'Ich möchte mich über ... beschweren' and 'Ich bitte Sie, sich um das Problem zu kümmern.'", "telc_section": "Schreiben"},
+      {"tip": "In Sprechen Teil 1, use reflexive verbs for your self-introduction: 'Ich interessiere mich für...', 'Ich habe mich für diesen Kurs entschieden, weil...'", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Reflexive Verbs with Fixed Prepositions",
+      "table": {
+        "headers": ["Verb", "Preposition", "Case", "Meaning", "Example"],
+        "rows": [
+          ["sich freuen", "auf", "Akk.", "look forward to", "Ich freue mich auf den Urlaub."],
+          ["sich freuen", "über", "Akk.", "be happy about", "Ich freue mich über das Geschenk."],
+          ["sich ärgern", "über", "Akk.", "be annoyed about", "Er ärgert sich über den Stau."],
+          ["sich erinnern", "an", "Akk.", "remember", "Ich erinnere mich an dich."],
+          ["sich bewerben", "um", "Akk.", "apply for", "Sie bewirbt sich um die Stelle."],
+          ["sich kümmern", "um", "Akk.", "take care of", "Wer kümmert sich um die Kinder?"],
+          ["sich beschweren", "über", "Akk.", "complain about", "Ich beschwere mich über den Lärm."],
+          ["sich gewöhnen", "an", "Akk.", "get used to", "Ich gewöhne mich an das Klima."]
+        ]
+      },
+      "key_points": [
+        "Always learn the PREPOSITION with the reflexive verb",
+        "Perfekt = always with 'haben': Ich habe mich gefreut",
+        "sich freuen AUF (future) ≠ sich freuen ÜBER (present/past)",
+        "sich beschweren über → essential for Schreiben complaint emails"
+      ]
+    }
+  },
+  {
+    "video_id": "kEITqdOe2jM",
+    "title": "B1 - Lesson 3 | Reziproke Verben | Reciprocal Verbs | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=kEITqdOe2jM",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers reziproke Verben (reciprocal verbs) — verbs expressing mutual/reciprocal actions between two or more people. Like reflexive verbs, they use 'sich' or 'einander', but the action is directed at each other, not at oneself. Key reciprocal verbs: sich treffen, sich kennen, sich lieben, sich streiten, sich unterhalten, sich verabreden.",
+      "key_concept": "Reciprocal verbs express that two or more people do the same action to each other simultaneously. 'Sie treffen sich' = They meet (each other). To clarify reciprocal meaning and avoid ambiguity with reflexive, use 'einander' or 'gegenseitig': 'Sie helfen sich gegenseitig' = They help each other.",
+      "grammar_rule": "Reciprocal verb form: always plural subject (wir/ihr/sie) + sich (or einander). With prepositions, 'einander' combines: miteinander, füreinander, voneinander, übereinander, beieinander. Example: 'Wir reden miteinander' = We talk with each other.",
+      "word_order_note": "Same position as reflexive pronouns. In Hauptsatz: 'Wir treffen uns morgen.' In Nebensatz: '...weil wir uns morgen treffen.' The reciprocal pronoun 'sich/einander' follows the verb or subject.",
+      "common_mistakes": [
+        "Using singular subject with reciprocal meaning — you need at least 2 people",
+        "Not distinguishing reflexive from reciprocal: 'Sie waschen sich' (reflexive: each washes themselves) vs. 'Sie helfen sich' (reciprocal: they help each other)",
+        "Forgetting to combine prepositions with einander: 'mit einander' → 'miteinander'",
+        "Using 'sich' when 'einander' would be clearer for reciprocal meaning"
+      ]
+    },
+    "vocabulary": [
+      {"de": "sich treffen", "en": "to meet (each other)", "example_de": "Wir treffen uns um 15 Uhr.", "example_en": "We're meeting at 3 pm."},
+      {"de": "sich kennenlernen", "en": "to get to know each other", "example_de": "Sie haben sich im Urlaub kennengelernt.", "example_en": "They got to know each other on vacation."},
+      {"de": "sich streiten", "en": "to argue (with each other)", "example_de": "Die Kinder streiten sich oft.", "example_en": "The children often argue with each other."},
+      {"de": "sich verabreden", "en": "to arrange to meet", "example_de": "Wir haben uns für Samstag verabredet.", "example_en": "We arranged to meet on Saturday."},
+      {"de": "sich unterhalten", "en": "to chat/converse", "example_de": "Die Kollegen unterhalten sich in der Pause.", "example_en": "The colleagues chat during the break."},
+      {"de": "einander", "en": "each other", "example_de": "Sie respektieren einander.", "example_en": "They respect each other."},
+      {"de": "miteinander", "en": "with each other", "example_de": "Wir sprechen gern miteinander.", "example_en": "We like to talk with each other."},
+      {"de": "gegenseitig", "en": "mutual(ly), reciprocal(ly)", "example_de": "Sie helfen sich gegenseitig.", "example_en": "They help each other (mutually)."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "sich (reciprocal) + plural subject", "structure": "Wir/Ihr/Sie + verb + sich/uns/euch", "example_de": "Wir kennen uns seit 10 Jahren.", "example_en": "We've known each other for 10 years.", "telc_relevance": "Reciprocal usage tested indirectly in Lesen and Sprachbausteine"},
+      {"pattern": "einander (explicit reciprocal)", "structure": "Subject (plural) + verb + einander", "example_de": "Die Nachbarn grüßen einander jeden Morgen.", "example_en": "The neighbors greet each other every morning.", "telc_relevance": "einander appears in formal Lesen texts"},
+      {"pattern": "Präposition + einander (one word)", "structure": "miteinander, füreinander, voneinander, übereinander", "example_de": "Wir sollten mehr miteinander reden.", "example_en": "We should talk more with each other.", "telc_relevance": "Compound einander forms common in Lesen and Hören passages"},
+      {"pattern": "sich gegenseitig (clarifier)", "structure": "sich + gegenseitig emphasizes reciprocal meaning", "example_de": "Die Studenten helfen sich gegenseitig bei den Hausaufgaben.", "example_en": "The students help each other with homework.", "telc_relevance": "gegenseitig appears in community/work topic readings"}
+    ],
+    "flashcards": [
+      {"front": "What's the difference between reflexive and reciprocal?", "back": "Reflexive: action on oneself (Ich wasche mich). Reciprocal: mutual action (Wir treffen uns = each other)", "type": "grammar"},
+      {"front": "einander", "back": "each other — more formal/written than 'sich': Sie respektieren einander.", "type": "vocabulary"},
+      {"front": "miteinander", "back": "with each other — Wir sollten mehr miteinander sprechen.", "type": "vocabulary"},
+      {"front": "sich kennenlernen", "back": "to get to know each other — Wo habt ihr euch kennengelernt?", "type": "vocabulary"},
+      {"front": "sich verabreden", "back": "to arrange to meet — Wir haben uns für morgen verabredet.", "type": "vocabulary"},
+      {"front": "sich streiten", "back": "to argue/quarrel — Die Geschwister streiten sich ständig.", "type": "vocabulary"},
+      {"front": "gegenseitig", "back": "mutual(ly) — Sie unterstützen sich gegenseitig.", "type": "vocabulary"},
+      {"front": "füreinander", "back": "for each other — Freunde sind füreinander da.", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Meine Eltern haben __________ vor 30 Jahren __________.", "en": "My parents got to know each other 30 years ago.", "hint": "sich...kennengelernt (reciprocal, Perfekt)"},
+      {"de": "Die Kinder streiten __________ wegen des Spielzeugs.", "en": "The children argue with each other about the toy.", "hint": "sich (reciprocal pronoun)"},
+      {"de": "Wir sollten mehr __________ reden.", "en": "We should talk more with each other.", "hint": "miteinander (mit + einander = one word)"},
+      {"de": "Die Nachbarn helfen __________ __________.", "en": "The neighbors help each other.", "hint": "sich gegenseitig (clarifies reciprocal)"},
+      {"de": "Habt ihr __________ für Samstag __________?", "en": "Did you arrange to meet on Saturday?", "hint": "euch...verabredet (sich verabreden, Perfekt)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Lesen passages about relationships, community, or teamwork, look for reciprocal verbs and einander compounds — they signal mutual actions.", "telc_section": "Lesen"},
+      {"tip": "For Sprechen Teil 3 (Joint Planning), reciprocal expressions are perfect: 'Sollen wir uns am Samstag treffen?' 'Wir könnten uns darüber unterhalten.'", "telc_section": "Sprechen"},
+      {"tip": "In Schreiben, use 'miteinander' and 'füreinander' to discuss social topics: 'Es ist wichtig, dass Nachbarn füreinander da sind.'", "telc_section": "Schreiben"}
+    ],
+    "visual_summary": {
+      "title": "Reziproke Verben & Einander-Komposita",
+      "table": {
+        "headers": ["Verb/Expression", "Meaning", "Example"],
+        "rows": [
+          ["sich treffen", "to meet each other", "Wir treffen uns morgen."],
+          ["sich kennenlernen", "to get to know each other", "Sie haben sich im Kurs kennengelernt."],
+          ["sich streiten", "to argue with each other", "Die Kinder streiten sich."],
+          ["miteinander", "with each other", "Wir reden miteinander."],
+          ["füreinander", "for each other", "Freunde sind füreinander da."],
+          ["voneinander", "from each other", "Wir lernen voneinander."],
+          ["sich gegenseitig", "each other (explicitly)", "Sie helfen sich gegenseitig."]
+        ]
+      },
+      "key_points": [
+        "Reciprocal = mutual action between 2+ people",
+        "Always needs a plural subject (wir/ihr/sie)",
+        "einander = more explicit/formal than sich for reciprocal",
+        "Preposition + einander = one word: miteinander, füreinander"
+      ]
+    }
+  },
+  {
+    "video_id": "LnUyFCPCDwg",
+    "title": "B1 - Lesson 4 | Nomen Verb Verbindungen | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=LnUyFCPCDwg",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers Nomen-Verb-Verbindungen (NVV) — fixed noun-verb combinations where a 'light verb' combines with a noun derived from a verb/adjective to create a specific meaning. Examples: eine Frage stellen (to ask a question), eine Entscheidung treffen (to make a decision), Bescheid geben (to inform). NVV are frequent in formal/written German and heavily tested in Sprachbausteine.",
+      "key_concept": "In NVV, the noun carries the main meaning and the verb is 'light' (it mainly provides grammatical function). 'Eine Entscheidung treffen' means 'to decide' — the meaning is in 'Entscheidung', not in 'treffen'. NVV are preferred in formal/written contexts over simple verbs (entscheiden → eine Entscheidung treffen).",
+      "grammar_rule": "Structure: Article (if needed) + Nomen + light verb. Common light verbs: stellen, treffen, nehmen, geben, machen, leisten, führen. The noun often has a matching simple verb: die Frage (fragen), die Entscheidung (entscheiden), der Rat (raten). Learn the fixed combination — the verb cannot be substituted.",
+      "word_order_note": "NVV follow normal German word order. The noun part often comes before the light verb in final position: 'Ich möchte eine Frage stellen.' In Perfekt: 'Er hat eine Entscheidung getroffen.' The noun takes normal article/case rules.",
+      "common_mistakes": [
+        "Using the wrong verb: 'eine Frage machen' — correct: 'eine Frage stellen'",
+        "Forgetting the article: 'Entscheidung treffen' — correct: 'eine Entscheidung treffen'",
+        "Translating literally from English: 'take a decision' → 'eine Entscheidung TREFFEN' (not nehmen)",
+        "Not recognizing NVV in reading — they're common in formal texts",
+        "Confusing 'Bescheid geben' (to inform) with 'Bescheid wissen' (to know/be informed)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "eine Frage stellen", "en": "to ask a question", "example_de": "Darf ich Ihnen eine Frage stellen?", "example_en": "May I ask you a question?"},
+      {"de": "eine Entscheidung treffen", "en": "to make a decision", "example_de": "Wir müssen eine Entscheidung treffen.", "example_en": "We must make a decision."},
+      {"de": "Bescheid geben/sagen", "en": "to inform/let know", "example_de": "Geben Sie mir bitte Bescheid.", "example_en": "Please let me know."},
+      {"de": "zur Verfügung stehen", "en": "to be available", "example_de": "Ich stehe Ihnen jederzeit zur Verfügung.", "example_en": "I am available to you at any time."},
+      {"de": "in Frage kommen", "en": "to come into question / be an option", "example_de": "Das kommt leider nicht in Frage.", "example_en": "Unfortunately, that's not an option."},
+      {"de": "Rücksicht nehmen auf", "en": "to show consideration for", "example_de": "Bitte nehmen Sie Rücksicht auf die Nachbarn.", "example_en": "Please show consideration for the neighbors."},
+      {"de": "Wert legen auf", "en": "to value / attach importance to", "example_de": "Ich lege großen Wert auf Pünktlichkeit.", "example_en": "I attach great importance to punctuality."},
+      {"de": "einen Vorschlag machen", "en": "to make a suggestion", "example_de": "Ich möchte einen Vorschlag machen.", "example_en": "I'd like to make a suggestion."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Nomen + stellen", "structure": "eine Frage / einen Antrag stellen", "example_de": "Sie hat einen Antrag auf Urlaub gestellt.", "example_en": "She submitted a request for vacation.", "telc_relevance": "stellen-NVVs appear frequently in formal Lesen texts and Schreiben"},
+      {"pattern": "Nomen + treffen", "structure": "eine Entscheidung / eine Wahl / Maßnahmen treffen", "example_de": "Die Regierung hat wichtige Maßnahmen getroffen.", "example_en": "The government took important measures.", "telc_relevance": "treffen-NVVs common in newspaper-style Lesen passages"},
+      {"pattern": "Nomen + nehmen", "structure": "Rücksicht / Abschied / Einfluss nehmen", "example_de": "Er nimmt keinen Abschied von seinen Freunden.", "example_en": "He doesn't say goodbye to his friends.", "telc_relevance": "nehmen-NVVs tested in Sprachbausteine and present in Lesen"},
+      {"pattern": "Nomen + geben/sagen", "structure": "Bescheid / Auskunft geben", "example_de": "Können Sie mir Auskunft geben?", "example_en": "Can you give me information?", "telc_relevance": "Very useful for formal requests in Schreiben"}
+    ],
+    "flashcards": [
+      {"front": "eine Frage stellen", "back": "to ask a question — Darf ich eine Frage stellen?", "type": "vocabulary"},
+      {"front": "eine Entscheidung treffen", "back": "to make a decision — Wir haben eine wichtige Entscheidung getroffen.", "type": "vocabulary"},
+      {"front": "Bescheid geben", "back": "to inform/let know — Bitte geben Sie mir Bescheid.", "type": "vocabulary"},
+      {"front": "zur Verfügung stehen", "back": "to be available — Ich stehe Ihnen gern zur Verfügung.", "type": "vocabulary"},
+      {"front": "Rücksicht nehmen auf + Akk.", "back": "to show consideration for — Nehmen Sie Rücksicht auf andere!", "type": "vocabulary"},
+      {"front": "Wert legen auf + Akk.", "back": "to attach importance to — Sie legt Wert auf gute Qualität.", "type": "vocabulary"},
+      {"front": "in Frage kommen", "back": "to be an option / come into question — Das kommt nicht in Frage!", "type": "vocabulary"},
+      {"front": "einen Vorschlag machen", "back": "to make a suggestion — Darf ich einen Vorschlag machen?", "type": "vocabulary"},
+      {"front": "What is a Nomen-Verb-Verbindung?", "back": "A fixed combination of a noun + light verb with specific meaning. The noun carries the meaning, the verb is 'light'.", "type": "grammar"},
+      {"front": "einen Antrag stellen", "back": "to submit an application/request — Ich möchte einen Antrag auf Kindergeld stellen.", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Darf ich Ihnen eine __________ __________?", "en": "May I ask you a question?", "hint": "Frage stellen (eine Frage stellen)"},
+      {"de": "Bitte __________ Sie mir __________, wann der Termin ist.", "en": "Please let me know when the appointment is.", "hint": "geben...Bescheid (Bescheid geben)"},
+      {"de": "Wir müssen eine wichtige __________ __________.", "en": "We must make an important decision.", "hint": "Entscheidung treffen (eine Entscheidung treffen)"},
+      {"de": "Ich __________ großen __________ auf Pünktlichkeit.", "en": "I attach great importance to punctuality.", "hint": "lege...Wert (Wert legen auf)"},
+      {"de": "Für weitere Fragen __________ ich Ihnen gern zur __________.", "en": "For further questions, I am gladly available to you.", "hint": "stehe...Verfügung (zur Verfügung stehen)"}
+    ],
+    "exam_tips": [
+      {"tip": "NVV are a goldmine for Schreiben: 'Ich möchte einen Vorschlag machen', 'Bitte geben Sie mir Bescheid', 'Ich stehe Ihnen zur Verfügung' — these phrases make your email sound formal and competent.", "telc_section": "Schreiben"},
+      {"tip": "In Sprachbausteine, NVV are tested by giving you the noun and asking you to choose the correct light verb. 'eine Entscheidung ___' → treffen (not machen or nehmen).", "telc_section": "Sprachbausteine"},
+      {"tip": "In Lesen, NVV appear frequently in formal texts (letters, articles). Recognize them to understand the overall meaning without getting stuck on individual words.", "telc_section": "Lesen"},
+      {"tip": "For Sprechen, NVV make you sound more fluent: 'Ich möchte einen Vorschlag machen' is more B1 than 'Ich möchte etwas vorschlagen'.", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Important Nomen-Verb-Verbindungen for B1",
+      "table": {
+        "headers": ["NVV (German)", "Simple Verb", "English"],
+        "rows": [
+          ["eine Frage stellen", "fragen", "to ask a question"],
+          ["eine Entscheidung treffen", "entscheiden", "to make a decision"],
+          ["Bescheid geben", "informieren", "to inform/let know"],
+          ["zur Verfügung stehen", "verfügbar sein", "to be available"],
+          ["einen Antrag stellen", "beantragen", "to apply/request"],
+          ["Rücksicht nehmen auf", "berücksichtigen", "to show consideration"],
+          ["Wert legen auf", "wertschätzen", "to value/appreciate"],
+          ["einen Vorschlag machen", "vorschlagen", "to suggest"]
+        ]
+      },
+      "key_points": [
+        "NVV = noun carries meaning, verb is 'light'",
+        "Learn the FIXED combinations — wrong verb = wrong meaning",
+        "More formal than simple verbs — perfect for Schreiben",
+        "Common light verbs: stellen, treffen, nehmen, geben, machen"
+      ]
+    }
+  },
+  {
+    "video_id": "dHfxkJZ4PQM",
+    "title": "B1 - Lesson 5 | Das Verb \"lassen\" | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=dHfxkJZ4PQM",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers the versatile verb 'lassen' at B1 level. 'Lassen' has multiple meanings: to let/allow (Lass mich gehen), to have something done by someone else (Ich lasse mein Auto reparieren), to leave behind (Ich lasse mein Handy zu Hause), and to stop doing something (Lass das!). The causative use (having something done) is the most important for B1.",
+      "key_concept": "Causative lassen: Subject + lassen (conjugated) + Object + Infinitiv means 'to have/get something done by someone else'. 'Ich lasse mein Auto reparieren' = I have my car repaired (by someone else). The Perfekt form uses double infinitive: 'Ich habe mein Auto reparieren lassen.'",
+      "grammar_rule": "Conjugation of lassen: ich lasse, du lässt, er lässt, wir lassen, ihr lasst, sie lassen. Perfekt: haben + ... + Infinitiv + lassen (double infinitive, NOT 'gelassen'). 'Ich habe mir die Haare schneiden lassen.' In Nebensatz with Perfekt: '...weil ich mir die Haare habe schneiden lassen.' (haben before the infinitives).",
+      "word_order_note": "Present: 'Ich lasse mein Auto reparieren.' — lassen conjugated in pos. 2, Infinitiv at end. Perfekt: 'Ich habe mein Auto reparieren lassen.' — double infinitive at end. Modal + lassen: 'Ich will mein Auto reparieren lassen.' — three verbs at end.",
+      "common_mistakes": [
+        "Using 'gelassen' in causative Perfekt — correct: 'reparieren lassen' (double infinitive)",
+        "Confusing 'lassen' (have done) with passive — lassen implies hiring someone to do it",
+        "Wrong word order in Perfekt: 'Ich habe lassen reparieren' → 'Ich habe reparieren lassen'",
+        "Forgetting Dativ for body parts/personal services: 'Ich lasse MIR die Haare schneiden'",
+        "Not distinguishing the meanings: 'Lass mich!' (Leave me alone!) vs. 'Lass mich das machen!' (Let me do that!)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "lassen", "en": "to let / to have (done) / to leave", "example_de": "Lass mich in Ruhe!", "example_en": "Leave me alone!"},
+      {"de": "reparieren lassen", "en": "to have repaired", "example_de": "Ich muss mein Fahrrad reparieren lassen.", "example_en": "I need to have my bicycle repaired."},
+      {"de": "die Haare schneiden lassen", "en": "to have a haircut / have one's hair cut", "example_de": "Ich lasse mir morgen die Haare schneiden.", "example_en": "I'm getting a haircut tomorrow."},
+      {"de": "liefern lassen", "en": "to have delivered", "example_de": "Wir lassen das Essen liefern.", "example_en": "We're having the food delivered."},
+      {"de": "reinigen lassen", "en": "to have cleaned", "example_de": "Ich muss meinen Anzug reinigen lassen.", "example_en": "I need to have my suit cleaned."},
+      {"de": "überprüfen lassen", "en": "to have checked", "example_de": "Sie lässt regelmäßig ihre Augen überprüfen.", "example_en": "She regularly has her eyes checked."},
+      {"de": "erlauben / zulassen", "en": "to allow / to permit", "example_de": "Meine Eltern lassen mich nicht ausgehen.", "example_en": "My parents don't let me go out."},
+      {"de": "zurücklassen", "en": "to leave behind", "example_de": "Ich habe mein Handy zu Hause gelassen.", "example_en": "I left my phone at home."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Causative: lassen + Infinitiv (present)", "structure": "Subject + lassen (conj.) + Object + Infinitiv", "example_de": "Ich lasse mein Auto waschen.", "example_en": "I have my car washed.", "telc_relevance": "Causative lassen appears in Lesen texts about services and daily life"},
+      {"pattern": "Causative: haben + Inf. + lassen (Perfekt)", "structure": "Subject + haben + Object + Infinitiv + lassen", "example_de": "Ich habe mir einen Schlüssel machen lassen.", "example_en": "I had a key made.", "telc_relevance": "Perfekt with double infinitive tested in Sprachbausteine"},
+      {"pattern": "lassen = to let/allow", "structure": "Subject + lassen + Person (Akk.) + Infinitiv", "example_de": "Lass mich das erklären!", "example_en": "Let me explain that!", "telc_relevance": "Imperative with lassen common in Hören dialogues"},
+      {"pattern": "lassen = to leave/stop", "structure": "Subject + lassen + Object (in place)", "example_de": "Lass die Tür auf!", "example_en": "Leave the door open!", "telc_relevance": "Appears in informal Hören conversations"}
+    ],
+    "flashcards": [
+      {"front": "How do you say 'I have my car repaired'?", "back": "Ich lasse mein Auto reparieren. (causative lassen)", "type": "grammar"},
+      {"front": "Perfekt of causative lassen?", "back": "Double infinitive: Ich habe mein Auto reparieren lassen. (NOT 'gelassen')", "type": "grammar"},
+      {"front": "ich lasse mir die Haare schneiden", "back": "I'm having my hair cut (Dativ 'mir' for body part / personal service)", "type": "grammar"},
+      {"front": "Three meanings of 'lassen'", "back": "1. to let/allow: Lass mich gehen. 2. to have done: Auto reparieren lassen. 3. to leave: Lass das hier.", "type": "grammar"},
+      {"front": "liefern lassen", "back": "to have delivered — Wir lassen uns Pizza liefern.", "type": "vocabulary"},
+      {"front": "reinigen lassen", "back": "to have cleaned — Ich lasse meinen Mantel reinigen.", "type": "vocabulary"},
+      {"front": "Why 'mir' in 'Ich lasse mir die Haare schneiden'?", "back": "Dativ 'mir' shows the service is for me (body part/personal). The hair = Akkusativ object, I = Dativ recipient.", "type": "grammar"},
+      {"front": "zurücklassen (Perfekt)", "back": "zurückgelassen — Ich habe meine Tasche im Bus zurückgelassen. (NOT causative, so 'gelassen')", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich __________ mir die Haare schneiden.", "en": "I'm having my hair cut.", "hint": "lasse (causative lassen)"},
+      {"de": "Er hat sein Auto __________ __________.", "en": "He had his car repaired.", "hint": "reparieren lassen (Perfekt, double infinitive)"},
+      {"de": "__________ mich bitte ausreden!", "en": "Please let me finish speaking!", "hint": "Lass (imperative of lassen = let/allow)"},
+      {"de": "Wir __________ uns das Essen __________.", "en": "We're having the food delivered.", "hint": "lassen...liefern (causative lassen)"},
+      {"de": "Sie muss ihre Augen __________ __________.", "en": "She needs to have her eyes checked.", "hint": "überprüfen lassen (modal + causative)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, 'lassen' in Perfekt with double infinitive is a common test item. Remember: haben + Inf. + lassen (NOT gelassen for causative).", "telc_section": "Sprachbausteine"},
+      {"tip": "For Schreiben about services or problems: 'Ich möchte mein Gerät reparieren lassen' or 'Können Sie das Paket abholen lassen?'", "telc_section": "Schreiben"},
+      {"tip": "In Lesen, causative lassen appears in texts about services, repairs, and daily activities. Recognize it to understand who performs the action (someone else, not the subject).", "telc_section": "Lesen"}
+    ],
+    "visual_summary": {
+      "title": "Das Verb 'lassen' — Three Meanings",
+      "table": {
+        "headers": ["Meaning", "Structure", "Example", "Perfekt"],
+        "rows": [
+          ["to have done (causative)", "lassen + Object + Inf.", "Ich lasse das Auto reparieren.", "Ich habe ... reparieren lassen"],
+          ["to let / allow", "lassen + Person + Inf.", "Lass mich das machen!", "Ich habe ihn gehen lassen"],
+          ["to leave / stop", "lassen + Object", "Lass das Fenster auf!", "Ich habe es dort gelassen"],
+          ["to leave behind", "lassen + Object (+ place)", "Ich lasse das Handy zu Hause.", "Ich habe es zu Hause gelassen"]
+        ]
+      },
+      "key_points": [
+        "Causative Perfekt = double infinitive: haben + Inf. + lassen",
+        "Non-causative Perfekt = haben + gelassen",
+        "Body parts/personal services need Dativ: Ich lasse MIR die Haare schneiden",
+        "lassen is one of the most versatile German verbs — learn all meanings"
+      ]
+    }
+  },
+  {
+    "video_id": "HZ1VSVjn4vE",
+    "title": "B1 - Lesson 6 | Passiv mit \"sich lassen\" | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=HZ1VSVjn4vE",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers 'sich lassen' as a passive alternative — a way to express that something CAN be done. 'Das Problem lässt sich lösen' = The problem can be solved (= Das Problem kann gelöst werden). This is a more elegant, common alternative to 'können + Passiv' in written German, especially useful for B1 formal texts.",
+      "key_concept": "sich lassen + Infinitiv = können + Passiv. 'Das Fenster lässt sich nicht öffnen' = Das Fenster kann nicht geöffnet werden (The window cannot be opened). The subject of 'sich lassen' is the THING being acted upon. This construction is very common in formal/written German.",
+      "grammar_rule": "Structure: Subject (thing) + sich lassen + Infinitiv. Negation: Subject + lässt sich nicht + Infinitiv. Perfekt: hat sich + Infinitiv + lassen. 'Die Frage hat sich leicht beantworten lassen.' Alternative with 'sein + zu + Infinitiv': 'Das Problem ist leicht zu lösen.' (same meaning, also formal).",
+      "word_order_note": "'sich' comes after the conjugated verb: 'Das Problem lässt sich lösen.' In a Nebensatz: '...weil sich das Problem lösen lässt.' The Infinitiv goes to the end as usual.",
+      "common_mistakes": [
+        "Confusing causative lassen (Ich lasse reparieren = I have repaired) with sich lassen passive (Es lässt sich reparieren = it can be repaired)",
+        "Forgetting 'sich' — 'Das lässt reparieren' is causative, 'Das lässt SICH reparieren' is passive",
+        "Wrong subject: the subject must be the THING, not the person: 'Das Problem lässt sich lösen' (not 'Ich lasse sich lösen')",
+        "Not recognizing the equivalent: sich lassen = können + Passiv"
+      ]
+    },
+    "vocabulary": [
+      {"de": "sich lösen lassen", "en": "can be solved", "example_de": "Das Problem lässt sich leicht lösen.", "example_en": "The problem can be easily solved."},
+      {"de": "sich öffnen lassen", "en": "can be opened", "example_de": "Die Tür lässt sich nicht öffnen.", "example_en": "The door can't be opened."},
+      {"de": "sich erklären lassen", "en": "can be explained", "example_de": "Das lässt sich einfach erklären.", "example_en": "That can be easily explained."},
+      {"de": "sich vermeiden lassen", "en": "can be avoided", "example_de": "Fehler lassen sich nicht immer vermeiden.", "example_en": "Mistakes can't always be avoided."},
+      {"de": "sich reparieren lassen", "en": "can be repaired", "example_de": "Das Gerät lässt sich leider nicht mehr reparieren.", "example_en": "Unfortunately, the device can no longer be repaired."},
+      {"de": "machbar", "en": "feasible, doable", "example_de": "Das ist durchaus machbar.", "example_en": "That is quite feasible."},
+      {"de": "lösbar", "en": "solvable", "example_de": "Das Problem ist lösbar.", "example_en": "The problem is solvable."},
+      {"de": "sein + zu + Infinitiv", "en": "can be / must be (passive alternative)", "example_de": "Das Problem ist leicht zu lösen.", "example_en": "The problem can be easily solved."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "sich lassen + Infinitiv (= können + Passiv)", "structure": "Subject (thing) + lässt sich + Infinitiv", "example_de": "Das Fenster lässt sich öffnen. = Das Fenster kann geöffnet werden.", "example_en": "The window can be opened.", "telc_relevance": "Very common in formal Lesen texts — recognize it as passive possibility"},
+      {"pattern": "sich lassen + nicht (impossibility)", "structure": "Subject + lässt sich nicht + Infinitiv", "example_de": "Der Schaden lässt sich nicht reparieren.", "example_en": "The damage cannot be repaired.", "telc_relevance": "Negation of possibility — frequent in complaint/problem texts"},
+      {"pattern": "sein + zu + Infinitiv (alternative)", "structure": "Subject + ist + (Adverb) + zu + Infinitiv", "example_de": "Die Aufgabe ist leicht zu verstehen.", "example_en": "The task is easy to understand.", "telc_relevance": "Alternative passive form — also common in formal Lesen and Sprachbausteine"},
+      {"pattern": "Adjektive with -bar (= can be done)", "structure": "Verb stem + -bar = adjective meaning 'can be [verb]ed'", "example_de": "lösen → lösbar, machen → machbar, essen → essbar", "example_en": "solve → solvable, do → doable, eat → edible", "telc_relevance": "-bar adjectives express same meaning as sich lassen, common in B1 reading"}
+    ],
+    "flashcards": [
+      {"front": "Das Problem lässt sich lösen. = ?", "back": "Das Problem kann gelöst werden. (sich lassen = können + Passiv)", "type": "grammar"},
+      {"front": "How do you express 'The window can't be opened'?", "back": "Das Fenster lässt sich nicht öffnen. (sich lassen + nicht)", "type": "grammar"},
+      {"front": "What's the equivalent of 'sich lassen' with 'sein'?", "back": "sein + zu + Infinitiv: Das ist leicht zu verstehen. = Das lässt sich leicht verstehen.", "type": "grammar"},
+      {"front": "What suffix means 'can be done'?", "back": "-bar: lösbar (solvable), machbar (doable), essbar (edible)", "type": "grammar"},
+      {"front": "sich vermeiden lassen", "back": "can be avoided — Unfälle lassen sich vermeiden.", "type": "vocabulary"},
+      {"front": "lösbar", "back": "solvable — Das Problem ist lösbar.", "type": "vocabulary"},
+      {"front": "Difference: Er lässt das Auto reparieren vs. Das Auto lässt sich reparieren", "back": "1st: He has the car repaired (causative). 2nd: The car can be repaired (passive possibility).", "type": "grammar"},
+      {"front": "machbar", "back": "feasible, doable — Der Plan ist machbar.", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Dieses Problem __________ __________ leicht __________.", "en": "This problem can be easily solved.", "hint": "lässt sich...lösen (sich lassen + Infinitiv)"},
+      {"de": "Die Tür __________ __________ nicht __________.", "en": "The door can't be opened.", "hint": "lässt sich...öffnen (sich lassen + nicht)"},
+      {"de": "Diese Aufgabe __________ leicht __________ verstehen.", "en": "This task is easy to understand.", "hint": "ist...zu (sein + zu + Infinitiv alternative)"},
+      {"de": "Fehler __________ __________ nicht immer __________.", "en": "Mistakes can't always be avoided.", "hint": "lassen sich...vermeiden (plural subject)"},
+      {"de": "Das Gerät ist leider nicht mehr __________ . (reparieren → Adjektiv)", "en": "The device is unfortunately no longer repairable.", "hint": "reparierbar (-bar suffix)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Lesen, 'sich lassen + Infinitiv' is one of the most common constructions in formal texts. When you see 'lässt/lassen sich', translate it as 'can be [done]'.", "telc_section": "Lesen"},
+      {"tip": "For Schreiben about problems: 'Das Problem lässt sich leicht lösen, wenn...' or 'Der Fehler ließ sich nicht vermeiden.' adds sophistication.", "telc_section": "Schreiben"},
+      {"tip": "In Sprachbausteine, recognize that sich lassen = können + Passiv = sein + zu + Infinitiv = -bar adjective. These are all equivalent passive alternatives.", "telc_section": "Sprachbausteine"}
+    ],
+    "visual_summary": {
+      "title": "Three Ways to Express Passive Possibility",
+      "table": {
+        "headers": ["Construction", "Example", "Meaning"],
+        "rows": [
+          ["sich lassen + Infinitiv", "Das lässt sich machen.", "That can be done."],
+          ["können + Passiv", "Das kann gemacht werden.", "That can be done."],
+          ["sein + zu + Infinitiv", "Das ist zu machen.", "That can/must be done."],
+          ["-bar Adjektiv", "Das ist machbar.", "That is doable."]
+        ]
+      },
+      "key_points": [
+        "sich lassen = können + Passiv (more elegant, common in formal German)",
+        "Subject is the THING, not the person doing the action",
+        "'lässt sich nicht' = cannot be done (impossibility)",
+        "-bar adjectives are the simplest form: lösbar, machbar, essbar"
+      ]
+    }
+  }
+]

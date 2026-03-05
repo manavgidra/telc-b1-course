@@ -1,0 +1,629 @@
+{
+  "schreiben": {
+    "title": "Schreiben (Writing)",
+    "description": "Practice writing formal and semi-formal emails in German. Each email must address all 4 Leitpunkte and be 100-120 words.",
+    "exercises": [
+      {
+        "id": "schreiben_1",
+        "topic": "Einladung ablehnen",
+        "scenario": "Your friend invited you to their birthday party but you cannot attend.",
+        "prompt": "Schreib eine E-Mail an deinen Freund / deine Freundin. Erkläre, warum du nicht kommen kannst, entschuldige dich, schlage eine Alternative vor und wünsche ihm/ihr alles Gute.",
+        "leitpunkte": [
+          "Bedanke dich für die Einladung.",
+          "Erkläre, warum du nicht kommen kannst.",
+          "Schlage einen anderen Termin zum Treffen vor.",
+          "Wünsche deinem Freund / deiner Freundin alles Gute zum Geburtstag."
+        ],
+        "model_answer": "Liebe Sarah,\n\nvielen Dank für deine liebe Einladung zu deinem Geburtstag! Ich freue mich sehr, dass du an mich gedacht hast. Leider kann ich am Samstag nicht zu deiner Party kommen, weil ich an diesem Wochenende meine Eltern in Hamburg besuche. Das stand schon seit Wochen fest und ich kann es nicht absagen.\n\nEs tut mir wirklich sehr leid! Ich wäre so gerne dabei gewesen. Vielleicht können wir uns nächste Woche treffen und gemeinsam deinen Geburtstag feiern? Ich würde dich gerne zum Essen einladen.\n\nIch wünsche dir von Herzen alles Gute zum Geburtstag, viel Glück und vor allem Gesundheit!\n\nLiebe Grüße,\nMarco",
+        "word_range": [100, 120],
+        "connector_hints": ["leider", "weil", "deshalb", "trotzdem", "außerdem", "aber"],
+        "evaluation_criteria": [
+          "All 4 Leitpunkte are addressed clearly.",
+          "Email is 100-120 words in length.",
+          "Register is appropriate (semi-formal / friendly).",
+          "Grammar and vocabulary are correct at B1 level."
+        ]
+      },
+      {
+        "id": "schreiben_2",
+        "topic": "Umzug ankündigen",
+        "scenario": "You are moving to a new city next month and want to tell your friend about it.",
+        "prompt": "Schreib eine E-Mail an deinen Freund / deine Freundin. Erkläre, wohin du umziehst, warum du umziehst, wie du dich dabei fühlst und was ihr in Zukunft machen könnt.",
+        "leitpunkte": [
+          "Erkläre, wohin du umziehst und wann.",
+          "Nenne den Grund für den Umzug.",
+          "Beschreibe deine Gefühle bezüglich des Umzugs.",
+          "Schlage vor, wie ihr in Kontakt bleiben könnt."
+        ],
+        "model_answer": "Lieber Jonas,\n\nich habe eine wichtige Neuigkeit für dich! Ich ziehe nächsten Monat nach München um. Ich habe dort eine tolle Stelle als Grafikdesigner bei einer großen Werbeagentur bekommen und möchte diese Chance unbedingt nutzen.\n\nEinerseits freue ich mich sehr auf das neue Abenteuer, andererseits macht mir der Abschied ein bisschen Angst. Ich werde unsere gemeinsamen Abende und deine guten Ratschläge sehr vermissen.\n\nAber ich hoffe, dass wir trotzdem in Kontakt bleiben. Wir könnten uns zum Beispiel jedes Monat einmal per Videochat sehen. Außerdem würde ich mich sehr freuen, wenn du mich in München besuchen kommst!\n\nLiebe Grüße,\nTobias",
+        "word_range": [100, 120],
+        "connector_hints": ["einerseits", "andererseits", "trotzdem", "außerdem", "deshalb", "aber"],
+        "evaluation_criteria": [
+          "All 4 Leitpunkte are addressed clearly.",
+          "Email is 100-120 words in length.",
+          "Connectors are used to link ideas naturally.",
+          "Feelings and reasons are expressed with appropriate vocabulary."
+        ]
+      },
+      {
+        "id": "schreiben_3",
+        "topic": "Beschwerde über Lärm",
+        "scenario": "Your neighbor has been making loud noise late at night and you need to write a formal complaint.",
+        "prompt": "Schreib eine E-Mail an deinen Nachbarn / deine Nachbarin. Beschreibe das Problem, erkläre, wie es dich beeinflusst, bitte ihn/sie, das Problem zu lösen, und schlage eine Lösung vor.",
+        "leitpunkte": [
+          "Beschreibe das Problem genau (was, wann, wie oft).",
+          "Erkläre, welche Auswirkungen der Lärm auf dich hat.",
+          "Bitte deinen Nachbarn / deine Nachbarin höflich, das Verhalten zu ändern.",
+          "Schlage eine freundliche Lösung vor."
+        ],
+        "model_answer": "Liebe Frau Bergmann,\n\nich wende mich mit einer freundlichen Bitte an Sie. In letzter Zeit höre ich fast jede Nacht ab 23 Uhr sehr laute Musik aus Ihrer Wohnung. Das passiert meistens freitags und samstags, aber manchmal auch während der Woche.\n\nLeider kann ich deshalb nicht schlafen und bin am nächsten Morgen sehr müde. Das beeinflusst auch meine Arbeit, denn ich muss früh aufstehen.\n\nIch wäre Ihnen sehr dankbar, wenn Sie die Musik nach 22 Uhr leiser machen könnten. Vielleicht könnten Sie auch Kopfhörer benutzen? Ich hoffe, wir können eine gute Lösung finden.\n\nMit freundlichen Grüßen,\nSabine Müller",
+        "word_range": [100, 120],
+        "connector_hints": ["leider", "deshalb", "außerdem", "trotzdem", "denn", "wenn"],
+        "evaluation_criteria": [
+          "All 4 Leitpunkte are addressed clearly.",
+          "Formal register is maintained throughout.",
+          "The complaint is polite but clear.",
+          "Concrete details (time, frequency) are included."
+        ]
+      },
+      {
+        "id": "schreiben_4",
+        "topic": "Termin absagen",
+        "scenario": "You need to cancel your dentist appointment that is scheduled for tomorrow.",
+        "prompt": "Schreib eine E-Mail an die Zahnarztpraxis. Erkläre, dass du den Termin nicht wahrnehmen kannst, nenne den Grund, entschuldige dich und bitte um einen neuen Termin.",
+        "leitpunkte": [
+          "Nenne den genauen Termin, den du absagen möchtest.",
+          "Erkläre, warum du nicht kommen kannst.",
+          "Entschuldige dich für die kurzfristige Absage.",
+          "Bitte um einen neuen Termin und nenne mögliche Zeiten."
+        ],
+        "model_answer": "Sehr geehrte Damen und Herren,\n\nhiermit muss ich leider meinen Termin morgen, den 15. März um 10:30 Uhr, absagen. Ich bin heute plötzlich krank geworden und habe hohes Fieber. Deshalb ist es mir leider nicht möglich, in die Praxis zu kommen.\n\nIch entschuldige mich herzlich für die kurzfristige Absage und hoffe, dass Sie den Termin noch anderweitig vergeben können.\n\nIch wäre Ihnen sehr dankbar, wenn Sie mir einen neuen Termin geben könnten. Ich bin in der nächsten Woche flexibel und könnte montags oder mittwochs zwischen 9 und 13 Uhr kommen.\n\nMit freundlichen Grüßen,\nKlaus Hoffmann",
+        "word_range": [100, 120],
+        "connector_hints": ["leider", "deshalb", "daher", "jedoch", "außerdem", "denn"],
+        "evaluation_criteria": [
+          "All 4 Leitpunkte are addressed clearly.",
+          "Formal register is maintained throughout (Sehr geehrte, Mit freundlichen Grüßen).",
+          "The apology is sincere and appropriate.",
+          "Specific alternative times are offered."
+        ]
+      },
+      {
+        "id": "schreiben_5",
+        "topic": "Gemeinsame Reise vorschlagen",
+        "scenario": "You want to suggest a trip together with your friend during the summer holidays.",
+        "prompt": "Schreib eine E-Mail an deinen Freund / deine Freundin. Schlage eine Reise vor, erkläre deine Idee, nenne die Vorteile und frage nach der Meinung deines Freundes / deiner Freundin.",
+        "leitpunkte": [
+          "Schlage ein konkretes Reiseziel vor.",
+          "Erkläre, warum dieses Ziel interessant ist.",
+          "Beschreibe, was ihr dort machen könntet.",
+          "Frage deinen Freund / deine Freundin nach seiner/ihrer Meinung und Verfügbarkeit."
+        ],
+        "model_answer": "Liebe Anna,\n\nich habe eine tolle Idee für unseren Sommerurlaub! Wie wäre es, wenn wir zusammen nach Portugal fahren? Ich habe viel darüber gelesen und es soll wunderschön sein.\n\nLissabon ist eine sehr lebendige Stadt mit tollem Essen und freundlichen Menschen. Außerdem ist Portugal im Vergleich zu anderen westeuropäischen Ländern nicht so teuer. Wir könnten die Altstadt besichtigen, am Strand entspannen und abends in kleinen Restaurants typische Gerichte probieren.\n\nIch habe die Sommerferien vom 20. Juli bis zum 10. August frei. Wäre das auch für dich möglich? Ich würde mich sehr freuen, wenn wir das gemeinsam planen könnten!\n\nLiebe Grüße,\nSophie",
+        "word_range": [100, 120],
+        "connector_hints": ["außerdem", "deshalb", "zum Beispiel", "wenn", "auch", "denn"],
+        "evaluation_criteria": [
+          "All 4 Leitpunkte are addressed clearly.",
+          "Destination is described with specific details.",
+          "Enthusiasm and persuasion are conveyed naturally.",
+          "Question about availability is clearly asked."
+        ]
+      },
+      {
+        "id": "schreiben_6",
+        "topic": "Um Hilfe bitten beim Umzug",
+        "scenario": "You are moving next weekend and need to ask your friend for help.",
+        "prompt": "Schreib eine E-Mail an deinen Freund / deine Freundin. Erkläre die Situation, bitte um Hilfe, beschreibe, was du brauchst und biete etwas im Gegenzug an.",
+        "leitpunkte": [
+          "Erkläre, dass du umziehst und wann.",
+          "Bitte deinen Freund / deine Freundin konkret um Hilfe.",
+          "Beschreibe, was genau zu tun ist (z.B. Kartons tragen, Möbel aufbauen).",
+          "Biete eine Gegenleistung an (z.B. Abendessen, Hilfe bei einem anderen Projekt)."
+        ],
+        "model_answer": "Lieber Felix,\n\nwie du vielleicht weißt, ziehe ich nächsten Samstag endlich in meine neue Wohnung um! Ich freue mich sehr darauf, aber ich brauche dringend deine Hilfe.\n\nWir haben ziemlich viele schwere Kartons und außerdem müssen einige Möbelstücke neu aufgebaut werden. Das Umzugsunternehmen bringt nur die Möbel in die Wohnung, aber ich brauche jemanden, der mir beim Tragen und Aufbauen hilft.\n\nKönntest du am Samstag ab 9 Uhr kommen? Als Dankeschön koche ich danach für alle ein leckeres Abendessen! Natürlich helfe ich dir auch, wenn du das nächste Mal Hilfe brauchst.\n\nLiebe Grüße,\nTim",
+        "word_range": [100, 120],
+        "connector_hints": ["außerdem", "denn", "deshalb", "aber", "natürlich", "zwar"],
+        "evaluation_criteria": [
+          "All 4 Leitpunkte are addressed clearly.",
+          "Request is polite and specific.",
+          "The offer of reciprocation makes the email convincing.",
+          "Friendly, informal register is maintained."
+        ]
+      },
+      {
+        "id": "schreiben_7",
+        "topic": "Erfahrung mit neuem Job teilen",
+        "scenario": "You started a new job three weeks ago and want to tell your friend about your experience.",
+        "prompt": "Schreib eine E-Mail an deinen Freund / deine Freundin. Erzähle von deinem neuen Job, beschreibe deine Aufgaben, erkläre, was dir gefällt oder nicht gefällt, und frage nach deinem Freund / deiner Freundin.",
+        "leitpunkte": [
+          "Beschreibe deinen neuen Job und die Arbeitsstelle.",
+          "Erkläre, welche Aufgaben du hast.",
+          "Nenne etwas, das dir besonders gut gefällt, und etwas, das schwierig ist.",
+          "Frage deinen Freund / deine Freundin, wie es ihm/ihr geht."
+        ],
+        "model_answer": "Liebe Mia,\n\nentschuldige, dass ich mich so lange nicht gemeldet habe! Seit drei Wochen arbeite ich jetzt bei einer kleinen IT-Firma hier in Stuttgart und es gibt so viel zu erzählen.\n\nMeine Hauptaufgaben sind die Betreuung von Kunden und die Verwaltung von Projekten. Besonders gut gefällt mir, dass das Team sehr nett ist und wir oft gemeinsam Mittag essen. Zwar ist die Arbeit manchmal stressig, aber ich lerne jeden Tag etwas Neues, was mich sehr motiviert.\n\nWie geht es dir? Hast du die Prüfung bestanden, für die du so viel gelernt hast? Ich drücke dir die Daumen!\n\nLiebe Grüße,\nLena",
+        "word_range": [100, 120],
+        "connector_hints": ["zwar", "aber", "außerdem", "besonders", "deshalb", "trotzdem"],
+        "evaluation_criteria": [
+          "All 4 Leitpunkte are addressed clearly.",
+          "Both positive and negative aspects of the job are mentioned.",
+          "Zwar...aber construction is used effectively.",
+          "Email ends with a genuine question about the friend."
+        ]
+      },
+      {
+        "id": "schreiben_8",
+        "topic": "Informationen über Deutschkurs anfragen",
+        "scenario": "You want to improve your German and are writing to a language school to ask about their courses.",
+        "prompt": "Schreib eine E-Mail an eine Sprachschule. Erkläre, warum du einen Deutschkurs machen möchtest, frage nach Kurszeiten und Preisen, erkundige dich nach dem Kursniveau und frage nach Möglichkeiten, den Kurs zu testen.",
+        "leitpunkte": [
+          "Erkläre kurz deinen Hintergrund und warum du Deutsch lernen möchtest.",
+          "Frage nach verfügbaren Kurszeiten (Abend- oder Wochenendkurse).",
+          "Erkundige dich nach den Kursgebühren und möglichen Rabatten.",
+          "Frage, ob es eine Möglichkeit gibt, eine Probestunde zu besuchen."
+        ],
+        "model_answer": "Sehr geehrte Damen und Herren,\n\nich interessiere mich sehr für einen Ihrer Deutschkurse. Ich komme aus Spanien und lebe seit einem Jahr in Deutschland. Da ich meine Deutschkenntnisse verbessern möchte, um besser im Beruf kommunizieren zu können, suche ich einen guten Kurs auf B1-Niveau.\n\nKönnten Sie mir bitte mitteilen, ob Sie Abendkurse oder Kurse am Wochenende anbieten? Ich arbeite montags bis freitags und bin daher tagsüber nicht verfügbar. Außerdem würde mich interessieren, wie hoch die Kursgebühren sind und ob es Ermäßigungen gibt.\n\nGibt es die Möglichkeit, eine Probestunde zu besuchen, bevor ich mich anmelde?\n\nMit freundlichen Grüßen,\nCarlos Romero",
+        "word_range": [100, 120],
+        "connector_hints": ["deshalb", "daher", "außerdem", "denn", "jedoch", "um...zu"],
+        "evaluation_criteria": [
+          "All 4 Leitpunkte are addressed clearly.",
+          "Formal register is maintained throughout.",
+          "Questions are polite and specific.",
+          "Purpose for learning German is clearly stated."
+        ]
+      }
+    ]
+  },
+  "sprechen": {
+    "title": "Sprechen (Speaking)",
+    "description": "Practice all 3 parts of TELC B1 Sprechen. Part 1: ~3 min self-intro. Part 2: ~6 min topic presentation. Part 3: ~6 min joint planning.",
+    "teil_1": {
+      "description": "Introduce yourself for approximately 3 minutes covering key life areas.",
+      "intro_questions": [
+        "Wie heißt du und woher kommst du ursprünglich?",
+        "Erzähl uns etwas über deine Familie – hast du Geschwister, bist du verheiratet?",
+        "Was machst du beruflich oder was studierst du?",
+        "Wie würdest du deine Wohnsituation beschreiben – wo und wie wohnst du?",
+        "Was machst du in deiner Freizeit – welche Hobbys hast du?",
+        "Bist du schon viel gereist? Welches Land hat dir am besten gefallen?",
+        "Welche Sprachen sprichst du und warum lernst du Deutsch?",
+        "Was sind deine Pläne für die Zukunft – beruflich oder privat?"
+      ],
+      "model_intro": "Guten Tag! Ich heiße Maria Santos und komme ursprünglich aus Brasilien, aus der Stadt São Paulo. Vor zwei Jahren bin ich nach Deutschland gezogen, weil mein Mann hier einen Job bekommen hat. Wir wohnen jetzt in einer schönen Dreizimmerwohnung in Köln, nicht weit vom Stadtzentrum.\n\nMeine Familie ist sehr wichtig für mich. Ich habe einen älteren Bruder, der noch in Brasilien lebt, und meine Eltern besuche ich jeden Sommer. Mein Mann und ich haben noch keine Kinder, aber wir denken darüber nach.\n\nBeruflich arbeite ich als Buchhalterin. In Köln arbeite ich zurzeit in einem kleinen internationalen Unternehmen. Die Arbeit gefällt mir gut, auch wenn ich manchmal noch Schwierigkeiten mit dem Deutschen im Büro habe.\n\nIn meiner Freizeit koche ich sehr gerne, besonders brasilianische Gerichte. Ich gehe auch zweimal in der Woche ins Fitnessstudio und lese gerne Kriminalromane. Letztes Jahr habe ich meinen Mann zu einem Fußballspiel begleitet – das war eine ganz neue Erfahrung für mich!\n\nIch spreche Portugiesisch als Muttersprache, außerdem Englisch und jetzt Deutsch. Ich lerne Deutsch, weil ich mich besser ins Alltagsleben integrieren und auch beruflich weiterkommen möchte.\n\nFür die Zukunft träume ich davon, in Deutschland eine eigene Stelle als Buchhalterin zu finden, vielleicht auch das B2-Niveau in Deutsch zu erreichen. Ich möchte auch mehr von Europa kennenlernen – als nächstes möchten mein Mann und ich nach Portugal fahren."
+    },
+    "teil_2": {
+      "description": "Present a topic with your opinion for ~6 minutes. Structure: Introduction → Main points → Personal opinion → Conclusion.",
+      "topics": [
+        {
+          "title": "Umweltschutz im Alltag",
+          "prompt": "Präsentiere das Thema Umweltschutz im Alltag. Was kann jeder Einzelne tun? Was sind die Herausforderungen? Was ist deine persönliche Meinung?",
+          "duration_seconds": 360,
+          "model_response": "Guten Tag! Ich möchte heute über das Thema Umweltschutz im Alltag sprechen. Das ist ein sehr aktuelles Thema, das uns alle betrifft.\n\nHeutzutage sind die Auswirkungen des Klimawandels deutlich zu spüren – extreme Wetterereignisse, steigende Temperaturen und das Schmelzen der Gletscher. Viele Menschen fragen sich: Was kann ich persönlich dagegen tun?\n\nEs gibt viele Möglichkeiten, im Alltag umweltfreundlicher zu leben. Erstens kann man den öffentlichen Nahverkehr oder das Fahrrad anstatt des Autos benutzen. Das ist nicht nur gut für die Umwelt, sondern auch gesünder. Zweitens sollte man beim Einkaufen auf regionale und saisonale Produkte achten und Plastikverpackungen vermeiden. Außerdem ist es wichtig, zu Hause Energie zu sparen – zum Beispiel durch kürzere Duschen oder das Ausschalten von Geräten im Standby-Modus.\n\nAllerdings gibt es auch Herausforderungen. Umweltfreundliche Produkte sind oft teurer, und nicht jeder kann sich das leisten. Außerdem leben nicht alle Menschen in der Nähe von guten Verkehrsverbindungen.\n\nMeiner Meinung nach ist jeder Einzelne in der Pflicht, etwas zu tun. Zwar kann eine Person allein den Klimawandel nicht aufhalten, aber wenn viele Menschen kleine Änderungen in ihrem Alltag machen, kann das zusammen einen großen Unterschied machen.\n\nZusammenfassend möchte ich sagen: Umweltschutz beginnt bei uns selbst. Wir müssen keine perfekten Helden sein, aber wir können bewusster leben. Danke für Ihre Aufmerksamkeit.",
+          "key_phrases_to_use": [
+            "Meiner Meinung nach...",
+            "Einerseits..., andererseits...",
+            "Es ist wichtig, dass...",
+            "Zwar..., aber...",
+            "Zusammenfassend möchte ich sagen..."
+          ]
+        },
+        {
+          "title": "Soziale Medien und ihre Auswirkungen",
+          "prompt": "Präsentiere das Thema soziale Medien. Welche Vor- und Nachteile haben sie? Wie beeinflusst das dein Leben? Was ist deine Meinung?",
+          "duration_seconds": 360,
+          "model_response": "Guten Tag! Ich spreche heute über soziale Medien und ihre Auswirkungen auf unser Leben. Plattformen wie Instagram, Facebook und TikTok sind aus unserem Alltag kaum noch wegzudenken.\n\nSoziale Medien haben viele Vorteile. Man kann mit Freunden und Familie in Kontakt bleiben, auch wenn man weit voneinander entfernt ist. Außerdem kann man sich schnell über aktuelle Ereignisse informieren und neue Leute kennenlernen. Für Unternehmen bieten soziale Medien außerdem eine günstige Möglichkeit, Werbung zu machen.\n\nAndererseits gibt es auch deutliche Nachteile. Viele Menschen verbringen zu viel Zeit auf ihren Smartphones und vernachlässigen dabei das echte Leben. Studien zeigen, dass zu viel Social-Media-Konsum zu Depressionen und Einsamkeit führen kann, besonders bei Jugendlichen. Außerdem werden viele Falschinformationen über diese Plattformen verbreitet.\n\nIch selbst nutze soziale Medien täglich, hauptsächlich um Fotos mit Freunden zu teilen und aktuelle Nachrichten zu lesen. Ich versuche aber, meine Bildschirmzeit zu begrenzen, weil ich merke, dass ich manchmal zu viel Zeit damit verbringe.\n\nMeiner Ansicht nach sollten wir soziale Medien bewusst und verantwortungsvoll nutzen. Es wäre falsch, sie komplett abzulehnen, aber wir müssen lernen, eine gesunde Balance zu finden. Kinder und Jugendliche brauchen dabei besonders Unterstützung und Orientierung.\n\nVielen Dank für Ihre Aufmerksamkeit.",
+          "key_phrases_to_use": [
+            "Meiner Ansicht nach...",
+            "Auf der einen Seite..., auf der anderen Seite...",
+            "Studien zeigen, dass...",
+            "Ich bin der Meinung, dass...",
+            "Es wäre falsch zu sagen, dass..."
+          ]
+        },
+        {
+          "title": "Gesundheit und Sport",
+          "prompt": "Präsentiere das Thema Gesundheit und Sport. Warum ist Sport wichtig? Was sind die Hürden? Was empfiehlst du?",
+          "duration_seconds": 360,
+          "model_response": "Guten Tag! Heute möchte ich über das Thema Gesundheit und Sport sprechen. In einer Zeit, in der viele Menschen sitzende Berufe haben und viel Zeit vor dem Bildschirm verbringen, ist regelmäßige Bewegung wichtiger denn je.\n\nSport hat viele positive Auswirkungen auf unsere Gesundheit. Körperlich gesehen stärkt regelmäßige Bewegung das Herz-Kreislauf-System, hilft beim Gewicht halten und beugt vielen Krankheiten vor. Aber auch psychisch profitiert man davon: Sport baut Stress ab und verbessert die Stimmung, weil beim Sport Glückshormone freigesetzt werden.\n\nJedoch gibt es auch Hindernisse, die viele Menschen davon abhalten, regelmäßig Sport zu treiben. Viele sagen, sie haben keine Zeit, sind zu müde nach der Arbeit oder haben kein Geld für ein Fitnessstudio. Das kann ich durchaus verstehen.\n\nIch treibe selbst dreimal pro Woche Sport – ich gehe joggen und mache Yoga. Ich habe gemerkt, dass ich seitdem besser schlafe und mehr Energie im Alltag habe.\n\nIch bin der Meinung, dass jeder Mensch versuchen sollte, sich mindestens dreißig Minuten täglich zu bewegen. Man muss nicht unbedingt ins Fitnessstudio gehen – ein Spaziergang in der Natur oder Radfahren zur Arbeit reichen schon aus.\n\nZusammenfassend lässt sich sagen: Bewegung ist eine der besten Investitionen in die eigene Gesundheit. Danke!",
+          "key_phrases_to_use": [
+            "Ich bin der Meinung, dass...",
+            "Einerseits..., andererseits...",
+            "Es ist bekannt, dass...",
+            "Ich empfehle...",
+            "Zusammenfassend lässt sich sagen..."
+          ]
+        },
+        {
+          "title": "Reisen und Tourismus",
+          "prompt": "Präsentiere das Thema Reisen und Tourismus. Warum reisen Menschen gerne? Welche Vor- und Nachteile hat Tourismus? Was denkst du persönlich?",
+          "duration_seconds": 360,
+          "model_response": "Guten Tag! Mein Thema heute ist Reisen und Tourismus. Reisen gehört für viele Menschen zu den schönsten Dingen im Leben.\n\nMenschen reisen aus ganz verschiedenen Gründen. Einige wollen andere Kulturen kennenlernen und neue Erfahrungen machen. Andere suchen Erholung und Entspannung vom Alltag. Außerdem ist Reisen eine gute Möglichkeit, neue Sprachen zu lernen und den eigenen Horizont zu erweitern.\n\nFür die lokale Wirtschaft ist Tourismus sehr wichtig. Er schafft Arbeitsplätze und bringt Geld in Regionen, die sonst wenig wirtschaftliche Möglichkeiten hätten. In Ländern wie Griechenland oder Spanien ist der Tourismus eine der wichtigsten Einnahmequellen.\n\nAllerdings hat Massentourismus auch negative Seiten. Beliebte Reiseziele wie Venedig oder Barcelona leiden unter zu vielen Touristen. Die Preise für Wohnungen steigen, die Infrastruktur wird überlastet und die lokale Kultur wird manchmal zerstört. Außerdem ist Fliegen sehr schädlich für die Umwelt.\n\nIch reise sehr gerne und versuche dabei, so verantwortungsbewusst wie möglich zu sein. Ich bevorzuge Zugreisen innerhalb Europas und übernachte lieber in kleinen lokalen Hotels als in großen Ketten.\n\nMeiner Meinung nach sollten wir alle bewusster reisen – weniger oft, aber dafür länger und nachhaltiger. Qualität ist wichtiger als Quantität.\n\nVielen Dank!",
+          "key_phrases_to_use": [
+            "Auf der einen Seite..., auf der anderen Seite...",
+            "Meiner Meinung nach...",
+            "Es ist wichtig zu beachten, dass...",
+            "Hinzu kommt, dass...",
+            "Im Großen und Ganzen..."
+          ]
+        },
+        {
+          "title": "Bildung und lebenslanges Lernen",
+          "prompt": "Präsentiere das Thema Bildung und lebenslanges Lernen. Warum ist Weiterbildung wichtig? Welche Möglichkeiten gibt es? Was ist deine persönliche Erfahrung?",
+          "duration_seconds": 360,
+          "model_response": "Guten Tag! Ich möchte heute über Bildung und lebenslanges Lernen sprechen. In einer sich schnell verändernden Welt ist lebenslanges Lernen wichtiger geworden als jemals zuvor.\n\nDie Arbeitswelt verändert sich durch Digitalisierung und neue Technologien rasant. Berufe, die heute noch gefragt sind, könnten in zehn Jahren nicht mehr existieren. Deshalb ist es wichtig, dass Menschen bereit sind, sich ständig weiterzubilden und neue Fähigkeiten zu erwerben.\n\nGlücklicherweise gibt es heute viele Möglichkeiten zum Weiterlernen. Neben klassischen Kursen an Volkshochschulen oder Universitäten bieten Online-Plattformen wie Coursera oder YouTube kostenlose Kurse zu fast jedem Thema an. Das macht Bildung für alle zugänglich, unabhängig von Alter, Ort oder finanziellen Mitteln.\n\nIch selbst lerne sehr gerne Neues. Neben meinem Deutschkurs verbringe ich jeden Abend etwa dreißig Minuten damit, etwas über Buchhaltungssoftware zu lernen. Ich finde, dass Lernen das Gehirn aktiv hält und das Selbstvertrauen stärkt.\n\nMeiner Ansicht nach sollte das Bildungssystem das lebenslange Lernen noch mehr fördern. Arbeitgeber sollten ihren Mitarbeitern Zeit und finanzielle Unterstützung für Weiterbildungen geben.\n\nZusammenfassend bin ich überzeugt: Wer aufhört zu lernen, hört auf zu wachsen. Bildung ist eine Investition, die sich immer lohnt.\n\nVielen Dank für Ihre Aufmerksamkeit.",
+          "key_phrases_to_use": [
+            "Meiner Ansicht nach...",
+            "Ich bin überzeugt, dass...",
+            "Deshalb ist es wichtig, dass...",
+            "Neben... gibt es auch...",
+            "Zusammenfassend bin ich..."
+          ]
+        }
+      ]
+    },
+    "teil_3": {
+      "description": "Plan something together with your partner for ~6 minutes.",
+      "planning_scenarios": [
+        {
+          "situation": "Du und dein Lernpartner / deine Lernpartnerin seid ehemalige Schulkollegen und möchtet ein Klassentreffen für eure alte Schulklasse (20 Personen) organisieren.",
+          "task": "Plant gemeinsam das Klassentreffen: Ort, Datum, Aktivitäten und wie ihr alle informieren wollt.",
+          "model_response": "Also, ich freue mich sehr, dass wir endlich ein Klassentreffen planen! Ich denke, wir sollten zuerst über den Ort nachdenken. Wie wäre es, wenn wir ein Restaurant in unserer alten Heimatstadt buchen? Das wäre schön nostalgisch.\n\nWas hältst du davon? Wir könnten zum Beispiel das Restaurant La Piazza nehmen – da haben wir nach der Abiturfeier gefeiert, erinnerst du dich?\n\nFür das Datum würde ich vorschlagen, dass wir ein Wochenende im Oktober nehmen. Dann ist der Sommer vorbei und die meisten Menschen haben keine Urlaubspläne mehr. Wäre Samstag, der 15. Oktober gut für dich?\n\nIch schlage außerdem vor, dass wir eine kleine Aktivität organisieren – vielleicht ein Quiz über unsere Schulzeit oder ein Karaoke-Abend? Das würde sicher für Lachen sorgen.\n\nUm alle zu informieren, könnten wir eine WhatsApp-Gruppe erstellen und eine Einladung über Instagram posten. Ich bin der Meinung, dass das am schnellsten geht. Du könntest die Gruppe erstellen, wenn du die meisten Kontakte noch hast. Ist das okay für dich?\n\nWir sollten auch fragen, ob jemand vegetarisch isst oder Allergien hat, damit das Restaurant sich vorbereiten kann. Was meinst du – klingt das nach einem guten Plan?"
+        },
+        {
+          "situation": "Dein Deutschkurs endet nächste Woche und ihr möchtet gemeinsam ein Abschlussfest für alle Kursteilnehmer (15 Personen) und die Lehrerin organisieren.",
+          "task": "Plant gemeinsam das Abschlussfest: Was für ein Fest, wo, was bringt jeder mit, und wie überrascht ihr die Lehrerin?",
+          "model_response": "Ich finde es toll, dass wir unserer Lehrerin mit einem Fest danken wollen! Zuerst möchte ich vorschlagen, dass wir das Fest in unserem Klassenraum machen – das ist einfacher zu organisieren und die Lehrerin kennt den Ort schon.\n\nAls Format würde ich ein Potluck-Picknick vorschlagen, bei dem jeder etwas aus seinem Heimatland mitbringt. Das wäre besonders schön, weil wir so eine internationale Gruppe sind. Findest du das auch eine gute Idee?\n\nWir könnten die Aufgaben unter uns aufteilen: Einige bringen Essen mit, andere kümmern sich um Musik oder Dekoration. Ich könnte zum Beispiel eine Playlist mit Liedern aus verschiedenen Ländern erstellen.\n\nFür die Überraschung der Lehrerin schlage ich vor, dass wir alle gemeinsam ein kleines Dankeschön-Video aufnehmen – jeder sagt auf Deutsch, was er in diesem Kurs gelernt hat. Das wäre sicher sehr berührend!\n\nAußerdem könnten wir noch eine Karte kaufen, die alle unterschreiben. Ich kann die Karte organisieren, wenn du dich um die WhatsApp-Nachricht an alle Kursteilnehmer kümmerst. Was meinst du, wann sollen wir anfangen zu planen?"
+        },
+        {
+          "situation": "Du und drei Freunde möchtet einen Wochenendausflug in eine andere Stadt machen. Ihr habt unterschiedliche Interessen und ein begrenztes Budget.",
+          "task": "Plant gemeinsam den Ausflug: Ziel, Transport, Unterkunft, Aktivitäten und Budget.",
+          "model_response": "Super, ich freue mich auf unser Wochenende! Also, ich würde vorschlagen, dass wir nach Leipzig fahren – ich war noch nie dort und es soll eine tolle junge Stadt mit interessanter Geschichte sein. Was hältst du davon?\n\nFür den Transport wäre eine Mitfahrgelegenheit am günstigsten, aber mit dem Zug wären wir flexibler. Wenn wir früh buchen, bekommt man günstige Zugtickets. Ich würde eher den Zug nehmen, weil wir dann kein Auto brauchen und überall hinlaufen können.\n\nFür die Unterkunft könnten wir ein Hostel buchen – da zahlt man oft nur 20 bis 25 Euro pro Nacht. Das wäre günstig und wir hätten mehr Geld für Aktivitäten und Essen. Ist das für dich in Ordnung?\n\nFür das Programm schlage ich vor: am Samstag die Innenstadt und das Völkerschlachtdenkmal besichtigen, abends in die Spinnerei gehen – das ist ein bekanntes Kunstzentrum. Am Sonntag dann den Markt besuchen und gemütlich frühstücken, bevor wir zurückfahren.\n\nWas das Budget angeht, würde ich sagen: maximal 150 Euro pro Person für alles. Wäre das für alle möglich? Ich finde, wir sollten das Budget von Anfang an klarstellen, damit es keine Überraschungen gibt."
+        },
+        {
+          "situation": "Dein Kollege hat nächste Woche Geburtstag und ihr möchtet ihm eine Überraschungsparty im Büro organisieren.",
+          "task": "Plant gemeinsam die Überraschungsparty: Zeitpunkt, Dekoration, Essen, wer wird eingeladen, und wie hält ihr es geheim?",
+          "model_response": "Oh, ich finde es so schön, dass wir eine Überraschung für Thomas organisieren wollen! Wir müssen aber sehr vorsichtig sein, damit er nichts bemerkt.\n\nIch würde vorschlagen, dass wir die Party am Freitagmittag machen – nach dem Mittagessen, wenn er denkt, er geht zurück zu seinem Schreibtisch. Dann sind alle im Büro und es ist ein natürlicher Zeitpunkt. Findest du das auch gut?\n\nFür die Dekoration könnten wir früh morgens, bevor er kommt, Luftballons und eine Girlande aufhängen. Wir müssen jemanden bitten, ihn solange aus dem Büro zu halten – vielleicht kannst du ihn zu einem Kaffee einladen? Das wäre sehr hilfreich.\n\nFür das Essen schlage ich vor, dass jeder etwas mitbringt. Ich kann einen Kuchen backen und andere können Snacks oder Getränke mitbringen. Das ist günstiger als alles zu kaufen.\n\nUm das Geheimnis zu wahren, sollten wir nur per E-Mail kommunizieren und nicht im Büro laut über die Party sprechen. Wir könnten eine gemeinsame E-Mail an alle relevanten Kollegen schicken.\n\nIch bin der Meinung, das wird eine tolle Überraschung! Wer schreibt die Einladungs-E-Mail – du oder ich?"
+        },
+        {
+          "situation": "Deine Klasse soll ein Schulprojekt über Nachhaltigkeit durchführen. Ihr habt zwei Wochen Zeit und müsst das Projekt der ganzen Schule präsentieren.",
+          "task": "Plant gemeinsam das Nachhaltigkeitsprojekt: Thema, Aktivitäten, Aufgabenverteilung und Präsentation.",
+          "model_response": "Also, ich finde Nachhaltigkeit ein sehr wichtiges Thema und freue mich auf das Projekt! Ich würde vorschlagen, dass wir uns auf das Thema Lebensmittelverschwendung konzentrieren – das betrifft jeden direkt im Alltag und ist leicht verständlich.\n\nFür die Aktivitäten könnten wir in der ersten Woche zunächst recherchieren und Informationen sammeln. Wir könnten auch eine Umfrage in der Schule machen: Wie viel Essen werfen Schüler täglich weg? Das würde die Zahlen sehr eindrucksvoll machen.\n\nIn der zweiten Woche könnten wir dann ein Plakat gestalten und eine kurze Präsentation vorbereiten. Ich schlage auch vor, dass wir ein paar einfache Rezepte vorstellen, mit denen man Reste verwerten kann – das wäre praktisch und motivierend.\n\nFür die Aufgabenverteilung: Ich könnte die Umfrage erstellen und auswerten, wenn du dich um das Plakat kümmerst. Wir könnten auch andere Klassenkameraden einbeziehen – zum Beispiel könnte jemand Fotos machen und ein anderer die Präsentation aufbauen.\n\nFür die abschließende Präsentation bin ich der Meinung, dass wir sie so interaktiv wie möglich gestalten sollten – vielleicht mit einem Quiz für das Publikum? Was meinst du – haben wir genug Zeit, das alles in zwei Wochen zu schaffen?"
+        }
+      ],
+      "phrase_bank": {
+        "opinions": [
+          "Ich bin der Meinung, dass...",
+          "Meiner Ansicht nach...",
+          "Ich denke, dass...",
+          "Meiner Meinung nach ist es wichtig, dass...",
+          "Ich bin überzeugt, dass...",
+          "Ich glaube, dass wir..."
+        ],
+        "agreeing": [
+          "Da stimme ich dir zu.",
+          "Das finde ich auch.",
+          "Ja, das ist eine gute Idee!",
+          "Da hast du vollkommen recht.",
+          "Das sehe ich genauso."
+        ],
+        "disagreeing": [
+          "Da bin ich anderer Meinung.",
+          "Ich sehe das etwas anders.",
+          "Das finde ich nicht so gut, weil...",
+          "Ich bin nicht ganz einverstanden, denn...",
+          "Das könnte ein Problem sein, weil..."
+        ],
+        "planning": [
+          "Wir könnten...",
+          "Was hältst du davon, wenn wir...?",
+          "Ich würde vorschlagen, dass wir...",
+          "Vielleicht sollten wir zuerst...",
+          "Wäre es möglich, dass...?",
+          "Ich denke, wir sollten..."
+        ],
+        "suggestions": [
+          "Wie wäre es mit...?",
+          "Ich schlage vor, dass wir...",
+          "Was meinst du – sollen wir...?",
+          "Haben wir die Möglichkeit,...?",
+          "Als Alternative könnten wir..."
+        ],
+        "fillers": [
+          "Also...",
+          "Ich meine...",
+          "Sozusagen...",
+          "Eigentlich...",
+          "Hmm, Moment mal...",
+          "Wie soll ich sagen..."
+        ]
+      }
+    }
+  },
+  "lesen": {
+    "title": "Lesen (Reading)",
+    "description": "Three-part reading exercise mirroring TELC B1 format. Total score: 75 points across all three parts.",
+    "exercise": {
+      "teil_1": {
+        "description": "Match each headline (1-5) to the correct text (a-f). One text does NOT match any headline.",
+        "headlines": [
+          "1. Homeoffice – mehr Freiheit oder mehr Stress?",
+          "2. Immer mehr Menschen verzichten auf Fleisch",
+          "3. Städte investieren in bessere Fahrradwege",
+          "4. Sprachen lernen mit dem Smartphone",
+          "5. Abendkurse für Berufstätige"
+        ],
+        "texts": [
+          {
+            "label": "a",
+            "content": "Seit der Pandemie arbeiten viele Arbeitnehmer regelmäßig von zu Hause. Studien zeigen, dass die meisten Beschäftigten die Flexibilität schätzen, aber auch Nachteile sehen: Die Grenze zwischen Arbeit und Privatleben verschwimmt oft, und manche fühlen sich isoliert. Arbeitgeber müssen neue Konzepte entwickeln, um die Produktivität und das Wohlbefinden der Mitarbeiter zu sichern."
+          },
+          {
+            "label": "b",
+            "content": "Der Trend zu vegetarischer und veganer Ernährung wächst weiterhin. Supermärkte und Restaurants reagieren mit einem breiteren Angebot an pflanzlichen Alternativen. Als Hauptgründe nennen die meisten Menschen Umweltbewusstsein und Gesundheit. Fleischalternativen aus Hülsenfrüchten oder Soja werden immer besser und sind kaum noch vom Original zu unterscheiden."
+          },
+          {
+            "label": "c",
+            "content": "Viele Großstädte in Deutschland bauen ihr Fahrradnetz aus. Neben breiten Radwegen gibt es jetzt auch mehr Abstellmöglichkeiten und Reparaturstationen. Das Ziel ist es, den Autoverkehr zu reduzieren und klimafreundliche Mobilität zu fördern. Radfahrer sollen sicherer und schneller ans Ziel kommen als bisher."
+          },
+          {
+            "label": "d",
+            "content": "Millionen Menschen weltweit nutzen heute Apps wie Duolingo oder Babbel, um neue Sprachen zu lernen. Der Vorteil: Man kann überall und jederzeit üben – in der U-Bahn, in der Mittagspause oder vor dem Schlafen. Experten empfehlen jedoch, Apps nicht als alleinige Lernmethode zu nutzen, sondern sie mit Unterricht und echten Gesprächen zu kombinieren."
+          },
+          {
+            "label": "e",
+            "content": "Volkshochschulen bieten ein breites Programm an Kursen an, die speziell auf berufstätige Erwachsene zugeschnitten sind. Von Sprachen über Kochen bis hin zu Computerkursen – die meisten Angebote finden abends oder am Wochenende statt. Die Kursgebühren sind in der Regel günstig, und viele Kurse können auch online belegt werden."
+          },
+          {
+            "label": "f",
+            "content": "In vielen deutschen Städten wächst die Nachfrage nach Elektroautos. Die Regierung fördert den Kauf mit Prämien und baut gleichzeitig das Netz der Ladestationen aus. Trotzdem sind viele Autofahrer noch skeptisch – die hohen Anschaffungskosten und die begrenzte Reichweite sind die häufigsten Kritikpunkte an der neuen Technologie."
+          }
+        ],
+        "answer_key": [0, 1, 2, 3, 4],
+        "answer_explanation": "Text a matches Headline 1 (Homeoffice), Text b matches Headline 2 (vegetarisch), Text c matches Headline 3 (Fahrradwege), Text d matches Headline 4 (Sprachen-Apps), Text e matches Headline 5 (Abendkurse). Text f (Elektroautos) is the distractor with no matching headline."
+      },
+      "teil_2": {
+        "description": "Read the text and choose the correct answer (a, b, or c) for each question.",
+        "passage": "Klara Meier ist 27 Jahre alt und kommt aus einer kleinen Stadt in Bayern. Nach ihrem Studium der Kommunikationswissenschaften hat sie lange nach einem Job gesucht. Als sie schließlich eine Stelle als Content-Managerin bei einem Berliner Start-up bekam, war die Freude groß – aber auch die Nervosität.\n\nDer Umzug nach Berlin war eine große Veränderung. Die Stadt ist laut, schnell und manchmal überwältigend. Klara kannte dort zunächst niemanden und vermisste ihre Familie und Freunde sehr. \"Die ersten Monate waren wirklich schwer\", sagt sie. \"Ich habe geweint und überlegt, ob ich wieder zurückgehen soll.\"\n\nAber Klara blieb. Sie meldete sich in einem Sportverein an, begann einen Kochkurs und lernte so viele neue Menschen kennen. Heute, zwei Jahre später, liebt sie Berlin. Sie hat einen festen Freundeskreis aufgebaut und fühlt sich in ihrer Arbeit sehr wohl. \"Ich würde diese Entscheidung jederzeit wieder treffen\", sagt sie heute. \"Man muss manchmal mutig sein und Neues wagen.\"",
+        "questions": [
+          {
+            "question": "Warum ist Klara nach Berlin gezogen?",
+            "options": [
+              "a. Sie wollte schon immer in einer Großstadt leben.",
+              "b. Sie hat dort eine Stelle in einer Firma gefunden.",
+              "c. Ihre Familie ist nach Berlin umgezogen."
+            ],
+            "correct_answer": 1
+          },
+          {
+            "question": "Wie fühlte sich Klara in den ersten Monaten in Berlin?",
+            "options": [
+              "a. Sie war sofort begeistert von der Großstadt.",
+              "b. Sie hatte Schwierigkeiten und dachte daran, zurückzugehen.",
+              "c. Sie war glücklich, weil sie viele Freunde gefunden hatte."
+            ],
+            "correct_answer": 1
+          },
+          {
+            "question": "Was hat Klara getan, um neue Leute kennenzulernen?",
+            "options": [
+              "a. Sie hat Kollegen aus der Arbeit getroffen.",
+              "b. Sie ist zu ihrer Familie nach Bayern gefahren.",
+              "c. Sie hat sich in einem Verein und einem Kochkurs angemeldet."
+            ],
+            "correct_answer": 2
+          },
+          {
+            "question": "Wie ist Klaras Leben in Berlin heute?",
+            "options": [
+              "a. Sie ist immer noch unglücklich und möchte wegziehen.",
+              "b. Sie hat sich gut eingelebt und schätzt ihr Leben dort.",
+              "c. Sie arbeitet nicht mehr bei dem Start-up."
+            ],
+            "correct_answer": 1
+          },
+          {
+            "question": "Was ist die Hauptbotschaft von Klaras Geschichte?",
+            "options": [
+              "a. Großstädte sind immer besser als kleine Städte.",
+              "b. Man sollte keine Risiken eingehen.",
+              "c. Manchmal lohnt es sich, mutig zu sein und Neues auszuprobieren."
+            ],
+            "correct_answer": 2
+          }
+        ],
+        "answer_key": [1, 1, 2, 1, 2]
+      },
+      "teil_3": {
+        "description": "Match each person (1-5) to the most suitable advertisement (a-f). One advertisement does NOT fit any person.",
+        "people": [
+          {
+            "id": 1,
+            "description": "Sandra ist Lehrerin und möchte ihre Deutschkenntnisse verbessern. Sie arbeitet bis 17 Uhr und sucht einen Kurs, der abends oder am Wochenende stattfindet."
+          },
+          {
+            "id": 2,
+            "description": "Kevin ist Student und hat wenig Geld. Er möchte regelmäßig Sport treiben und sucht ein günstiges Fitnessstudio in seiner Nähe mit flexiblen Öffnungszeiten."
+          },
+          {
+            "id": 3,
+            "description": "Maria und Thomas arbeiten beide Vollzeit und haben zwei kleine Kinder. Sie suchen jemanden, der zweimal pro Woche abends auf ihre Kinder aufpasst."
+          },
+          {
+            "id": 4,
+            "description": "Paul sucht eine Wohnung oder ein WG-Zimmer. Er möchte zentral wohnen und mit dem Fahrrad zur Uni fahren. Die Miete darf nicht zu teuer sein."
+          },
+          {
+            "id": 5,
+            "description": "Julia liebt Kochen und möchte neue Rezepte lernen. Sie sucht einen Kochkurs, der am Wochenende stattfindet und auch für Anfänger geeignet ist."
+          }
+        ],
+        "notices": [
+          {
+            "label": "a",
+            "content": "VHS Abendkurs Deutsch B1 – Wir bieten Sprachkurse für Erwachsene auf allen Niveaus an. Der Kurs findet montags und mittwochs von 18:30 bis 20:30 Uhr statt. Anmeldung unter vhs-kurse.de. Kursgebühr: 120 Euro pro Semester."
+          },
+          {
+            "label": "b",
+            "content": "FITness4ALL – Ihr günstiges Fitnessstudio für Studenten! Monatsbeitrag ab 19,90 Euro. Geöffnet täglich von 6 bis 23 Uhr. Alle Geräte und Kurse inklusive. Zeigen Sie Ihren Studierendenausweis und erhalten Sie 20% Rabatt auf die Mitgliedschaft!"
+          },
+          {
+            "label": "c",
+            "content": "Kinderbetreuung gesucht! Wir, Familie Bauer, suchen eine zuverlässige Babysitterin / einen zuverlässigen Babysitter für unsere zwei Kinder (4 und 6 Jahre). Einsatz: dienstags und donnerstags von 18 bis 21 Uhr. Gute Bezahlung. Bitte melden Sie sich unter: familie.bauer@email.de"
+          },
+          {
+            "label": "d",
+            "content": "WG-Zimmer frei! Schönes möbliertes Zimmer in 3er-WG, Nähe Hauptbahnhof, zu vermieten. 15 min mit dem Fahrrad zur Uni. Miete: 420 Euro warm inklusive Internet. Nichtraucher bevorzugt. Interesse? Schreib an: wg-zimmer-zentrum@gmail.com"
+          },
+          {
+            "label": "e",
+            "content": "Kochkurs für Einsteiger – Entdecke die Freude am Kochen! Jeden Samstag von 10 bis 13 Uhr in unserem Kochstudio in der Innenstadt. Wir kochen europäische und internationale Küche. Vorkenntnisse nicht nötig! Kursgebühr: 35 Euro pro Einheit. Anmeldung: kochstudio-genuss.de"
+          },
+          {
+            "label": "f",
+            "content": "Nachhilfelehrer gesucht! Ich suche einen erfahrenen Mathematiklehrer für meine 14-jährige Tochter. Unterricht soll zweimal pro Woche stattfinden. Wir zahlen 20 Euro pro Stunde. Bitte kontaktieren Sie uns unter: nachhilfe-anfrage@email.de"
+          }
+        ],
+        "answer_key": [0, 1, 2, 3, 4],
+        "answer_explanation": "Person 1 (Sandra, Deutschkurs abends) matches Notice a. Person 2 (Kevin, günstiges Fitnessstudio) matches Notice b. Person 3 (Maria+Thomas, Babysitter 2x/Woche) matches Notice c. Person 4 (Paul, WG zentral) matches Notice d. Person 5 (Julia, Kochkurs Wochenende) matches Notice e. Notice f (Nachhilfelehrer Mathe) is the distractor."
+      }
+    }
+  },
+  "horen": {
+    "title": "Hören (Listening)",
+    "description": "Listening comprehension practice mirroring TELC B1 format. Total score: 75 points. Tip: Listen for keywords and main ideas, not every single word.",
+    "strategies": [
+      "Read the questions and statements BEFORE listening so you know what to listen for.",
+      "Focus on keywords – you do not need to understand every word in the audio.",
+      "Pay attention to numbers, times, names, and places as they are often key details.",
+      "Do not panic if you miss something – continue listening and answer the next question.",
+      "Listen for signal words like 'aber', 'leider', 'deshalb' that can change the meaning of a sentence.",
+      "In true/false questions, a statement is only TRUE if the audio confirms it exactly.",
+      "For multiple choice questions, eliminate clearly wrong options first and choose the best remaining answer.",
+      "During the second listening, verify your answers rather than changing them without a clear reason."
+    ],
+    "teil_1": {
+      "description": "Listen to 5 short radio announcements or voice messages. Decide: is the statement richtig (true) or falsch (false)?",
+      "exercises": [
+        {
+          "id": "horen_1_1",
+          "context": "Radio announcement about a community event.",
+          "statement": "Das Stadtfest findet am Samstag statt.",
+          "audio_script": "Guten Morgen, hier ist Radio Köln. Wir möchten Sie daran erinnern: Das diesjährige Stadtfest findet dieses Wochenende statt – und zwar am Sonntag, dem 12. September, ab 12 Uhr auf dem Marktplatz. Der Eintritt ist kostenlos. Wir freuen uns auf Sie!",
+          "correct_answer": false,
+          "explanation": "The announcement says the festival is on Sunday (Sonntag), not Saturday (Samstag). Therefore the statement is FALSE."
+        },
+        {
+          "id": "horen_1_2",
+          "context": "Phone message from a dentist's office.",
+          "statement": "Die Arztpraxis ruft an, weil der Termin bestätigt wurde.",
+          "audio_script": "Guten Tag, hier ist die Zahnarztpraxis Dr. Schneider. Ich rufe an wegen Ihres Termins am Donnerstag um 14 Uhr. Leider müssen wir diesen Termin absagen, da Dr. Schneider an diesem Tag krank ist. Bitte rufen Sie uns zurück, damit wir einen neuen Termin vereinbaren können. Unsere Nummer ist 0221 – 4785693. Auf Wiederhören.",
+          "correct_answer": false,
+          "explanation": "The office calls to CANCEL and reschedule the appointment, not to confirm it. The statement is FALSE."
+        },
+        {
+          "id": "horen_1_3",
+          "context": "Train station announcement.",
+          "statement": "Der Zug nach Hamburg hat heute Verspätung.",
+          "audio_script": "Achtung, eine Durchsage für alle Reisenden: Der ICE 584 nach Hamburg Hauptbahnhof hat heute leider circa 25 Minuten Verspätung wegen einer Streckensperrung bei Hannover. Der Zug fährt voraussichtlich um 14:55 Uhr ab Gleis 7 ab. Wir entschuldigen uns für die Unannehmlichkeiten.",
+          "correct_answer": true,
+          "explanation": "The announcement confirms the train to Hamburg is delayed by approximately 25 minutes. The statement is TRUE."
+        },
+        {
+          "id": "horen_1_4",
+          "context": "Voice message from a friend.",
+          "statement": "Die Freundin möchte, dass man sie zurückruft.",
+          "audio_script": "Hey, ich bin's, Laura! Ich wollte nur kurz fragen, ob du morgen Abend Zeit hast. Wir wollen ins Kino gehen und dachten, du kommst vielleicht mit? Der Film fängt um acht an. Du brauchst mich nicht zurückzurufen – schick mir einfach eine kurze Nachricht, ob du kommen kannst oder nicht. Bis dann!",
+          "correct_answer": false,
+          "explanation": "Laura explicitly says 'Du brauchst mich nicht zurückzurufen' (You don't need to call me back). She asks for a text message instead. The statement is FALSE."
+        },
+        {
+          "id": "horen_1_5",
+          "context": "Radio weather forecast.",
+          "statement": "Am Nachmittag wird es im Süden regnen.",
+          "audio_script": "Und nun die Wettervorhersage für heute: Im Norden Deutschlands bleibt es den ganzen Tag trocken und sonnig mit Temperaturen bis 22 Grad. Im Süden hingegen, besonders in Bayern und Baden-Württemberg, sind am Nachmittag kräftige Gewitter zu erwarten. Die Temperaturen liegen dort nur bei etwa 15 Grad. Bitte nehmen Sie einen Regenschirm mit!",
+          "correct_answer": true,
+          "explanation": "The forecast announces strong thunderstorms in the south (Bavaria and Baden-Württemberg) in the afternoon. The statement is TRUE."
+        }
+      ]
+    },
+    "teil_2": {
+      "description": "Listen to 5 longer conversations or interviews. Choose the correct answer (a, b, or c).",
+      "exercises": [
+        {
+          "id": "horen_2_1",
+          "context": "A radio interview with a career counselor about changing jobs.",
+          "question": "Was empfiehlt die Karriereberaterin, bevor man den Job wechselt?",
+          "options": [
+            "a. Man soll sofort kündigen und dann nach einem neuen Job suchen.",
+            "b. Man soll die aktuelle Stelle erst aufgeben, wenn man einen neuen Job hat.",
+            "c. Man soll ein halbes Jahr pausieren und dann neu anfangen."
+          ],
+          "audio_script": "Moderator: Frau König, viele Menschen möchten ihren Job wechseln. Haben Sie einen Rat?\nFrau König: Ja, auf jeden Fall. Das Wichtigste ist: Kündigen Sie niemals Ihre aktuelle Stelle, bevor Sie einen neuen Job in der Tasche haben. Ich höre leider oft, dass Menschen aus Frust kündigen und dann monatelang arbeitslos sind. Das ist finanziell sehr schwierig und kann auch die Psyche belasten. Suchen Sie parallel zu Ihrer aktuellen Arbeit nach neuen Stellen. So haben Sie immer eine Absicherung.",
+          "correct_answer": 1,
+          "explanation": "The career counselor explicitly advises never to quit your current job before having a new one secured."
+        },
+        {
+          "id": "horen_2_2",
+          "context": "A conversation between two friends about a language course.",
+          "question": "Warum möchte Stefan einen Italienischkurs machen?",
+          "options": [
+            "a. Er hat einen Job in Italien bekommen.",
+            "b. Seine Freundin kommt aus Italien.",
+            "c. Er fährt im Sommer nach Italien in den Urlaub."
+          ],
+          "audio_script": "Anna: Stefan, ich habe gehört, du machst jetzt einen Italienischkurs. Stimmt das?\nStefan: Ja! Ich bin seit ein paar Monaten mit einer Italienerin zusammen – sie heißt Giulia und kommt aus Florenz. Ihr Deutsch ist super, aber ich möchte auch ihre Sprache lernen. Es ist mir wichtig, dass ich mich mit ihrer Familie unterhalten kann, wenn wir sie in Italien besuchen.\nAnna: Wie romantisch! Und macht dir der Kurs Spaß?\nStefan: Total! Die Sprache ist wirklich schön.",
+          "correct_answer": 1,
+          "explanation": "Stefan wants to learn Italian because his girlfriend is Italian (from Florence) and he wants to communicate with her family."
+        },
+        {
+          "id": "horen_2_3",
+          "context": "A radio report about a new library program.",
+          "question": "Was ist das Besondere an dem neuen Bibliotheksprogramm?",
+          "options": [
+            "a. Man kann Bücher jetzt kostenlos kaufen.",
+            "b. Man kann nicht nur Bücher, sondern auch andere Gegenstände ausleihen.",
+            "c. Die Bibliothek ist jetzt 24 Stunden geöffnet."
+          ],
+          "audio_script": "Die Stadtbibliothek Berlin startet nächste Woche ein neues Projekt: die 'Bibliothek der Dinge'. Neben Büchern und DVDs können Bürger nun auch Alltagsgegenstände ausleihen – zum Beispiel Werkzeug, Küchengeräte, Sportausrüstung oder sogar Musikinstrumente. Die Ausleihfrist beträgt zwei Wochen. Das Angebot ist kostenlos und steht allen Bibliotheksmitgliedern offen. Das Ziel: Ressourcen teilen, statt immer alles neu kaufen.",
+          "correct_answer": 1,
+          "explanation": "The 'Bibliothek der Dinge' program lets members borrow everyday objects like tools, kitchen appliances, sports gear, and instruments, not just books."
+        },
+        {
+          "id": "horen_2_4",
+          "context": "A conversation at work between two colleagues about a meeting.",
+          "question": "Wann findet das Meeting statt?",
+          "options": [
+            "a. Am Montag um 10 Uhr.",
+            "b. Am Dienstag um 14 Uhr.",
+            "c. Am Mittwoch um 11 Uhr."
+          ],
+          "audio_script": "Petra: Sag mal, weißt du, wann das Meeting mit dem neuen Kunden ist?\nMarkus: Ja, ich dachte erst, es wäre Montag, aber das wurde geändert. Zuerst war auch Dienstag um 14 Uhr im Gespräch, aber Herr Peters kommt dann von einer Dienstreise zurück und wäre zu erschöpft. Also haben sie es auf Mittwoch, den 8. um 11 Uhr morgens verschoben.\nPetra: Okay, gut. Dann trage ich das gleich in meinen Kalender ein. Mittwoch, 11 Uhr – danke!",
+          "correct_answer": 2,
+          "explanation": "The meeting was first considered for Monday (rejected), then Tuesday at 14:00 (rejected), and finally set for Wednesday at 11:00."
+        },
+        {
+          "id": "horen_2_5",
+          "context": "A radio interview with a volunteer at a food bank.",
+          "question": "Was ist die Hauptmotivation der Interviewten für ihre ehrenamtliche Arbeit?",
+          "options": [
+            "a. Sie bekommt eine finanzielle Entschädigung für ihre Arbeit.",
+            "b. Sie möchte ihre Freizeit sinnvoll nutzen und anderen Menschen helfen.",
+            "c. Sie sucht neue berufliche Kontakte durch das Ehrenamt."
+          ],
+          "audio_script": "Moderatorin: Frau Wagner, Sie arbeiten seit zwei Jahren ehrenamtlich bei der Tafel. Warum machen Sie das?\nFrau Wagner: Als ich in Rente gegangen bin, hatte ich plötzlich sehr viel Zeit und wusste nicht immer, was ich damit anfangen soll. Ein Freund hat mir von der Tafel erzählt. Ich dachte: Warum nicht? Es ist schön zu wissen, dass meine Zeit einen echten Unterschied macht. Wenn ich morgens nach Hause fahre und weiß, dass ich heute zwanzig Familien geholfen habe – das gibt mir ein tolles Gefühl. Geld dafür? Das brauche ich nicht. Die Dankbarkeit der Menschen reicht mir völlig.",
+          "correct_answer": 1,
+          "explanation": "Frau Wagner volunteers to use her retirement time meaningfully and help others. She explicitly says she does not need money – the gratitude is enough."
+        }
+      ]
+    },
+    "common_distractor_traps": [
+      "The audio often mentions the wrong answer first and then corrects it – always listen to the end of a sentence or thought before deciding.",
+      "Numbers and dates are frequently used as distractors – a wrong date or time may be mentioned before the correct one is stated.",
+      "A speaker may describe what they did NOT do or do NOT want – listen carefully for negation words like 'nicht', 'kein', 'nie', 'leider nicht'.",
+      "Synonyms are common in TELC: the correct answer may use different words than what was said in the audio, but mean the same thing.",
+      "Partial truths are traps: an answer may be mostly correct but one detail (time, place, or person) is wrong – the whole statement is then FALSE.",
+      "Background information or extra details in the audio are there to distract you – stay focused on what is relevant to each question.",
+      "Speakers sometimes express doubt or possibility using words like 'könnte', 'vielleicht', 'angeblich' – this is not the same as stating a confirmed fact.",
+      "Watch out for the word 'aber' (but) or 'jedoch' (however) – what comes after these words usually contains the most important and accurate information."
+    ]
+  }
+}

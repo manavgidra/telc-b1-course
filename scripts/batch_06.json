@@ -1,0 +1,391 @@
+[
+  {
+    "video_id": "7cBxx6vZCQw",
+    "title": "B1 - Lesson 7 | \"lassen\" mit Vorsilben | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=7cBxx6vZCQw",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers 'lassen' with various prefixes (Vorsilben) that create new verbs with distinct meanings: verlassen (to leave/abandon), entlassen (to dismiss/fire), erlassen (to enact/waive), hinterlassen (to leave behind), zulassen (to allow/admit), nachlassen (to decrease/ease), unterlassen (to refrain from), einlassen (to let in/get involved with).",
+      "key_concept": "Adding prefixes to 'lassen' creates completely new verbs. These derived verbs are NOT used like causative lassen — they function as regular separable or inseparable prefix verbs. Inseparable: verlassen, entlassen, erlassen, hinterlassen, unterlassen. Separable: zulassen, nachlassen, einlassen.",
+      "grammar_rule": "Inseparable prefix verbs (ver-, ent-, er-, hinter-, unter-): prefix stays attached, no 'ge-' in Partizip II: verlassen → hat verlassen, entlassen → hat entlassen. Separable prefix verbs (zu-, nach-, ein-): prefix separates, 'ge-' between prefix and stem: zulassen → hat zugelassen, nachlassen → hat nachgelassen.",
+      "word_order_note": "Separable: 'Er lässt mich nicht ein.' (present) / 'Er hat mich nicht eingelassen.' (Perfekt). Inseparable: 'Sie verlässt die Stadt.' (present) / 'Sie hat die Stadt verlassen.' (Perfekt).",
+      "common_mistakes": [
+        "Confusing separable and inseparable: verlassen is INSEPARABLE (Sie verlässt ihn), zulassen is SEPARABLE (Er lässt es zu)",
+        "Wrong Partizip II: verlassen → 'verlassen' (no ge-), zugelassen (with ge-)",
+        "Mixing up meanings: verlassen (leave) vs. hinterlassen (leave behind a legacy/message)",
+        "Using verlassen reflexively when not intended: 'sich auf jemanden verlassen' = to rely on",
+        "Forgetting that 'nachlassen' means to decrease, not 'to let after'"
+      ]
+    },
+    "vocabulary": [
+      {"de": "verlassen", "en": "to leave, abandon", "example_de": "Sie hat ihren Mann verlassen.", "example_en": "She left her husband."},
+      {"de": "sich verlassen auf", "en": "to rely on", "example_de": "Du kannst dich auf mich verlassen.", "example_en": "You can rely on me."},
+      {"de": "entlassen", "en": "to dismiss, fire", "example_de": "Die Firma hat 50 Mitarbeiter entlassen.", "example_en": "The company fired 50 employees."},
+      {"de": "hinterlassen", "en": "to leave behind", "example_de": "Bitte hinterlassen Sie eine Nachricht.", "example_en": "Please leave a message."},
+      {"de": "zulassen", "en": "to allow, permit", "example_de": "Das Gesetz lässt das nicht zu.", "example_en": "The law does not permit that."},
+      {"de": "nachlassen", "en": "to decrease, ease off", "example_de": "Die Schmerzen haben nachgelassen.", "example_en": "The pain has eased."},
+      {"de": "unterlassen", "en": "to refrain from, stop doing", "example_de": "Bitte unterlassen Sie das Rauchen.", "example_en": "Please refrain from smoking."},
+      {"de": "einlassen", "en": "to let in / to get involved", "example_de": "Ich lasse mich auf keine Diskussion ein.", "example_en": "I won't get involved in any discussion."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "verlassen (inseparable)", "structure": "Subject + verlassen + Akk. / sich verlassen auf + Akk.", "example_de": "Er verlässt morgen die Stadt. / Ich verlasse mich auf dich.", "example_en": "He's leaving the city tomorrow. / I rely on you.", "telc_relevance": "verlassen and sich verlassen auf appear frequently in Lesen passages"},
+      {"pattern": "entlassen (inseparable)", "structure": "Subject + entlassen + Akk. (Person)", "example_de": "Der Chef hat ihn entlassen.", "example_en": "The boss fired him.", "telc_relevance": "Arbeit/Job topic vocabulary — important for Lesen and Hören"},
+      {"pattern": "zulassen (separable)", "structure": "Subject + lässt ... zu / hat ... zugelassen", "example_de": "Man darf Hunde hier nicht zulassen.", "example_en": "Dogs are not allowed here.", "telc_relevance": "Separable prefix verb — tested in Sprachbausteine word order"},
+      {"pattern": "nachlassen (separable)", "structure": "Subject + lässt nach / hat nachgelassen", "example_de": "Der Regen hat endlich nachgelassen.", "example_en": "The rain has finally eased.", "telc_relevance": "Common in weather and health topic readings"}
+    ],
+    "flashcards": [
+      {"front": "verlassen", "back": "to leave/abandon — Sie hat die Stadt verlassen. (inseparable, no ge-)", "type": "vocabulary"},
+      {"front": "sich verlassen auf + Akk.", "back": "to rely on — Du kannst dich auf mich verlassen.", "type": "vocabulary"},
+      {"front": "entlassen", "back": "to fire/dismiss — Die Firma hat ihn entlassen.", "type": "vocabulary"},
+      {"front": "hinterlassen", "back": "to leave behind (message, impression) — Bitte hinterlassen Sie eine Nachricht.", "type": "vocabulary"},
+      {"front": "zulassen", "back": "to allow/permit — Das wird hier nicht zugelassen. (separable)", "type": "vocabulary"},
+      {"front": "nachlassen", "back": "to decrease/ease — Die Schmerzen haben nachgelassen. (separable)", "type": "vocabulary"},
+      {"front": "Is 'verlassen' separable or inseparable?", "back": "Inseparable (ver-) — Partizip II: verlassen (no ge-)", "type": "grammar"},
+      {"front": "Is 'zulassen' separable or inseparable?", "back": "Separable (zu-) — Partizip II: zugelassen", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Du kannst dich immer auf deine Familie __________.", "en": "You can always rely on your family.", "hint": "verlassen (sich verlassen auf)"},
+      {"de": "Die Firma hat 20 Mitarbeiter __________.", "en": "The company fired 20 employees.", "hint": "entlassen (inseparable, Perfekt: entlassen)"},
+      {"de": "Bitte __________ Sie mir eine Nachricht.", "en": "Please leave me a message.", "hint": "hinterlassen (inseparable prefix verb)"},
+      {"de": "Die Kopfschmerzen haben endlich __________.", "en": "The headache has finally eased.", "hint": "nachgelassen (separable: nach + ge + lassen)"},
+      {"de": "Das Rauchen ist hier nicht __________.", "en": "Smoking is not allowed here.", "hint": "zugelassen (separable: zu + ge + lassen)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Lesen, 'sich auf jemanden verlassen' (rely on) and 'nachlassen' (decrease) are frequently used. Don't confuse them with the base verb 'lassen'.", "telc_section": "Lesen"},
+      {"tip": "For Sprachbausteine, know whether a lassen-verb is separable or inseparable — this affects word order and Partizip II form.", "telc_section": "Sprachbausteine"},
+      {"tip": "In Schreiben about work topics: 'Viele Mitarbeiter wurden entlassen' or 'Bitte hinterlassen Sie mir eine Nachricht' are useful phrases.", "telc_section": "Schreiben"}
+    ],
+    "visual_summary": {
+      "title": "lassen mit Vorsilben — Separable vs. Inseparable",
+      "table": {
+        "headers": ["Verb", "Type", "Meaning", "Partizip II"],
+        "rows": [
+          ["verlassen", "inseparable", "to leave/abandon", "hat verlassen"],
+          ["entlassen", "inseparable", "to dismiss/fire", "hat entlassen"],
+          ["erlassen", "inseparable", "to enact/waive", "hat erlassen"],
+          ["hinterlassen", "inseparable", "to leave behind", "hat hinterlassen"],
+          ["unterlassen", "inseparable", "to refrain from", "hat unterlassen"],
+          ["zulassen", "separable", "to allow/permit", "hat zugelassen"],
+          ["nachlassen", "separable", "to decrease", "hat nachgelassen"],
+          ["einlassen", "separable", "to let in", "hat eingelassen"]
+        ]
+      },
+      "key_points": [
+        "Inseparable (ver-, ent-, er-, hinter-, unter-): NO ge- in Partizip II",
+        "Separable (zu-, nach-, ein-): ge- between prefix and stem",
+        "sich verlassen auf = to rely on (very common!)",
+        "These are regular verbs — NOT causative lassen"
+      ]
+    }
+  },
+  {
+    "video_id": "9iR3puB9ay0",
+    "title": "B1 - Lesson 8 | N-Deklination | Weak Nouns | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=9iR3puB9ay0",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers N-Deklination (weak noun declension) — a special group of masculine nouns that add -(e)n in ALL cases except Nominativ singular. Examples: der Mensch → den/dem/des Menschen, der Junge → den/dem/des Jungen, der Herr → den/dem/des Herrn. These nouns often refer to people, nationalities, or professions, and are a common grammar trap in B1 exams.",
+      "key_concept": "N-Deklination nouns are masculine and add -(e)n ending in Akkusativ, Dativ, and Genitiv singular, AND in all plural forms. They are 'weak' because they never change their stem. How to recognize: masculine nouns ending in -e (der Junge, der Kunde), or masculine nouns of foreign origin ending in -ant, -ent, -ist, -at, -oge, -graf (der Student, der Polizist).",
+      "grammar_rule": "Pattern: Nom: der Student / Akk: den Studenten / Dat: dem Studenten / Gen: des Studenten. Plural is always -(e)n: die Studenten. Exception: der Herr → Akkusativ: den Herrn (only -n). Special case: das Herz (neuter!) → das Herz, das Herz, dem Herzen, des Herzens.",
+      "word_order_note": "N-Deklination nouns follow normal word order rules — the -(e)n ending is added to the noun itself regardless of position. 'Ich helfe dem Studenten.' 'Den Kunden habe ich gestern gesehen.'",
+      "common_mistakes": [
+        "Forgetting the -en ending in accusative: 'Ich sehe der Student' → 'Ich sehe den Studenten'",
+        "Adding -en in nominative: 'Der Studenten kommt' → 'Der Student kommt'",
+        "Not recognizing N-Deklination nouns — learn the patterns (-e, -ent, -ist, -ant, -at)",
+        "Applying N-Deklination to feminine or neuter nouns — it's only for specific masculine nouns",
+        "Forgetting 'der Herr' only adds -n (not -en): 'den Herrn'"
+      ]
+    },
+    "vocabulary": [
+      {"de": "der Mensch", "en": "the human/person", "example_de": "Jeder Mensch hat Rechte.", "example_en": "Every person has rights."},
+      {"de": "der Junge", "en": "the boy", "example_de": "Ich kenne den Jungen.", "example_en": "I know the boy."},
+      {"de": "der Kunde", "en": "the customer", "example_de": "Wir helfen dem Kunden.", "example_en": "We help the customer."},
+      {"de": "der Student", "en": "the student (university)", "example_de": "Der Student hat die Prüfung bestanden.", "example_en": "The student passed the exam."},
+      {"de": "der Kollege", "en": "the colleague", "example_de": "Ich arbeite gern mit dem Kollegen zusammen.", "example_en": "I like working with the colleague."},
+      {"de": "der Nachbar", "en": "the neighbor", "example_de": "Ich habe dem Nachbarn geholfen.", "example_en": "I helped the neighbor."},
+      {"de": "der Herr", "en": "the gentleman / Mr.", "example_de": "Kennen Sie den Herrn?", "example_en": "Do you know the gentleman?"},
+      {"de": "der Polizist", "en": "the police officer", "example_de": "Fragen Sie den Polizisten.", "example_en": "Ask the police officer."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "N-Deklination for -e ending nouns", "structure": "der Junge → den/dem/des Jungen", "example_de": "Ich gebe dem Jungen ein Geschenk.", "example_en": "I give the boy a present.", "telc_relevance": "Common in Sprachbausteine — correct noun ending required"},
+      {"pattern": "N-Deklination for -ent/-ist/-ant/-at nouns", "structure": "der Student → den/dem/des Studenten", "example_de": "Die Universität berät den Studenten.", "example_en": "The university advises the student.", "telc_relevance": "Profession/nationality nouns — frequent in Lesen texts about work/study"},
+      {"pattern": "Identifying N-Deklination", "structure": "Masculine nouns ending in -e, -ent, -ist, -ant, -at, -oge, -graf", "example_de": "der Biologe, der Journalist, der Diplomat", "example_en": "the biologist, the journalist, the diplomat", "telc_relevance": "Recognizing the pattern helps in Sprachbausteine cloze exercises"},
+      {"pattern": "Special case: der Herr", "structure": "der Herr → den Herrn → dem Herrn → des Herrn (only -n, not -en)", "example_de": "Können Sie den Herrn fragen?", "example_en": "Can you ask the gentleman?", "telc_relevance": "Herrn appears in formal letter salutations: 'Sehr geehrter Herr / An Herrn...'"}
+    ],
+    "flashcards": [
+      {"front": "What is N-Deklination?", "back": "Weak masculine nouns that add -(e)n in Akk., Dat., Gen. singular AND all plural forms", "type": "grammar"},
+      {"front": "der Mensch → Akkusativ?", "back": "den Menschen", "type": "grammar"},
+      {"front": "der Kunde → Dativ?", "back": "dem Kunden", "type": "grammar"},
+      {"front": "der Student → Genitiv?", "back": "des Studenten", "type": "grammar"},
+      {"front": "How to recognize N-Deklination nouns?", "back": "Masculine nouns ending in: -e (Junge), -ent (Student), -ist (Polizist), -ant (Praktikant), -at (Diplomat), -oge (Biologe)", "type": "grammar"},
+      {"front": "der Herr → Akkusativ?", "back": "den Herrn (only -n, exception!)", "type": "grammar"},
+      {"front": "der Nachbar → Dativ?", "back": "dem Nachbarn", "type": "grammar"},
+      {"front": "der Kollege → all cases", "back": "Nom: der Kollege, Akk: den Kollegen, Dat: dem Kollegen, Gen: des Kollegen", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich habe mit dem __________ (Student) über die Prüfung gesprochen.", "en": "I talked with the student about the exam.", "hint": "Studenten (Dativ, N-Deklination)"},
+      {"de": "Kennen Sie den __________ (Herr) da drüben?", "en": "Do you know the gentleman over there?", "hint": "Herrn (Akk., only -n)"},
+      {"de": "Der Arzt hat dem __________ (Patient) geholfen.", "en": "The doctor helped the patient.", "hint": "Patienten (Dativ, N-Deklination)"},
+      {"de": "Ich mag meinen neuen __________ (Kollege).", "en": "I like my new colleague.", "hint": "Kollegen (Akk., N-Deklination)"},
+      {"de": "Jeder __________ (Mensch) verdient Respekt.", "en": "Every person deserves respect.", "hint": "Mensch (Nominativ — no extra ending!)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, N-Deklination is tested by asking for the correct noun form. If you see a masculine person/profession noun in Akk./Dat./Gen., check if it needs -(e)n.", "telc_section": "Sprachbausteine"},
+      {"tip": "In formal letters (Schreiben), use 'Sehr geehrter Herr [Name]' (Nom.), but on the envelope: 'An Herrn [Name]' (Akk.).", "telc_section": "Schreiben"},
+      {"tip": "In Lesen, N-Deklination nouns are common in texts about people, professions, and institutions. Recognize the -en ending as a case marker, not plural.", "telc_section": "Lesen"}
+    ],
+    "visual_summary": {
+      "title": "N-Deklination — Weak Noun Declension",
+      "table": {
+        "headers": ["Case", "der Student", "der Junge", "der Herr", "Plural (all)"],
+        "rows": [
+          ["Nominativ", "der Student", "der Junge", "der Herr", "die Studenten"],
+          ["Akkusativ", "den Studenten", "den Jungen", "den Herrn", "die Studenten"],
+          ["Dativ", "dem Studenten", "dem Jungen", "dem Herrn", "den Studenten"],
+          ["Genitiv", "des Studenten", "des Jungen", "des Herrn", "der Studenten"]
+        ]
+      },
+      "key_points": [
+        "ONLY masculine nouns, ONLY -(e)n endings in non-Nominativ",
+        "Endings: -e nouns → +n, consonant-ending nouns → +en, Herr → +n",
+        "Common endings: -e, -ent, -ist, -ant, -at, -oge, -graf",
+        "Nominativ singular NEVER changes: der Student (not Studenten)"
+      ]
+    }
+  },
+  {
+    "video_id": "oskcXcv3_1w",
+    "title": "B1 - Lesson 9 | Genitivpräpositionen | Wegen Während Trotz | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=oskcXcv3_1w",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers the most important Genitivpräpositionen (genitive prepositions) at B1 level: wegen (because of), während (during), trotz (despite), statt/anstatt (instead of). These prepositions require the Genitiv case and are essential for B1 Sprachbausteine and formal writing.",
+      "key_concept": "Genitivpräpositionen are followed by nouns in the Genitiv case. Genitiv markers: des + -(e)s (masculine/neuter), der (feminine/plural). Example: wegen des Wetters (because of the weather), trotz der Kälte (despite the cold). In spoken German, Dativ is increasingly used instead, but Genitiv is expected in B1 written exams.",
+      "grammar_rule": "Genitiv formation: Masculine/Neuter: des + Noun-(e)s (des Wetters, des Kindes). Feminine: der + Noun (der Arbeit). Plural: der + Noun (der Probleme). With adjective: des schlechten Wetters, der starken Kälte. Prepositions: wegen + Gen. (because of), während + Gen. (during), trotz + Gen. (despite), (an)statt + Gen. (instead of).",
+      "word_order_note": "Genitivpräposition + Genitiv phrase can be at the start or middle of a sentence. At start (with inversion): 'Wegen des Regens bleiben wir zu Hause.' In middle: 'Wir bleiben wegen des Regens zu Hause.'",
+      "common_mistakes": [
+        "Using Dativ instead of Genitiv: 'wegen dem Wetter' (spoken) → 'wegen des Wetters' (correct/written)",
+        "Forgetting -(e)s on masculine/neuter nouns: 'wegen des Regen' → 'wegen des Regens'",
+        "Wrong article in Genitiv: feminine uses 'der' (not 'die'): trotz der Müdigkeit",
+        "Confusing 'wegen' (reason) with 'während' (time): wegen = because of, während = during",
+        "Forgetting that 'trotz' takes Genitiv: trotz des Problems (not trotz dem Problem in formal writing)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "wegen", "en": "because of", "example_de": "Wegen des starken Regens fällt das Spiel aus.", "example_en": "Because of the heavy rain, the game is cancelled."},
+      {"de": "während", "en": "during", "example_de": "Während des Unterrichts darf man nicht telefonieren.", "example_en": "During class, you may not use your phone."},
+      {"de": "trotz", "en": "despite, in spite of", "example_de": "Trotz der Kälte ging er ohne Jacke raus.", "example_en": "Despite the cold, he went out without a jacket."},
+      {"de": "statt / anstatt", "en": "instead of", "example_de": "Statt des Kuchens möchte ich Eis.", "example_en": "Instead of cake, I'd like ice cream."},
+      {"de": "der Stau", "en": "traffic jam", "example_de": "Wegen des Staus kam ich zu spät.", "example_en": "Because of the traffic jam, I was late."},
+      {"de": "das Gewitter", "en": "thunderstorm", "example_de": "Während des Gewitters blieben wir drinnen.", "example_en": "During the thunderstorm, we stayed inside."},
+      {"de": "der Lärm", "en": "noise", "example_de": "Trotz des Lärms konnte ich schlafen.", "example_en": "Despite the noise, I was able to sleep."},
+      {"de": "die Tatsache", "en": "the fact", "example_de": "Trotz der Tatsache, dass er krank war, kam er.", "example_en": "Despite the fact that he was sick, he came."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "wegen + Genitiv", "structure": "wegen + des/der + Noun-(s) = because of", "example_de": "Wegen des schlechten Wetters bleiben wir zu Hause.", "example_en": "Because of the bad weather, we're staying home.", "telc_relevance": "One of the most tested Sprachbausteine items — preposition + case"},
+      {"pattern": "während + Genitiv", "structure": "während + des/der + Noun-(s) = during", "example_de": "Während der Pause haben wir Kaffee getrunken.", "example_en": "During the break, we drank coffee.", "telc_relevance": "Common in Lesen passages about time and events"},
+      {"pattern": "trotz + Genitiv", "structure": "trotz + des/der + Noun-(s) = despite", "example_de": "Trotz der Schwierigkeiten hat sie bestanden.", "example_en": "Despite the difficulties, she passed.", "telc_relevance": "trotz + Genitiv is a classic Sprachbausteine test item"},
+      {"pattern": "Genitiv with adjective", "structure": "Präp. + des/der + Adj(-en) + Noun-(s)", "example_de": "Wegen des starken Regens... / Trotz der hohen Kosten...", "example_en": "Because of the heavy rain... / Despite the high costs...", "telc_relevance": "Adjective in Genitiv always ends in -en (weak ending)"}
+    ],
+    "flashcards": [
+      {"front": "wegen + ?", "back": "+ Genitiv: wegen des Wetters, wegen der Arbeit", "type": "grammar"},
+      {"front": "während + ?", "back": "+ Genitiv: während des Unterrichts, während der Ferien", "type": "grammar"},
+      {"front": "trotz + ?", "back": "+ Genitiv: trotz des Regens, trotz der Probleme", "type": "grammar"},
+      {"front": "statt/anstatt + ?", "back": "+ Genitiv: statt des Kuchens, anstatt der Suppe", "type": "grammar"},
+      {"front": "How to form Genitiv masculine/neuter?", "back": "des + Noun + -(e)s: des Mannes, des Kindes, des Wetters", "type": "grammar"},
+      {"front": "How to form Genitiv feminine/plural?", "back": "der + Noun (no extra ending): der Frau, der Kinder", "type": "grammar"},
+      {"front": "Wegen des starken Regens...", "back": "Because of the heavy rain... (wegen + Gen. with adjective ending -en)", "type": "grammar"},
+      {"front": "Trotz der Kälte...", "back": "Despite the cold... (trotz + Gen. feminine)", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "__________ des schlechten Wetters fällt die Wanderung aus.", "en": "Because of the bad weather, the hike is cancelled.", "hint": "Wegen (+ Genitiv)"},
+      {"de": "__________ der Prüfung darf man nicht sprechen.", "en": "During the exam, you may not talk.", "hint": "Während (+ Genitiv)"},
+      {"de": "__________ des Lärms konnte ich gut schlafen.", "en": "Despite the noise, I was able to sleep well.", "hint": "Trotz (+ Genitiv)"},
+      {"de": "__________ eines Hotels haben wir bei Freunden übernachtet.", "en": "Instead of a hotel, we stayed at friends' place.", "hint": "Statt/Anstatt (+ Genitiv)"},
+      {"de": "Wegen __________ starken Verkehrs kam er zu spät.", "en": "Because of the heavy traffic, he was late.", "hint": "des (Genitiv maskulin: des starken Verkehrs)"}
+    ],
+    "exam_tips": [
+      {"tip": "The top 4 Genitivpräpositionen (wegen, während, trotz, statt) appear in almost every TELC B1 Sprachbausteine section. Memorize them with Genitiv.", "telc_section": "Sprachbausteine"},
+      {"tip": "In Lesen, Genitivpräpositionen signal reason (wegen), time (während), contrast (trotz), or alternative (statt). Use them as comprehension cues.", "telc_section": "Lesen"},
+      {"tip": "For Schreiben, 'trotz der Unannehmlichkeiten' (despite the inconvenience) and 'wegen des Problems' (because of the problem) are excellent formal phrases.", "telc_section": "Schreiben"},
+      {"tip": "Remember: adjective in Genitiv ALWAYS ends in -en: des schlechten Wetters, der hohen Kosten, des kalten Winters.", "telc_section": "Sprachbausteine"}
+    ],
+    "visual_summary": {
+      "title": "Genitivpräpositionen & Genitiv Formation",
+      "table": {
+        "headers": ["Preposition", "Meaning", "Masc./Neut. Example", "Fem./Plural Example"],
+        "rows": [
+          ["wegen", "because of", "wegen des Regens", "wegen der Arbeit"],
+          ["während", "during", "während des Spiels", "wegen der Ferien"],
+          ["trotz", "despite", "trotz des Lärms", "trotz der Kälte"],
+          ["(an)statt", "instead of", "statt des Tees", "statt der Suppe"]
+        ]
+      },
+      "key_points": [
+        "Genitiv masculine/neuter: des + Noun + -(e)s",
+        "Genitiv feminine/plural: der + Noun (no extra ending)",
+        "Adjective in Genitiv: always -en ending",
+        "These 4 prepositions cover 90% of B1 Genitiv questions"
+      ]
+    }
+  },
+  {
+    "video_id": "ADzAWTkfIH4",
+    "title": "B1 - Lesson 10 | Da-Komposita | Da-Compounds | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=ADzAWTkfIH4",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers Da-Komposita (da-compounds): combinations of 'da(r)' + preposition that replace 'preposition + pronoun' when referring to things (not people). 'Ich freue mich darauf' = I'm looking forward to it (not 'auf es'). Da-compounds are essential for B1 as they appear constantly in spoken and written German.",
+      "key_concept": "Da-Komposita = da(r) + preposition. Use them instead of preposition + es/das for THINGS. 'Ich denke daran' (I think about it) NOT 'Ich denke an es'. Use 'dar-' before vowels: darauf, darüber, daran, daraus, darin. Use 'da-' before consonants: damit, dafür, davon, danach, daneben.",
+      "grammar_rule": "Formation: da + consonant-preposition: damit, dafür, davon, dagegen, danach, daneben, dazwischen. dar + vowel-preposition: darauf, darüber, daran, daraus, darin, darunter. NEVER use da-compounds for people — use preposition + pronoun instead: 'Ich denke an ihn' (person) vs. 'Ich denke daran' (thing).",
+      "word_order_note": "Da-compounds function as adverbs and typically come in the middle field. 'Ich freue mich darauf.' In questions, use wo-compounds instead: 'Worauf freust du dich?' Da-compounds can also introduce dass-Sätze: 'Ich freue mich darauf, dass du kommst.'",
+      "common_mistakes": [
+        "Using da-compounds for people: 'Ich denke daran' (thing) vs. 'Ich denke an sie' (person)",
+        "Forgetting the 'r' before vowels: 'daauf' → 'darauf', 'daüber' → 'darüber'",
+        "Using 'für es' instead of 'dafür' for things",
+        "Not recognizing da-compounds in reading — they can look unfamiliar",
+        "Confusing da-compounds with wo-compounds — da = statement, wo = question"
+      ]
+    },
+    "vocabulary": [
+      {"de": "darauf", "en": "on it / for it / to it", "example_de": "Ich freue mich darauf.", "example_en": "I'm looking forward to it."},
+      {"de": "darüber", "en": "about it / over it", "example_de": "Wir haben darüber gesprochen.", "example_en": "We talked about it."},
+      {"de": "daran", "en": "on it / about it (thinking)", "example_de": "Ich erinnere mich daran.", "example_en": "I remember it."},
+      {"de": "damit", "en": "with it / so that", "example_de": "Was machst du damit?", "example_en": "What are you doing with it?"},
+      {"de": "dafür", "en": "for it / in favor of it", "example_de": "Ich danke dir dafür.", "example_en": "I thank you for it."},
+      {"de": "davon", "en": "of it / from it", "example_de": "Ich habe davon gehört.", "example_en": "I heard about it."},
+      {"de": "dagegen", "en": "against it", "example_de": "Ich habe nichts dagegen.", "example_en": "I have nothing against it."},
+      {"de": "dazu", "en": "to it / about it / in addition", "example_de": "Was sagst du dazu?", "example_en": "What do you say about it?"}
+    ],
+    "grammar_patterns": [
+      {"pattern": "da(r) + Präposition (for things)", "structure": "da(r) + prep. replaces prep. + es/das", "example_de": "Ich warte darauf. (= Ich warte auf das Paket.)", "example_en": "I'm waiting for it.", "telc_relevance": "Essential for Sprachbausteine — fill in the correct da-compound"},
+      {"pattern": "da-compound + dass-Satz", "structure": "Verb + da-compound, dass + Nebensatz", "example_de": "Ich freue mich darauf, dass du kommst.", "example_en": "I'm looking forward to you coming.", "telc_relevance": "Common construction in Lesen and Schreiben"},
+      {"pattern": "da- vs. Präposition + Pronoun (people)", "structure": "Things: daran/darauf. People: an ihn/auf sie", "example_de": "Ich denke daran. (thing) / Ich denke an ihn. (person)", "example_en": "I think about it. / I think about him.", "telc_relevance": "Distinction tested in Sprachbausteine"},
+      {"pattern": "dar + vowel-preposition", "structure": "darauf, darüber, daran, daraus, darin, darunter", "example_de": "Darüber müssen wir noch sprechen.", "example_en": "We still need to talk about that.", "telc_relevance": "Recognizing dar- forms is important for Lesen comprehension"}
+    ],
+    "flashcards": [
+      {"front": "How do you say 'I'm looking forward to it'?", "back": "Ich freue mich darauf. (dar + auf, because 'auf' starts with vowel)", "type": "grammar"},
+      {"front": "darüber", "back": "about it / over it — Wir haben darüber gesprochen.", "type": "vocabulary"},
+      {"front": "When do you NOT use a da-compound?", "back": "When referring to PEOPLE — use preposition + pronoun: Ich denke an SIE (her), not 'daran'", "type": "grammar"},
+      {"front": "daran", "back": "on it / about it — Ich erinnere mich daran. (sich erinnern AN)", "type": "vocabulary"},
+      {"front": "damit", "back": "with it — Was willst du damit machen?", "type": "vocabulary"},
+      {"front": "dafür", "back": "for it — Ich bin dafür! (I'm in favor!)", "type": "vocabulary"},
+      {"front": "When do you use 'dar-' vs. 'da-'?", "back": "dar- before vowels (darauf, darin), da- before consonants (damit, dafür)", "type": "grammar"},
+      {"front": "dagegen", "back": "against it — Ich habe nichts dagegen.", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich freue mich __________, dich wiederzusehen.", "en": "I'm looking forward to seeing you again.", "hint": "darauf (sich freuen auf → darauf)"},
+      {"de": "Er hat lange __________ nachgedacht.", "en": "He thought about it for a long time.", "hint": "darüber (nachdenken über → darüber)"},
+      {"de": "Kann ich __________ rechnen, dass du kommst?", "en": "Can I count on you coming?", "hint": "damit (rechnen mit → damit)"},
+      {"de": "Ich interessiere mich __________.", "en": "I'm interested in it.", "hint": "dafür (sich interessieren für → dafür)"},
+      {"de": "Erinnerst du dich __________?", "en": "Do you remember it?", "hint": "daran (sich erinnern an → daran)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, da-compound blanks are very common. First identify which verb + preposition combination is used, then form the da-compound: denken an → daran, freuen auf → darauf.", "telc_section": "Sprachbausteine"},
+      {"tip": "In Lesen, da-compounds are reference words — they point back to something mentioned earlier. Understanding them helps you follow the text's logic.", "telc_section": "Lesen"},
+      {"tip": "For Schreiben, use da-compounds to avoid repetition: instead of repeating 'über das Thema', write 'darüber'.", "telc_section": "Schreiben"},
+      {"tip": "In Hören, da-compounds appear frequently in dialogues. Train your ear to recognize darauf, darüber, damit as references to previously mentioned things.", "telc_section": "Hören"}
+    ],
+    "visual_summary": {
+      "title": "Da-Komposita Overview",
+      "table": {
+        "headers": ["Da-Compound", "From Preposition", "Meaning", "Example Verb + Da-Compound"],
+        "rows": [
+          ["darauf", "auf", "on/for it", "sich freuen darauf, warten darauf"],
+          ["darüber", "über", "about/over it", "sich ärgern darüber, sprechen darüber"],
+          ["daran", "an", "on/about it", "sich erinnern daran, denken daran"],
+          ["damit", "mit", "with it", "rechnen damit, anfangen damit"],
+          ["dafür", "für", "for it", "sich interessieren dafür, danken dafür"],
+          ["davon", "von", "of/from it", "sprechen davon, abhängen davon"],
+          ["dagegen", "gegen", "against it", "nichts dagegen haben"],
+          ["dazu", "zu", "to/about it", "etwas dazu sagen, gehören dazu"]
+        ]
+      },
+      "key_points": [
+        "da- before consonants, dar- before vowels",
+        "Only for THINGS — for people use preposition + pronoun",
+        "Key formula: Verb + Preposition → da(r) + Preposition",
+        "Can introduce dass-Sätze: Ich freue mich darauf, dass..."
+      ]
+    }
+  },
+  {
+    "video_id": "WODrTdFaaS8",
+    "title": "B1 - Lesson 11 | Da-Komposita TEIL 2 | Da-Compounds PART 2 | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=WODrTdFaaS8",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Part 2 of Da-Komposita deepens the topic with advanced usage: da-compounds as anticipatory elements before dass-Sätze and Infinitivsätze, the distinction between da-compounds (statements) and wo-compounds (questions), and special cases where da-compounds cannot be used (with Genitivpräpositionen and with people).",
+      "key_concept": "Da-compounds as 'anticipators': They can preview a following dass-Satz or zu+Infinitiv clause. 'Ich freue mich darauf, dass du kommst.' = 'darauf' anticipates the 'dass' clause. Also: 'Es hängt davon ab, ob/wie/wann...' — da-compounds can preview indirect questions too.",
+      "grammar_rule": "Anticipatory da-compound: Verb + da-compound + , + dass/ob/wann/wie/etc. + Nebensatz. OR: Verb + da-compound + , + zu + Infinitiv. Examples: 'Ich denke daran, dass...' / 'Ich denke daran, ... zu + Inf.' No da-compounds with Genitiv prepositions (wegen, trotz, während, statt) or with bis, seit, ohne.",
+      "word_order_note": "The da-compound stays in the main clause, the dass/ob/zu-clause follows after a comma. 'Ich habe mich darüber gefreut, dass du mich besucht hast.' The da-compound can also be at the start: 'Darauf habe ich lange gewartet.'",
+      "common_mistakes": [
+        "Omitting the da-compound before dass when it's needed: 'Ich freue mich, dass...' is OK, but 'Ich warte, dass...' needs 'darauf': 'Ich warte darauf, dass...'",
+        "Using da-compounds with Genitivpräpositionen — wegen, trotz, etc. don't form da-compounds",
+        "Forgetting the comma between the da-compound clause and the dass/zu clause",
+        "Using da-compounds with 'bis' or 'seit' — these don't form da-compounds",
+        "Not recognizing that 'Es kommt darauf an' (It depends) is a fixed expression with da-compound"
+      ]
+    },
+    "vocabulary": [
+      {"de": "es kommt darauf an", "en": "it depends", "example_de": "Es kommt darauf an, wie viel Zeit wir haben.", "example_en": "It depends on how much time we have."},
+      {"de": "es hängt davon ab", "en": "it depends on", "example_de": "Es hängt davon ab, ob er kommt.", "example_en": "It depends on whether he comes."},
+      {"de": "darauf achten", "en": "to pay attention to", "example_de": "Achten Sie darauf, dass die Tür geschlossen ist.", "example_en": "Make sure the door is closed."},
+      {"de": "sich darauf vorbereiten", "en": "to prepare for it", "example_de": "Ich bereite mich darauf vor, eine Rede zu halten.", "example_en": "I'm preparing to give a speech."},
+      {"de": "damit rechnen", "en": "to expect / count on", "example_de": "Ich rechne damit, dass es regnet.", "example_en": "I expect it to rain."},
+      {"de": "daran denken", "en": "to remember / think about", "example_de": "Denk daran, die Tür abzuschließen!", "example_en": "Remember to lock the door!"},
+      {"de": "sich dafür einsetzen", "en": "to advocate for", "example_de": "Er setzt sich dafür ein, die Umwelt zu schützen.", "example_en": "He advocates for protecting the environment."},
+      {"de": "dazu beitragen", "en": "to contribute to", "example_de": "Sport trägt dazu bei, gesund zu bleiben.", "example_en": "Sport contributes to staying healthy."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "da-compound + dass-Satz", "structure": "Verb + da(r)+Präp., dass + Subjekt + ... + Verb", "example_de": "Ich freue mich darauf, dass du kommst.", "example_en": "I'm looking forward to you coming.", "telc_relevance": "Common in Lesen and tested in Sprachbausteine"},
+      {"pattern": "da-compound + zu + Infinitiv", "structure": "Verb + da(r)+Präp., ... + zu + Infinitiv", "example_de": "Ich denke daran, morgen früher aufzustehen.", "example_en": "I'm thinking of getting up earlier tomorrow.", "telc_relevance": "Combines two B1 grammar topics — scored well in Schreiben"},
+      {"pattern": "Es kommt darauf an + ob/wie/wann", "structure": "Es kommt darauf an, + indirect question", "example_de": "Es kommt darauf an, ob du Zeit hast.", "example_en": "It depends on whether you have time.", "telc_relevance": "Fixed expression — appears in Hören and Lesen frequently"},
+      {"pattern": "da-compound at position 1", "structure": "Da(r)+Präp. + Verb + Subjekt + ...", "example_de": "Darüber müssen wir noch nachdenken.", "example_en": "We still need to think about that.", "telc_relevance": "Topic emphasis — common in opinion texts (Lesen and Sprechen)"}
+    ],
+    "flashcards": [
+      {"front": "Es kommt darauf an, ...", "back": "It depends (on)... + ob/wie/wann clause: Es kommt darauf an, ob wir Zeit haben.", "type": "vocabulary"},
+      {"front": "Ich freue mich darauf, dass...", "back": "I'm looking forward to the fact that... — darauf anticipates the dass-clause", "type": "grammar"},
+      {"front": "Which prepositions DON'T form da-compounds?", "back": "Genitivpräpositionen (wegen, trotz, während, statt) and bis, seit, ohne", "type": "grammar"},
+      {"front": "es hängt davon ab", "back": "it depends on — Es hängt davon ab, wie das Wetter wird.", "type": "vocabulary"},
+      {"front": "Denk daran, ... zu + Infinitiv", "back": "Remember to... — Denk daran, das Fenster zu schließen!", "type": "grammar"},
+      {"front": "darauf achten, dass", "back": "to make sure that / pay attention — Achte darauf, dass du pünktlich bist.", "type": "vocabulary"},
+      {"front": "dazu beitragen, ... zu + Inf.", "back": "to contribute to... — Sport trägt dazu bei, gesund zu bleiben.", "type": "vocabulary"},
+      {"front": "sich dafür einsetzen", "back": "to advocate for — Sie setzt sich dafür ein, die Umwelt zu schützen.", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Es kommt __________ __________, ob das Wetter gut ist.", "en": "It depends on whether the weather is good.", "hint": "darauf an (es kommt darauf an)"},
+      {"de": "Denk __________, die Hausaufgaben zu machen!", "en": "Remember to do the homework!", "hint": "daran (denken an → daran + zu-Infinitiv)"},
+      {"de": "Ich rechne __________, dass der Zug Verspätung hat.", "en": "I expect the train to be delayed.", "hint": "damit (rechnen mit → damit + dass)"},
+      {"de": "Sie bereitet sich __________ vor, eine Präsentation zu halten.", "en": "She's preparing to give a presentation.", "hint": "darauf (sich vorbereiten auf → darauf + zu-Inf.)"},
+      {"de": "__________ haben wir noch nicht gesprochen.", "en": "We haven't talked about that yet.", "hint": "Darüber (da-compound at position 1, inversion)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, when you see a blank before 'dass' or 'ob', check if a da-compound is needed: 'Ich warte ___, dass...' → darauf.", "telc_section": "Sprachbausteine"},
+      {"tip": "'Es kommt darauf an' and 'Es hängt davon ab' are fixed expressions that appear in Hören dialogues. Know them instantly.", "telc_section": "Hören"},
+      {"tip": "For Sprechen, da-compounds + dass help you build complex sentences: 'Ich bin dagegen, dass man...' or 'Es kommt darauf an, ob...'", "telc_section": "Sprechen"},
+      {"tip": "In Schreiben, use da-compound + zu-Infinitiv: 'Ich bitte Sie darum, mir zu helfen' — formal and correct.", "telc_section": "Schreiben"}
+    ],
+    "visual_summary": {
+      "title": "Da-Komposita as Anticipatory Elements",
+      "table": {
+        "headers": ["Da-Compound", "Followed By", "Example"],
+        "rows": [
+          ["darauf", "dass / zu + Inf.", "Ich freue mich darauf, dass du kommst."],
+          ["darüber", "dass / ob", "Ich ärgere mich darüber, dass er nicht kam."],
+          ["daran", "dass / zu + Inf.", "Denk daran, die Tür zu schließen."],
+          ["damit", "dass", "Ich rechne damit, dass es regnet."],
+          ["davon", "ob / dass", "Es hängt davon ab, ob du Zeit hast."],
+          ["dafür", "dass / zu + Inf.", "Ich bin dafür, die Regeln zu ändern."],
+          ["darum", "zu + Inf.", "Ich bitte darum, pünktlich zu sein."]
+        ]
+      },
+      "key_points": [
+        "Da-compounds can anticipate dass-Sätze, ob-Sätze, or zu+Infinitiv",
+        "NO da-compounds with: wegen, trotz, während, statt, bis, seit, ohne",
+        "Fixed expressions: Es kommt darauf an / Es hängt davon ab",
+        "For questions, use wo-compounds: Worauf? Worüber? Woran?"
+      ]
+    }
+  }
+]

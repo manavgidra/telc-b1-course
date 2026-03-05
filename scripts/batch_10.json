@@ -1,0 +1,385 @@
+[
+  {
+    "video_id": "RvYpx7eFTlo",
+    "title": "B1 - Lesson 27 | seine Meinung sagen | Expressing your Opinion | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=RvYpx7eFTlo",
+    "telc_section": "Sprechen",
+    "study_notes": {
+      "summary": "This lesson teaches phrases for expressing, supporting, and defending your opinion in German — essential for TELC B1 Sprechen Teil 2. Key phrases: 'Meiner Meinung nach...', 'Ich bin der Meinung, dass...', 'Ich finde, dass...', 'Ich halte ... für...'. Also covers agreeing, disagreeing, and giving reasons with weil/denn/deshalb.",
+      "key_concept": "Expressing opinions uses specific German structures: 'Meiner Meinung nach + V2' (In my opinion...), 'Ich bin der Meinung, dass + V-end' (I am of the opinion that...), 'Ich finde/glaube/denke, dass...' (I think that...). Agreement: 'Da hast du recht', 'Ich stimme dir/Ihnen zu'. Disagreement: 'Da bin ich anderer Meinung', 'Ich sehe das anders'.",
+      "grammar_rule": "'Meiner Meinung nach' is a prepositional phrase (Dativ) and the verb goes in position 2: 'Meiner Meinung nach ist Sport wichtig.' 'Ich bin der Meinung, dass...' introduces a Nebensatz with verb at end. To give reasons: weil + V-end, denn + V2, deshalb/daher + V2.",
+      "word_order_note": "After 'Meiner Meinung nach': verb position 2. After 'Ich finde, dass': Nebensatz word order. After 'denn': main clause word order. After 'weil': Nebensatz word order. After 'deshalb/daher': inverted (V2, then subject).",
+      "common_mistakes": [
+        "Word order after 'meiner Meinung nach': verb must be in position 2, not 3",
+        "Mixing up 'weil' (V-end) and 'denn' (V2) word order",
+        "Saying 'Ich meine' without 'dass': 'Ich meine, Sport ist wichtig' is informal but acceptable; 'Ich meine, dass Sport wichtig ist' is formal",
+        "Using 'Ich denke' too often — vary with finde, glaube, bin der Meinung",
+        "Not supporting opinions with reasons — always add 'weil/denn/deshalb'"
+      ]
+    },
+    "vocabulary": [
+      {"de": "Meiner Meinung nach", "en": "In my opinion", "example_de": "Meiner Meinung nach sollte man mehr Sport treiben.", "example_en": "In my opinion, one should exercise more."},
+      {"de": "Ich bin der Meinung, dass...", "en": "I am of the opinion that...", "example_de": "Ich bin der Meinung, dass Umweltschutz wichtig ist.", "example_en": "I am of the opinion that environmental protection is important."},
+      {"de": "Ich halte ... für ...", "en": "I consider ... to be ...", "example_de": "Ich halte diese Idee für sinnvoll.", "example_en": "I consider this idea to be sensible."},
+      {"de": "Da stimme ich dir/Ihnen zu.", "en": "I agree with you on that.", "example_de": "Da stimme ich Ihnen vollkommen zu.", "example_en": "I completely agree with you on that."},
+      {"de": "Da bin ich anderer Meinung.", "en": "I have a different opinion on that.", "example_de": "Da bin ich anderer Meinung, weil...", "example_en": "I have a different opinion on that, because..."},
+      {"de": "Ich sehe das anders.", "en": "I see it differently.", "example_de": "Ich sehe das anders, denn...", "example_en": "I see it differently, because..."},
+      {"de": "einerseits ... andererseits", "en": "on the one hand ... on the other hand", "example_de": "Einerseits ist Homeoffice praktisch, andererseits fehlt der Kontakt zu Kollegen.", "example_en": "On the one hand, working from home is practical, on the other hand, contact with colleagues is missing."},
+      {"de": "Ich finde es wichtig, dass...", "en": "I find it important that...", "example_de": "Ich finde es wichtig, dass Kinder draußen spielen.", "example_en": "I find it important that children play outside."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Meiner Meinung nach + V2", "structure": "Meiner Meinung nach + Verb + Subjekt + ...", "example_de": "Meiner Meinung nach ist Bildung der Schlüssel zum Erfolg.", "example_en": "In my opinion, education is the key to success.", "telc_relevance": "Top phrase for Sprechen Teil 2 — shows B1 competence"},
+      {"pattern": "Ich bin der Meinung, dass...", "structure": "Ich bin der Meinung, dass + S + ... + V(end)", "example_de": "Ich bin der Meinung, dass man Fremdsprachen lernen sollte.", "example_en": "I am of the opinion that one should learn foreign languages.", "telc_relevance": "Formal opinion phrase — great for both Sprechen and Schreiben"},
+      {"pattern": "Reason with weil/denn/deshalb", "structure": "weil + V-end / denn + V2 / deshalb + V2-inverted", "example_de": "Ich finde das gut, weil es gesund ist. / Denn es ist gesund. / Deshalb unterstütze ich das.", "example_en": "I think it's good because it's healthy. / Because it's healthy. / Therefore I support it.", "telc_relevance": "Must give reasons for opinions — connectors show coherence"},
+      {"pattern": "Agreeing/Disagreeing", "structure": "Da stimme ich zu. / Da bin ich anderer Meinung. / Ich sehe das anders.", "example_de": "Da hast du recht, aber ich möchte hinzufügen, dass...", "example_en": "You're right about that, but I'd like to add that...", "telc_relevance": "Essential for Sprechen Teil 2 discussion with partner"}
+    ],
+    "flashcards": [
+      {"front": "Meiner Meinung nach...", "back": "In my opinion... + V2: 'Meiner Meinung nach ist das eine gute Idee.'", "type": "vocabulary"},
+      {"front": "Ich halte ... für ...", "back": "I consider ... to be ...: 'Ich halte das für richtig.'", "type": "vocabulary"},
+      {"front": "Da stimme ich dir zu.", "back": "I agree with you on that. (zustimmen + Dativ)", "type": "vocabulary"},
+      {"front": "Da bin ich anderer Meinung.", "back": "I have a different opinion on that. (disagreeing politely)", "type": "vocabulary"},
+      {"front": "einerseits ... andererseits", "back": "on the one hand ... on the other hand (balanced opinion)", "type": "vocabulary"},
+      {"front": "weil (verb order)?", "back": "weil + ... + Verb at END: 'weil es wichtig ist'", "type": "grammar"},
+      {"front": "denn (verb order)?", "back": "denn + MAIN clause order (V2): 'denn es ist wichtig'", "type": "grammar"},
+      {"front": "deshalb (verb order)?", "back": "deshalb + V2 + Subject (inverted): 'deshalb finde ich das gut'", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "__________ Meinung __________ sollte man weniger Fleisch essen.", "en": "In my opinion, one should eat less meat.", "hint": "Meiner ... nach (Meiner Meinung nach + V2)"},
+      {"de": "Ich bin der Meinung, __________ Kinder mehr draußen spielen __________.", "en": "I am of the opinion that children should play outside more.", "hint": "dass ... sollten (dass-Nebensatz, V at end)"},
+      {"de": "Da __________ ich Ihnen vollkommen __________.", "en": "I completely agree with you on that.", "hint": "stimme ... zu (zustimmen, separable verb)"},
+      {"de": "Ich __________ das __________, denn es schadet der Umwelt.", "en": "I see it differently, because it harms the environment.", "hint": "sehe ... anders (disagreeing + reason with denn)"},
+      {"de": "__________ ist Homeoffice gut, __________ fehlt der soziale Kontakt.", "en": "On the one hand working from home is good, on the other hand social contact is missing.", "hint": "Einerseits ... andererseits (balanced opinion)"}
+    ],
+    "exam_tips": [
+      {"tip": "For Sprechen Teil 2: Use at least 3 different opinion phrases (Meiner Meinung nach / Ich finde / Ich bin der Meinung). Don't repeat the same one!", "telc_section": "Sprechen"},
+      {"tip": "Always support opinions with reasons using weil/denn/deshalb. An opinion without a reason = weak answer.", "telc_section": "Sprechen"},
+      {"tip": "Practice agreeing AND disagreeing politely: 'Da stimme ich zu, aber...' / 'Ich sehe das anders, weil...' — you need both in the discussion.", "telc_section": "Sprechen"},
+      {"tip": "Use einerseits...andererseits and zwar...aber to show you can see both sides — this impresses examiners.", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Meinung sagen — Expressing Opinions",
+      "table": {
+        "headers": ["Function", "Phrase", "Word Order"],
+        "rows": [
+          ["Opinion", "Meiner Meinung nach...", "V2 (inverted)"],
+          ["Opinion", "Ich bin der Meinung, dass...", "V-end (Nebensatz)"],
+          ["Agree", "Da stimme ich zu / Da hast du recht", "Normal"],
+          ["Disagree", "Ich sehe das anders / Da bin ich anderer Meinung", "Normal"],
+          ["Reason", "weil / denn / deshalb", "V-end / V2 / V2-inverted"]
+        ]
+      },
+      "key_points": [
+        "Vary your opinion phrases — don't repeat 'Ich finde' 5x",
+        "Always give reasons: weil/denn/deshalb",
+        "Agree + Disagree politely in discussions",
+        "einerseits...andererseits = balanced, impressive"
+      ]
+    }
+  },
+  {
+    "video_id": "xLa48zQ6ysY",
+    "title": "B1 - Lesson 28 | Stellung von nicht | Position of nicht | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=xLa48zQ6ysY",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers the tricky placement rules of 'nicht' (not) in German sentences. Key rules: nicht goes BEFORE what it negates (specific element) or at the END of the Mittelfeld (sentence negation). It comes before: adjectives, prepositional phrases, infinitives, separable prefixes, and Partizip II. It comes after: conjugated verb, pronouns, time expressions, objects (in sentence negation).",
+      "key_concept": "nicht has two uses: 1) Satznegation (negating the whole sentence) → nicht goes as far RIGHT as possible, but before: predicate adjective, prepositional phrase, infinitive, separable prefix, Partizip II. 2) Sondernegation (negating a specific word) → nicht goes directly BEFORE the negated word. 'kein' is used instead of 'nicht ein'.",
+      "grammar_rule": "Rules: 1) NOT before: predicative adj. (Ich bin nicht müde), prep. phrase (Ich gehe nicht in die Schule), infinitive (Ich kann nicht kommen), separable prefix (Ich rufe dich nicht an), P II (Ich habe das nicht gemacht). 2) After: conjugated verb, definite time (Ich spiele heute nicht), objects in Satznegation (Ich lese das Buch nicht). 3) kein replaces nicht+ein: 'Ich habe kein Auto' (not 'nicht ein Auto').",
+      "word_order_note": "Think of nicht as 'gravitating towards the end' but stopped by: adjectives, prepositional phrases, infinitives, separable prefixes, participles. In Nebensatz: nicht often comes before the final verb cluster: '...weil ich nicht kommen kann.'",
+      "common_mistakes": [
+        "Putting nicht at the very end when there's a predicate adjective: 'Ich bin müde nicht' → 'Ich bin nicht müde'",
+        "Using 'nicht ein' instead of 'kein': 'Ich habe nicht ein Auto' → 'Ich habe kein Auto'",
+        "Placing nicht before the conjugated verb: 'Ich nicht spiele Tennis' → 'Ich spiele nicht Tennis / Ich spiele Tennis nicht'",
+        "Forgetting that nicht comes before infinitive: 'Ich kann kommen nicht' → 'Ich kann nicht kommen'",
+        "Wrong position with separable verbs: 'Ich rufe nicht dich an' (negates 'dich') vs. 'Ich rufe dich nicht an' (negates calling)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "nicht", "en": "not", "example_de": "Das ist nicht richtig.", "example_en": "That is not correct."},
+      {"de": "kein/keine/keinen", "en": "no, not a/any", "example_de": "Ich habe keine Zeit.", "example_en": "I have no time."},
+      {"de": "nicht mehr", "en": "no longer, not anymore", "example_de": "Er wohnt hier nicht mehr.", "example_en": "He doesn't live here anymore."},
+      {"de": "noch nicht", "en": "not yet", "example_de": "Ich habe die Prüfung noch nicht bestanden.", "example_en": "I haven't passed the exam yet."},
+      {"de": "gar nicht", "en": "not at all", "example_de": "Das hat mir gar nicht gefallen.", "example_en": "I didn't like that at all."},
+      {"de": "nicht nur ... sondern auch", "en": "not only ... but also", "example_de": "Er spricht nicht nur Deutsch, sondern auch Französisch.", "example_en": "He speaks not only German but also French."},
+      {"de": "weder ... noch", "en": "neither ... nor", "example_de": "Er trinkt weder Kaffee noch Tee.", "example_en": "He drinks neither coffee nor tea."},
+      {"de": "überhaupt nicht", "en": "not at all (emphatic)", "example_de": "Das ist überhaupt nicht wahr.", "example_en": "That is not true at all."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "nicht before predicative adjective", "structure": "S + V + nicht + Adjektiv", "example_de": "Der Film ist nicht interessant.", "example_en": "The movie is not interesting.", "telc_relevance": "Common error tested in Sprachbausteine"},
+      {"pattern": "nicht before prepositional phrase", "structure": "S + V + nicht + Präp.phrase", "example_de": "Ich fahre nicht nach Berlin.", "example_en": "I'm not going to Berlin.", "telc_relevance": "Position before prep phrases is key in Lesen comprehension"},
+      {"pattern": "nicht before infinitive", "structure": "S + Modal + nicht + Infinitiv", "example_de": "Ich kann heute leider nicht kommen.", "example_en": "Unfortunately I can't come today.", "telc_relevance": "Negation with modals appears frequently in all sections"},
+      {"pattern": "kein instead of 'nicht ein'", "structure": "S + V + kein(e/en) + Noun", "example_de": "Ich habe keine Geschwister.", "example_en": "I don't have any siblings.", "telc_relevance": "kein vs. nicht — classic Sprachbausteine question"}
+    ],
+    "flashcards": [
+      {"front": "nicht before: adjective, prep phrase, infinitive, separable prefix, or Partizip II?", "back": "YES! nicht comes BEFORE all of these: 'nicht müde', 'nicht nach Berlin', 'nicht kommen', 'nicht an', 'nicht gemacht'", "type": "grammar"},
+      {"front": "nicht ein → ?", "back": "kein! 'Ich habe kein Auto' (never 'nicht ein Auto')", "type": "grammar"},
+      {"front": "Ich bin müde nicht. Correct?", "back": "WRONG! → 'Ich bin nicht müde.' (nicht before predicative adj.)", "type": "grammar"},
+      {"front": "noch nicht", "back": "not yet — Ich habe die E-Mail noch nicht gelesen.", "type": "vocabulary"},
+      {"front": "nicht mehr", "back": "no longer — Er arbeitet hier nicht mehr.", "type": "vocabulary"},
+      {"front": "gar nicht / überhaupt nicht", "back": "not at all (emphatic negation): Das gefällt mir gar nicht.", "type": "vocabulary"},
+      {"front": "Position of nicht in Nebensatz?", "back": "Before the verb cluster at end: '...weil ich nicht kommen kann.'", "type": "grammar"},
+      {"front": "Satznegation vs. Sondernegation?", "back": "Satznegation: negate whole sentence (nicht far right). Sondernegation: negate specific word (nicht directly before it).", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Der Kuchen ist __________ süß genug.", "en": "The cake is not sweet enough.", "hint": "nicht (before predicative adjective)"},
+      {"de": "Ich habe __________ Lust, heute rauszugehen.", "en": "I have no desire to go out today.", "hint": "keine (kein + feminine noun Lust)"},
+      {"de": "Sie kann heute leider __________ __________.", "en": "Unfortunately she can't come today.", "hint": "nicht kommen (nicht before infinitive)"},
+      {"de": "Ich habe das Buch __________ __________ gelesen.", "en": "I haven't read the book yet.", "hint": "noch nicht (not yet, before P II)"},
+      {"de": "Er wohnt in München __________ __________.", "en": "He doesn't live in Munich anymore.", "hint": "nicht mehr (no longer)"}
+    ],
+    "exam_tips": [
+      {"tip": "nicht vs. kein is a classic Sprachbausteine question. Remember: kein replaces 'nicht + ein/eine/einen'. nicht is for everything else.", "telc_section": "Sprachbausteine"},
+      {"tip": "In Lesen, understanding negation is critical: 'nicht', 'kein', 'nie', 'nirgendwo' can completely reverse the meaning of a sentence.", "telc_section": "Lesen"},
+      {"tip": "For Schreiben, practice negation in complaints: 'Das Zimmer war nicht sauber', 'Es gab keinen Aufzug', 'Der Service hat mir überhaupt nicht gefallen.'", "telc_section": "Schreiben"}
+    ],
+    "visual_summary": {
+      "title": "Stellung von nicht — Position Rules",
+      "table": {
+        "headers": ["nicht comes BEFORE", "nicht comes AFTER", "Use kein instead"],
+        "rows": [
+          ["Predicative adjective: nicht müde", "Conjugated verb: spiele nicht", "nicht + ein → kein"],
+          ["Prepositional phrase: nicht in die Stadt", "Pronouns: habe es nicht", "nicht + eine → keine"],
+          ["Infinitive: nicht kommen", "Time expressions: heute nicht", "nicht + einen → keinen"],
+          ["Separable prefix: nicht an(rufen)", "Objects (Satzneg.): das Buch nicht", ""],
+          ["Partizip II: nicht gemacht", "", ""]
+        ]
+      },
+      "key_points": [
+        "nicht gravitates right, but stops before: adj, prep, inf, prefix, P II",
+        "kein = nicht + ein (always use kein!)",
+        "Sondernegation: nicht directly before the negated word",
+        "In Nebensatz: nicht before verb cluster at end"
+      ]
+    }
+  },
+  {
+    "video_id": "acbGDIEbxxE",
+    "title": "B1 - Lesson 29 | Genitivpräpositionen 3 | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=acbGDIEbxxE",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This is the third and final lesson on Genitivpräpositionen, covering less common but still B1-relevant genitive prepositions: innerhalb (within), außerhalb (outside of), oberhalb (above), unterhalb (below), diesseits (this side of), jenseits (the other side of), laut (according to), zufolge (according to), anlässlich (on the occasion of), hinsichtlich (with regard to).",
+      "key_concept": "These prepositions all require GENITIVE case: 'innerhalb des Gebäudes' (within the building), 'laut einer Studie' (according to a study). Many describe spatial (innerhalb/außerhalb) or formal/official (laut/zufolge/anlässlich) contexts. 'laut' can also take Dativ in spoken German but Genitiv is correct for B1 exams.",
+      "grammar_rule": "Genitiv after these prepositions: innerhalb + Gen. (innerhalb eines Jahres), außerhalb + Gen. (außerhalb der Stadt), laut + Gen. (laut des Berichts), zufolge + Gen. (der Studie zufolge — note: zufolge comes AFTER the noun!), anlässlich + Gen. (anlässlich des Geburtstags).",
+      "word_order_note": "Most go before the noun: 'innerhalb der Firma'. Exception: 'zufolge' usually follows the noun: 'dem Bericht zufolge' (according to the report — in colloquial also Dativ). 'laut' can come before: 'laut dem/des Berichts'.",
+      "common_mistakes": [
+        "Using Dativ instead of Genitiv: 'innerhalb dem Gebäude' → 'innerhalb des Gebäudes'",
+        "Putting zufolge before the noun: 'zufolge der Studie' → 'der Studie zufolge' (postposition!)",
+        "Forgetting the Genitiv -s on masculine/neuter nouns: 'des Berichts', 'eines Jahres'",
+        "Mixing up innerhalb (within) and außerhalb (outside of)",
+        "Using these prepositions without Genitiv endings"
+      ]
+    },
+    "vocabulary": [
+      {"de": "innerhalb", "en": "within, inside of", "example_de": "Innerhalb der Stadt gibt es viele Parks.", "example_en": "Within the city there are many parks."},
+      {"de": "außerhalb", "en": "outside of", "example_de": "Er wohnt außerhalb der Stadt.", "example_en": "He lives outside the city."},
+      {"de": "oberhalb", "en": "above", "example_de": "Oberhalb des Dorfes liegt ein See.", "example_en": "Above the village there is a lake."},
+      {"de": "unterhalb", "en": "below", "example_de": "Unterhalb des Berges steht ein Hotel.", "example_en": "Below the mountain there is a hotel."},
+      {"de": "laut", "en": "according to", "example_de": "Laut einer Studie lernen Kinder schneller.", "example_en": "According to a study, children learn faster."},
+      {"de": "zufolge", "en": "according to (postposition)", "example_de": "Dem Bericht zufolge steigt die Arbeitslosigkeit.", "example_en": "According to the report, unemployment is rising."},
+      {"de": "anlässlich", "en": "on the occasion of", "example_de": "Anlässlich des Jubiläums gibt es eine Feier.", "example_en": "On the occasion of the anniversary there is a celebration."},
+      {"de": "hinsichtlich", "en": "with regard to, regarding", "example_de": "Hinsichtlich der Kosten muss man vorsichtig sein.", "example_en": "With regard to costs, one must be careful."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "innerhalb/außerhalb + Genitiv", "structure": "innerhalb/außerhalb + des/der/eines/einer + Noun(+s)", "example_de": "Innerhalb eines Monats muss man sich anmelden.", "example_en": "Within one month you must register.", "telc_relevance": "Common in Lesen formal texts — deadlines, locations"},
+      {"pattern": "laut + Genitiv", "structure": "laut + des/der/eines/einer + Noun(+s)", "example_de": "Laut des Gesetzes ist das verboten.", "example_en": "According to the law, that is forbidden.", "telc_relevance": "Appears in Lesen Teil 2 informational texts"},
+      {"pattern": "zufolge (postposition)", "structure": "Dem/Der + Noun + zufolge + V2...", "example_de": "Einer Umfrage zufolge sind 70% zufrieden.", "example_en": "According to a survey, 70% are satisfied.", "telc_relevance": "Tests word order awareness — zufolge after noun is unusual"},
+      {"pattern": "anlässlich + Genitiv", "structure": "anlässlich + des/der + Noun(+s)", "example_de": "Anlässlich des Nationalfeiertags sind die Geschäfte geschlossen.", "example_en": "On the occasion of the national holiday, the shops are closed.", "telc_relevance": "Formal register — appears in Lesen announcements"}
+    ],
+    "flashcards": [
+      {"front": "innerhalb + ?", "back": "Genitiv: innerhalb des Gebäudes / innerhalb einer Woche", "type": "grammar"},
+      {"front": "außerhalb + ?", "back": "Genitiv: außerhalb der Stadt / außerhalb des Büros", "type": "grammar"},
+      {"front": "laut + ?", "back": "Genitiv: laut des Berichts / laut einer Umfrage (Dativ also accepted in spoken)", "type": "grammar"},
+      {"front": "zufolge — word position?", "back": "AFTER the noun (postposition): 'Dem Bericht zufolge...' (not 'zufolge dem Bericht')", "type": "grammar"},
+      {"front": "anlässlich", "back": "on the occasion of + Genitiv: 'anlässlich des Festes'", "type": "vocabulary"},
+      {"front": "hinsichtlich", "back": "with regard to + Genitiv: 'hinsichtlich der Sicherheit'", "type": "vocabulary"},
+      {"front": "oberhalb vs. unterhalb", "back": "oberhalb = above: 'oberhalb des Tals'. unterhalb = below: 'unterhalb des Gipfels'", "type": "vocabulary"},
+      {"front": "innerhalb vs. außerhalb", "back": "innerhalb = within/inside: 'innerhalb der Firma'. außerhalb = outside: 'außerhalb der Arbeitszeit'", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "__________ der Stadt gibt es viele Freizeitangebote.", "en": "Within the city there are many leisure activities.", "hint": "Innerhalb (+ Genitiv 'der Stadt')"},
+      {"de": "Er wohnt __________ __________ Stadtzentrums.", "en": "He lives outside the city center.", "hint": "außerhalb des (+ Genitiv masculine)"},
+      {"de": "__________ einer Studie treiben Deutsche im Durchschnitt 3 Stunden Sport pro Woche.", "en": "According to a study, Germans exercise on average 3 hours per week.", "hint": "Laut (+ Genitiv 'einer Studie')"},
+      {"de": "Dem Wetterbericht __________ wird es morgen regnen.", "en": "According to the weather report, it will rain tomorrow.", "hint": "zufolge (postposition — after the noun)"},
+      {"de": "__________ des 50-jährigen Jubiläums findet eine große Feier statt.", "en": "On the occasion of the 50th anniversary, a large celebration is taking place.", "hint": "Anlässlich (+ Genitiv 'des Jubiläums')"}
+    ],
+    "exam_tips": [
+      {"tip": "laut + Genitiv is common in Lesen informational texts. Recognize it as 'according to' to quickly parse the sentence.", "telc_section": "Lesen"},
+      {"tip": "innerhalb + time expression appears in formal contexts: 'innerhalb von 14 Tagen' (within 14 days) — know this for Lesen Teil 3 notices.", "telc_section": "Lesen"},
+      {"tip": "zufolge is a postposition — it comes AFTER the noun. If you see '[Noun] zufolge' in a text, it means 'according to [Noun]'.", "telc_section": "Sprachbausteine"}
+    ],
+    "visual_summary": {
+      "title": "Genitivpräpositionen Teil 3",
+      "table": {
+        "headers": ["Preposition", "Meaning", "Example DE", "Example EN"],
+        "rows": [
+          ["innerhalb", "within", "innerhalb des Gebäudes", "within the building"],
+          ["außerhalb", "outside of", "außerhalb der Öffnungszeiten", "outside opening hours"],
+          ["oberhalb/unterhalb", "above/below", "oberhalb des Dorfes", "above the village"],
+          ["laut", "according to", "laut des Berichts", "according to the report"],
+          ["zufolge (post!)", "according to", "dem Plan zufolge", "according to the plan"],
+          ["anlässlich", "on occasion of", "anlässlich des Festes", "on the occasion of the celebration"]
+        ]
+      },
+      "key_points": [
+        "ALL require Genitiv case!",
+        "zufolge is a POST-position: comes AFTER noun",
+        "innerhalb/außerhalb = spatial or temporal boundaries",
+        "laut = common in news/formal texts"
+      ]
+    }
+  },
+  {
+    "video_id": "jVGnSYo_aMQ",
+    "title": "B1 - Lesson 30 | Präsentation halten | Giving a Presentation | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=jVGnSYo_aMQ",
+    "telc_section": "Sprechen",
+    "study_notes": {
+      "summary": "This lesson teaches how to give a structured presentation in German, directly relevant to TELC B1 Sprechen Teil 2 where you present your opinion on a topic. Key phases: Einleitung (introduction of topic), Hauptteil (main points with examples), eigene Meinung (personal opinion), Zusammenfassung (summary). Uses connectors to guide the listener.",
+      "key_concept": "A B1 presentation needs clear structure: 1) Introduce the topic ('Ich möchte heute über ... sprechen'), 2) Present different aspects ('Einerseits... andererseits...'), 3) Give your personal opinion ('Meiner Meinung nach...'), 4) Summarize ('Zusammenfassend möchte ich sagen...'). Use transition phrases to move between sections.",
+      "grammar_rule": "Key transition phrases: Einleitung: 'Heute möchte ich über das Thema ... sprechen.' Überleitung: 'Zuerst... Dann... Außerdem...' Meinung: 'Ich persönlich finde/denke/glaube, dass...' Schluss: 'Zusammenfassend kann man sagen, dass...' / 'Abschließend möchte ich sagen...'",
+      "word_order_note": "Transition adverbs (zuerst, dann, außerdem, abschließend) take position 1, so verb comes in position 2: 'Zuerst möchte ich über... sprechen.' / 'Abschließend kann man sagen, dass...'",
+      "common_mistakes": [
+        "No clear structure — jumping between points randomly",
+        "Only listing facts without giving personal opinion",
+        "Not using transition phrases — sounds choppy",
+        "Speaking too fast or too slow — practice timing (3 min)",
+        "Forgetting to summarize at the end"
+      ]
+    },
+    "vocabulary": [
+      {"de": "Ich möchte heute über ... sprechen", "en": "I would like to talk about ... today", "example_de": "Ich möchte heute über das Thema Umweltschutz sprechen.", "example_en": "I would like to talk about the topic of environmental protection today."},
+      {"de": "Zunächst / Zuerst", "en": "First / First of all", "example_de": "Zunächst möchte ich die Vorteile nennen.", "example_en": "First of all, I would like to mention the advantages."},
+      {"de": "Darüber hinaus", "en": "Furthermore, beyond that", "example_de": "Darüber hinaus gibt es noch einen wichtigen Punkt.", "example_en": "Furthermore, there is another important point."},
+      {"de": "Ein Beispiel dafür ist...", "en": "An example of this is...", "example_de": "Ein Beispiel dafür ist meine eigene Erfahrung.", "example_en": "An example of this is my own experience."},
+      {"de": "Ich persönlich finde/denke", "en": "I personally think", "example_de": "Ich persönlich finde, dass Sport sehr wichtig ist.", "example_en": "I personally think that sports are very important."},
+      {"de": "Zusammenfassend", "en": "In summary", "example_de": "Zusammenfassend kann man sagen, dass das Thema komplex ist.", "example_en": "In summary, one can say that the topic is complex."},
+      {"de": "Abschließend möchte ich sagen", "en": "In conclusion, I would like to say", "example_de": "Abschließend möchte ich sagen, dass jeder seinen Beitrag leisten kann.", "example_en": "In conclusion, I would like to say that everyone can contribute."},
+      {"de": "Haben Sie noch Fragen?", "en": "Do you have any questions?", "example_de": "Haben Sie noch Fragen zu meiner Präsentation?", "example_en": "Do you have any questions about my presentation?"}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Topic introduction", "structure": "Ich möchte heute über + Akk. + sprechen", "example_de": "Ich möchte heute über das Thema Gesundheit sprechen.", "example_en": "I would like to talk about health today.", "telc_relevance": "Standard opening for Sprechen Teil 2 — always start with this"},
+      {"pattern": "Sequencing with connectors", "structure": "Zuerst / Dann / Außerdem / Schließlich + V2", "example_de": "Zuerst nenne ich die Vorteile. Dann spreche ich über die Nachteile.", "example_en": "First I'll mention the advantages. Then I'll talk about the disadvantages.", "telc_relevance": "Shows structured thinking — helps flow during Sprechen"},
+      {"pattern": "Personal opinion", "structure": "Ich persönlich + finde/denke/glaube, dass + V-end", "example_de": "Ich persönlich glaube, dass man beides braucht.", "example_en": "I personally believe that one needs both.", "telc_relevance": "Examiners want YOUR opinion — always include it in Teil 2"},
+      {"pattern": "Summary/closing", "structure": "Zusammenfassend kann man sagen, dass + V-end", "example_de": "Zusammenfassend kann man sagen, dass dieses Thema wichtig ist.", "example_en": "In summary, one can say that this topic is important.", "telc_relevance": "Professional closing signals you're done — helps with time management"}
+    ],
+    "flashcards": [
+      {"front": "How to start a B1 presentation?", "back": "'Ich möchte heute über das Thema [X] sprechen.' / 'Mein Thema heute ist [X].'", "type": "exam_tip"},
+      {"front": "Zunächst / Dann / Außerdem / Schließlich", "back": "First / Then / Furthermore / Finally — sequence connectors for structured talk", "type": "vocabulary"},
+      {"front": "Ein Beispiel dafür ist...", "back": "An example of this is... (introduce personal examples)", "type": "vocabulary"},
+      {"front": "Zusammenfassend kann man sagen, dass...", "back": "In summary, one can say that... (closing your presentation)", "type": "vocabulary"},
+      {"front": "Ich persönlich finde, dass...", "back": "I personally think that... (expressing personal opinion)", "type": "vocabulary"},
+      {"front": "Darüber hinaus", "back": "Furthermore, beyond that (adding another point)", "type": "vocabulary"},
+      {"front": "Abschließend möchte ich sagen...", "back": "In conclusion, I would like to say... (final statement)", "type": "vocabulary"},
+      {"front": "4 parts of a B1 presentation?", "back": "1) Einleitung (intro) 2) Hauptteil (main points) 3) Eigene Meinung (opinion) 4) Zusammenfassung (summary)", "type": "exam_tip"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich __________ heute __________ das Thema Ernährung sprechen.", "en": "I would like to talk about the topic of nutrition today.", "hint": "möchte ... über (standard presentation opening)"},
+      {"de": "__________ möchte ich die Vorteile erklären.", "en": "First, I would like to explain the advantages.", "hint": "Zuerst / Zunächst (sequencing)"},
+      {"de": "__________ __________ gibt es noch andere wichtige Aspekte.", "en": "Furthermore, there are other important aspects.", "hint": "Darüber hinaus (adding information)"},
+      {"de": "Ich __________ finde, dass Sport für die Gesundheit unverzichtbar ist.", "en": "I personally think that sports are indispensable for health.", "hint": "persönlich (personal opinion marker)"},
+      {"de": "__________ kann man sagen, dass dieses Thema uns alle betrifft.", "en": "In summary, one can say that this topic affects us all.", "hint": "Zusammenfassend (closing summary)"}
+    ],
+    "exam_tips": [
+      {"tip": "For Sprechen Teil 2, always use this structure: 1) Introduce topic, 2) Advantages/disadvantages, 3) Personal opinion, 4) Summary. Examiners love structure!", "telc_section": "Sprechen"},
+      {"tip": "Practice 5 common topics with this structure: Internet, Sport, Umwelt, Ernährung, Bildung. Each should take about 3-4 minutes.", "telc_section": "Sprechen"},
+      {"tip": "Use 'Ein Beispiel aus meiner Erfahrung...' to make your presentation personal and authentic. Personal examples are very effective.", "telc_section": "Sprechen"},
+      {"tip": "End clearly with 'Zusammenfassend...' or 'Abschließend...' — this signals to the examiner you're done, avoiding awkward silence.", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Präsentation halten — Giving a B1 Presentation",
+      "table": {
+        "headers": ["Phase", "Phrases", "Duration"],
+        "rows": [
+          ["Einleitung", "Ich möchte über ... sprechen / Mein Thema ist...", "30 sec"],
+          ["Hauptteil", "Zuerst... Dann... Außerdem... Ein Beispiel...", "2 min"],
+          ["Meinung", "Ich persönlich finde/denke/glaube, dass...", "30 sec"],
+          ["Schluss", "Zusammenfassend / Abschließend möchte ich sagen...", "30 sec"]
+        ]
+      },
+      "key_points": [
+        "Clear 4-part structure = higher score",
+        "Use transition connectors between sections",
+        "Always give YOUR personal opinion",
+        "End with summary — don't just stop talking"
+      ]
+    }
+  },
+  {
+    "video_id": "cvS_YPCyLnA",
+    "title": "B1 - Lesson 31 | sich beschweren / reklamieren | Making complaints | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=cvS_YPCyLnA",
+    "telc_section": "Schreiben",
+    "study_notes": {
+      "summary": "This lesson teaches how to write a formal complaint (Reklamation/Beschwerde) in German — a very common TELC B1 Schreiben task. Key elements: state the problem clearly, describe what happened, express dissatisfaction, make a specific request, and remain polite but firm. Uses KII for formal politeness and connectors for logical flow.",
+      "key_concept": "A Reklamation/Beschwerde follows this structure: 1) State what you bought/booked/used, 2) Describe the problem, 3) Express your dissatisfaction, 4) Request a solution (refund/exchange/repair). Always remain Sie-form, use KII for politeness, and be specific about what you want. Address all 4 Leitpunkte!",
+      "grammar_rule": "Key complaint phrases: 'Ich möchte mich beschweren über + Akk.' (I'd like to complain about), 'Leider musste ich feststellen, dass...' (Unfortunately I had to notice that...), 'Ich bitte Sie darum, ...' (I ask you to...), 'Ich erwarte eine Antwort innerhalb von...' (I expect a reply within...).",
+      "word_order_note": "sich beschweren über + Akk.: 'Ich beschwere mich über den Service.' 'Leider musste ich feststellen, dass + Nebensatz.' 'Ich bitte Sie darum, + zu-Infinitiv': 'Ich bitte Sie darum, mir mein Geld zurückzuerstatten.'",
+      "common_mistakes": [
+        "Being too aggressive — stay polite but firm: 'Leider...' not 'Das ist eine Frechheit!'",
+        "Not being specific: say exactly what the problem is and what you expect",
+        "Missing Leitpunkte — in TELC, you must address ALL 4 points about the complaint",
+        "No solution requested — always say what you want: Rückerstattung, Umtausch, Reparatur",
+        "Using du-form — it's always Sie for formal complaints"
+      ]
+    },
+    "vocabulary": [
+      {"de": "sich beschweren über + Akk.", "en": "to complain about", "example_de": "Ich möchte mich über den schlechten Service beschweren.", "example_en": "I would like to complain about the poor service."},
+      {"de": "reklamieren", "en": "to make a complaint/return", "example_de": "Ich möchte das defekte Gerät reklamieren.", "example_en": "I would like to return the defective device."},
+      {"de": "Leider musste ich feststellen, dass...", "en": "Unfortunately I had to notice that...", "example_de": "Leider musste ich feststellen, dass das Produkt beschädigt war.", "example_en": "Unfortunately I had to notice that the product was damaged."},
+      {"de": "die Rückerstattung", "en": "the refund", "example_de": "Ich bitte um eine vollständige Rückerstattung.", "example_en": "I request a full refund."},
+      {"de": "der Umtausch", "en": "the exchange", "example_de": "Ist ein Umtausch möglich?", "example_en": "Is an exchange possible?"},
+      {"de": "Ich bitte Sie darum, ...", "en": "I ask you to...", "example_de": "Ich bitte Sie darum, mir eine Lösung anzubieten.", "example_en": "I ask you to offer me a solution."},
+      {"de": "enttäuscht", "en": "disappointed", "example_de": "Ich bin sehr enttäuscht von der Qualität.", "example_en": "I am very disappointed with the quality."},
+      {"de": "Es wäre nett, wenn Sie...", "en": "It would be nice if you...", "example_de": "Es wäre nett, wenn Sie mir so schnell wie möglich antworten könnten.", "example_en": "It would be nice if you could reply as soon as possible."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "sich beschweren über + Akk.", "structure": "Ich möchte mich + über + Akk. + beschweren", "example_de": "Ich möchte mich über die lange Wartezeit beschweren.", "example_en": "I would like to complain about the long waiting time.", "telc_relevance": "Standard complaint opening for Schreiben"},
+      {"pattern": "Leider musste ich feststellen, dass + Nebensatz", "structure": "Leider musste ich feststellen, dass + S + ... + V(end)", "example_de": "Leider musste ich feststellen, dass das Zimmer nicht sauber war.", "example_en": "Unfortunately I had to notice that the room was not clean.", "telc_relevance": "Elegant problem statement — scores higher than direct complaints"},
+      {"pattern": "Ich bitte Sie darum, + zu-Infinitiv", "structure": "Ich bitte Sie darum, + zu + Infinitiv", "example_de": "Ich bitte Sie darum, mir mein Geld zurückzuerstatten.", "example_en": "I ask you to refund my money.", "telc_relevance": "Formal request structure — shows good B1 grammar"},
+      {"pattern": "KII for polite complaints", "structure": "Ich hätte erwartet / Es wäre besser gewesen, wenn...", "example_de": "Ich hätte erwartet, dass der Service besser ist.", "example_en": "I would have expected the service to be better.", "telc_relevance": "KII in complaints = sophisticated B1 writing"}
+    ],
+    "flashcards": [
+      {"front": "Ich möchte mich beschweren über...", "back": "I would like to complain about... + Akkusativ", "type": "vocabulary"},
+      {"front": "Leider musste ich feststellen, dass...", "back": "Unfortunately I had to notice that... (formal problem statement)", "type": "vocabulary"},
+      {"front": "Ich bitte um eine Rückerstattung.", "back": "I request a refund. (bitten um + Akk.)", "type": "vocabulary"},
+      {"front": "Ich hätte erwartet, dass...", "back": "I would have expected that... (KII past = sophisticated complaint)", "type": "grammar"},
+      {"front": "Es wäre nett, wenn Sie...", "back": "It would be nice if you... + KII (polite request)", "type": "grammar"},
+      {"front": "reklamieren vs. sich beschweren", "back": "reklamieren = return/claim (product). sich beschweren = complain (service, situation)", "type": "vocabulary"},
+      {"front": "der Umtausch", "back": "exchange — Ich hätte gern einen Umtausch.", "type": "vocabulary"},
+      {"front": "enttäuscht sein von + Dat.", "back": "to be disappointed with: 'Ich bin enttäuscht von dem Ergebnis.'", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich möchte mich __________ den schlechten Service __________.", "en": "I would like to complain about the poor service.", "hint": "über ... beschweren (sich beschweren über + Akk.)"},
+      {"de": "__________ musste ich feststellen, dass die Lieferung beschädigt war.", "en": "Unfortunately I had to notice that the delivery was damaged.", "hint": "Leider (formal problem introduction)"},
+      {"de": "Ich bitte Sie __________, mir mein Geld __________.", "en": "I ask you to refund my money.", "hint": "darum ... zurückzuerstatten (bitten + darum + zu-Inf.)"},
+      {"de": "Ich bin sehr __________ von der Qualität des Produkts.", "en": "I am very disappointed with the quality of the product.", "hint": "enttäuscht (enttäuscht von + Dativ)"},
+      {"de": "Es __________ nett, wenn Sie mir so schnell wie möglich antworten __________.", "en": "It would be nice if you could reply as soon as possible.", "hint": "wäre ... könnten (KII polite request)"}
+    ],
+    "exam_tips": [
+      {"tip": "Reklamation/Beschwerde is one of the most common Schreiben tasks. Practice writing complaints about: hotel, product, delivery, course, restaurant.", "telc_section": "Schreiben"},
+      {"tip": "Use 'Leider musste ich feststellen, dass...' instead of direct insults — it's polite, formal, and scores higher.", "telc_section": "Schreiben"},
+      {"tip": "Always state what solution you expect: Rückerstattung (refund), Umtausch (exchange), Reparatur (repair), Gutschein (voucher).", "telc_section": "Schreiben"},
+      {"tip": "Close with: 'Ich erwarte Ihre Antwort innerhalb von [X] Tagen. Mit freundlichen Grüßen,...' — sets deadline politely.", "telc_section": "Schreiben"}
+    ],
+    "visual_summary": {
+      "title": "Reklamation / Beschwerde — Making Complaints",
+      "table": {
+        "headers": ["Part", "Phrase", "Example"],
+        "rows": [
+          ["Opening", "Ich möchte mich beschweren über...", "...den schlechten Service"],
+          ["Problem", "Leider musste ich feststellen, dass...", "...das Produkt defekt war"],
+          ["Feeling", "Ich bin enttäuscht/unzufrieden...", "...von der Qualität"],
+          ["Request", "Ich bitte Sie darum, .../Ich erwarte...", "...mir mein Geld zurückzuerstatten"],
+          ["Closing", "Mit freundlichen Grüßen", "[Name]"]
+        ]
+      },
+      "key_points": [
+        "Always polite but firm — use 'leider', 'Es wäre nett'",
+        "State problem + feeling + solution request",
+        "Address ALL 4 Leitpunkte in TELC exam",
+        "KII (hätte, wäre, könnten) elevates complaint writing"
+      ]
+    }
+  }
+]

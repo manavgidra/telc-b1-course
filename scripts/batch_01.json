@@ -1,0 +1,408 @@
+[
+  {
+    "video_id": "Q43wVH65Hzc",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 19 : Exam Preparation : Sprechen 3",
+    "url": "https://www.youtube.com/watch?v=Q43wVH65Hzc",
+    "telc_section": "Sprechen",
+    "study_notes": {
+      "summary": "This session covers Sprechen Teil 3 — the joint planning task in the TELC B1 speaking exam. You and a partner must discuss and plan something together (e.g., organizing a party, planning a trip). You have about 6 minutes and must reach an agreement.",
+      "key_concept": "Gemeinsam etwas planen (planning something together): You must make suggestions, react to your partner's ideas, agree/disagree politely, and reach a conclusion.",
+      "grammar_rule": "Use Konjunktiv II for polite suggestions: 'Wir könnten...', 'Wie wäre es, wenn...?', 'Ich würde vorschlagen, dass...'",
+      "word_order_note": "In 'dass' and 'wenn' clauses the conjugated verb goes to the end: 'Ich schlage vor, dass wir am Samstag kochen.'",
+      "common_mistakes": [
+        "Speaking in monologue instead of interacting with the partner",
+        "Not reacting to the partner's suggestions",
+        "Forgetting to reach a final agreement or summary",
+        "Using only 'ja' or 'nein' without elaboration",
+        "Not using polite forms (Konjunktiv II) for suggestions"
+      ]
+    },
+    "vocabulary": [
+      {"de": "vorschlagen", "en": "to suggest", "example_de": "Ich schlage vor, dass wir ins Restaurant gehen.", "example_en": "I suggest that we go to the restaurant."},
+      {"de": "einverstanden sein", "en": "to agree", "example_de": "Ich bin damit einverstanden.", "example_en": "I agree with that."},
+      {"de": "sich einigen", "en": "to reach an agreement", "example_de": "Wir müssen uns auf einen Termin einigen.", "example_en": "We need to agree on a date."},
+      {"de": "der Vorschlag", "en": "the suggestion", "example_de": "Das ist ein guter Vorschlag!", "example_en": "That's a good suggestion!"},
+      {"de": "planen", "en": "to plan", "example_de": "Wir planen eine Überraschungsparty.", "example_en": "We are planning a surprise party."},
+      {"de": "organisieren", "en": "to organize", "example_de": "Wer organisiert das Essen?", "example_en": "Who is organizing the food?"},
+      {"de": "sich kümmern um", "en": "to take care of", "example_de": "Ich kümmere mich um die Musik.", "example_en": "I'll take care of the music."},
+      {"de": "die Aufgabe verteilen", "en": "to distribute tasks", "example_de": "Wir sollten die Aufgaben verteilen.", "example_en": "We should distribute the tasks."},
+      {"de": "berücksichtigen", "en": "to consider/take into account", "example_de": "Wir müssen das Budget berücksichtigen.", "example_en": "We need to consider the budget."},
+      {"de": "zusammenfassen", "en": "to summarize", "example_de": "Können wir zusammenfassen, was wir geplant haben?", "example_en": "Can we summarize what we have planned?"}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Konjunktiv II for suggestions", "structure": "Wir könnten + Infinitiv / Wie wäre es, wenn + Verb (end)", "example_de": "Wir könnten am Samstag ein Fest organisieren.", "example_en": "We could organize a party on Saturday.", "telc_relevance": "Essential for Sprechen Teil 3 — polite suggestions score higher"},
+      {"pattern": "Vorschlagen + dass-Satz", "structure": "Ich schlage vor, dass + Subject + ... + Verb", "example_de": "Ich schlage vor, dass wir Pizza bestellen.", "example_en": "I suggest that we order pizza.", "telc_relevance": "Shows complex sentence structure in speaking"},
+      {"pattern": "Was hältst du davon", "structure": "Was hältst du davon, wenn + Nebensatz", "example_de": "Was hältst du davon, wenn wir im Park feiern?", "example_en": "What do you think if we celebrate in the park?", "telc_relevance": "Interactive phrases are rewarded in the speaking exam"},
+      {"pattern": "Einverstanden + aber", "structure": "Ja, einverstanden, aber + alternative", "example_de": "Einverstanden, aber wir sollten auch Getränke kaufen.", "example_en": "Agreed, but we should also buy drinks.", "telc_relevance": "Shows ability to negotiate and modify plans"}
+    ],
+    "flashcards": [
+      {"front": "How do you make a polite suggestion in German?", "back": "Wir könnten... / Wie wäre es, wenn...? / Ich würde vorschlagen, dass...", "type": "grammar"},
+      {"front": "Ich schlage vor, dass wir...", "back": "I suggest that we...", "type": "phrase"},
+      {"front": "Was hältst du davon?", "back": "What do you think about that?", "type": "phrase"},
+      {"front": "Ich bin damit einverstanden.", "back": "I agree with that.", "type": "phrase"},
+      {"front": "Da bin ich anderer Meinung.", "back": "I have a different opinion about that.", "type": "phrase"},
+      {"front": "Wer kümmert sich um...?", "back": "Who takes care of...?", "type": "phrase"},
+      {"front": "Können wir zusammenfassen?", "back": "Can we summarize?", "type": "phrase"},
+      {"front": "sich einigen auf + Akk", "back": "to agree on something (Wir einigen uns auf den Samstag.)", "type": "vocabulary"},
+      {"front": "How long is Sprechen Teil 3?", "back": "Approximately 6 minutes — you plan something with your partner", "type": "exam"},
+      {"front": "berücksichtigen", "back": "to consider / take into account", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Wie wäre es, wenn wir nächsten Samstag ins Kino gehen?", "en": "How about if we go to the cinema next Saturday?", "hint": "Use 'Wie wäre es, wenn...' for suggestions"},
+      {"de": "Ich würde vorschlagen, dass jeder etwas zum Essen mitbringt.", "en": "I would suggest that everyone brings something to eat.", "hint": "Konjunktiv II + dass-clause"},
+      {"de": "Das ist eine gute Idee, aber wir sollten auch an die Getränke denken.", "en": "That's a good idea, but we should also think about drinks.", "hint": "Agree then add with 'aber'"},
+      {"de": "Ich könnte mich um die Einladungen kümmern, wenn du das Essen organisierst.", "en": "I could take care of the invitations if you organize the food.", "hint": "Divide tasks with 'wenn'"},
+      {"de": "Also, fassen wir zusammen: Wir treffen uns am Samstag um 18 Uhr im Park.", "en": "So, let's summarize: We meet on Saturday at 6 PM in the park.", "hint": "Always end with a summary"}
+    ],
+    "exam_tips": [
+      {"tip": "Always interact with your partner — ask questions, react to their ideas, don't just monologue.", "telc_section": "Sprechen"},
+      {"tip": "Use Konjunktiv II (könnte, würde, wäre) for all suggestions — it sounds more polite and scores higher.", "telc_section": "Sprechen"},
+      {"tip": "End the planning with a clear summary: 'Also, wir haben uns geeinigt, dass...'", "telc_section": "Sprechen"},
+      {"tip": "Divide the tasks between partners: 'Ich kümmere mich um X, und du machst Y.' This shows collaboration.", "telc_section": "Sprechen"},
+      {"tip": "If you disagree, do it politely: 'Das finde ich nicht so gut, weil... Wie wäre es stattdessen mit...?'", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Sprechen Teil 3 — Gemeinsam planen",
+      "table": {
+        "headers": ["Phase", "What to do", "Key phrase"],
+        "rows": [
+          ["1. Start", "Greet, introduce the topic", "Also, wir sollen... planen."],
+          ["2. Suggest", "Make your first suggestion", "Ich schlage vor, dass wir..."],
+          ["3. React", "Respond to partner's idea", "Das finde ich gut / Da bin ich anderer Meinung"],
+          ["4. Negotiate", "Discuss alternatives", "Wie wäre es, wenn wir stattdessen...?"],
+          ["5. Divide tasks", "Assign responsibilities", "Ich kümmere mich um..., du machst..."],
+          ["6. Summarize", "Wrap up the plan", "Also, fassen wir zusammen: Wir..."]
+        ]
+      },
+      "key_points": [
+        "Sprechen Teil 3 = 6 minutes, plan something with a partner",
+        "Use Konjunktiv II for all suggestions",
+        "Interact — don't monologue",
+        "Always reach an agreement and summarize at the end"
+      ]
+    }
+  },
+  {
+    "video_id": "qOMd6_446CQ",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 18 : Exam Preparation : Sprechen 2",
+    "url": "https://www.youtube.com/watch?v=qOMd6_446CQ",
+    "telc_section": "Sprechen",
+    "study_notes": {
+      "summary": "Sprechen Teil 2 covers presenting a topic and giving your opinion for about 6 minutes. You receive a prompt card with a topic and must structure a mini-presentation: introduction, main points (pros/cons), personal opinion, and conclusion.",
+      "key_concept": "Einen Vortrag halten (giving a presentation): Present a topic with clear structure — Einleitung, Hauptteil (Vor- und Nachteile), persönliche Meinung, Schluss.",
+      "grammar_rule": "Use opinion phrases with dass-Sätze: 'Ich bin der Meinung, dass...', 'Meiner Ansicht nach + Verb second position'",
+      "word_order_note": "After 'Meiner Meinung nach' the verb comes in position 2: 'Meiner Meinung nach ist Sport sehr wichtig.'",
+      "common_mistakes": [
+        "Not structuring the presentation (jumping between points randomly)",
+        "Forgetting to give a personal opinion",
+        "Speaking too fast or too slow — aim for steady pace",
+        "Not using connectors to link ideas (einerseits/andererseits, zwar/aber)",
+        "Ending abruptly without a proper conclusion"
+      ]
+    },
+    "vocabulary": [
+      {"de": "die Meinung äußern", "en": "to express an opinion", "example_de": "Ich möchte meine Meinung zu diesem Thema äußern.", "example_en": "I would like to express my opinion on this topic."},
+      {"de": "der Vorteil / der Nachteil", "en": "advantage / disadvantage", "example_de": "Ein Vorteil ist, dass man flexibel arbeiten kann.", "example_en": "An advantage is that you can work flexibly."},
+      {"de": "einerseits... andererseits", "en": "on the one hand... on the other hand", "example_de": "Einerseits ist Sport gesund, andererseits kostet es Zeit.", "example_en": "On the one hand sport is healthy, on the other hand it costs time."},
+      {"de": "zusammenfassend", "en": "in summary", "example_de": "Zusammenfassend möchte ich sagen, dass...", "example_en": "In summary, I would like to say that..."},
+      {"de": "das Thema vorstellen", "en": "to introduce the topic", "example_de": "Ich möchte heute das Thema Umweltschutz vorstellen.", "example_en": "I would like to introduce the topic of environmental protection today."},
+      {"de": "die Erfahrung", "en": "experience", "example_de": "Aus meiner persönlichen Erfahrung kann ich sagen...", "example_en": "From my personal experience I can say..."},
+      {"de": "betonen", "en": "to emphasize", "example_de": "Ich möchte betonen, dass Bildung sehr wichtig ist.", "example_en": "I would like to emphasize that education is very important."},
+      {"de": "hinzufügen", "en": "to add", "example_de": "Ich möchte noch hinzufügen, dass...", "example_en": "I would also like to add that..."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Meiner Meinung nach + V2", "structure": "Meiner Meinung nach + Verb + Subject + ...", "example_de": "Meiner Meinung nach sollte man mehr Sport treiben.", "example_en": "In my opinion, one should do more sport.", "telc_relevance": "Essential opinion phrase for Sprechen Teil 2"},
+      {"pattern": "Ich bin der Meinung, dass...", "structure": "Ich bin der Meinung, dass + S + ... + V(end)", "example_de": "Ich bin der Meinung, dass soziale Medien gefährlich sein können.", "example_en": "I am of the opinion that social media can be dangerous.", "telc_relevance": "Shows complex sentence structure in opinion expression"},
+      {"pattern": "Einerseits... andererseits", "structure": "Einerseits + V2 + ..., andererseits + V2 + ...", "example_de": "Einerseits spart man Zeit, andererseits verliert man den persönlichen Kontakt.", "example_en": "On one hand you save time, on the other you lose personal contact.", "telc_relevance": "Showing both sides of an argument scores well"},
+      {"pattern": "Zwar... aber", "structure": "Zwar + V2 + ..., aber + V2 + ...", "example_de": "Zwar ist das Internet nützlich, aber es hat auch Nachteile.", "example_en": "The internet is useful, but it also has disadvantages.", "telc_relevance": "Concessive construction — high-level B1 grammar"}
+    ],
+    "flashcards": [
+      {"front": "How do you structure Sprechen Teil 2?", "back": "1. Einleitung (intro) → 2. Hauptteil (main: pros/cons) → 3. Persönliche Meinung → 4. Schluss (conclusion)", "type": "exam"},
+      {"front": "Meiner Meinung nach...", "back": "In my opinion... (verb comes in position 2 after this)", "type": "phrase"},
+      {"front": "einerseits... andererseits...", "back": "on the one hand... on the other hand...", "type": "connector"},
+      {"front": "zwar... aber...", "back": "admittedly/indeed... but... (concessive)", "type": "connector"},
+      {"front": "Zusammenfassend möchte ich sagen, dass...", "back": "In summary, I would like to say that...", "type": "phrase"},
+      {"front": "Ich möchte das Thema ... vorstellen.", "back": "I would like to introduce the topic of...", "type": "phrase"},
+      {"front": "Aus meiner persönlichen Erfahrung...", "back": "From my personal experience...", "type": "phrase"},
+      {"front": "Es ist allgemein bekannt, dass...", "back": "It is generally known that...", "type": "phrase"},
+      {"front": "Hinzu kommt, dass...", "back": "In addition, ... (adds another point)", "type": "connector"},
+      {"front": "How long is Sprechen Teil 2?", "back": "Approximately 6 minutes — topic presentation + opinion", "type": "exam"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich möchte heute über das Thema Gesundheit und Sport sprechen.", "en": "I would like to talk about the topic of health and sport today.", "hint": "Standard opening for Teil 2"},
+      {"de": "Einerseits ist Technologie hilfreich, andererseits kann sie auch süchtig machen.", "en": "On the one hand technology is helpful, on the other hand it can also be addictive.", "hint": "Use einerseits/andererseits for balance"},
+      {"de": "Meiner Ansicht nach sollten Kinder weniger am Handy sein.", "en": "In my view, children should spend less time on their phones.", "hint": "Verb in position 2 after 'Meiner Ansicht nach'"},
+      {"de": "Zwar gibt es viele Vorteile, aber die Nachteile darf man nicht vergessen.", "en": "There are indeed many advantages, but one must not forget the disadvantages.", "hint": "Zwar...aber construction"},
+      {"de": "Zusammenfassend bin ich der Meinung, dass jeder selbst entscheiden sollte.", "en": "In summary, I am of the opinion that everyone should decide for themselves.", "hint": "Strong conclusion with opinion"}
+    ],
+    "exam_tips": [
+      {"tip": "Structure your talk clearly: intro → pros → cons → personal opinion → conclusion. Examiners love clear structure.", "telc_section": "Sprechen"},
+      {"tip": "Use transition phrases: 'Erstens...', 'Zweitens...', 'Außerdem...', 'Zum Schluss...' to organize your points.", "telc_section": "Sprechen"},
+      {"tip": "Always include your personal opinion with phrases like 'Meiner Meinung nach...' or 'Ich persönlich finde, dass...'", "telc_section": "Sprechen"},
+      {"tip": "Practice common B1 topics: Umwelt, Gesundheit, Technologie, Reisen, Bildung, Arbeit — they appear frequently.", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Sprechen Teil 2 — Vortrag halten",
+      "table": {
+        "headers": ["Phase", "Duration", "Key phrases"],
+        "rows": [
+          ["Einleitung", "~30 sec", "Ich möchte heute über ... sprechen."],
+          ["Vorteile", "~90 sec", "Ein Vorteil ist... / Außerdem... / Hinzu kommt..."],
+          ["Nachteile", "~90 sec", "Einerseits..., andererseits... / Zwar..., aber..."],
+          ["Persönliche Meinung", "~60 sec", "Meiner Meinung nach... / Ich bin überzeugt, dass..."],
+          ["Schluss", "~30 sec", "Zusammenfassend möchte ich sagen, dass..."]
+        ]
+      },
+      "key_points": [
+        "Teil 2 = ~6 minutes topic presentation with opinion",
+        "Always structure: Einleitung → Hauptteil → Meinung → Schluss",
+        "Use connectors to show both sides of the argument",
+        "Practice the top 10 B1 topics beforehand"
+      ]
+    }
+  },
+  {
+    "video_id": "Ot08anPS0QI",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 17 : Exam Preparation : Sprechen",
+    "url": "https://www.youtube.com/watch?v=Ot08anPS0QI",
+    "telc_section": "Sprechen",
+    "study_notes": {
+      "summary": "This session covers Sprechen Teil 1 — the self-introduction part of the TELC B1 speaking exam. You have about 3 minutes to introduce yourself covering key areas: Name, Herkunft, Familie, Beruf, Wohnsituation, Hobbys, Sprachen, Zukunftspläne.",
+      "key_concept": "Sich vorstellen (introducing yourself): Cover all personal topics fluently — name, origin, family, job/studies, living situation, hobbies, languages, future plans.",
+      "grammar_rule": "Use present tense for current facts, Perfekt for past experiences: 'Ich komme aus... Ich habe in München studiert.'",
+      "word_order_note": "In main clauses the verb is always in position 2: 'Seit zwei Jahren wohne ich in Berlin.' (Time expression first, verb second)",
+      "common_mistakes": [
+        "Only saying 2-3 sentences — aim for at least 3 full minutes",
+        "Not covering all the expected topics (family, job, hobbies, etc.)",
+        "Using only simple sentences instead of complex ones",
+        "Forgetting temporal expressions (seit, vor, schon)",
+        "Not mentioning why you are learning German"
+      ]
+    },
+    "vocabulary": [
+      {"de": "sich vorstellen", "en": "to introduce oneself", "example_de": "Darf ich mich vorstellen? Ich heiße Anna.", "example_en": "May I introduce myself? My name is Anna."},
+      {"de": "ursprünglich", "en": "originally", "example_de": "Ich komme ursprünglich aus Indien.", "example_en": "I am originally from India."},
+      {"de": "der Beruf", "en": "profession/job", "example_de": "Von Beruf bin ich Ingenieur.", "example_en": "By profession I am an engineer."},
+      {"de": "die Wohnsituation", "en": "living situation", "example_de": "Ich wohne in einer Zweizimmerwohnung.", "example_en": "I live in a two-room apartment."},
+      {"de": "die Freizeit", "en": "free time", "example_de": "In meiner Freizeit lese ich gerne Bücher.", "example_en": "In my free time I like reading books."},
+      {"de": "verheiratet / ledig", "en": "married / single", "example_de": "Ich bin seit 3 Jahren verheiratet.", "example_en": "I have been married for 3 years."},
+      {"de": "die Geschwister", "en": "siblings", "example_de": "Ich habe zwei Geschwister: einen Bruder und eine Schwester.", "example_en": "I have two siblings: a brother and a sister."},
+      {"de": "der Zukunftsplan", "en": "future plan", "example_de": "Mein Zukunftsplan ist, in Deutschland zu arbeiten.", "example_en": "My future plan is to work in Germany."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "seit + Dativ (duration)", "structure": "Seit + time expression + Verb(V2)", "example_de": "Seit drei Jahren wohne ich in Stuttgart.", "example_en": "I have been living in Stuttgart for three years.", "telc_relevance": "Shows time-awareness — essential for self-introduction"},
+      {"pattern": "Von Beruf bin ich...", "structure": "Von Beruf + bin + ich + profession", "example_de": "Von Beruf bin ich Softwareentwickler.", "example_en": "By profession I am a software developer.", "telc_relevance": "Standard professional introduction phrase"},
+      {"pattern": "um...zu + Infinitiv", "structure": "..., um + zu + Infinitiv", "example_de": "Ich lerne Deutsch, um in Deutschland zu arbeiten.", "example_en": "I am learning German in order to work in Germany.", "telc_relevance": "Expressing purpose — important for 'Why German?' question"},
+      {"pattern": "Perfekt for past experiences", "structure": "haben/sein + Partizip II", "example_de": "Ich habe in Mumbai Informatik studiert.", "example_en": "I studied computer science in Mumbai.", "telc_relevance": "Use Perfekt to talk about your background and past experiences"}
+    ],
+    "flashcards": [
+      {"front": "Ich komme ursprünglich aus...", "back": "I originally come from...", "type": "phrase"},
+      {"front": "Von Beruf bin ich...", "back": "By profession I am...", "type": "phrase"},
+      {"front": "Seit ___ Jahren wohne ich in...", "back": "I have been living in... for ___ years", "type": "phrase"},
+      {"front": "In meiner Freizeit... ", "back": "In my free time... (+ verb: lese ich, spiele ich, koche ich)", "type": "phrase"},
+      {"front": "Ich lerne Deutsch, um...zu...", "back": "I am learning German in order to...", "type": "grammar"},
+      {"front": "What topics must you cover in Sprechen Teil 1?", "back": "Name, Herkunft, Familie, Beruf, Wohnung, Hobbys, Sprachen, Zukunftspläne", "type": "exam"},
+      {"front": "verheiratet", "back": "married", "type": "vocabulary"},
+      {"front": "die Geschwister", "back": "siblings (Bruder = brother, Schwester = sister)", "type": "vocabulary"},
+      {"front": "How long is Sprechen Teil 1?", "back": "Approximately 3 minutes — self-introduction", "type": "exam"},
+      {"front": "Mein Traum ist es, ... zu ...", "back": "My dream is to... (expressing future aspirations)", "type": "phrase"}
+    ],
+    "practice_sentences": [
+      {"de": "Guten Tag! Mein Name ist Raj und ich komme ursprünglich aus Indien.", "en": "Good day! My name is Raj and I originally come from India.", "hint": "Start with a greeting and your full introduction"},
+      {"de": "Seit zwei Jahren lebe ich in Frankfurt und arbeite als IT-Spezialist.", "en": "I have been living in Frankfurt for two years and work as an IT specialist.", "hint": "seit + Dativ for duration"},
+      {"de": "In meiner Freizeit spiele ich gerne Fußball und koche indische Gerichte.", "en": "In my free time I enjoy playing football and cooking Indian dishes.", "hint": "Always mention 2-3 hobbies"},
+      {"de": "Ich lerne Deutsch, um mich besser mit meinen Kollegen verständigen zu können.", "en": "I am learning German in order to be able to communicate better with my colleagues.", "hint": "um...zu construction for purpose"},
+      {"de": "In Zukunft möchte ich das B2-Zertifikat machen und vielleicht ein Studium in Deutschland beginnen.", "en": "In the future I would like to get the B2 certificate and perhaps start studying in Germany.", "hint": "End with future plans — shows ambition"}
+    ],
+    "exam_tips": [
+      {"tip": "Prepare your self-introduction in advance and practice it until it flows naturally — you know exactly what topics will be asked.", "telc_section": "Sprechen"},
+      {"tip": "Aim for at least 3 full minutes — short answers lose points. Elaborate on each topic area.", "telc_section": "Sprechen"},
+      {"tip": "Mix simple and complex sentences: 'Ich wohne in Berlin' is fine, but also add 'Ich wohne in Berlin, weil ich dort einen guten Job gefunden habe.'", "telc_section": "Sprechen"},
+      {"tip": "Use temporal markers: 'seit', 'vor ___ Jahren', 'schon lange', 'in Zukunft', 'nächstes Jahr' to show time awareness.", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Sprechen Teil 1 — Sich vorstellen",
+      "table": {
+        "headers": ["Topic", "Example sentence", "Time"],
+        "rows": [
+          ["Name & Herkunft", "Ich heiße... und komme aus...", "~20 sec"],
+          ["Familie", "Ich bin verheiratet und habe zwei Kinder.", "~20 sec"],
+          ["Beruf / Studium", "Von Beruf bin ich... / Ich studiere...", "~30 sec"],
+          ["Wohnsituation", "Ich wohne seit ___ in einer... in...", "~20 sec"],
+          ["Hobbys", "In meiner Freizeit... Außerdem...", "~30 sec"],
+          ["Sprachen", "Ich spreche... und lerne Deutsch, um...", "~20 sec"],
+          ["Zukunft", "In Zukunft möchte ich...", "~20 sec"]
+        ]
+      },
+      "key_points": [
+        "Teil 1 = ~3 minutes self-introduction",
+        "Cover ALL topics: name, origin, family, job, home, hobbies, languages, future",
+        "Use seit + Dativ for durations",
+        "End with your future plans and why you learn German"
+      ]
+    }
+  },
+  {
+    "video_id": "MAo01fWsyI4",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 16 : Exam Preparation : Schreiben",
+    "url": "https://www.youtube.com/watch?v=MAo01fWsyI4",
+    "telc_section": "Schreiben",
+    "study_notes": {
+      "summary": "This session covers the Schreiben (writing) section of the TELC B1 exam. You must write an email of 100-120 words addressing ALL 4 Leitpunkte (guiding points). The email can be formal (Sehr geehrte...) or semi-formal/informal (Liebe/Lieber...).",
+      "key_concept": "Email schreiben mit 4 Leitpunkten: Every email MUST address all 4 guiding points given in the prompt. Missing even one Leitpunkt loses significant marks.",
+      "grammar_rule": "Use Konnektoren to link ideas: weil (because), deshalb (therefore), trotzdem (nevertheless), außerdem (furthermore), obwohl (although)",
+      "word_order_note": "After 'weil' and 'obwohl' the verb goes to the end. After 'deshalb' and 'trotzdem' the verb stays in position 2: 'Ich komme nicht, weil ich krank BIN.' vs. 'Ich bin krank, deshalb KOMME ich nicht.'",
+      "common_mistakes": [
+        "Not addressing all 4 Leitpunkte — this is the #1 mistake",
+        "Writing too many or too few words (must be 100-120)",
+        "Mixing formal and informal register in the same email",
+        "Forgetting greeting (Anrede) or closing (Grußformel)",
+        "Not using enough connectors between sentences"
+      ]
+    },
+    "vocabulary": [
+      {"de": "die Anrede", "en": "greeting/salutation", "example_de": "Die Anrede bei formellen Briefen ist 'Sehr geehrte Damen und Herren'.", "example_en": "The greeting in formal letters is 'Dear Sir or Madam'."},
+      {"de": "die Grußformel", "en": "closing formula", "example_de": "Mit freundlichen Grüßen ist eine formelle Grußformel.", "example_en": "'Kind regards' is a formal closing formula."},
+      {"de": "der Leitpunkt", "en": "guiding point", "example_de": "Sie müssen alle vier Leitpunkte in der E-Mail ansprechen.", "example_en": "You must address all four guiding points in the email."},
+      {"de": "sich entschuldigen", "en": "to apologize", "example_de": "Ich möchte mich für die Unannehmlichkeiten entschuldigen.", "example_en": "I would like to apologize for the inconvenience."},
+      {"de": "absagen", "en": "to cancel", "example_de": "Leider muss ich den Termin absagen.", "example_en": "Unfortunately I have to cancel the appointment."},
+      {"de": "sich beschweren", "en": "to complain", "example_de": "Ich möchte mich über den Lärm beschweren.", "example_en": "I would like to complain about the noise."},
+      {"de": "vorschlagen", "en": "to suggest", "example_de": "Ich schlage einen neuen Termin am Mittwoch vor.", "example_en": "I suggest a new appointment on Wednesday."},
+      {"de": "sich erkundigen", "en": "to inquire", "example_de": "Ich erkundige mich nach den Kurszeiten.", "example_en": "I am inquiring about the course times."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "weil + Verb am Ende", "structure": "Hauptsatz, weil + S + ... + V(end)", "example_de": "Ich kann nicht kommen, weil ich an diesem Tag arbeiten muss.", "example_en": "I cannot come because I have to work on that day.", "telc_relevance": "Most common causal connector in Schreiben"},
+      {"pattern": "deshalb + V2", "structure": "Satz 1. Deshalb + V2 + Subject + ...", "example_de": "Ich bin krank. Deshalb kann ich leider nicht kommen.", "example_en": "I am sick. Therefore I unfortunately cannot come.", "telc_relevance": "Shows variety — alternate between weil and deshalb"},
+      {"pattern": "Konjunktiv II for polite requests", "structure": "Ich wäre Ihnen dankbar, wenn + S + ... + V(end)", "example_de": "Ich wäre Ihnen sehr dankbar, wenn Sie mir einen neuen Termin geben könnten.", "example_en": "I would be very grateful if you could give me a new appointment.", "telc_relevance": "Essential for formal emails — politeness scores well"},
+      {"pattern": "trotzdem + V2", "structure": "Satz 1. Trotzdem + V2 + Subject + ...", "example_de": "Das Wetter ist schlecht. Trotzdem möchte ich kommen.", "example_en": "The weather is bad. Nevertheless I would like to come.", "telc_relevance": "Showing contrast/concession in emails"}
+    ],
+    "flashcards": [
+      {"front": "What are the MUST-HAVES in a TELC B1 email?", "back": "1. Anrede (greeting) 2. ALL 4 Leitpunkte addressed 3. 100-120 words 4. Grußformel (closing)", "type": "exam"},
+      {"front": "Formal greeting", "back": "Sehr geehrte Damen und Herren, / Sehr geehrter Herr Schmidt,", "type": "phrase"},
+      {"front": "Informal greeting", "back": "Liebe Anna, / Lieber Max,", "type": "phrase"},
+      {"front": "Formal closing", "back": "Mit freundlichen Grüßen, [Name]", "type": "phrase"},
+      {"front": "Informal closing", "back": "Liebe Grüße, / Herzliche Grüße, / Viele Grüße,", "type": "phrase"},
+      {"front": "weil vs. deshalb — word order?", "back": "weil → verb at END: '...weil ich krank bin.' / deshalb → verb in position 2: 'Deshalb kann ich nicht kommen.'", "type": "grammar"},
+      {"front": "Ich wäre Ihnen dankbar, wenn...", "back": "I would be grateful if... (polite request in formal email)", "type": "phrase"},
+      {"front": "sich entschuldigen für + Akk", "back": "to apologize for (Ich entschuldige mich für die Verspätung.)", "type": "vocabulary"},
+      {"front": "How many words in TELC B1 Schreiben?", "back": "100-120 words — count carefully!", "type": "exam"},
+      {"front": "What happens if you miss a Leitpunkt?", "back": "You lose significant points — ALL 4 Leitpunkte must be addressed!", "type": "exam"}
+    ],
+    "practice_sentences": [
+      {"de": "Sehr geehrte Damen und Herren, ich schreibe Ihnen, weil ich eine Frage zu Ihrem Kursangebot habe.", "en": "Dear Sir or Madam, I am writing to you because I have a question about your course offerings.", "hint": "Formal opening + weil clause"},
+      {"de": "Leider muss ich den Termin absagen, da ich an diesem Tag eine wichtige Prüfung habe.", "en": "Unfortunately I have to cancel the appointment because I have an important exam on that day.", "hint": "da = weil (same word order, slightly more formal)"},
+      {"de": "Ich wäre Ihnen sehr dankbar, wenn Sie mir weitere Informationen schicken könnten.", "en": "I would be very grateful if you could send me further information.", "hint": "Konjunktiv II for polite request"},
+      {"de": "Es tut mir leid, dass ich nicht früher geantwortet habe. Ich war die ganze Woche im Urlaub.", "en": "I am sorry that I did not reply earlier. I was on vacation the whole week.", "hint": "Apologize then give reason"},
+      {"de": "Ich hoffe, dass wir bald einen neuen Termin finden können. Mit freundlichen Grüßen, Maria", "en": "I hope that we can find a new appointment soon. Kind regards, Maria", "hint": "End with hope + formal closing"}
+    ],
+    "exam_tips": [
+      {"tip": "Read ALL 4 Leitpunkte first, then plan 2-3 sentences per Leitpunkt before writing. This ensures you address everything.", "telc_section": "Schreiben"},
+      {"tip": "Count your words! Practice estimating 100-120 words. Too short = lost content points, too long = may have errors.", "telc_section": "Schreiben"},
+      {"tip": "Use a variety of connectors: weil, deshalb, trotzdem, außerdem, obwohl — using only 'und' and 'aber' scores low.", "telc_section": "Schreiben"},
+      {"tip": "Match your register: formal (Sehr geehrte + Sie + Mit freundlichen Grüßen) OR informal (Liebe/r + du + Liebe Grüße). Never mix!", "telc_section": "Schreiben"},
+      {"tip": "Common email types: Absage (cancellation), Beschwerde (complaint), Anfrage (inquiry), Einladung (invitation). Practice all of them.", "telc_section": "Schreiben"}
+    ],
+    "visual_summary": {
+      "title": "Schreiben — Email mit 4 Leitpunkten",
+      "table": {
+        "headers": ["Element", "Formal", "Informal"],
+        "rows": [
+          ["Anrede", "Sehr geehrte Damen und Herren,", "Liebe Anna, / Lieber Max,"],
+          ["Pronoun", "Sie / Ihnen / Ihr", "du / dir / dein"],
+          ["Leitpunkte", "2-3 Sätze pro Leitpunkt", "2-3 Sätze pro Leitpunkt"],
+          ["Connectors", "weil, deshalb, außerdem, jedoch", "weil, deshalb, auch, aber"],
+          ["Closing", "Mit freundlichen Grüßen,", "Liebe Grüße, / Viele Grüße,"],
+          ["Length", "100-120 Wörter", "100-120 Wörter"]
+        ]
+      },
+      "key_points": [
+        "ALL 4 Leitpunkte must be addressed — this is non-negotiable",
+        "100-120 words — practice counting",
+        "Never mix formal and informal register",
+        "Use at least 3 different connectors in your email"
+      ]
+    }
+  },
+  {
+    "video_id": "CsZLtDXWgbI",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 15 : Revision of All Concepts",
+    "url": "https://www.youtube.com/watch?v=CsZLtDXWgbI",
+    "telc_section": "General B1",
+    "study_notes": {
+      "summary": "A comprehensive revision session covering all major B1 grammar concepts: Nebensätze (weil, obwohl, damit, dass, wenn), Konnektoren, Konjunktiv II, Passiv, Adjektivdeklination, Relativsätze, zu + Infinitiv, and key vocabulary areas.",
+      "key_concept": "This is a revision of ALL B1 grammar. The most important areas for TELC B1 are: Nebensätze, Konnektoren, Konjunktiv II, and Adjektivdeklination.",
+      "grammar_rule": "Nebensätze word order: After conjunctions like weil, obwohl, dass, wenn, damit — the conjugated verb goes to the END of the clause.",
+      "word_order_note": "Main clause: Subject-Verb-Object (Ich gehe morgen ins Kino). Nebensatz: Conjunction-Subject-Object-Verb (weil ich morgen ins Kino GEHE).",
+      "common_mistakes": [
+        "Forgetting to move the verb to the end in Nebensätze",
+        "Confusing weil (verb at end) with deshalb (verb in position 2)",
+        "Wrong adjective endings (especially after kein/mein/dein)",
+        "Confusing Akkusativ and Dativ with Wechselpräpositionen",
+        "Not knowing Konjunktiv II forms of common verbs (wäre, hätte, könnte, würde)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "der Nebensatz", "en": "subordinate clause", "example_de": "In einem Nebensatz steht das Verb am Ende.", "example_en": "In a subordinate clause the verb is at the end."},
+      {"de": "der Hauptsatz", "en": "main clause", "example_de": "Im Hauptsatz steht das Verb auf Position 2.", "example_en": "In the main clause the verb is in position 2."},
+      {"de": "der Konnektor", "en": "connector", "example_de": "deshalb, trotzdem und außerdem sind wichtige Konnektoren.", "example_en": "Therefore, nevertheless and furthermore are important connectors."},
+      {"de": "die Adjektivdeklination", "en": "adjective declension", "example_de": "Die Adjektivdeklination hängt vom Artikel und Kasus ab.", "example_en": "Adjective declension depends on the article and case."},
+      {"de": "der Konjunktiv", "en": "subjunctive mood", "example_de": "Konjunktiv II benutzt man für irreale Situationen.", "example_en": "Subjunctive II is used for unreal situations."},
+      {"de": "das Passiv", "en": "passive voice", "example_de": "Im Passiv wird die Handlung betont, nicht der Handelnde.", "example_en": "In the passive voice, the action is emphasized, not the actor."},
+      {"de": "das Relativpronomen", "en": "relative pronoun", "example_de": "der/die/das als Relativpronomen leiten einen Relativsatz ein.", "example_en": "der/die/das as relative pronouns introduce a relative clause."},
+      {"de": "die Wechselpräposition", "en": "two-way preposition", "example_de": "in, an, auf, über, unter, vor, hinter, neben, zwischen", "example_en": "in, at, on, over, under, in front of, behind, next to, between"}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Nebensatz with weil", "structure": "Hauptsatz, weil + S + ... + V(end)", "example_de": "Ich bleibe zu Hause, weil ich krank bin.", "example_en": "I am staying home because I am sick.", "telc_relevance": "Appears in Sprachbausteine, Schreiben, and Sprechen"},
+      {"pattern": "Nebensatz with obwohl", "structure": "Obwohl + S + ... + V(end), Hauptsatz", "example_de": "Obwohl es regnet, gehe ich spazieren.", "example_en": "Although it is raining, I am going for a walk.", "telc_relevance": "Concession — important for Schreiben and Sprechen"},
+      {"pattern": "Konjunktiv II of sein/haben", "structure": "wäre/hätte + ...", "example_de": "Wenn ich reich wäre, hätte ich ein großes Haus.", "example_en": "If I were rich, I would have a big house.", "telc_relevance": "Konjunktiv II appears in Sprachbausteine cloze tests"},
+      {"pattern": "Relativsatz", "structure": "Nomen, + Relativpronomen + ... + V(end)", "example_de": "Das ist der Mann, der mir geholfen hat.", "example_en": "That is the man who helped me.", "telc_relevance": "Shows complex sentence structure — important for all sections"}
+    ],
+    "flashcards": [
+      {"front": "What word order do Nebensätze use?", "back": "Verb goes to the END: '...weil ich krank BIN.'", "type": "grammar"},
+      {"front": "Name 5 Nebensatz conjunctions", "back": "weil, obwohl, dass, wenn, damit, als, bevor, nachdem, ob", "type": "grammar"},
+      {"front": "Konjunktiv II of 'sein'", "back": "ich wäre, du wär(e)st, er/sie wäre, wir wären, ihr wärt, sie wären", "type": "grammar"},
+      {"front": "Konjunktiv II of 'haben'", "back": "ich hätte, du hättest, er/sie hätte, wir hätten, ihr hättet, sie hätten", "type": "grammar"},
+      {"front": "Passiv Präsens formation", "back": "werden + Partizip II: 'Das Haus wird gebaut.' (The house is being built.)", "type": "grammar"},
+      {"front": "deshalb vs. weil — difference?", "back": "Same meaning but different word order: deshalb = V2, weil = V-end", "type": "grammar"},
+      {"front": "List the Wechselpräpositionen", "back": "in, an, auf, über, unter, vor, hinter, neben, zwischen (+ Akk for direction, + Dat for location)", "type": "grammar"},
+      {"front": "trotzdem vs. obwohl", "back": "Same meaning (despite) but: trotzdem = V2 (main clause), obwohl = V-end (Nebensatz)", "type": "grammar"},
+      {"front": "Adjective ending after 'der' (Nom, masc)?", "back": "-e: 'der große Mann' (definite article → weak ending)", "type": "grammar"},
+      {"front": "Adjective ending after 'ein' (Nom, masc)?", "back": "-er: 'ein großer Mann' (indefinite article → mixed ending, takes over from missing article ending)", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich gehe nicht zur Arbeit, weil ich starke Kopfschmerzen habe.", "en": "I am not going to work because I have a strong headache.", "hint": "weil → verb at end"},
+      {"de": "Obwohl er müde war, hat er die ganze Nacht gelernt.", "en": "Although he was tired, he studied the whole night.", "hint": "obwohl → verb at end, then main clause"},
+      {"de": "Wenn ich mehr Geld hätte, würde ich eine Weltreise machen.", "en": "If I had more money, I would take a trip around the world.", "hint": "Konjunktiv II for unreal wishes"},
+      {"de": "Das ist die Frau, die in unserem Büro arbeitet.", "en": "That is the woman who works in our office.", "hint": "Relativsatz — die because Frau is feminine"},
+      {"de": "Das Auto wird in der Werkstatt repariert.", "en": "The car is being repaired in the workshop.", "hint": "Passiv: werden + Partizip II"}
+    ],
+    "exam_tips": [
+      {"tip": "Master the 3 word orders: V2 (main clause), V-end (Nebensatz), V1 (yes/no questions). This affects ALL exam sections.", "telc_section": "General B1"},
+      {"tip": "For Sprachbausteine: Know your connectors — weil/da (V-end) vs. deshalb/daher (V2) vs. trotzdem (V2) vs. obwohl (V-end).", "telc_section": "Sprachbausteine"},
+      {"tip": "Konjunktiv II forms to memorize: wäre, hätte, könnte, würde, müsste, dürfte, sollte — these appear constantly.", "telc_section": "Sprachbausteine"},
+      {"tip": "Adjektivdeklination: Learn the table! After definite articles → weak endings (-e, -en). After indefinite articles → mixed. No article → strong.", "telc_section": "Sprachbausteine"},
+      {"tip": "Practice converting between weil/deshalb and obwohl/trotzdem — TELC loves testing this difference.", "telc_section": "General B1"}
+    ],
+    "visual_summary": {
+      "title": "B1 Grammar Revision — All Key Concepts",
+      "table": {
+        "headers": ["Concept", "Key rule", "Example"],
+        "rows": [
+          ["Nebensätze", "Verb → END", "...weil ich müde BIN"],
+          ["Konnektoren", "deshalb/trotzdem → V2", "Deshalb KOMME ich nicht."],
+          ["Konjunktiv II", "wäre/hätte/würde+Inf", "Ich WÜRDE gerne kommen."],
+          ["Passiv", "werden + Partizip II", "Das Buch WIRD gelesen."],
+          ["Relativsätze", "Pronomen + ... + V(end)", "Der Mann, DER hier wohnt."],
+          ["Adjektivdekl.", "After der→-e/-en", "der große Mann / den großen Mann"]
+        ]
+      },
+      "key_points": [
+        "Nebensätze: verb at END after weil, obwohl, dass, wenn, damit",
+        "Konnektoren: deshalb/trotzdem = V2, weil/obwohl = V-end",
+        "Konjunktiv II: wäre, hätte, könnte, würde — for wishes and politeness",
+        "Passiv: werden + Partizip II",
+        "Adjektive: endings depend on article type + case"
+      ]
+    }
+  }
+]

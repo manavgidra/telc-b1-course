@@ -1,0 +1,381 @@
+[
+  {
+    "video_id": "e8A3t1RhMyc",
+    "title": "B1 - Lesson 32 | Über die Stadt / Heimat sprechen | Talking about city/homeland | Learn German",
+    "url": "https://www.youtube.com/watch?v=e8A3t1RhMyc",
+    "telc_section": "Sprechen",
+    "study_notes": {
+      "summary": "This lesson teaches vocabulary and structures to talk about your city or homeland — a classic TELC B1 Sprechen topic. Covers describing where you're from, what's special about your city, comparing city vs. countryside, and expressing what you like/miss about your Heimat. Key phrases: 'Ich komme aus...', 'Meine Stadt ist bekannt für...', 'Mir gefällt besonders...', 'Im Vergleich zu...'.",
+      "key_concept": "Describing your city uses Adjektivdeklination, lokale Präpositionen (in + Dativ for location), and Komparativ structures. Common topics: Sehenswürdigkeiten (sights), Verkehr (traffic), Kultur (culture), Natur (nature), Lebensqualität (quality of life). Compare with: 'Im Vergleich zu [city]', 'größer/kleiner als', 'genauso ... wie'.",
+      "grammar_rule": "Location: 'Ich wohne in + Dativ' (Ich wohne in einer großen Stadt). Comparison: 'größer als / genauso groß wie / am größten'. Description: 'Meine Stadt ist bekannt für + Akk.' / 'In meiner Stadt gibt es + Akk.' Preferences: 'Mir gefällt ... / Ich mag ... / Am liebsten...'",
+      "word_order_note": "'Es gibt + Akk.' for listing features: 'In meiner Stadt gibt es viele Parks.' 'Im Vergleich zu + Dat.' starts the sentence with verb in pos. 2: 'Im Vergleich zu Berlin ist München ruhiger.'",
+      "common_mistakes": [
+        "Using Akkusativ instead of Dativ for location: 'Ich wohne in eine Stadt' → 'in einer Stadt'",
+        "Forgetting adjective endings: 'eine große Stadt' (Akk.f) vs. 'in einer großen Stadt' (Dat.f)",
+        "Using 'als' and 'wie' incorrectly: 'größer wie' → 'größer als', 'genauso groß als' → 'genauso groß wie'",
+        "Only listing facts without personal feelings — add 'Was mir besonders gefällt, ist...'",
+        "Not enough variety — use synonyms: schön, wunderschön, toll, fantastisch, beeindruckend"
+      ]
+    },
+    "vocabulary": [
+      {"de": "die Heimat", "en": "homeland, home country", "example_de": "Meine Heimat ist Indien.", "example_en": "My homeland is India."},
+      {"de": "die Sehenswürdigkeit, -en", "en": "sight, attraction", "example_de": "Die Stadt hat viele Sehenswürdigkeiten.", "example_en": "The city has many sights."},
+      {"de": "bekannt für + Akk.", "en": "known for", "example_de": "München ist bekannt für das Oktoberfest.", "example_en": "Munich is known for Oktoberfest."},
+      {"de": "die Lebensqualität", "en": "quality of life", "example_de": "Die Lebensqualität in Wien ist sehr hoch.", "example_en": "The quality of life in Vienna is very high."},
+      {"de": "im Vergleich zu + Dat.", "en": "compared to", "example_de": "Im Vergleich zu Berlin ist Hamburg kleiner.", "example_en": "Compared to Berlin, Hamburg is smaller."},
+      {"de": "Mir gefällt besonders, dass...", "en": "I especially like that...", "example_de": "Mir gefällt besonders, dass es viel Grün gibt.", "example_en": "I especially like that there's a lot of greenery."},
+      {"de": "die Verkehrsanbindung", "en": "transport connection", "example_de": "Die Verkehrsanbindung in meiner Stadt ist sehr gut.", "example_en": "The transport connection in my city is very good."},
+      {"de": "vermissen", "en": "to miss", "example_de": "Ich vermisse das Essen aus meiner Heimat.", "example_en": "I miss the food from my homeland."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Location with in + Dativ", "structure": "Ich wohne/lebe in + Dativ (einer/einem)", "example_de": "Ich lebe in einer kleinen Stadt im Süden von Deutschland.", "example_en": "I live in a small city in the south of Germany.", "telc_relevance": "Sprechen Teil 1 self-introduction + Teil 2 topic discussion"},
+      {"pattern": "Es gibt + Akkusativ", "structure": "In + Dat. + gibt es + Akk.", "example_de": "In meiner Stadt gibt es viele Parks und Museen.", "example_en": "In my city there are many parks and museums.", "telc_relevance": "Listing features of a place — common in Sprechen and Schreiben"},
+      {"pattern": "Comparison: Komparativ", "structure": "Adj.+er als / genauso Adj. wie / am Adj.+sten", "example_de": "Berlin ist größer als München, aber Wien ist am schönsten.", "example_en": "Berlin is bigger than Munich, but Vienna is the most beautiful.", "telc_relevance": "Comparing places uses Komparativ — tested in Sprachbausteine"},
+      {"pattern": "bekannt/berühmt für + Akk.", "structure": "S + ist + bekannt/berühmt + für + Akk.", "example_de": "Meine Heimatstadt ist berühmt für ihr Schloss.", "example_en": "My hometown is famous for its castle.", "telc_relevance": "Describing features of places — Lesen and Sprechen"}
+    ],
+    "flashcards": [
+      {"front": "Meine Heimat", "back": "My homeland — Meine Heimat ist [Land]. Ich komme aus [Stadt].", "type": "vocabulary"},
+      {"front": "bekannt für + ?", "back": "Akkusativ: 'München ist bekannt für das Oktoberfest.'", "type": "grammar"},
+      {"front": "im Vergleich zu + ?", "back": "Dativ: 'Im Vergleich zu Berlin ist München ruhiger.'", "type": "grammar"},
+      {"front": "größer als vs. genauso groß wie", "back": "als = comparison (different). wie = comparison (equal). Never 'größer wie'!", "type": "grammar"},
+      {"front": "die Sehenswürdigkeit", "back": "sight, tourist attraction — Die wichtigste Sehenswürdigkeit ist...", "type": "vocabulary"},
+      {"front": "Mir gefällt besonders, dass...", "back": "I especially like that... (personal feeling about city)", "type": "vocabulary"},
+      {"front": "Ich vermisse...", "back": "I miss... — Ich vermisse das Essen / die Familie / die Natur.", "type": "vocabulary"},
+      {"front": "die Lebensqualität", "back": "quality of life — Die Lebensqualität in meiner Stadt ist hoch/niedrig.", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich komme __________ einer kleinen Stadt __________ Süden von Indien.", "en": "I come from a small city in the south of India.", "hint": "aus ... im (aus + Dativ, im = in dem)"},
+      {"de": "Meine Stadt ist __________ __________ ihre historische Altstadt.", "en": "My city is known for its historic old town.", "hint": "bekannt für (+ Akkusativ)"},
+      {"de": "__________ __________ zu meiner Heimatstadt ist Berlin viel __________.", "en": "Compared to my hometown, Berlin is much bigger.", "hint": "Im Vergleich ... größer (comparison + Komparativ)"},
+      {"de": "In meiner Stadt __________ __________ viele Parks und Restaurants.", "en": "In my city there are many parks and restaurants.", "hint": "gibt es (es gibt + Akkusativ)"},
+      {"de": "Ich __________ besonders das Essen aus meiner Heimat.", "en": "I especially miss the food from my homeland.", "hint": "vermisse (vermissen + Akkusativ)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprechen Teil 1, you must introduce yourself — mention your Heimat: 'Ich komme aus... In meiner Stadt gibt es...' Prepare 5-6 sentences.", "telc_section": "Sprechen"},
+      {"tip": "For Sprechen Teil 2, 'Stadt vs. Land' or 'Heimat' is a common topic. Use Komparativ (ruhiger/lauter als) and give your opinion with 'Meiner Meinung nach'.", "telc_section": "Sprechen"},
+      {"tip": "In Schreiben, you might describe your city in a letter to a friend or pen pal. Use: 'Es gibt...', 'Man kann...', 'Besonders schön ist...'", "telc_section": "Schreiben"}
+    ],
+    "visual_summary": {
+      "title": "Über die Stadt / Heimat sprechen",
+      "table": {
+        "headers": ["Aspect", "Phrase", "Example"],
+        "rows": [
+          ["Location", "Ich wohne in + Dat.", "...in einer großen Stadt"],
+          ["Features", "Es gibt + Akk. / bekannt für", "Es gibt viele Museen"],
+          ["Comparison", "größer als / genauso wie", "Berlin ist größer als Hamburg"],
+          ["Opinion", "Mir gefällt besonders...", "...dass es viel Natur gibt"],
+          ["Missing", "Ich vermisse + Akk.", "Ich vermisse das Essen"]
+        ]
+      },
+      "key_points": [
+        "Dativ for location (in einer Stadt), Akkusativ for es gibt",
+        "Comparisons: als (different), wie (equal)",
+        "Add personal feelings: Mir gefällt / Ich vermisse / Am liebsten",
+        "Common Sprechen topics: Stadt/Land, Heimat, Lieblingsort"
+      ]
+    }
+  },
+  {
+    "video_id": "_6aI-Izmr_k",
+    "title": "B1 - Lesson 33 | Temporaladverbien | Temporal Adverbs | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=_6aI-Izmr_k",
+    "telc_section": "General B1",
+    "study_notes": {
+      "summary": "This lesson covers temporal adverbs (Temporaladverbien) — words that express WHEN something happens. Categories: Vergangenheit (gestern, vorgestern, neulich, damals, früher), Gegenwart (heute, jetzt, gerade, momentan, heutzutage), Zukunft (morgen, übermorgen, bald, demnächst), Häufigkeit (immer, oft, manchmal, selten, nie), Reihenfolge (zuerst, dann, danach, schließlich, zuletzt).",
+      "key_concept": "Temporaladverbien answer the question 'Wann?' (When?) or 'Wie oft?' (How often?). They can go in position 1 (with inversion: 'Gestern hat es geregnet') or in the Mittelfeld (after the verb: 'Es hat gestern geregnet'). TEKAMOLO rule: Temporal adverbs come first in the Mittelfeld (before kausal, modal, lokal).",
+      "grammar_rule": "Position 1 + inversion: 'Morgen gehe ich zum Arzt.' Mittelfeld (after verb): 'Ich gehe morgen zum Arzt.' In Perfekt: 'Ich habe gestern viel gelernt.' (temporal before partizip area). Frequency order: immer > meistens > oft > manchmal > selten > fast nie > nie.",
+      "word_order_note": "When a temporal adverb is in position 1, the subject moves behind the verb: 'Heute regnet es.' When in Mittelfeld, it follows TeKaMoLo order: 'Ich fahre morgen (T) wegen der Arbeit (K) mit dem Zug (Mo) nach Berlin (L).'",
+      "common_mistakes": [
+        "Putting temporal adverb after local: 'Ich gehe nach Berlin morgen' → 'Ich gehe morgen nach Berlin' (T before L)",
+        "Confusing damals (back then, specific past) and früher (in the past, habitual)",
+        "Using 'am Morgen' vs. 'morgen': 'am Morgen' = in the morning, 'morgen' = tomorrow",
+        "Not using inversion after an adverb in position 1: 'Gestern ich habe...' → 'Gestern habe ich...'",
+        "Mixing up manchmal (sometimes) and einmal (once)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "gestern / vorgestern", "en": "yesterday / the day before yesterday", "example_de": "Gestern habe ich einen Film gesehen.", "example_en": "Yesterday I watched a movie."},
+      {"de": "neulich / kürzlich", "en": "recently / recently", "example_de": "Neulich habe ich einen alten Freund getroffen.", "example_en": "Recently I met an old friend."},
+      {"de": "heutzutage", "en": "nowadays", "example_de": "Heutzutage arbeiten viele Leute von zu Hause.", "example_en": "Nowadays many people work from home."},
+      {"de": "demnächst / bald", "en": "soon / soon", "example_de": "Demnächst fange ich einen neuen Kurs an.", "example_en": "Soon I'll start a new course."},
+      {"de": "damals", "en": "back then (specific past)", "example_de": "Damals gab es noch kein Internet.", "example_en": "Back then there was no internet."},
+      {"de": "meistens", "en": "mostly, usually", "example_de": "Meistens stehe ich um 7 Uhr auf.", "example_en": "Usually I get up at 7 o'clock."},
+      {"de": "selten", "en": "rarely", "example_de": "Ich gehe selten ins Kino.", "example_en": "I rarely go to the cinema."},
+      {"de": "schließlich / zuletzt", "en": "finally / lastly", "example_de": "Schließlich haben wir eine Lösung gefunden.", "example_en": "Finally we found a solution."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Temporal adverb in Position 1", "structure": "Temp.Adverb + V2 + S + ...", "example_de": "Morgen fahre ich nach Hamburg.", "example_en": "Tomorrow I'm going to Hamburg.", "telc_relevance": "Inversion after adverb in pos.1 — tested in Sprachbausteine"},
+      {"pattern": "TeKaMoLo in Mittelfeld", "structure": "S + V + Temporal + Kausal + Modal + Lokal", "example_de": "Ich fahre morgen mit dem Zug nach Berlin.", "example_en": "I'm going tomorrow by train to Berlin.", "telc_relevance": "Word order rule — helps with Schreiben sentence variety"},
+      {"pattern": "Frequency scale", "structure": "immer > meistens > oft > manchmal > selten > nie", "example_de": "Ich trinke meistens Tee, aber manchmal trinke ich auch Kaffee.", "example_en": "I usually drink tea, but sometimes I also drink coffee.", "telc_relevance": "Understanding frequency in Hören and Lesen passages"},
+      {"pattern": "Sequencing with temporal adverbs", "structure": "Zuerst ... Dann ... Danach ... Schließlich ...", "example_de": "Zuerst dusche ich. Dann frühstücke ich. Danach gehe ich zur Arbeit.", "example_en": "First I shower. Then I have breakfast. After that I go to work.", "telc_relevance": "Narrating sequences in Sprechen and Schreiben"}
+    ],
+    "flashcards": [
+      {"front": "gestern / vorgestern / vorhin", "back": "yesterday / day before yesterday / a while ago (past adverbs)", "type": "vocabulary"},
+      {"front": "morgen / übermorgen / demnächst", "back": "tomorrow / day after tomorrow / soon (future adverbs)", "type": "vocabulary"},
+      {"front": "heutzutage", "back": "nowadays — Heutzutage ist alles digital.", "type": "vocabulary"},
+      {"front": "damals vs. früher?", "back": "damals = back then (specific time). früher = in the past / used to (habitual).", "type": "vocabulary"},
+      {"front": "immer > ? > oft > ? > selten > nie", "back": "immer > meistens > oft > manchmal > selten > nie (frequency scale)", "type": "grammar"},
+      {"front": "TeKaMoLo — what does T stand for?", "back": "Temporal (When?) — comes first in the Mittelfeld: 'Ich gehe morgen...'", "type": "grammar"},
+      {"front": "Gestern ich habe gelernt. Correct?", "back": "WRONG! Inversion needed: 'Gestern habe ich gelernt.' (V2 after adverb in pos.1)", "type": "grammar"},
+      {"front": "zuerst / dann / danach / schließlich", "back": "first / then / after that / finally — sequencing adverbs for narration", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "__________ arbeiten viele Leute im Homeoffice.", "en": "Nowadays many people work from home.", "hint": "Heutzutage (present time adverb)"},
+      {"de": "Ich stehe __________ um 6 Uhr auf.", "en": "I usually get up at 6 o'clock.", "hint": "meistens (frequency adverb)"},
+      {"de": "__________ gab es noch keine Handys.", "en": "Back then there were no mobile phones.", "hint": "Damals (specific past time)"},
+      {"de": "__________ dusche ich, __________ frühstücke ich, __________ gehe ich zur Arbeit.", "en": "First I shower, then I have breakfast, after that I go to work.", "hint": "Zuerst ... dann ... danach (sequencing adverbs)"},
+      {"de": "Ich gehe __________ ins Theater.", "en": "I rarely go to the theater.", "hint": "selten (frequency: rarely)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Lesen, temporal adverbs signal the timeline of events. Pay attention to: damals (past), gerade (now), demnächst (future).", "telc_section": "Lesen"},
+      {"tip": "For Schreiben, use sequencing adverbs (zuerst, dann, danach, schließlich) to structure your letter logically.", "telc_section": "Schreiben"},
+      {"tip": "In Hören, frequency adverbs (immer, oft, manchmal, selten, nie) are key: they change the meaning dramatically.", "telc_section": "Hören"}
+    ],
+    "visual_summary": {
+      "title": "Temporaladverbien — Temporal Adverbs",
+      "table": {
+        "headers": ["Category", "Adverbs", "Example"],
+        "rows": [
+          ["Past", "gestern, vorgestern, neulich, damals, früher", "Gestern habe ich Sport gemacht."],
+          ["Present", "heute, jetzt, gerade, momentan, heutzutage", "Heutzutage ist alles online."],
+          ["Future", "morgen, übermorgen, bald, demnächst", "Demnächst fange ich einen Kurs an."],
+          ["Frequency", "immer, meistens, oft, manchmal, selten, nie", "Ich gehe manchmal ins Kino."],
+          ["Sequence", "zuerst, dann, danach, schließlich, zuletzt", "Zuerst lernen, dann spielen."]
+        ]
+      },
+      "key_points": [
+        "Position 1 → inversion: 'Morgen GEHE ich...'",
+        "TeKaMoLo: Temporal before Kausal before Modal before Lokal",
+        "damals = specific past, früher = habitual past",
+        "Sequence: zuerst → dann → danach → schließlich"
+      ]
+    }
+  },
+  {
+    "video_id": "8etayvawQmg",
+    "title": "B1 - Lesson 34 | Über Umwelt sprechen | Talking about Environment | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=8etayvawQmg",
+    "telc_section": "Sprechen",
+    "study_notes": {
+      "summary": "This lesson covers environmental vocabulary and phrases for discussing Umweltschutz (environmental protection) — one of the most common TELC B1 exam topics. Key areas: Umweltprobleme (environmental problems), Lösungen (solutions), persönliches Engagement (personal actions), and opinions on Klimawandel (climate change).",
+      "key_concept": "Umwelt (environment) is a top B1 topic requiring specific vocabulary: der Klimawandel (climate change), die Umweltverschmutzung (pollution), erneuerbare Energien (renewable energy), Recycling, CO2-Ausstoß (CO2 emissions). Use 'man sollte/könnte' (one should/could) for suggestions, and 'Es ist wichtig, dass...' for emphasis.",
+      "grammar_rule": "Passive construction for environmental actions: 'Müll wird recycelt.' (Waste is recycled.) 'man sollte + Infinitiv' for suggestions: 'Man sollte weniger Plastik benutzen.' Infinitivsatz with 'um...zu': 'Um die Umwelt zu schützen, sollte man...' (In order to protect the environment, one should...)",
+      "word_order_note": "'Um die Umwelt zu schützen, ...' is an Infinitivsatz in position 1, so main clause verb comes in position 2: 'Um die Umwelt zu schützen, sollte man weniger Auto fahren.' 'Es ist wichtig, dass...' introduces a Nebensatz.",
+      "common_mistakes": [
+        "Using 'Umwelt' without article in wrong contexts: 'die Umwelt schützen' (always with article)",
+        "Confusing 'der Müll' (waste) with 'die Mülltrennung' (waste separation)",
+        "Saying 'verschmutzen' (pollute) when meaning 'verschmutzt' (polluted): 'Die Luft ist verschmutzt.'",
+        "Not varying suggestions: use 'man sollte / man könnte / es wäre besser, wenn' for variety",
+        "Forgetting to give personal examples: 'Ich persönlich trenne meinen Müll und fahre mit dem Fahrrad.'"
+      ]
+    },
+    "vocabulary": [
+      {"de": "der Umweltschutz", "en": "environmental protection", "example_de": "Umweltschutz ist heutzutage sehr wichtig.", "example_en": "Environmental protection is very important nowadays."},
+      {"de": "der Klimawandel", "en": "climate change", "example_de": "Der Klimawandel betrifft alle Länder.", "example_en": "Climate change affects all countries."},
+      {"de": "die Umweltverschmutzung", "en": "environmental pollution", "example_de": "Die Umweltverschmutzung in Großstädten ist ein Problem.", "example_en": "Environmental pollution in big cities is a problem."},
+      {"de": "erneuerbare Energien", "en": "renewable energies", "example_de": "Deutschland investiert in erneuerbare Energien.", "example_en": "Germany invests in renewable energies."},
+      {"de": "die Mülltrennung", "en": "waste separation/sorting", "example_de": "In Deutschland ist Mülltrennung sehr wichtig.", "example_en": "In Germany waste separation is very important."},
+      {"de": "Energie sparen", "en": "to save energy", "example_de": "Man sollte Energie sparen, indem man das Licht ausschaltet.", "example_en": "One should save energy by turning off the light."},
+      {"de": "der CO2-Ausstoß", "en": "CO2 emissions", "example_de": "Wir müssen den CO2-Ausstoß reduzieren.", "example_en": "We must reduce CO2 emissions."},
+      {"de": "die Nachhaltigkeit", "en": "sustainability", "example_de": "Nachhaltigkeit wird immer wichtiger.", "example_en": "Sustainability is becoming ever more important."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "man sollte/könnte + Inf.", "structure": "Man sollte/könnte + ... + Infinitiv", "example_de": "Man sollte mehr öffentliche Verkehrsmittel benutzen.", "example_en": "One should use more public transport.", "telc_relevance": "Giving suggestions about environment — Sprechen Teil 2"},
+      {"pattern": "Um...zu + Infinitiv (Umwelt)", "structure": "Um + Akk. + zu + Inf., sollte man + Inf.", "example_de": "Um die Umwelt zu schützen, sollte man weniger fliegen.", "example_en": "To protect the environment, one should fly less.", "telc_relevance": "Finalsatz connects purpose to action — shows good B1 grammar"},
+      {"pattern": "Es ist wichtig/notwendig, dass...", "structure": "Es ist + Adj., dass + S + ... + V(end)", "example_de": "Es ist wichtig, dass jeder seinen Beitrag leistet.", "example_en": "It's important that everyone does their part.", "telc_relevance": "Expressing importance — useful in Schreiben and Sprechen opinions"},
+      {"pattern": "Passiv for environmental processes", "structure": "S + wird/werden + Partizip II", "example_de": "In Deutschland wird Müll getrennt und recycelt.", "example_en": "In Germany waste is separated and recycled.", "telc_relevance": "Passive voice describes processes — common in Lesen environmental texts"}
+    ],
+    "flashcards": [
+      {"front": "der Klimawandel", "back": "climate change — Der Klimawandel ist das größte Problem unserer Zeit.", "type": "vocabulary"},
+      {"front": "die Umweltverschmutzung", "back": "environmental pollution — Die Umweltverschmutzung nimmt zu.", "type": "vocabulary"},
+      {"front": "erneuerbare Energien", "back": "renewable energies — Solar, Wind, Wasser (Solarenergie, Windkraft, Wasserkraft)", "type": "vocabulary"},
+      {"front": "die Mülltrennung", "back": "waste sorting — In Deutschland: Papier, Plastik, Bio, Restmüll", "type": "vocabulary"},
+      {"front": "Man sollte + Inf.", "back": "One should... — Man sollte weniger Plastik benutzen.", "type": "grammar"},
+      {"front": "Um die Umwelt zu schützen, ...", "back": "To protect the environment, ... + main clause with solution", "type": "grammar"},
+      {"front": "die Nachhaltigkeit", "back": "sustainability — Nachhaltigkeit bedeutet, für die Zukunft zu denken.", "type": "vocabulary"},
+      {"front": "Energie sparen", "back": "to save energy — Man kann Energie sparen, indem man LED-Lampen benutzt.", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Der __________ ist das größte Problem unserer Zeit.", "en": "Climate change is the greatest problem of our time.", "hint": "Klimawandel (key vocabulary)"},
+      {"de": "Man __________ weniger Plastik benutzen.", "en": "One should use less plastic.", "hint": "sollte (KII suggestion with man)"},
+      {"de": "__________ die Umwelt __________ schützen, sollte man öfter Fahrrad fahren.", "en": "In order to protect the environment, one should cycle more often.", "hint": "Um ... zu (Finalsatz: um...zu + Inf.)"},
+      {"de": "Es ist wichtig, __________ jeder Müll __________.", "en": "It's important that everyone separates waste.", "hint": "dass ... trennt (dass-Nebensatz, Verb at end)"},
+      {"de": "In Deutschland __________ Müll getrennt und __________.", "en": "In Germany waste is separated and recycled.", "hint": "wird ... recycelt (Passiv: wird + P II)"}
+    ],
+    "exam_tips": [
+      {"tip": "Umwelt/Klimawandel is among the TOP 3 most common Sprechen Teil 2 topics. Prepare a full presentation: Probleme → Lösungen → Persönliche Meinung → Zusammenfassung.", "telc_section": "Sprechen"},
+      {"tip": "For Sprechen Teil 3 (joint planning), environment could appear: e.g., 'Plan an eco-friendly event'. Use: 'Wir könnten...', 'Es wäre besser, wenn...', 'Man sollte...'", "telc_section": "Sprechen"},
+      {"tip": "In Lesen, environmental texts use Passiv (wird recycelt) and compound nouns (Umweltverschmutzung). Break down compound nouns to understand them.", "telc_section": "Lesen"}
+    ],
+    "visual_summary": {
+      "title": "Über Umwelt sprechen — Environment",
+      "table": {
+        "headers": ["Category", "Vocabulary", "Example"],
+        "rows": [
+          ["Problems", "Klimawandel, Verschmutzung, CO2", "Der Klimawandel wird schlimmer."],
+          ["Solutions", "Recycling, erneuerbare Energien, sparen", "Man sollte Energie sparen."],
+          ["Personal", "Mülltrennung, Fahrrad, weniger Plastik", "Ich trenne meinen Müll."],
+          ["Structures", "man sollte, um...zu, Es ist wichtig, dass", "Um die Umwelt zu schützen,..."]
+        ]
+      },
+      "key_points": [
+        "Top exam topic: Klimawandel, Umweltschutz, Nachhaltigkeit",
+        "Use man sollte/könnte for suggestions",
+        "um...zu + Inf. for purpose (Finalsatz)",
+        "Add personal examples: Ich persönlich..."
+      ]
+    }
+  },
+  {
+    "video_id": "Zfa3PAsUs1k",
+    "title": "B1 - Lesson 35 | Jobsuche Teil 1 | Looking for a job Part 1 | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=Zfa3PAsUs1k",
+    "telc_section": "Schreiben",
+    "study_notes": {
+      "summary": "Part 1 of job search in German covers vocabulary and phrases for finding a job: Stellenanzeigen lesen (reading job ads), Lebenslauf (CV), Bewerbung schreiben (writing applications), and key qualifications. This is directly relevant to TELC B1 as job-related emails are common in the Schreiben section.",
+      "key_concept": "Job search vocabulary: die Stellenanzeige (job ad), sich bewerben um + Akk. (to apply for), die Bewerbung (application), der Lebenslauf (CV), die Berufserfahrung (work experience), die Qualifikation (qualification). Application letter starts: 'Sehr geehrte Damen und Herren, ich bewerbe mich um die Stelle als...'",
+      "grammar_rule": "sich bewerben um + Akkusativ: 'Ich bewerbe mich um die Stelle als Verkäufer.' Expressing qualifications: 'Ich verfüge über + Akk.' (I possess), 'Ich habe Erfahrung in + Dat.' (I have experience in), 'Ich bin qualifiziert für + Akk.' (I am qualified for). Motivation: 'Ich interessiere mich für + Akk.' (I am interested in).",
+      "word_order_note": "sich bewerben is reflexive: 'Ich bewerbe mich um die Stelle.' In Perfekt: 'Ich habe mich um die Stelle beworben.' In Nebensatz: '...weil ich mich um die Stelle beworben habe.'",
+      "common_mistakes": [
+        "sich bewerben takes 'um' (not 'für'): 'Ich bewerbe mich um die Stelle' (not 'für die Stelle')",
+        "Confusing Bewerbung (application) and Arbeit (work) — Bewerbung = the application document",
+        "Writing informal job applications: always use Sie-form and formal phrases",
+        "Forgetting reflexive 'mich/sich' with bewerben: 'Ich bewerbe um...' → 'Ich bewerbe mich um...'",
+        "Not mentioning relevant qualifications — always connect your skills to the job"
+      ]
+    },
+    "vocabulary": [
+      {"de": "die Stellenanzeige, -n", "en": "job advertisement", "example_de": "Ich habe Ihre Stellenanzeige im Internet gelesen.", "example_en": "I read your job advertisement on the internet."},
+      {"de": "sich bewerben um + Akk.", "en": "to apply for", "example_de": "Ich bewerbe mich um die Stelle als Projektmanager.", "example_en": "I am applying for the position of project manager."},
+      {"de": "die Bewerbung, -en", "en": "application", "example_de": "Meine Bewerbung finden Sie im Anhang.", "example_en": "You will find my application attached."},
+      {"de": "der Lebenslauf, -e", "en": "CV, curriculum vitae", "example_de": "Meinen Lebenslauf habe ich beigefügt.", "example_en": "I have attached my CV."},
+      {"de": "die Berufserfahrung", "en": "work/professional experience", "example_de": "Ich habe drei Jahre Berufserfahrung als Koch.", "example_en": "I have three years of work experience as a cook."},
+      {"de": "die Qualifikation, -en", "en": "qualification", "example_de": "Meine Qualifikationen passen gut zu dieser Stelle.", "example_en": "My qualifications are a good fit for this position."},
+      {"de": "die Kenntnisse (Pl.)", "en": "knowledge, skills", "example_de": "Ich verfüge über gute Computerkenntnisse.", "example_en": "I possess good computer skills."},
+      {"de": "das Vorstellungsgespräch, -e", "en": "job interview", "example_de": "Ich würde mich über ein Vorstellungsgespräch freuen.", "example_en": "I would be pleased to have a job interview."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "sich bewerben um + Akk.", "structure": "Ich bewerbe mich um + die Stelle als + Beruf", "example_de": "Ich bewerbe mich um die Stelle als Verkäuferin.", "example_en": "I am applying for the position of saleswoman.", "telc_relevance": "Key phrase for job-related Schreiben tasks"},
+      {"pattern": "Ich verfüge über + Akk.", "structure": "Ich verfüge über + Kenntnisse/Erfahrung/Qualifikation", "example_de": "Ich verfüge über sehr gute Englischkenntnisse.", "example_en": "I possess very good English skills.", "telc_relevance": "Formal way to state qualifications in applications"},
+      {"pattern": "Ich habe Erfahrung in/mit + Dat.", "structure": "Ich habe + Zeitraum + Erfahrung in/mit + Dativ", "example_de": "Ich habe drei Jahre Erfahrung im Verkauf.", "example_en": "I have three years of experience in sales.", "telc_relevance": "Describing experience — common in Schreiben and Sprechen"},
+      {"pattern": "Polite application closing", "structure": "Ich würde mich freuen + über Akk. / wenn + KII", "example_de": "Ich würde mich über eine Einladung zum Vorstellungsgespräch freuen.", "example_en": "I would be pleased to receive an invitation to an interview.", "telc_relevance": "Polite closing with KII = strong Schreiben ending"}
+    ],
+    "flashcards": [
+      {"front": "sich bewerben um + ?", "back": "Akkusativ: 'Ich bewerbe mich um die Stelle.' (not 'für'!)", "type": "grammar"},
+      {"front": "die Stellenanzeige", "back": "job advertisement — Ich habe Ihre Stellenanzeige gelesen.", "type": "vocabulary"},
+      {"front": "der Lebenslauf", "back": "CV — Meinen Lebenslauf habe ich beigefügt.", "type": "vocabulary"},
+      {"front": "die Berufserfahrung", "back": "professional experience — Ich habe Berufserfahrung im Bereich IT.", "type": "vocabulary"},
+      {"front": "die Kenntnisse (Pl.)", "back": "knowledge/skills — Computerkenntnisse, Sprachkenntnisse, Fachkenntnisse", "type": "vocabulary"},
+      {"front": "Ich verfüge über + Akk.", "back": "I possess... (formal) — Ich verfüge über gute Deutschkenntnisse.", "type": "vocabulary"},
+      {"front": "das Vorstellungsgespräch", "back": "job interview — Ich würde mich über ein Vorstellungsgespräch freuen.", "type": "vocabulary"},
+      {"front": "How to close a job application?", "back": "Ich würde mich über eine Einladung zum Vorstellungsgespräch freuen. / Mit freundlichen Grüßen, [Name]", "type": "exam_tip"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich __________ mich __________ die Stelle als Ingenieur.", "en": "I am applying for the position of engineer.", "hint": "bewerbe ... um (sich bewerben um + Akk.)"},
+      {"de": "Ich habe Ihre __________ auf Indeed gelesen.", "en": "I read your job advertisement on Indeed.", "hint": "Stellenanzeige (job ad)"},
+      {"de": "Ich __________ __________ gute Englischkenntnisse und Berufserfahrung.", "en": "I possess good English skills and work experience.", "hint": "verfüge über (formal: I possess + Akk.)"},
+      {"de": "Meinen __________ und meine Zeugnisse habe ich beigefügt.", "en": "I have attached my CV and certificates.", "hint": "Lebenslauf (CV)"},
+      {"de": "Ich __________ mich über ein __________ freuen.", "en": "I would be pleased to have a job interview.", "hint": "würde ... Vorstellungsgespräch (polite KII closing)"}
+    ],
+    "exam_tips": [
+      {"tip": "Job applications are among the most common Schreiben tasks. Practice: 'Ich bewerbe mich um die Stelle als... / Ich habe Erfahrung in... / Ich verfüge über...'", "telc_section": "Schreiben"},
+      {"tip": "In Lesen Teil 3, job ads often appear as 'Anzeigen' — match people to job offers based on qualifications.", "telc_section": "Lesen"},
+      {"tip": "For Sprechen, 'Arbeit/Jobsuche' is a common topic. Prepare vocabulary: Bewerbung, Vorstellungsgespräch, Qualifikation, Berufserfahrung.", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Jobsuche Teil 1 — Job Application Basics",
+      "table": {
+        "headers": ["Step", "Key Phrase", "Translation"],
+        "rows": [
+          ["Find job", "Stellenanzeige lesen", "Read job ads"],
+          ["Apply", "sich bewerben um + Akk.", "Apply for a position"],
+          ["State skills", "Ich verfüge über + Akk.", "I possess skills/experience"],
+          ["Experience", "Berufserfahrung in + Dat.", "Professional experience in"],
+          ["Close", "Ich freue mich auf ein Vorstellungsgespräch", "I look forward to an interview"]
+        ]
+      },
+      "key_points": [
+        "sich bewerben um (not für!) + Akkusativ",
+        "Key docs: Lebenslauf (CV), Bewerbung (application), Zeugnisse (certificates)",
+        "Always formal: Sehr geehrte... / Mit freundlichen Grüßen",
+        "Close with KII: Ich würde mich über ... freuen"
+      ]
+    }
+  },
+  {
+    "video_id": "4SxvnWURWSQ",
+    "title": "B1 - Lesson 36 | Jobsuche Teil 2 | Looking for a job Part 2 | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=4SxvnWURWSQ",
+    "telc_section": "Schreiben",
+    "study_notes": {
+      "summary": "Part 2 of job search covers writing a formal Bewerbungsschreiben (application letter) and Vorstellungsgespräch (interview) preparation. Focuses on: motivation paragraph, describing strengths/weaknesses, talking about availability, and salary expectations. Also covers phrases for the interview situation.",
+      "key_concept": "A Bewerbungsschreiben has: 1) Reference to the Stellenanzeige, 2) Motivation (why this job?), 3) Qualifications & experience, 4) Personal strengths, 5) Availability/starting date, 6) Polite closing. Interview phrases: 'Ich bin teamfähig/zuverlässig/flexibel.' For weaknesses: 'Manchmal bin ich zu perfektionistisch, aber ich arbeite daran.'",
+      "grammar_rule": "Motivation: 'Ich interessiere mich für + Akk.' / 'Mich reizt an dieser Stelle, dass...' Strengths with sein + Adj.: 'Ich bin teamfähig und kommunikativ.' Availability: 'Ich könnte ab dem [date] anfangen.' / 'Ich stehe Ihnen ab sofort zur Verfügung.'",
+      "word_order_note": "'Mich reizt an dieser Stelle, dass...' → 'Mich' in position 1, 'reizt' in position 2 (inverted). 'Ich stehe Ihnen zur Verfügung' — zur Verfügung stehen is a fixed phrase with Dativ (Ihnen).",
+      "common_mistakes": [
+        "Only listing qualifications without explaining motivation (WHY this job?)",
+        "Being too direct about salary: 'Meine Gehaltsvorstellung liegt bei...' is correct, NOT 'Ich will X Euro'",
+        "Forgetting Dativ with 'zur Verfügung stehen': 'Ich stehe Ihnen (Dat.) zur Verfügung'",
+        "Using informal self-descriptions: 'Ich bin cool/nett' → 'Ich bin teamfähig/zuverlässig/engagiert'",
+        "Not mentioning availability/starting date — employers need to know when you can start"
+      ]
+    },
+    "vocabulary": [
+      {"de": "teamfähig", "en": "able to work in a team", "example_de": "Ich bin teamfähig und arbeite gern mit anderen zusammen.", "example_en": "I'm a team player and enjoy working with others."},
+      {"de": "zuverlässig", "en": "reliable", "example_de": "Ich bin eine zuverlässige und pünktliche Person.", "example_en": "I am a reliable and punctual person."},
+      {"de": "flexibel", "en": "flexible", "example_de": "Ich bin zeitlich flexibel und kann auch am Wochenende arbeiten.", "example_en": "I am flexible with my schedule and can also work on weekends."},
+      {"de": "die Gehaltsvorstellung", "en": "salary expectation", "example_de": "Meine Gehaltsvorstellung liegt bei 45.000 Euro brutto.", "example_en": "My salary expectation is 45,000 euros gross."},
+      {"de": "zur Verfügung stehen", "en": "to be available", "example_de": "Ich stehe Ihnen ab dem 1. Mai zur Verfügung.", "example_en": "I am available from May 1st."},
+      {"de": "die Stärke, -n / die Schwäche, -n", "en": "strength / weakness", "example_de": "Meine Stärke ist meine Teamfähigkeit.", "example_en": "My strength is my ability to work in a team."},
+      {"de": "engagiert", "en": "dedicated, committed", "example_de": "Ich bin ein engagierter Mitarbeiter.", "example_en": "I am a dedicated employee."},
+      {"de": "sich interessieren für + Akk.", "en": "to be interested in", "example_de": "Ich interessiere mich sehr für diese Position.", "example_en": "I am very interested in this position."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Motivation: Mich reizt, dass...", "structure": "Mich reizt an + Dat., dass + S + ... + V(end)", "example_de": "Mich reizt an dieser Stelle, dass ich mit internationalen Kunden arbeiten kann.", "example_en": "What attracts me about this position is that I can work with international clients.", "telc_relevance": "Sophisticated motivation phase — elevates Schreiben quality"},
+      {"pattern": "Strengths with sein + Adjektiv", "structure": "Ich bin + teamfähig/zuverlässig/flexibel/engagiert", "example_de": "Ich bin zuverlässig, flexibel und habe gute Kommunikationsfähigkeiten.", "example_en": "I am reliable, flexible, and have good communication skills.", "telc_relevance": "Describing personal qualities — Sprechen Teil 1 and Schreiben"},
+      {"pattern": "Availability: zur Verfügung stehen", "structure": "Ich stehe Ihnen + ab + Datum + zur Verfügung", "example_de": "Ich stehe Ihnen ab sofort zur Verfügung.", "example_en": "I am available immediately.", "telc_relevance": "Formal phrase used in Schreiben applications"},
+      {"pattern": "Salary: Gehaltsvorstellung", "structure": "Meine Gehaltsvorstellung liegt bei + Betrag + brutto", "example_de": "Meine Gehaltsvorstellung liegt bei 3.500 Euro brutto im Monat.", "example_en": "My salary expectation is 3,500 euros gross per month.", "telc_relevance": "Formal register — shows B1+ competence in written German"}
+    ],
+    "flashcards": [
+      {"front": "teamfähig", "back": "able to work in a team — 'Ich bin teamfähig und kommunikativ.'", "type": "vocabulary"},
+      {"front": "zuverlässig", "back": "reliable — 'Meine Kollegen schätzen mich als zuverlässigen Mitarbeiter.'", "type": "vocabulary"},
+      {"front": "Ich stehe Ihnen zur Verfügung.", "back": "I am available (to you). — formal availability phrase", "type": "vocabulary"},
+      {"front": "die Gehaltsvorstellung", "back": "salary expectation — 'Meine Gehaltsvorstellung liegt bei...'", "type": "vocabulary"},
+      {"front": "Mich reizt an dieser Stelle, dass...", "back": "What attracts me about this position is that... (motivation)", "type": "vocabulary"},
+      {"front": "die Stärke / die Schwäche", "back": "strength / weakness — 'Meine größte Stärke ist meine Flexibilität.'", "type": "vocabulary"},
+      {"front": "engagiert", "back": "dedicated, committed — 'Ich bin ein sehr engagierter Mitarbeiter.'", "type": "vocabulary"},
+      {"front": "Bewerbungsschreiben — 5 parts?", "back": "1) Reference to ad 2) Motivation 3) Qualifications 4) Strengths 5) Availability + closing", "type": "exam_tip"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich __________ mich sehr für diese Position, weil sie gut zu meinen Qualifikationen passt.", "en": "I am very interested in this position because it suits my qualifications.", "hint": "interessiere (sich interessieren für + Akk.)"},
+      {"de": "Ich bin __________, __________ und habe gute Kommunikationsfähigkeiten.", "en": "I am reliable, flexible, and have good communication skills.", "hint": "zuverlässig, flexibel (personal strengths)"},
+      {"de": "Ich __________ Ihnen ab dem 1. Juni __________ Verfügung.", "en": "I am available from June 1st.", "hint": "stehe ... zur (zur Verfügung stehen)"},
+      {"de": "Meine __________ liegt bei 40.000 Euro brutto im Jahr.", "en": "My salary expectation is 40,000 euros gross per year.", "hint": "Gehaltsvorstellung (salary expectation)"},
+      {"de": "Mich __________ an dieser Stelle, dass ich im Team arbeiten kann.", "en": "What attracts me about this position is that I can work in a team.", "hint": "reizt (reizen = to attract/appeal)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Schreiben, job applications require: reference to ad, state your qualifications, express motivation, and close politely with KII.", "telc_section": "Schreiben"},
+      {"tip": "For Sprechen Teil 1, prepare to talk about your job/studies: 'Ich arbeite als... / Ich studiere... / Meine Stärken sind...'", "telc_section": "Sprechen"},
+      {"tip": "In Lesen Teil 3, job ads appear as matching exercises. Key vocab: Vollzeit/Teilzeit, flexibel, Berufserfahrung, Kenntnisse.", "telc_section": "Lesen"}
+    ],
+    "visual_summary": {
+      "title": "Jobsuche Teil 2 — Application & Interview",
+      "table": {
+        "headers": ["Topic", "Key Phrases", "Translation"],
+        "rows": [
+          ["Motivation", "Mich reizt... / Ich interessiere mich für...", "What attracts me... / I'm interested in..."],
+          ["Strengths", "teamfähig, zuverlässig, flexibel, engagiert", "Team-player, reliable, flexible, dedicated"],
+          ["Availability", "Ich stehe Ihnen ab ... zur Verfügung", "I am available from..."],
+          ["Salary", "Meine Gehaltsvorstellung liegt bei...", "My salary expectation is..."],
+          ["Closing", "Ich würde mich über ein Gespräch freuen.", "I'd be pleased for an interview."]
+        ]
+      },
+      "key_points": [
+        "Always explain WHY you want the job (motivation)",
+        "Use formal adjectives: teamfähig, zuverlässig, engagiert",
+        "zur Verfügung stehen = available (formal)",
+        "Close with KII: Ich würde mich freuen..."
+      ]
+    }
+  }
+]

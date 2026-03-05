@@ -1,0 +1,401 @@
+[
+  {
+    "video_id": "_6FX9eCDmCQ",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 9 : Indefinitpronomen",
+    "url": "https://www.youtube.com/watch?v=_6FX9eCDmCQ",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This session covers Indefinitpronomen (indefinite pronouns) at the B1 level. Indefinite pronouns refer to unspecified people, things, or quantities. Key pronouns include man, jemand, niemand, etwas, nichts, alle, einige, manche, jeder, and keiner. Understanding their declension and usage is critical for Sprachbausteine cloze exercises and for natural spoken German.",
+      "key_concept": "Indefinitpronomen replace or refer to unspecified nouns. They must be declined correctly depending on their grammatical case (Nominativ, Akkusativ, Dativ). Some have optional endings (jemand/jemanden/jemandem) while others are fixed (etwas, nichts).",
+      "grammar_rule": "Declension of key indefinite pronouns: man (only Nom.), einen (Akk.), einem (Dat.); jemand → jemand(en) Akk., jemand(em) Dat.; niemand → niemand(en), niemand(em); jeder → jeden (Akk.), jedem (Dat.); keiner → keinen, keinem. etwas and nichts are invariable.",
+      "word_order_note": "Indefinitpronomen occupy the same position as regular nouns/pronouns. When used as subject: 'Jemand hat angerufen.' When as object: 'Ich kenne niemanden hier.'",
+      "common_mistakes": [
+        "Using 'man' in accusative — correct form is 'einen' (Man kann einen nicht zwingen.)",
+        "Forgetting optional endings on jemand/niemand in accusative and dative",
+        "Confusing 'einige' (some specific) with 'manche' (some in general)",
+        "Using 'jeder' with plural verbs — jeder always takes singular",
+        "Mixing up 'etwas' (something) and 'ein bisschen' (a little bit)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "jemand", "en": "someone, somebody", "example_de": "Jemand hat an der Tür geklopft.", "example_en": "Someone knocked on the door."},
+      {"de": "niemand", "en": "nobody, no one", "example_de": "Niemand war zu Hause.", "example_en": "Nobody was at home."},
+      {"de": "etwas", "en": "something", "example_de": "Ich möchte etwas essen.", "example_en": "I would like to eat something."},
+      {"de": "nichts", "en": "nothing", "example_de": "Es gibt nichts zu tun.", "example_en": "There is nothing to do."},
+      {"de": "alle", "en": "everyone, all", "example_de": "Alle sind eingeladen.", "example_en": "Everyone is invited."},
+      {"de": "jeder", "en": "everyone, each one", "example_de": "Jeder muss seinen Ausweis zeigen.", "example_en": "Everyone must show their ID."},
+      {"de": "manche", "en": "some (people/things)", "example_de": "Manche Leute stehen gern früh auf.", "example_en": "Some people like to get up early."},
+      {"de": "einige", "en": "some, several", "example_de": "Einige Teilnehmer haben gefehlt.", "example_en": "Some participants were absent."},
+      {"de": "keiner", "en": "none, nobody", "example_de": "Keiner hat die Antwort gewusst.", "example_en": "Nobody knew the answer."},
+      {"de": "man", "en": "one, people (in general)", "example_de": "Man soll nicht lügen.", "example_en": "One should not lie."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "man / einen / einem", "structure": "man (Nom.) → einen (Akk.) → einem (Dat.)", "example_de": "Man muss sich anpassen. Das kann einen verrückt machen.", "example_en": "One must adapt. That can drive one crazy.", "telc_relevance": "Sprachbausteine cloze frequently tests 'man' vs. 'einen/einem'"},
+      {"pattern": "jemand/niemand + optional endings", "structure": "jemand(en) Akk., jemand(em) Dat. — endings optional in spoken German", "example_de": "Ich suche jemanden, der mir helfen kann.", "example_en": "I'm looking for someone who can help me.", "telc_relevance": "Reading comprehension and Sprachbausteine — recognize both forms"},
+      {"pattern": "etwas/nichts + Adjektiv (nominalized)", "structure": "etwas/nichts + capitalized adjective with -es ending", "example_de": "Ich habe etwas Interessantes gelesen.", "example_en": "I read something interesting.", "telc_relevance": "Common in Lesen passages and Sprachbausteine fill-in-the-blank"},
+      {"pattern": "jeder + singular verb", "structure": "jeder/jede/jedes + verb in 3rd person singular", "example_de": "Jeder Schüler bekommt ein Buch.", "example_en": "Every student gets a book.", "telc_relevance": "Subject-verb agreement tested in Sprachbausteine"}
+    ],
+    "flashcards": [
+      {"front": "How do you say 'someone' in German?", "back": "jemand", "type": "vocabulary"},
+      {"front": "What is the accusative of 'man'?", "back": "einen (Das kann einen nervös machen.)", "type": "grammar"},
+      {"front": "niemand", "back": "nobody, no one", "type": "vocabulary"},
+      {"front": "etwas Interessantes", "back": "something interesting — after etwas/nichts, adjectives are capitalized with -es ending", "type": "grammar"},
+      {"front": "Does 'jeder' take a singular or plural verb?", "back": "Singular — Jeder hat seine eigene Meinung.", "type": "grammar"},
+      {"front": "What's the difference between 'einige' and 'manche'?", "back": "einige = some (specific/countable), manche = some (general tendency)", "type": "grammar"},
+      {"front": "keiner", "back": "none, nobody — Keiner hat mich gesehen.", "type": "vocabulary"},
+      {"front": "What follows 'etwas' or 'nichts' when combined with an adjective?", "back": "A nominalized adjective with capital letter and -es ending: etwas Neues, nichts Besonderes", "type": "grammar"},
+      {"front": "alle", "back": "everyone, all — Alle waren zufrieden.", "type": "vocabulary"},
+      {"front": "Dative form of 'jemand'?", "back": "jemandem (optional ending) — Ich helfe jemandem.", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "__________ hat mein Buch genommen.", "en": "Someone took my book.", "hint": "jemand (Nominativ)"},
+      {"de": "Ich habe __________ Schönes für dich.", "en": "I have something beautiful for you.", "hint": "etwas + capitalized adjective with -es"},
+      {"de": "__________ Schüler muss die Hausaufgaben machen.", "en": "Every student must do the homework.", "hint": "Jeder (singular)"},
+      {"de": "Ich kenne hier __________.", "en": "I don't know anyone here.", "hint": "niemand(en) — Akkusativ"},
+      {"de": "__________ soll pünktlich sein.", "en": "One should be punctual.", "hint": "Man (general subject)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine Teil A, indefinite pronouns like 'man', 'jemand', 'etwas', and 'nichts' are common answer options. Pay attention to the grammatical case required.", "telc_section": "Sprachbausteine"},
+      {"tip": "Remember: etwas/nichts + adjective always takes a capital letter and -es ending. This pattern appears frequently in reading passages.", "telc_section": "Lesen"},
+      {"tip": "When writing emails (Schreiben), use 'man' to make general statements: 'Man sollte darauf achten, dass...' This sounds more formal and appropriate.", "telc_section": "Schreiben"},
+      {"tip": "In the oral exam, use 'jeder' and 'alle' to express opinions about groups: 'Ich denke, jeder sollte Sport treiben.'", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Indefinitpronomen — Declension Overview",
+      "table": {
+        "headers": ["Pronoun", "Nominativ", "Akkusativ", "Dativ", "Meaning"],
+        "rows": [
+          ["man", "man", "einen", "einem", "one (general)"],
+          ["jemand", "jemand", "jemand(en)", "jemand(em)", "someone"],
+          ["niemand", "niemand", "niemand(en)", "niemand(em)", "no one"],
+          ["jeder", "jeder", "jeden", "jedem", "everyone/each"],
+          ["keiner", "keiner", "keinen", "keinem", "no one/none"],
+          ["etwas", "etwas", "etwas", "etwas", "something"],
+          ["nichts", "nichts", "nichts", "nichts", "nothing"]
+        ]
+      },
+      "key_points": [
+        "man → einen (Akk.), einem (Dat.) — never 'mann'!",
+        "jemand/niemand endings are optional in everyday speech",
+        "etwas/nichts + Adjektiv → capital letter + -es: etwas Neues",
+        "jeder = always singular verb; alle = always plural verb"
+      ]
+    }
+  },
+  {
+    "video_id": "_rjEyHJ6zV8",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 8 : Adjektivdeklination Part 2",
+    "url": "https://www.youtube.com/watch?v=_rjEyHJ6zV8",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Part 2 of Adjektivdeklination covers adjective endings without articles (Nullartikel) and after indefinite articles (ein, kein, mein, etc.). When there is no article, the adjective takes the strong ending (showing gender/case). After ein-words, the adjective takes mixed declension endings. This is one of the most tested grammar areas in TELC B1 Sprachbausteine.",
+      "key_concept": "Without an article, the adjective must 'show' the gender/case itself (strong endings = like der/die/das endings). After ein-words, the adjective takes strong endings in Nom. masc. (-er) and Nom./Akk. neuter (-es), and weak endings (-en) elsewhere.",
+      "grammar_rule": "Nullartikel (strong): Nom: -er/-e/-es/-e(pl); Akk: -en/-e/-es/-e; Dat: -em/-er/-em/-en; Gen: -en/-er/-en/-er. Ein-words (mixed): Nom: -er/-e/-es/-en; Akk: -en/-e/-es/-en; Dat: -en/-en/-en/-en; Gen: -en/-en/-en/-en.",
+      "word_order_note": "Adjectives always come between the article (if any) and noun: kalter Kaffee, ein kalter Kaffee, der kalte Kaffee. Multiple adjectives all take the same ending: frischer, warmer Tee.",
+      "common_mistakes": [
+        "Forgetting strong endings when there's no article: 'kalter Kaffee' not 'kalt Kaffee'",
+        "After 'ein' in masculine nominative: 'ein großer Mann' (not 'ein großen Mann')",
+        "After 'ein' in neuter nominative/accusative: 'ein kleines Kind' (not 'ein kleinen Kind')",
+        "In dative, all adjective forms end in -en regardless of article type",
+        "Forgetting that plural without article uses strong endings: 'deutsche Bücher'"
+      ]
+    },
+    "vocabulary": [
+      {"de": "frisch", "en": "fresh", "example_de": "Frisches Obst ist gesund.", "example_en": "Fresh fruit is healthy."},
+      {"de": "lecker", "en": "delicious", "example_de": "Das ist ein leckeres Gericht.", "example_en": "That is a delicious dish."},
+      {"de": "günstig", "en": "affordable, cheap", "example_de": "Ich suche günstige Schuhe.", "example_en": "I'm looking for affordable shoes."},
+      {"de": "gemütlich", "en": "cozy, comfortable", "example_de": "Wir haben eine gemütliche Wohnung.", "example_en": "We have a cozy apartment."},
+      {"de": "praktisch", "en": "practical", "example_de": "Das ist ein praktischer Rucksack.", "example_en": "That's a practical backpack."},
+      {"de": "hochwertig", "en": "high-quality", "example_de": "Hochwertiges Material hält lange.", "example_en": "High-quality material lasts long."},
+      {"de": "gebraucht", "en": "used, second-hand", "example_de": "Er hat ein gebrauchtes Auto gekauft.", "example_en": "He bought a used car."},
+      {"de": "nützlich", "en": "useful", "example_de": "Das ist nützlicher Rat.", "example_en": "That is useful advice."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Nullartikel + Adjektiv + Nomen", "structure": "∅ + strong ending adjective + noun", "example_de": "Kalter Kaffee schmeckt nicht gut.", "example_en": "Cold coffee doesn't taste good.", "telc_relevance": "Sprachbausteine often tests adjective endings without articles"},
+      {"pattern": "ein-Wort + Adjektiv + Nomen (Nom. mask.)", "structure": "ein/kein/mein + -er + masculine noun", "example_de": "Ein junger Mann wartet draußen.", "example_en": "A young man is waiting outside.", "telc_relevance": "Key pattern in Sprachbausteine Teil A — -er ending for masc. Nom."},
+      {"pattern": "ein-Wort + Adjektiv + Nomen (Nom./Akk. neut.)", "structure": "ein/kein/mein + -es + neuter noun", "example_de": "Ich möchte ein kaltes Getränk.", "example_en": "I'd like a cold drink.", "telc_relevance": "Frequently tested — -es for neuter after ein-words"},
+      {"pattern": "Dativ: always -en", "structure": "mit/bei/... + (article) + -en + noun", "example_de": "Mit frischem Brot schmeckt es besser.", "example_en": "With fresh bread it tastes better.", "telc_relevance": "Simplifying rule: after prepositions requiring dative, always use -en ending"}
+    ],
+    "flashcards": [
+      {"front": "What ending does an adjective take with no article in masculine Nominativ?", "back": "-er (kalter Kaffee, deutscher Wein)", "type": "grammar"},
+      {"front": "What's the adjective ending after 'ein' in masculine Nominativ?", "back": "-er (ein großer Mann) — same as no article", "type": "grammar"},
+      {"front": "What ending after 'ein' in neuter Nominativ/Akkusativ?", "back": "-es (ein kleines Kind)", "type": "grammar"},
+      {"front": "What's the universal Dativ adjective ending?", "back": "-en — for ALL article types (dem alten Mann, einem alten Mann, altem Mann)", "type": "grammar"},
+      {"front": "frisch", "back": "fresh — Frisches Obst ist gesund.", "type": "vocabulary"},
+      {"front": "günstig", "back": "affordable/cheap — Ich suche günstige Kleidung.", "type": "vocabulary"},
+      {"front": "No article, feminine Nominativ adjective ending?", "back": "-e (kalte Milch, deutsche Musik)", "type": "grammar"},
+      {"front": "No article, plural Nominativ adjective ending?", "back": "-e (kleine Kinder, gute Bücher)", "type": "grammar"},
+      {"front": "gemütlich", "back": "cozy, comfortable — eine gemütliche Wohnung", "type": "vocabulary"},
+      {"front": "What's the trick for Dativ adjective endings?", "back": "In Dativ, the adjective ALWAYS ends in -en, regardless of article type!", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich trinke gern kalt__ Wasser.", "en": "I like drinking cold water.", "hint": "Neuter, no article, Akkusativ → -es: kaltes"},
+      {"de": "Er trägt ein neu__ Hemd.", "en": "He's wearing a new shirt.", "hint": "Neuter, ein-word, Akkusativ → -es: neues"},
+      {"de": "Mit frisch__ Obst kann man Salat machen.", "en": "You can make salad with fresh fruit.", "hint": "Neuter, no article, Dativ → -em: frischem"},
+      {"de": "Sie hat ein__ alt__ Tasche gekauft.", "en": "She bought an old bag.", "hint": "Feminine, eine, Akkusativ → -e: eine alte Tasche"},
+      {"de": "Deutsch__ Bier ist weltberühmt.", "en": "German beer is world-famous.", "hint": "Neuter, no article, Nominativ → -es: Deutsches"}
+    ],
+    "exam_tips": [
+      {"tip": "For Sprachbausteine: When you see no article before an adjective, the adjective needs a STRONG ending that matches der/die/das. Think: 'The adjective does the article's job.'", "telc_section": "Sprachbausteine"},
+      {"tip": "Quick Dativ trick: ALL adjective endings in Dativ are -en, period. This alone can help you answer 30% of adjective questions correctly.", "telc_section": "Sprachbausteine"},
+      {"tip": "In Lesen passages, recognizing correct adjective endings helps you understand which noun the adjective belongs to, especially in complex sentences.", "telc_section": "Lesen"},
+      {"tip": "When writing your email (Schreiben), use adjectives to add detail: 'Ich habe eine interessante Erfahrung gemacht' shows good B1-level language.", "telc_section": "Schreiben"}
+    ],
+    "visual_summary": {
+      "title": "Adjektivdeklination — Without Article & After ein-Words",
+      "table": {
+        "headers": ["Case", "Mask. (∅/ein)", "Fem. (∅/eine)", "Neut. (∅/ein)", "Plural (∅)"],
+        "rows": [
+          ["Nom.", "-er / -er", "-e / -e", "-es / -es", "-e"],
+          ["Akk.", "-en / -en", "-e / -e", "-es / -es", "-e"],
+          ["Dat.", "-em / -en", "-er / -en", "-em / -en", "-en"],
+          ["Gen.", "-en / -en", "-er / -en", "-en / -en", "-er"]
+        ]
+      },
+      "key_points": [
+        "No article → adjective takes STRONG ending (shows gender/case)",
+        "After ein-word: Nom. mask. (-er) and Nom./Akk. neut. (-es) are strong; rest is -en",
+        "Dativ is ALWAYS -en for every article type",
+        "Multiple adjectives before a noun all get the same ending"
+      ]
+    }
+  },
+  {
+    "video_id": "rPeJR7j2UOM",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 7 : Adjektivdeklination Part 1",
+    "url": "https://www.youtube.com/watch?v=rPeJR7j2UOM",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Part 1 of Adjektivdeklination covers adjective endings after definite articles (der, die, das, die) and demonstrative articles (dieser, jeder, etc.). After definite articles, adjectives take weak endings: -e in Nominativ (all genders) and feminine/neuter Akkusativ, and -en everywhere else. This is the simplest of the three declension patterns.",
+      "key_concept": "After definite articles (der/die/das), the article already shows the gender and case clearly, so the adjective only needs a 'weak' ending. The weak endings are just -e or -en. Use -e for Nominativ (all genders) and Akkusativ feminine + neuter. Use -en for everything else.",
+      "grammar_rule": "Weak declension (after der/die/das/die, dieser, jeder, welcher, alle): Nom: -e/-e/-e/-en; Akk: -en/-e/-e/-en; Dat: -en/-en/-en/-en; Gen: -en/-en/-en/-en. Simple rule: -e for 5 spots in Nom/Akk, -en for the rest.",
+      "word_order_note": "The order is always: definite article + adjective + noun. 'Der alte Mann', 'die kleine Katze'. In sentences: the adjective block stays together immediately before its noun.",
+      "common_mistakes": [
+        "Using -er/-es after definite articles — weak endings are only -e or -en",
+        "Confusing der (Nom. mask.) → -e: 'der alte Mann' not 'der alter Mann'",
+        "Forgetting that masculine Akkusativ changes: 'den alten Mann' (not 'den alte Mann')",
+        "All Dativ and Genitiv forms are -en — no exceptions with definite articles",
+        "Mixing up rules: after 'der' = weak (-e/-en), after 'ein' = mixed, no article = strong"
+      ]
+    },
+    "vocabulary": [
+      {"de": "der alte Mann", "en": "the old man", "example_de": "Der alte Mann sitzt im Park.", "example_en": "The old man is sitting in the park."},
+      {"de": "die junge Frau", "en": "the young woman", "example_de": "Die junge Frau liest ein Buch.", "example_en": "The young woman is reading a book."},
+      {"de": "das kleine Kind", "en": "the small child", "example_de": "Das kleine Kind spielt im Garten.", "example_en": "The small child is playing in the garden."},
+      {"de": "interessant", "en": "interesting", "example_de": "Das interessante Buch habe ich gelesen.", "example_en": "I read the interesting book."},
+      {"de": "wichtig", "en": "important", "example_de": "Die wichtige Prüfung ist morgen.", "example_en": "The important exam is tomorrow."},
+      {"de": "bekannt", "en": "well-known, famous", "example_de": "Der bekannte Schauspieler kommt aus Berlin.", "example_en": "The well-known actor comes from Berlin."},
+      {"de": "lang", "en": "long", "example_de": "Die langen Ferien machen Spaß.", "example_en": "The long holidays are fun."},
+      {"de": "hübsch", "en": "pretty, nice-looking", "example_de": "Das hübsche Kleid gefällt mir.", "example_en": "I like the pretty dress."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "der/die/das + Adj(-e) + Nomen (Nominativ)", "structure": "Definite article + adjective with -e + noun (Nom.)", "example_de": "Der neue Lehrer ist nett. Die große Stadt ist laut.", "example_en": "The new teacher is nice. The big city is loud.", "telc_relevance": "Most common adjective pattern in Lesen reading passages"},
+      {"pattern": "den + Adj(-en) + Nomen (Akk. mask.)", "structure": "den + adjective with -en + masculine noun", "example_de": "Ich kenne den neuen Lehrer.", "example_en": "I know the new teacher.", "telc_relevance": "Sprachbausteine frequently tests Akkusativ adjective endings"},
+      {"pattern": "dem/der/den + Adj(-en) (Dativ)", "structure": "Dativ article + adjective always -en", "example_de": "Ich helfe dem alten Mann. Sie wohnt in der kleinen Wohnung.", "example_en": "I help the old man. She lives in the small apartment.", "telc_relevance": "After Dativ prepositions (mit, bei, von etc.), always -en"},
+      {"pattern": "dieser/jeder/welcher + Adj(-e/-en)", "structure": "Same pattern as definite article (weak endings)", "example_de": "Jeder neue Mitarbeiter bekommt eine Einführung.", "example_en": "Every new employee gets an introduction.", "telc_relevance": "dieser/jeder/welcher trigger the same weak endings as der/die/das"}
+    ],
+    "flashcards": [
+      {"front": "What ending does an adjective get after 'der' in Nominativ?", "back": "-e (der alte Mann, der neue Lehrer)", "type": "grammar"},
+      {"front": "What ending after 'die' in Nominativ (feminine)?", "back": "-e (die kleine Katze)", "type": "grammar"},
+      {"front": "What ending after 'den' in Akkusativ (masculine)?", "back": "-en (Ich sehe den alten Mann.)", "type": "grammar"},
+      {"front": "Rule for Dativ adjective endings after definite articles?", "back": "Always -en! dem alten Mann, der kleinen Frau, den neuen Büchern", "type": "grammar"},
+      {"front": "What are the two possible weak endings?", "back": "-e and -en. That's it! -e for Nom (all) + Akk (fem/neut), -en for everything else.", "type": "grammar"},
+      {"front": "bekannt", "back": "well-known, famous — Der bekannte Autor hat ein neues Buch geschrieben.", "type": "vocabulary"},
+      {"front": "Does 'dieser' use the same adjective endings as 'der'?", "back": "Yes! dieser, jeder, welcher, alle → same weak endings as definite article", "type": "grammar"},
+      {"front": "die langen Ferien", "back": "the long holidays — Plural Nominativ after definite article: -en", "type": "grammar"},
+      {"front": "wichtig", "back": "important — Die wichtige Nachricht kommt morgen.", "type": "vocabulary"},
+      {"front": "How many weak ending forms exist?", "back": "Only two: -e and -en. Nom. sing. + Akk. fem./neut. = -e; all others = -en", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Der neu__ Nachbar ist sehr freundlich.", "en": "The new neighbor is very friendly.", "hint": "Masculine, Nominativ, definite article → -e: neue"},
+      {"de": "Ich habe die interessant__ Sendung gesehen.", "en": "I watched the interesting show.", "hint": "Feminine, Akkusativ, definite article → -e: interessante"},
+      {"de": "Er gibt dem klein__ Kind ein Geschenk.", "en": "He gives the small child a present.", "hint": "Neuter, Dativ, definite article → -en: kleinen"},
+      {"de": "Die alt__ Gebäude stehen unter Denkmalschutz.", "en": "The old buildings are protected as monuments.", "hint": "Plural, Nominativ, definite article → -en: alten"},
+      {"de": "Kennst du den berühmt__ Sänger?", "en": "Do you know the famous singer?", "hint": "Masculine, Akkusativ, definite article → -en: berühmten"}
+    ],
+    "exam_tips": [
+      {"tip": "For Sprachbausteine: After der/die/das, you only choose between -e and -en. If it's Nominativ or Akkusativ (fem/neut), it's -e. Everything else is -en.", "telc_section": "Sprachbausteine"},
+      {"tip": "In Lesen texts, adjective endings tell you the case and gender. Use them as clues to understand sentence structure when vocabulary is difficult.", "telc_section": "Lesen"},
+      {"tip": "For Schreiben: Using adjectives with correct endings in your email shows strong B1 grammar. Try: 'die nette Kollegin', 'der interessante Vorschlag'.", "telc_section": "Schreiben"}
+    ],
+    "visual_summary": {
+      "title": "Adjektivdeklination — After Definite Articles (Weak Endings)",
+      "table": {
+        "headers": ["Case", "Maskulin", "Feminin", "Neutrum", "Plural"],
+        "rows": [
+          ["Nominativ", "der alt-e", "die alt-e", "das alt-e", "die alt-en"],
+          ["Akkusativ", "den alt-en", "die alt-e", "das alt-e", "die alt-en"],
+          ["Dativ", "dem alt-en", "der alt-en", "dem alt-en", "den alt-en"],
+          ["Genitiv", "des alt-en", "der alt-en", "des alt-en", "der alt-en"]
+        ]
+      },
+      "key_points": [
+        "Only 2 endings to remember: -e and -en",
+        "-e: Nominativ (all genders singular) + Akkusativ (feminine + neuter)",
+        "-en: everything else (Akk. mask., all Dativ, all Genitiv, all Plural)",
+        "Same rule applies after dieser, jeder, welcher, alle"
+      ]
+    }
+  },
+  {
+    "video_id": "zYT1ae5yiQQ",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 6 : B1 Examination Structure and Tips",
+    "url": "https://www.youtube.com/watch?v=zYT1ae5yiQQ",
+    "telc_section": "General B1",
+    "study_notes": {
+      "summary": "Session 6 provides a comprehensive overview of the TELC B1 exam structure, scoring system, and strategic preparation tips. The TELC B1 exam has two main parts: schriftliche Prüfung (written: Lesen, Hören, Sprachbausteine, Schreiben) and mündliche Prüfung (oral: Sprechen). Total 300 points, you need 60% in BOTH written and oral separately to pass.",
+      "key_concept": "The TELC B1 exam tests four skills plus Sprachbausteine. Written section = 195 points (Lesen 75 + Hören 75 + Sprachbausteine 30 + Schreiben 45 minus overlap). Oral section = 75 points. You must pass BOTH sections with at least 60% to get the certificate.",
+      "grammar_rule": "No specific grammar rule — this session focuses on exam strategy. Key structural knowledge: Lesen has 3 parts (global reading, detail MCQ, selective matching), Hören has 3 parts (global, detail, selective), Sprachbausteine has 2 parts (MCQ cloze, word bank cloze).",
+      "word_order_note": "For the Schreiben section, remember standard German letter format: Anrede (greeting), Einleitung (introduction), Hauptteil (main part addressing all 4 Leitpunkte), Schluss (closing), Grußformel (sign-off).",
+      "common_mistakes": [
+        "Not reading ALL answer options in Lesen before choosing — first read the question, then scan",
+        "Trying to understand every word in Hören — focus on keywords and context",
+        "Ignoring Leitpunkte in Schreiben — you MUST address all 4 points",
+        "Not managing time — Lesen (60 min), Hören (30 min), Sprachbausteine (30 min total with Lesen)",
+        "Neglecting the oral exam prep — it's 25% of total score and must be passed separately"
+      ]
+    },
+    "vocabulary": [
+      {"de": "die Prüfung", "en": "the exam", "example_de": "Die B1-Prüfung dauert etwa 3 Stunden.", "example_en": "The B1 exam takes about 3 hours."},
+      {"de": "bestehen", "en": "to pass (an exam)", "example_de": "Ich möchte die Prüfung beim ersten Versuch bestehen.", "example_en": "I want to pass the exam on the first try."},
+      {"de": "die Aufgabe", "en": "the task, exercise", "example_de": "Lesen Sie die Aufgabe sorgfältig durch.", "example_en": "Read the task carefully."},
+      {"de": "der Leitpunkt", "en": "guiding point (in writing task)", "example_de": "Sie müssen alle vier Leitpunkte bearbeiten.", "example_en": "You must address all four guiding points."},
+      {"de": "die Punktzahl", "en": "the score, number of points", "example_de": "Die maximale Punktzahl ist 300.", "example_en": "The maximum score is 300."},
+      {"de": "ankreuzen", "en": "to mark/tick (a box)", "example_de": "Kreuzen Sie die richtige Antwort an.", "example_en": "Mark the correct answer."},
+      {"de": "die mündliche Prüfung", "en": "the oral exam", "example_de": "Die mündliche Prüfung findet am Nachmittag statt.", "example_en": "The oral exam takes place in the afternoon."},
+      {"de": "die schriftliche Prüfung", "en": "the written exam", "example_de": "Die schriftliche Prüfung dauert 2,5 Stunden.", "example_en": "The written exam lasts 2.5 hours."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Imperative in exam instructions", "structure": "Verb + Sie + ... (formal imperative)", "example_de": "Lesen Sie den Text. Kreuzen Sie die richtige Antwort an.", "example_en": "Read the text. Mark the correct answer.", "telc_relevance": "Understanding exam instructions is crucial — they use formal imperative"},
+      {"pattern": "müssen + Infinitiv (exam requirements)", "structure": "Subject + müssen + ... + Infinitiv", "example_de": "Sie müssen alle vier Leitpunkte bearbeiten.", "example_en": "You must address all four guiding points.", "telc_relevance": "Exam instructions use müssen to indicate mandatory requirements"},
+      {"pattern": "Passiv in exam descriptions", "structure": "werden + Partizip II", "example_de": "Die Prüfung wird in zwei Teile geteilt.", "example_en": "The exam is divided into two parts.", "telc_relevance": "Passiv frequently appears in official exam documentation and instructions"},
+      {"pattern": "Conditional with wenn for exam strategy", "structure": "Wenn + ..., Verb; Hauptsatz", "example_de": "Wenn Sie eine Frage nicht wissen, gehen Sie zur nächsten weiter.", "example_en": "If you don't know a question, move on to the next one.", "telc_relevance": "Useful structure for Schreiben and Sprechen when giving advice"}
+    ],
+    "flashcards": [
+      {"front": "What are the 5 sections of TELC B1?", "back": "Lesen (75pts), Hören (75pts), Sprachbausteine (30pts), Schreiben (45pts), Sprechen (75pts) = 300 total", "type": "exam"},
+      {"front": "What percentage do you need to pass TELC B1?", "back": "60% in BOTH written AND oral sections separately", "type": "exam"},
+      {"front": "How many Leitpunkte must you address in Schreiben?", "back": "All 4 — missing even one will cost significant points", "type": "exam"},
+      {"front": "bestehen", "back": "to pass (an exam) — Ich habe die Prüfung bestanden!", "type": "vocabulary"},
+      {"front": "What are the 3 parts of Sprechen?", "back": "Teil 1: Self-introduction (3 min), Teil 2: Topic/Opinion (6 min), Teil 3: Joint Planning (6 min)", "type": "exam"},
+      {"front": "der Leitpunkt", "back": "guiding point — the 4 points you must address in the Schreiben email", "type": "vocabulary"},
+      {"front": "What does Sprachbausteine test?", "back": "Teil A: MCQ cloze (grammar in context), Teil B: Word bank cloze (fill-in from word list)", "type": "exam"},
+      {"front": "ankreuzen", "back": "to mark/tick (a box) — Kreuzen Sie die richtige Antwort an.", "type": "vocabulary"},
+      {"front": "How long is the written exam?", "back": "About 2.5 hours: Lesen+Sprachbausteine (90 min), Hören (30 min), Schreiben (30 min)", "type": "exam"},
+      {"front": "What's the word count for Schreiben?", "back": "100-120 words (semi-formal email reply)", "type": "exam"}
+    ],
+    "practice_sentences": [
+      {"de": "Die Prüfung __________ aus fünf Teilen.", "en": "The exam consists of five parts.", "hint": "besteht (bestehen aus = consist of)"},
+      {"de": "Sie __________ mindestens 60% erreichen.", "en": "You must achieve at least 60%.", "hint": "müssen"},
+      {"de": "__________ Sie den Text genau durch.", "en": "Read the text carefully.", "hint": "Lesen (formal imperative)"},
+      {"de": "Die mündliche Prüfung __________ am Nachmittag __________.", "en": "The oral exam takes place in the afternoon.", "hint": "findet...statt (stattfinden = to take place)"},
+      {"de": "Alle vier Leitpunkte müssen __________ werden.", "en": "All four guiding points must be addressed.", "hint": "bearbeitet (Passiv with müssen)"}
+    ],
+    "exam_tips": [
+      {"tip": "Time management is everything: spend max 15 minutes on Lesen Teil 1, 25 minutes on Teil 2, 15 minutes on Teil 3, and 15 minutes on Sprachbausteine.", "telc_section": "Lesen"},
+      {"tip": "In Hören, read the questions BEFORE the audio plays. This primes your brain to listen for specific information.", "telc_section": "Hören"},
+      {"tip": "For Schreiben, use a formula: Greeting → Reference to received email → Address each Leitpunkt in order → Closing. Stick to 100-120 words.", "telc_section": "Schreiben"},
+      {"tip": "In Sprechen Teil 3 (Gemeinsam Planen), use planning phrases: 'Ich schlage vor...', 'Was hältst du davon?', 'Einverstanden, dann...'", "telc_section": "Sprechen"},
+      {"tip": "Never leave any answer blank! Even a guess gives you a chance. In Lesen and Hören MCQ, you have a 33% chance with random guessing.", "telc_section": "General B1"}
+    ],
+    "visual_summary": {
+      "title": "TELC B1 Exam Structure Overview",
+      "table": {
+        "headers": ["Section", "Points", "Time", "Parts"],
+        "rows": [
+          ["Lesen", "75", "60 min", "Teil 1: Headlines→Texts, Teil 2: MCQ, Teil 3: Matching"],
+          ["Hören", "75", "30 min", "Teil 1: Global, Teil 2: Detail, Teil 3: Selective"],
+          ["Sprachbausteine", "30", "30 min*", "Teil A: MCQ cloze, Teil B: Word bank"],
+          ["Schreiben", "45", "30 min", "Email reply (100-120 words, 4 Leitpunkte)"],
+          ["Sprechen", "75", "~15 min", "Teil 1: Intro, Teil 2: Topic, Teil 3: Planning"]
+        ]
+      },
+      "key_points": [
+        "Total: 300 points. Pass = 60% in BOTH written AND oral",
+        "Written exam: Lesen + Sprachbausteine together (90 min), then Hören (30 min), then Schreiben (30 min)",
+        "Oral exam: With a partner, 3 parts, ~15 minutes total",
+        "Key tip: Never leave blanks — always make your best guess"
+      ]
+    }
+  },
+  {
+    "video_id": "0BYdP3yiY68",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 5 : B1 Examination Structure and Tips",
+    "url": "https://www.youtube.com/watch?v=0BYdP3yiY68",
+    "telc_section": "General B1",
+    "study_notes": {
+      "summary": "Session 5 continues the examination overview with detailed focus on each exam section's strategy. Covers how to approach Lesen (reading) with skimming and scanning techniques, Hören (listening) with keyword prediction, Sprachbausteine with elimination strategy, Schreiben with template approach, and Sprechen with confidence-building techniques.",
+      "key_concept": "Each TELC B1 section requires a different strategy. For Lesen: skim first, then match. For Hören: predict keywords. For Sprachbausteine: eliminate wrong options. For Schreiben: use a template. For Sprechen: prepare stock phrases. Strategy is as important as language knowledge.",
+      "grammar_rule": "Focus on grammar patterns frequently tested in Sprachbausteine: Konnektoren (weil, obwohl, dass, wenn, damit), Präpositionen mit Kasus (wegen + Gen, trotz + Gen, mit + Dat, für + Akk), and verb conjugation patterns (Konjunktiv II, Passiv).",
+      "word_order_note": "For Nebensatz connectors tested in Sprachbausteine: After weil/obwohl/dass/wenn/damit, the verb goes to the END: 'Ich lerne Deutsch, weil ich in Deutschland arbeiten möchte.'",
+      "common_mistakes": [
+        "In Lesen Teil 1: Reading every text completely instead of matching headlines by keywords",
+        "In Hören: Panicking when you miss a word — the overall context matters more",
+        "In Sprachbausteine: Not reading the ENTIRE sentence before choosing an answer",
+        "In Schreiben: Writing too much (over 120 words) or too little (under 100 words)",
+        "In Sprechen: Speaking too fast when nervous — slow and clear is better than fast and unclear"
+      ]
+    },
+    "vocabulary": [
+      {"de": "überfliegen", "en": "to skim (a text)", "example_de": "Überfliegen Sie zuerst den Text.", "example_en": "First skim the text."},
+      {"de": "die Antwortmöglichkeit", "en": "answer option", "example_de": "Es gibt drei Antwortmöglichkeiten pro Frage.", "example_en": "There are three answer options per question."},
+      {"de": "ausschließen", "en": "to exclude, eliminate", "example_de": "Schließen Sie zuerst die falschen Antworten aus.", "example_en": "First eliminate the wrong answers."},
+      {"de": "die Strategie", "en": "the strategy", "example_de": "Eine gute Strategie spart viel Zeit.", "example_en": "A good strategy saves a lot of time."},
+      {"de": "die Zusammenfassung", "en": "the summary", "example_de": "Schreiben Sie eine kurze Zusammenfassung.", "example_en": "Write a short summary."},
+      {"de": "der Schlüsselbegriff", "en": "keyword", "example_de": "Markieren Sie die Schlüsselbegriffe im Text.", "example_en": "Mark the keywords in the text."},
+      {"de": "sich vorbereiten auf", "en": "to prepare for", "example_de": "Ich bereite mich auf die B1-Prüfung vor.", "example_en": "I'm preparing for the B1 exam."},
+      {"de": "die Vorlage", "en": "the template", "example_de": "Benutzen Sie eine Vorlage für Ihren Brief.", "example_en": "Use a template for your letter."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Nebensatz word order (verb final)", "structure": "Hauptsatz, Konnektor + Subjekt + ... + Verb", "example_de": "Ich lerne Deutsch, weil ich die B1-Prüfung bestehen möchte.", "example_en": "I'm learning German because I want to pass the B1 exam.", "telc_relevance": "Most common Sprachbausteine pattern — choosing the right connector"},
+      {"pattern": "Hauptsatz connectors (verb second)", "structure": "Konnektor + Verb + Subjekt + ...", "example_de": "Deshalb muss man regelmäßig üben.", "example_en": "Therefore one must practice regularly.", "telc_relevance": "deshalb/trotzdem/außerdem tested in Sprachbausteine Teil A"},
+      {"pattern": "Präposition + Kasus", "structure": "wegen/trotz + Genitiv; mit/bei + Dativ; für/gegen + Akkusativ", "example_de": "Trotz der Schwierigkeit habe ich die Prüfung bestanden.", "example_en": "Despite the difficulty I passed the exam.", "telc_relevance": "Preposition-case combinations are high-frequency Sprachbausteine items"},
+      {"pattern": "sich vorbereiten auf + Akkusativ", "structure": "reflexive verb + preposition + Akk.", "example_de": "Wir bereiten uns auf den Test vor.", "example_en": "We are preparing for the test.", "telc_relevance": "Reflexive verbs with prepositions appear in both Lesen and Sprachbausteine"}
+    ],
+    "flashcards": [
+      {"front": "What's the best strategy for Lesen Teil 1?", "back": "Read headlines first, then skim each text for matching keywords — don't read every word", "type": "exam"},
+      {"front": "überfliegen", "back": "to skim (a text) — Überfliegen Sie den Text vor dem Lesen der Fragen.", "type": "vocabulary"},
+      {"front": "What's the elimination strategy for Sprachbausteine?", "back": "Read the full sentence, eliminate options that are grammatically impossible, then choose from remaining", "type": "exam"},
+      {"front": "ausschließen", "back": "to exclude/eliminate — Schließen Sie falsche Antworten aus.", "type": "vocabulary"},
+      {"front": "How should you approach Hören?", "back": "Read questions BEFORE audio plays, circle keywords, listen for those specific pieces of information", "type": "exam"},
+      {"front": "der Schlüsselbegriff", "back": "keyword — Markieren Sie die Schlüsselbegriffe!", "type": "vocabulary"},
+      {"front": "What template should you use for Schreiben?", "back": "Greeting → Reference to email → 4 Leitpunkte (1-2 sentences each) → Closing → Sign-off", "type": "exam"},
+      {"front": "sich vorbereiten auf + ?", "back": "+ Akkusativ: Ich bereite mich auf die Prüfung vor.", "type": "grammar"},
+      {"front": "Where does the verb go after 'weil'?", "back": "To the END of the clause: Ich lerne, weil ich die Prüfung bestehen möchte.", "type": "grammar"},
+      {"front": "Where does the verb go after 'deshalb'?", "back": "Position 2 (inversion): Deshalb lerne ich jeden Tag.", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich lerne jeden Tag Deutsch, __________ ich die Prüfung bestehen möchte.", "en": "I study German every day because I want to pass the exam.", "hint": "weil (verb goes to end)"},
+      {"de": "__________ des schlechten Wetters bin ich zur Prüfung gegangen.", "en": "Despite the bad weather, I went to the exam.", "hint": "Trotz (+ Genitiv)"},
+      {"de": "Ich bereite __________ auf den Test __________.", "en": "I am preparing for the test.", "hint": "mich...vor (sich vorbereiten auf)"},
+      {"de": "Die Prüfung war schwer. __________ habe ich sie bestanden.", "en": "The exam was hard. Nevertheless, I passed it.", "hint": "Trotzdem (Hauptsatz connector, verb in position 2)"},
+      {"de": "Es ist wichtig, __________ man regelmäßig übt.", "en": "It's important that one practices regularly.", "hint": "dass (verb goes to end)"}
+    ],
+    "exam_tips": [
+      {"tip": "Lesen Teil 2 (MCQ): Read the questions first, THEN the text. Underline the relevant sentence in the text for each question before choosing your answer.", "telc_section": "Lesen"},
+      {"tip": "Hören: You hear each recording only ONCE (Teil 1) or TWICE (Teil 2/3). Use the first listening for general understanding, second for specific answers.", "telc_section": "Hören"},
+      {"tip": "Sprachbausteine: The most common tested items are: Konnektoren (weil/obwohl/damit/dass), Präpositionen mit Kasus, and Adjektivendungen. Master these three categories.", "telc_section": "Sprachbausteine"},
+      {"tip": "Schreiben: Start with 'Sehr geehrte Damen und Herren' or 'Liebe/r [Name]' depending on formality. End with 'Mit freundlichen Grüßen' (formal) or 'Viele Grüße' (semi-formal).", "telc_section": "Schreiben"},
+      {"tip": "Sprechen: Prepare 5-6 sentences for your self-introduction (Name, Herkunft, Wohnort, Beruf/Studium, Familie, Hobbys). Practice until it flows naturally.", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "B1 Exam Section Strategies",
+      "table": {
+        "headers": ["Section", "Strategy", "Key Tip", "Common Trap"],
+        "rows": [
+          ["Lesen", "Skim & scan for keywords", "Read questions FIRST", "Reading every word"],
+          ["Hören", "Predict keywords before listening", "Focus on context, not every word", "Panicking after missing a word"],
+          ["Sprachbausteine", "Eliminate wrong options", "Read the FULL sentence", "Choosing first option that 'looks right'"],
+          ["Schreiben", "Use template + address ALL 4 points", "100-120 words, no more", "Missing a Leitpunkt"],
+          ["Sprechen", "Prepare stock phrases", "Slow and clear > fast and messy", "Speaking too fast"]
+        ]
+      },
+      "key_points": [
+        "Strategy matters as much as language skills",
+        "Always read questions/instructions BEFORE attempting the task",
+        "Don't leave blanks — always guess if unsure",
+        "Practice with real TELC mock exams for timing",
+        "Top 3 grammar areas: Konnektoren, Präpositionen+Kasus, Adjektivendungen"
+      ]
+    }
+  }
+]

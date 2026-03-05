@@ -1,0 +1,9 @@
+# TELC B1 German Course — Playlist URLs
+# Add your 2 YouTube playlist URLs below (one per line)
+# Lines starting with # are ignored
+
+# Playlist 1 (e.g. B1 Grammar/Speaking course)
+https://youtube.com/playlist?list=PLyRWSjr-0OBDx624Ly_phyc8dndZS1zJW
+
+# Playlist 2 (e.g. B1 Exam Practice / Reading / Writing)
+https://youtube.com/playlist?list=PLF9mJC4RrjIhhEGuI2x4_WWaIyn9q7MzV&si=DsoW8RYp3Bt3qRtd

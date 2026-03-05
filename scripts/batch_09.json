@@ -1,0 +1,384 @@
+[
+  {
+    "video_id": "Hboacrz3-6c",
+    "title": "B1 - Lesson 22 | Konjunktiv II - Wann benutzen wir ihn? | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=Hboacrz3-6c",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson explains WHEN to use Konjunktiv II (subjunctive II) in German B1. The main uses are: 1) Unreal/hypothetical situations (Wenn ich reich wäre...), 2) Polite requests (Könnten Sie mir helfen?), 3) Wishes (Ich wünschte, ich hätte mehr Zeit), 4) Suggestions (An deiner Stelle würde ich...), 5) Unreal comparisons (als ob).",
+      "key_concept": "Konjunktiv II expresses what is NOT real — hypothetical situations, wishes, polite requests, and suggestions. It's the 'what if' mood. Key forms: wäre (would be), hätte (would have), würde + Infinitiv (would do), könnte (could), sollte (should), müsste (would have to).",
+      "grammar_rule": "Common forms: sein → wäre, haben → hätte, werden → würde, können → könnte, müssen → müsste, dürfen → dürfte, sollen → sollte. For most verbs: würde + Infinitiv (Ich würde gern kommen). Main patterns: Wenn + KII, KII (Wenn ich Zeit hätte, würde ich kommen.)",
+      "word_order_note": "In wenn-Sätze: 'Wenn ich reich wäre, würde ich reisen.' KII verb goes to the end in wenn-clause, position 2 in main clause. Without wenn: 'Wäre ich reich, würde ich reisen.' (V1 position = rare but formal).",
+      "common_mistakes": [
+        "Using Konjunktiv II for real situations: 'Wenn es morgen regnet' (real) uses Indikativ, NOT KII",
+        "Mixing up wäre (KII of sein) and hätte (KII of haben)",
+        "Using 'würde' with sein/haben: say 'wäre/hätte', NOT 'würde sein/würde haben'",
+        "Forgetting Umlaut: konnte → könnte, musste → müsste",
+        "Not using KII for politeness: 'Können Sie helfen?' → 'Könnten Sie mir helfen?' (more polite)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "wäre", "en": "would be (KII of sein)", "example_de": "Wenn ich reich wäre, würde ich ein Haus kaufen.", "example_en": "If I were rich, I would buy a house."},
+      {"de": "hätte", "en": "would have (KII of haben)", "example_de": "Wenn ich mehr Zeit hätte, würde ich reisen.", "example_en": "If I had more time, I would travel."},
+      {"de": "würde + Infinitiv", "en": "would (do something)", "example_de": "Ich würde gern nach Japan reisen.", "example_en": "I would like to travel to Japan."},
+      {"de": "könnte", "en": "could (KII of können)", "example_de": "Könnten Sie mir bitte helfen?", "example_en": "Could you please help me?"},
+      {"de": "sollte", "en": "should (KII of sollen)", "example_de": "Du solltest mehr schlafen.", "example_en": "You should sleep more."},
+      {"de": "müsste", "en": "would have to (KII of müssen)", "example_de": "Ich müsste eigentlich arbeiten.", "example_en": "I should actually be working."},
+      {"de": "an deiner Stelle", "en": "in your place, if I were you", "example_de": "An deiner Stelle würde ich zum Arzt gehen.", "example_en": "If I were you, I would go to the doctor."},
+      {"de": "als ob", "en": "as if", "example_de": "Er tut so, als ob er alles wüsste.", "example_en": "He acts as if he knew everything."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Hypothetical wenn-Satz", "structure": "Wenn + S + ... + KII(end), würde + S + ... + Inf.", "example_de": "Wenn ich Millionär wäre, würde ich eine Weltreise machen.", "example_en": "If I were a millionaire, I would travel the world.", "telc_relevance": "Core B1 grammar — tested in Sprachbausteine and used in Sprechen"},
+      {"pattern": "Polite request with KII", "structure": "Könnten/Würden/Dürften + Sie + ... + Inf.?", "example_de": "Könnten Sie das bitte wiederholen?", "example_en": "Could you please repeat that?", "telc_relevance": "Essential for Schreiben formal letters and Sprechen politeness"},
+      {"pattern": "Advice with KII", "structure": "An deiner/Ihrer Stelle + würde ich + Inf.", "example_de": "An Ihrer Stelle würde ich einen Anwalt nehmen.", "example_en": "If I were you, I would get a lawyer.", "telc_relevance": "Common in Sprechen Teil 2 for giving advice"},
+      {"pattern": "Wish with KII", "structure": "Ich wünschte, + S + KII...", "example_de": "Ich wünschte, ich hätte mehr Freizeit.", "example_en": "I wish I had more free time.", "telc_relevance": "Expresses unreal wishes — appears in Lesen personal texts"}
+    ],
+    "flashcards": [
+      {"front": "5 uses of Konjunktiv II?", "back": "1) Hypothetical (Wenn ich...) 2) Polite requests (Könnten Sie...) 3) Wishes (Ich wünschte...) 4) Advice (An deiner Stelle...) 5) Unreal comparison (als ob)", "type": "grammar"},
+      {"front": "wäre", "back": "would be — Wenn ich du wäre... (KII of sein)", "type": "grammar"},
+      {"front": "hätte", "back": "would have — Wenn ich Zeit hätte... (KII of haben)", "type": "grammar"},
+      {"front": "Könnten Sie mir helfen?", "back": "Could you help me? — polite request with KII of können", "type": "vocabulary"},
+      {"front": "An deiner Stelle würde ich...", "back": "If I were you, I would... — giving advice", "type": "vocabulary"},
+      {"front": "Never say 'würde sein/haben'. Instead?", "back": "Use wäre (not würde sein) and hätte (not würde haben)", "type": "grammar"},
+      {"front": "Du solltest mehr Sport treiben.", "back": "You should exercise more. (KII of sollen = advice)", "type": "vocabulary"},
+      {"front": "als ob + KII", "back": "as if — Er tut so, als ob er reich wäre. (He acts as if he were rich.)", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Wenn ich mehr Geld __________, __________ ich ein neues Auto kaufen.", "en": "If I had more money, I would buy a new car.", "hint": "hätte, würde (wenn-Satz with KII)"},
+      {"de": "__________ Sie mir bitte den Weg erklären?", "en": "Could you please explain the way to me?", "hint": "Könnten (polite request)"},
+      {"de": "An deiner Stelle __________ ich zum Arzt gehen.", "en": "If I were you, I would go to the doctor.", "hint": "würde (advice with würde + Inf.)"},
+      {"de": "Ich wünschte, es __________ nicht so kalt.", "en": "I wish it weren't so cold.", "hint": "wäre (unreal wish, KII of sein)"},
+      {"de": "Du __________ dich besser vorbereiten.", "en": "You should prepare better.", "hint": "solltest (advice, KII of sollen)"}
+    ],
+    "exam_tips": [
+      {"tip": "Konjunktiv II is one of the TOP grammar topics at B1. Master wäre, hätte, würde + Infinitiv, könnte, and sollte — they cover 90% of KII usage.", "telc_section": "Sprachbausteine"},
+      {"tip": "For Schreiben, use KII for polite requests: 'Könnten Sie mir bitte mitteilen, wann...' and 'Es wäre nett, wenn Sie...'", "telc_section": "Schreiben"},
+      {"tip": "For Sprechen Teil 2 (opinion/advice), practice: 'An Ihrer Stelle würde ich...', 'Ich würde vorschlagen, dass...', 'Es wäre besser, wenn...'", "telc_section": "Sprechen"},
+      {"tip": "In Lesen, recognize KII in hypothetical passages and understand it refers to unreal/wished situations.", "telc_section": "Lesen"}
+    ],
+    "visual_summary": {
+      "title": "Konjunktiv II — When to Use It",
+      "table": {
+        "headers": ["Use", "Structure", "Example"],
+        "rows": [
+          ["Hypothetical", "Wenn + KII, würde + Inf.", "Wenn ich reich wäre, würde ich reisen."],
+          ["Polite Request", "Könnten/Würden Sie...?", "Könnten Sie mir helfen?"],
+          ["Wish", "Ich wünschte, + KII", "Ich wünschte, ich hätte mehr Zeit."],
+          ["Advice", "An deiner Stelle + würde", "An deiner Stelle würde ich fragen."],
+          ["Comparison", "als ob + KII", "Er tut so, als ob er alles wüsste."]
+        ]
+      },
+      "key_points": [
+        "KII = unreal, hypothetical, polite, wishes",
+        "Key forms: wäre, hätte, würde+Inf., könnte, sollte, müsste",
+        "Never say 'würde sein/haben' — use wäre/hätte directly",
+        "Politeness: Könnte/Würde > Kann/Will"
+      ]
+    }
+  },
+  {
+    "video_id": "wiuiJjz8dOA",
+    "title": "B1 - Lesson 23 | Konjunktiv II - Verbkonjugation | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=wiuiJjz8dOA",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers the complete conjugation of Konjunktiv II for all important verbs at B1 level. It focuses on which verbs use their own KII forms (sein, haben, modal verbs, some strong verbs) and which use 'würde + Infinitiv' as replacement.",
+      "key_concept": "Konjunktiv II forms are based on the Präteritum stem + Umlaut (where possible) + -e endings. sein: wäre, haben: hätte, werden: würde. Modal verbs: könnte, müsste, dürfte, sollte, wollte. For most other verbs, use würde + Infinitiv instead of the actual KII form (which sounds old-fashioned).",
+      "grammar_rule": "KII Konjugation: ich wäre/hätte/würde, du wärst/hättest/würdest, er wäre/hätte/würde, wir wären/hätten/würden, ihr wärt/hättet/würdet, sie wären/hätten/würden. Modal verbs: können→könnte, müssen→müsste, dürfen→dürfte, sollen→sollte, wollen→wollte (no Umlaut!). Common strong verbs with own form: gehen→ginge, kommen→käme, wissen→wüsste, geben→gäbe, finden→fände.",
+      "word_order_note": "KII verbs go in position 2 (main clause) or position end (Nebensatz). würde + Inf.: 'Ich würde gern kommen.' (würde in pos.2, Inf. at end). In wenn-clause: 'Wenn ich kommen würde,...'",
+      "common_mistakes": [
+        "Mixing up wollte (KII = would want) and wollte (Präteritum = wanted) — they look identical!",
+        "Adding Umlaut to wollen: 'wöllte' → 'wollte' (no Umlaut for wollen!)",
+        "Using old-fashioned KII forms in speech: 'ich käme' sounds formal — use 'ich würde kommen'",
+        "Wrong endings: du wärst (not wärest in modern German), ihr wärt (not wäret)",
+        "Forgetting Umlaut on modals: konnte → könnte, musste → müsste, durfte → dürfte"
+      ]
+    },
+    "vocabulary": [
+      {"de": "ich wäre / du wärst", "en": "I would be / you would be", "example_de": "Ich wäre gern in Berlin.", "example_en": "I would like to be in Berlin."},
+      {"de": "ich hätte / du hättest", "en": "I would have / you would have", "example_de": "Ich hätte gern ein Stück Kuchen.", "example_en": "I would like a piece of cake."},
+      {"de": "ich würde / du würdest", "en": "I would / you would", "example_de": "Ich würde gern mitkommen.", "example_en": "I would like to come along."},
+      {"de": "ich könnte / du könntest", "en": "I could / you could", "example_de": "Ich könnte dir morgen helfen.", "example_en": "I could help you tomorrow."},
+      {"de": "ich müsste / du müsstest", "en": "I would have to / you would have to", "example_de": "Ich müsste eigentlich lernen.", "example_en": "I should actually be studying."},
+      {"de": "ich dürfte / du dürftest", "en": "I would be allowed to", "example_de": "Dürfte ich Sie etwas fragen?", "example_en": "Might I ask you something?"},
+      {"de": "ich sollte / du solltest", "en": "I should / you should", "example_de": "Du solltest mehr Wasser trinken.", "example_en": "You should drink more water."},
+      {"de": "ich wüsste", "en": "I would know", "example_de": "Ich wüsste gern, wann der Zug kommt.", "example_en": "I'd like to know when the train comes."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "sein KII conjugation", "structure": "ich wäre, du wärst, er wäre, wir wären, ihr wärt, sie wären", "example_de": "Das wäre sehr nett von dir.", "example_en": "That would be very nice of you.", "telc_relevance": "Most common KII verb — appears in every exam section"},
+      {"pattern": "haben KII conjugation", "structure": "ich hätte, du hättest, er hätte, wir hätten, ihr hättet, sie hätten", "example_de": "Hätten Sie einen Moment Zeit?", "example_en": "Would you have a moment?", "telc_relevance": "Polite requests and wishes — key for Schreiben"},
+      {"pattern": "Modal verbs in KII", "structure": "könnte, müsste, dürfte, sollte, wollte", "example_de": "Könntest du mir bitte helfen? / Du solltest das lesen.", "example_en": "Could you please help me? / You should read that.", "telc_relevance": "Modal KII tested heavily in Sprachbausteine"},
+      {"pattern": "würde + Infinitiv (replacement)", "structure": "würde + Inf. for most verbs", "example_de": "Ich würde gern mehr reisen.", "example_en": "I would like to travel more.", "telc_relevance": "Universal KII form — default for verbs without common KII form"}
+    ],
+    "flashcards": [
+      {"front": "Conjugate sein in KII", "back": "wäre, wärst, wäre, wären, wärt, wären", "type": "grammar"},
+      {"front": "Conjugate haben in KII", "back": "hätte, hättest, hätte, hätten, hättet, hätten", "type": "grammar"},
+      {"front": "Conjugate werden in KII", "back": "würde, würdest, würde, würden, würdet, würden", "type": "grammar"},
+      {"front": "können → KII?", "back": "könnte (könntest, könnte, könnten, könntet, könnten)", "type": "grammar"},
+      {"front": "müssen → KII?", "back": "müsste (müsstest, müsste, müssten, müsstet, müssten)", "type": "grammar"},
+      {"front": "wollen → KII?", "back": "wollte (NO Umlaut! Looks same as Präteritum)", "type": "grammar"},
+      {"front": "wissen → KII?", "back": "wüsste — Ich wüsste gern, ob...", "type": "grammar"},
+      {"front": "When to use würde + Inf. vs. own KII form?", "back": "Use own form for: sein (wäre), haben (hätte), modals (könnte, etc.). Use würde + Inf. for most other verbs.", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Das __________ wirklich toll! (sein)", "en": "That would be really great!", "hint": "wäre (KII of sein)"},
+      {"de": "Ich __________ gern einen Kaffee. (haben)", "en": "I would like a coffee.", "hint": "hätte (KII of haben)"},
+      {"de": "__________ du mir bitte helfen? (können)", "en": "Could you please help me?", "hint": "Könntest (KII of können)"},
+      {"de": "Du __________ wirklich mal zum Zahnarzt gehen. (sollen)", "en": "You really should go to the dentist.", "hint": "solltest (KII of sollen = advice)"},
+      {"de": "Ich __________ gern mehr Sport treiben. (werden + Inf.)", "en": "I would like to exercise more.", "hint": "würde (würde + Inf. for most verbs)"}
+    ],
+    "exam_tips": [
+      {"tip": "Memorize the KII forms of sein, haben, and all modal verbs — these appear in almost every Sprachbausteine section.", "telc_section": "Sprachbausteine"},
+      {"tip": "In Schreiben formal letters, use hätte/wäre/könnten: 'Ich hätte eine Frage...' / 'Es wäre schön, wenn...' / 'Könnten Sie mir mitteilen...'", "telc_section": "Schreiben"},
+      {"tip": "For Sprechen, practice fluent KII: 'Ich würde vorschlagen...', 'Man könnte auch...', 'Das wäre eine gute Idee.'", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Konjunktiv II — Complete Conjugation",
+      "table": {
+        "headers": ["Verb", "ich", "du", "er/sie/es", "wir", "ihr", "sie/Sie"],
+        "rows": [
+          ["sein", "wäre", "wärst", "wäre", "wären", "wärt", "wären"],
+          ["haben", "hätte", "hättest", "hätte", "hätten", "hättet", "hätten"],
+          ["werden", "würde", "würdest", "würde", "würden", "würdet", "würden"],
+          ["können", "könnte", "könntest", "könnte", "könnten", "könntet", "könnten"],
+          ["müssen", "müsste", "müsstest", "müsste", "müssten", "müsstet", "müssten"]
+        ]
+      },
+      "key_points": [
+        "sein/haben/modals: use their own KII forms (wäre/hätte/könnte)",
+        "Most other verbs: use würde + Infinitiv",
+        "Modal KII = Präteritum + Umlaut (except wollen!)",
+        "wäre, hätte, könnte, sollte = most important B1 KII forms"
+      ]
+    }
+  },
+  {
+    "video_id": "TmVKnhweTpQ",
+    "title": "B1 - Lesson 24 | Konjunktiv II Vergangenheit | Past Subjunctive | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=TmVKnhweTpQ",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Konjunktiv II Vergangenheit (past subjunctive) expresses unreal situations in the PAST — things that didn't happen. It uses hätte/wäre + Partizip II. 'Wenn ich mehr gelernt hätte, hätte ich die Prüfung bestanden.' (If I had studied more, I would have passed the exam.)",
+      "key_concept": "KII Vergangenheit = hätte/wäre + Partizip II. hätte + P II for most verbs (transitive): 'Ich hätte mehr gelernt.' wäre + P II for movement/change-of-state verbs (same as Perfekt with sein): 'Ich wäre früher gekommen.' This is the German equivalent of 'would have done'.",
+      "grammar_rule": "Formation: hätte + Partizip II (most verbs): Ich hätte mehr gelernt. / wäre + Partizip II (sein-verbs): Ich wäre gekommen. In wenn-Sätze: 'Wenn ich es gewusst hätte, wäre ich gekommen.' hätte/wäre goes to the end in Nebensatz, position 2 in Hauptsatz.",
+      "word_order_note": "Hauptsatz: S + hätte/wäre + ... + Partizip II. 'Ich hätte das nicht gesagt.' Nebensatz: 'Wenn ich das gewusst hätte,...' (hätte at END after P II). Main clause after wenn: hätte + S + ... + P II: '...hätte ich das nicht gesagt.'",
+      "common_mistakes": [
+        "Using present KII for past events: 'Wenn ich Zeit hätte' (present) vs. 'Wenn ich Zeit gehabt hätte' (past)",
+        "Wrong auxiliary: use 'wäre' for sein-verbs: 'Ich wäre gegangen' (not hätte gegangen)",
+        "Word order in Nebensatz: Partizip II comes BEFORE hätte/wäre at end: 'wenn ich gekommen wäre'",
+        "Forgetting double hätte: 'Wenn ich mehr gelernt hätte, hätte ich bestanden.'",
+        "Mixing up hätte + P II (KII past) with hatte + P II (Plusquamperfekt indicative)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "hätte + Partizip II", "en": "would have (done)", "example_de": "Ich hätte mehr lernen sollen.", "example_en": "I should have studied more."},
+      {"de": "wäre + Partizip II", "en": "would have (gone/been)", "example_de": "Ich wäre gern mitgekommen.", "example_en": "I would have liked to come along."},
+      {"de": "hätte ... sollen", "en": "should have", "example_de": "Du hättest das nicht sagen sollen.", "example_en": "You shouldn't have said that."},
+      {"de": "hätte ... können", "en": "could have", "example_de": "Ich hätte früher kommen können.", "example_en": "I could have come earlier."},
+      {"de": "hätte ... müssen", "en": "would have had to", "example_de": "Ich hätte eigentlich arbeiten müssen.", "example_en": "I actually would have had to work."},
+      {"de": "bestehen", "en": "to pass (an exam)", "example_de": "Wenn ich gelernt hätte, hätte ich bestanden.", "example_en": "If I had studied, I would have passed."},
+      {"de": "es wäre besser gewesen", "en": "it would have been better", "example_de": "Es wäre besser gewesen, zu warten.", "example_en": "It would have been better to wait."},
+      {"de": "Bescheid sagen", "en": "to let know, inform", "example_de": "Du hättest mir Bescheid sagen sollen.", "example_en": "You should have let me know."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "KII Vergangenheit: hätte + P II", "structure": "S + hätte + ... + Partizip II", "example_de": "Ich hätte das nicht gemacht.", "example_en": "I wouldn't have done that.", "telc_relevance": "Past hypotheticals tested in Sprachbausteine"},
+      {"pattern": "KII Vergangenheit: wäre + P II", "structure": "S + wäre + ... + Partizip II (sein-verbs)", "example_de": "Er wäre gern geblieben.", "example_en": "He would have liked to stay.", "telc_relevance": "Movement/change verbs use wäre: gegangen, gekommen, gefahren"},
+      {"pattern": "Wenn-Satz with KII Vergangenheit", "structure": "Wenn + S + ... + P II + hätte/wäre, hätte/wäre + S + ... + P II", "example_de": "Wenn ich das gewusst hätte, wäre ich nicht gegangen.", "example_en": "If I had known that, I wouldn't have gone.", "telc_relevance": "Past unreal conditionals — classic Sprachbausteine structure"},
+      {"pattern": "hätte + modal + Infinitiv", "structure": "S + hätte + ... + Inf. + Modal-Inf.", "example_de": "Du hättest das machen sollen.", "example_en": "You should have done that.", "telc_relevance": "Modal + KII past is advanced B1 — shows high competence in Schreiben"}
+    ],
+    "flashcards": [
+      {"front": "KII Vergangenheit — formation?", "back": "hätte/wäre + Partizip II: Ich hätte gelernt. / Ich wäre gekommen.", "type": "grammar"},
+      {"front": "Wenn ich das gewusst hätte, ...", "back": "If I had known that, ... — hätte ich anders gehandelt.", "type": "grammar"},
+      {"front": "hätte + P II or wäre + P II?", "back": "hätte for most verbs (haben-Perfekt). wäre for sein-verbs (gehen, kommen, bleiben, etc.)", "type": "grammar"},
+      {"front": "Du hättest ... sollen", "back": "You should have... (KII past with modal)", "type": "grammar"},
+      {"front": "Ich hätte mehr lernen können.", "back": "I could have studied more. (KII past + modal)", "type": "grammar"},
+      {"front": "Es wäre besser gewesen.", "back": "It would have been better. (wäre + P II of sein-verb)", "type": "grammar"},
+      {"front": "Word order in wenn-clause (KII past)?", "back": "Partizip II before hätte/wäre at end: 'Wenn ich gekommen wäre,...'", "type": "grammar"},
+      {"front": "Ich wäre gern mitgekommen.", "back": "I would have liked to come along. (sein-verb → wäre)", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Wenn ich das __________ __________, hätte ich anders reagiert. (wissen)", "en": "If I had known that, I would have reacted differently.", "hint": "gewusst hätte (KII Verg.: P II + hätte at end in Nebensatz)"},
+      {"de": "Ich __________ gern länger __________. (bleiben)", "en": "I would have liked to stay longer.", "hint": "wäre ... geblieben (sein-verb → wäre + P II)"},
+      {"de": "Du __________ mir Bescheid sagen __________. (sollen)", "en": "You should have let me know.", "hint": "hättest ... sollen (KII past + modal)"},
+      {"de": "Das __________ nicht passieren __________.", "en": "That shouldn't have happened.", "hint": "hätte ... dürfen (or: hätte nicht passieren sollen/dürfen)"},
+      {"de": "Wenn wir früher __________ __________, hätten wir den Zug noch erreicht.", "en": "If we had left earlier, we would have caught the train.", "hint": "losgefahren wären (sein-verb → wären, separable: los-ge-fahren)"}
+    ],
+    "exam_tips": [
+      {"tip": "KII Vergangenheit appears in Sprachbausteine when the context is clearly about a past unreal event. Look for 'Wenn ... hätte/wäre' structures.", "telc_section": "Sprachbausteine"},
+      {"tip": "For Schreiben complaints: 'Ich hätte erwartet, dass...' or 'Das hätte nicht passieren dürfen.' — shows advanced grammar.", "telc_section": "Schreiben"},
+      {"tip": "In Lesen, recognize KII Vergangenheit to understand regrets, missed opportunities, or hypothetical past situations.", "telc_section": "Lesen"}
+    ],
+    "visual_summary": {
+      "title": "Konjunktiv II Vergangenheit",
+      "table": {
+        "headers": ["Type", "Formation", "Example DE", "Example EN"],
+        "rows": [
+          ["haben-verbs", "hätte + P II", "Ich hätte gelernt.", "I would have studied."],
+          ["sein-verbs", "wäre + P II", "Ich wäre gekommen.", "I would have come."],
+          ["+ Modal", "hätte + Inf. + Modal", "Ich hätte kommen sollen.", "I should have come."],
+          ["wenn-Satz (past)", "Wenn + P II + hätte/wäre", "Wenn ich das gewusst hätte,...", "If I had known..."]
+        ]
+      },
+      "key_points": [
+        "hätte + P II for most verbs, wäre + P II for sein-verbs",
+        "Wenn-clause: P II comes before hätte/wäre at the end",
+        "Double hätte is common: 'Wenn ich gehabt hätte, hätte ich gegeben.'",
+        "With modals: hätte + Inf. + Modal-Inf. ('hätte kommen sollen')"
+      ]
+    }
+  },
+  {
+    "video_id": "fvALt7eKK14",
+    "title": "B1 - Lesson 25 | Konjunktiv II - Wünsche ausdrücken | Expressing Wishes | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=fvALt7eKK14",
+    "telc_section": "Sprechen",
+    "study_notes": {
+      "summary": "This lesson focuses on expressing wishes using Konjunktiv II. Structures covered: 'Ich wünschte, ...' (I wish...), 'Wenn doch nur...' (If only...), 'Es wäre schön, wenn...' (It would be nice if...), 'Ich hätte gern...' (I would like to have...), 'Ich würde gern...' (I would like to...).",
+      "key_concept": "Wishes in German use Konjunktiv II because they express something unreal/desired. Present wishes: 'Ich wünschte, ich hätte mehr Zeit.' (I wish I had more time.) Past wishes: 'Ich wünschte, ich hätte das gemacht.' (I wish I had done that.) The verb 'wünschen' itself is in Präteritum (KII) form: wünschte.",
+      "grammar_rule": "Key structures: 1) Ich wünschte, + KII clause: 'Ich wünschte, ich wäre jünger.' 2) Wenn + doch/nur/bloß + KII: 'Wenn ich doch nur mehr Geld hätte!' 3) Es wäre schön, wenn + KII: 'Es wäre schön, wenn du kämest.' 4) Ich hätte/würde gern: 'Ich hätte gern ein Stück Kuchen.' / 'Ich würde gern reisen.'",
+      "word_order_note": "'Ich wünschte, ...' is followed by a clause with KII verb at the end (like a dass-Satz without dass). 'Wenn doch nur...' has KII verb at the end: 'Wenn ich doch nur reich wäre!' Exclamation mark often used with 'wenn doch nur'.",
+      "common_mistakes": [
+        "Using Indikativ after 'Ich wünschte': 'Ich wünschte, ich bin...' → 'Ich wünschte, ich wäre...'",
+        "Confusing 'Ich wünsche mir' (real wish, Indikativ) with 'Ich wünschte' (unreal wish, KII)",
+        "Forgetting KII in 'Wenn doch nur' sentences: 'Wenn ich doch nur Zeit habe' → 'hätte'",
+        "Using 'will' instead of 'würde gern' for wishes: German doesn't use 'wollen' politely for wishes",
+        "Missing the emotional nuance: 'doch', 'nur', 'bloß' add emphasis to wishes"
+      ]
+    },
+    "vocabulary": [
+      {"de": "Ich wünschte, ...", "en": "I wish...", "example_de": "Ich wünschte, ich könnte fliegen.", "example_en": "I wish I could fly."},
+      {"de": "Wenn doch nur ...", "en": "If only...", "example_de": "Wenn doch nur das Wetter besser wäre!", "example_en": "If only the weather were better!"},
+      {"de": "Es wäre schön, wenn ...", "en": "It would be nice if...", "example_de": "Es wäre schön, wenn du mitkommen könntest.", "example_en": "It would be nice if you could come along."},
+      {"de": "Ich hätte gern ...", "en": "I would like (to have)...", "example_de": "Ich hätte gern einen Kaffee.", "example_en": "I would like a coffee."},
+      {"de": "Ich würde gern ...", "en": "I would like to...", "example_de": "Ich würde gern in Japan leben.", "example_en": "I would like to live in Japan."},
+      {"de": "wenn bloß ...", "en": "if only...", "example_de": "Wenn bloß die Prüfung schon vorbei wäre!", "example_en": "If only the exam were already over!"},
+      {"de": "Ich stelle mir vor, ...", "en": "I imagine...", "example_de": "Ich stelle mir vor, wie es wäre, am Strand zu leben.", "example_en": "I imagine what it would be like to live on the beach."},
+      {"de": "am liebsten", "en": "most of all, preferably", "example_de": "Am liebsten würde ich den ganzen Tag schlafen.", "example_en": "Most of all, I would like to sleep all day."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Ich wünschte, + KII", "structure": "Ich wünschte, S + ... + KII(end)", "example_de": "Ich wünschte, ich wäre jetzt am Meer.", "example_en": "I wish I were at the sea right now.", "telc_relevance": "Expressing unreal wishes — appears in Sprechen and Schreiben"},
+      {"pattern": "Wenn doch/nur/bloß + KII!", "structure": "Wenn + doch/nur/bloß + S + ... + KII(end)!", "example_de": "Wenn ich doch nur besser Deutsch sprechen könnte!", "example_en": "If only I could speak better German!", "telc_relevance": "Emphatic wishes — great for Sprechen Teil 2 personal opinions"},
+      {"pattern": "Es wäre schön/toll/nett, wenn + KII", "structure": "Es wäre + Adj., wenn + S + ... + KII(end)", "example_de": "Es wäre toll, wenn wir zusammen reisen könnten.", "example_en": "It would be great if we could travel together.", "telc_relevance": "Polite suggestion format — excellent for Schreiben"},
+      {"pattern": "hätte gern / würde gern", "structure": "Ich hätte gern + Noun / Ich würde gern + Infinitiv", "example_de": "Ich hätte gern Informationen. / Ich würde gern teilnehmen.", "example_en": "I would like information. / I would like to participate.", "telc_relevance": "Most common polite request in Schreiben emails"}
+    ],
+    "flashcards": [
+      {"front": "Ich wünschte, ...", "back": "I wish... + KII: 'Ich wünschte, ich hätte mehr Freizeit.' (wünschte = KII form)", "type": "grammar"},
+      {"front": "Wenn doch nur...!", "back": "If only...! + KII: 'Wenn doch nur das Wetter besser wäre!'", "type": "grammar"},
+      {"front": "Es wäre schön, wenn...", "back": "It would be nice if... + KII: 'Es wäre schön, wenn du mitkommen könntest.'", "type": "grammar"},
+      {"front": "Ich hätte gern...", "back": "I would like (to have)... + Noun: 'Ich hätte gern ein Stück Kuchen.'", "type": "vocabulary"},
+      {"front": "Ich würde gern...", "back": "I would like to... + Inf.: 'Ich würde gern mehr reisen.'", "type": "vocabulary"},
+      {"front": "Am liebsten würde ich...", "back": "Most of all I would... + Inf.: 'Am liebsten würde ich schlafen.'", "type": "vocabulary"},
+      {"front": "Present vs. past wish?", "back": "Present: Ich wünschte, ich hätte Zeit. Past: Ich wünschte, ich hätte mehr gelernt. (hätte + P II)", "type": "grammar"},
+      {"front": "Wünschen (Indikativ) vs. wünschte (KII)?", "back": "Ich wünsche mir = real wish (birthday). Ich wünschte = unreal wish (if only...)", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich __________, ich __________ mehr Freizeit. (wünschen, haben)", "en": "I wish I had more free time.", "hint": "wünschte, hätte (KII: wünschte + hätte)"},
+      {"de": "Wenn __________ nur die Prüfung schon vorbei __________!", "en": "If only the exam were already over!", "hint": "doch ... wäre (Wenn doch nur + KII)"},
+      {"de": "Es __________ toll, wenn wir zusammen in den Urlaub fahren __________.", "en": "It would be great if we could go on vacation together.", "hint": "wäre ... könnten (Es wäre + Adj., wenn + KII)"},
+      {"de": "Ich __________ gern einen Tee, bitte.", "en": "I would like a tea, please.", "hint": "hätte (polite request: hätte gern + Noun)"},
+      {"de": "Am liebsten __________ ich den ganzen Tag lesen.", "en": "Most of all, I would like to read all day.", "hint": "würde (würde gern + Infinitiv)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Schreiben, master: 'Ich hätte gern' (request), 'Es wäre schön, wenn' (suggestion), 'Ich würde mich freuen, wenn' (polite ending).", "telc_section": "Schreiben"},
+      {"tip": "For Sprechen, use 'Ich wünschte' and 'Wenn doch nur' to express personal wishes in Teil 2 opinion tasks.", "telc_section": "Sprechen"},
+      {"tip": "In Hören, recognize wish-phrases: 'Wenn ich doch nur...', 'Am liebsten würde ich...' — they signal unreal desires.", "telc_section": "Hören"}
+    ],
+    "visual_summary": {
+      "title": "Wünsche ausdrücken mit Konjunktiv II",
+      "table": {
+        "headers": ["Structure", "Type", "Example DE", "Example EN"],
+        "rows": [
+          ["Ich wünschte, + KII", "Unreal wish", "Ich wünschte, ich wäre reich.", "I wish I were rich."],
+          ["Wenn doch nur + KII!", "Emphatic wish", "Wenn ich doch nur fliegen könnte!", "If only I could fly!"],
+          ["Es wäre schön, wenn + KII", "Polite wish", "Es wäre schön, wenn du kämest.", "It would be nice if you came."],
+          ["Ich hätte gern + Noun", "Polite want", "Ich hätte gern einen Kaffee.", "I'd like a coffee."],
+          ["Ich würde gern + Inf.", "Wish/want to do", "Ich würde gern mehr reisen.", "I'd like to travel more."]
+        ]
+      },
+      "key_points": [
+        "All wish structures use Konjunktiv II",
+        "doch/nur/bloß add emphasis to wenn-wishes",
+        "hätte gern = want to have, würde gern = want to do",
+        "Present wish vs. past wish: hätte vs. hätte + P II"
+      ]
+    }
+  },
+  {
+    "video_id": "YMG6aN-ZBBw",
+    "title": "B1 - Lesson 26 | Brief schreiben | Letter Writing | Write an email / letter | Learn German",
+    "url": "https://www.youtube.com/watch?v=YMG6aN-ZBBw",
+    "telc_section": "Schreiben",
+    "study_notes": {
+      "summary": "This lesson teaches how to write a formal/semi-formal email or letter for the TELC B1 Schreiben section. Key elements: Anrede (greeting), 4 Leitpunkte (guiding points), sentence connectors (deshalb, außerdem, trotzdem), Konjunktiv II for politeness, and proper closing (Mit freundlichen Grüßen). The letter must be 100-120 words.",
+      "key_concept": "TELC B1 Schreiben task: Reply to a letter/email addressing ALL 4 Leitpunkte (guiding points). Use formal language (Sie-form), connectors, and varied sentence structures. Structure: Anrede → Einleitung (why you write) → Body (4 Leitpunkte) → Schluss (closing wish/request) → Grußformel.",
+      "grammar_rule": "Formal letter format: 'Sehr geehrte Damen und Herren,' / 'Sehr geehrte Frau Schmidt,' → Capitalize 'Sie/Ihr/Ihnen'. Use KII for politeness: 'Ich würde mich freuen', 'Könnten Sie mir mitteilen'. Connectors: deshalb, außerdem, trotzdem, zuerst, dann, schließlich. End: 'Mit freundlichen Grüßen' + name.",
+      "word_order_note": "Each Leitpunkt should be 2-3 sentences. Use Konnektoren to link ideas: 'Ich möchte mich beschweren, weil... Außerdem...' Start new paragraphs for clarity. The Einleitung references the original letter: 'vielen Dank für Ihren Brief vom...'",
+      "common_mistakes": [
+        "Not addressing ALL 4 Leitpunkte — each one costs points if missing!",
+        "Writing too little (<80 words) or too much (>150 words)",
+        "Using du-form instead of Sie-form in formal letters",
+        "No Anrede or wrong Anrede: always start with 'Sehr geehrte...'",
+        "Forgetting comma after Anrede: 'Sehr geehrte Frau Schmidt,' ← comma!"
+      ]
+    },
+    "vocabulary": [
+      {"de": "Sehr geehrte Damen und Herren,", "en": "Dear Ladies and Gentlemen,", "example_de": "Sehr geehrte Damen und Herren, ich schreibe Ihnen wegen...", "example_en": "Dear Ladies and Gentlemen, I am writing to you regarding..."},
+      {"de": "vielen Dank für Ihren Brief", "en": "thank you for your letter", "example_de": "Vielen Dank für Ihren Brief vom 15. März.", "example_en": "Thank you for your letter of March 15."},
+      {"de": "Ich möchte mich erkundigen", "en": "I would like to inquire", "example_de": "Ich möchte mich erkundigen, ob der Kurs noch frei ist.", "example_en": "I would like to inquire if the course still has spots."},
+      {"de": "Könnten Sie mir mitteilen", "en": "Could you let me know", "example_de": "Könnten Sie mir mitteilen, wann der Kurs beginnt?", "example_en": "Could you let me know when the course starts?"},
+      {"de": "Ich würde mich freuen", "en": "I would be pleased", "example_de": "Ich würde mich über eine baldige Antwort freuen.", "example_en": "I would be pleased to receive a prompt reply."},
+      {"de": "Mit freundlichen Grüßen", "en": "Yours sincerely", "example_de": "Mit freundlichen Grüßen, [Name]", "example_en": "Yours sincerely, [Name]"},
+      {"de": "Ich möchte mich beschweren", "en": "I would like to complain", "example_de": "Ich möchte mich über den Service beschweren.", "example_en": "I would like to complain about the service."},
+      {"de": "Ich bitte Sie darum", "en": "I ask you to", "example_de": "Ich bitte Sie darum, mir die Rechnung zuzuschicken.", "example_en": "I ask you to send me the invoice."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Formal letter opening", "structure": "Sehr geehrte(r) + Name/Titel, + reason for writing", "example_de": "Sehr geehrte Frau Müller, ich schreibe Ihnen, weil ich mich für den Deutschkurs interessiere.", "example_en": "Dear Mrs. Müller, I am writing to you because I am interested in the German course.", "telc_relevance": "ALWAYS start with proper Anrede — points deducted for missing/wrong greeting"},
+      {"pattern": "Polite request in letter", "structure": "Könnten Sie + Inf. / Ich würde mich freuen, wenn + KII", "example_de": "Könnten Sie mir bitte Informationen zuschicken? / Ich würde mich freuen, wenn Sie mir antworten könnten.", "example_en": "Could you please send me information? / I would be pleased if you could reply.", "telc_relevance": "Polite KII structures earn extra points in Schreiben"},
+      {"pattern": "Connecting Leitpunkte with Konnektoren", "structure": "Außerdem / Darüber hinaus / Des Weiteren", "example_de": "Außerdem möchte ich fragen, ob... Des Weiteren interessiert mich,...", "example_en": "Furthermore, I would like to ask if... Additionally, I am interested in...", "telc_relevance": "Connectors show text coherence — important for scoring"},
+      {"pattern": "Formal letter closing", "structure": "Closing sentence + Mit freundlichen Grüßen + Name", "example_de": "Ich freue mich auf Ihre Antwort. Mit freundlichen Grüßen, Anna Schmidt", "example_en": "I look forward to your reply. Yours sincerely, Anna Schmidt", "telc_relevance": "Proper closing structure — always end with MfG"}
+    ],
+    "flashcards": [
+      {"front": "How to start a formal German letter?", "back": "Sehr geehrte Damen und Herren, / Sehr geehrte Frau [Name], / Sehr geehrter Herr [Name],", "type": "exam_tip"},
+      {"front": "How many Leitpunkte in TELC B1 Schreiben?", "back": "4 — you MUST address ALL of them!", "type": "exam_tip"},
+      {"front": "How many words for B1 Schreiben?", "back": "100-120 words (don't write too little or too much)", "type": "exam_tip"},
+      {"front": "Polite request in a letter?", "back": "Könnten Sie mir bitte... / Ich würde mich freuen, wenn... / Wären Sie so freundlich,...", "type": "vocabulary"},
+      {"front": "How to close a formal letter?", "back": "Ich freue mich auf Ihre Antwort. / Mit freundlichen Grüßen, [Name]", "type": "exam_tip"},
+      {"front": "Ich möchte mich erkundigen, ob...", "back": "I would like to inquire whether... (polite question in formal letter)", "type": "vocabulary"},
+      {"front": "Connectors for linking Leitpunkte?", "back": "Außerdem, Darüber hinaus, Des Weiteren, Zuerst, Schließlich", "type": "vocabulary"},
+      {"front": "Ich möchte mich beschweren über...", "back": "I would like to complain about... (Reklamation opening)", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "__________ __________ __________ und Herren, ich schreibe Ihnen wegen des Kurses.", "en": "Dear Ladies and Gentlemen, I am writing to you regarding the course.", "hint": "Sehr geehrte Damen (formal greeting)"},
+      {"de": "__________ Sie mir bitte mitteilen, wann der Kurs beginnt?", "en": "Could you please let me know when the course starts?", "hint": "Könnten (polite KII request)"},
+      {"de": "__________ möchte ich fragen, ob es Ermäßigungen gibt.", "en": "Furthermore, I would like to ask if there are discounts.", "hint": "Außerdem (connector linking Leitpunkte)"},
+      {"de": "Ich __________ mich über eine baldige Antwort __________.", "en": "I would be pleased to receive a prompt reply.", "hint": "würde ... freuen (polite closing)"},
+      {"de": "__________ __________ Grüßen, Anna Müller", "en": "Yours sincerely, Anna Müller", "hint": "Mit freundlichen (formal closing formula)"}
+    ],
+    "exam_tips": [
+      {"tip": "CRITICAL: Address ALL 4 Leitpunkte. Missing even one costs significant points. Count them as you write!", "telc_section": "Schreiben"},
+      {"tip": "Use this structure: Greeting → Reference to original letter → Leitpunkt 1 → LP 2 → LP 3 → LP 4 → Polite closing → MfG", "telc_section": "Schreiben"},
+      {"tip": "Stay between 100-120 words. Practice counting words. Too few = not enough content, too many = too much time spent / errors increase.", "telc_section": "Schreiben"},
+      {"tip": "Use at least 3 different connectors (außerdem, deshalb, trotzdem) and one KII form (könnten, würde, wäre) for a high score.", "telc_section": "Schreiben"},
+      {"tip": "Common opening: 'Vielen Dank für Ihr Schreiben vom [date]. Ich möchte mich bei Ihnen erkundigen/beschweren/anmelden...'", "telc_section": "Schreiben"}
+    ],
+    "visual_summary": {
+      "title": "Brief schreiben — TELC B1 Schreiben Structure",
+      "table": {
+        "headers": ["Part", "Content", "Example"],
+        "rows": [
+          ["Anrede", "Formal greeting", "Sehr geehrte Frau Schmidt,"],
+          ["Einleitung", "Why you write", "Vielen Dank für Ihren Brief. Ich schreibe Ihnen, weil..."],
+          ["Leitpunkt 1-4", "Address each point", "Zuerst möchte ich... Außerdem... Darüber hinaus..."],
+          ["Schluss", "Closing wish/request", "Ich würde mich über eine Antwort freuen."],
+          ["Grußformel", "Sign-off", "Mit freundlichen Grüßen, [Name]"]
+        ]
+      },
+      "key_points": [
+        "ALL 4 Leitpunkte must be addressed",
+        "100-120 words — practice counting!",
+        "Use KII for politeness: Könnten Sie / Ich würde mich freuen",
+        "Connectors: außerdem, deshalb, trotzdem, darüber hinaus"
+      ]
+    }
+  }
+]

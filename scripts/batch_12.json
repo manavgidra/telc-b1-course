@@ -1,0 +1,232 @@
+[
+  {
+    "video_id": "OTefxmSlqVA",
+    "title": "B1 - Lesson 37 | Jobsuche Teil 3 | Interview Phrases | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=OTefxmSlqVA",
+    "telc_section": "Sprechen",
+    "study_notes": {
+      "summary": "Part 3 covers Vorstellungsgespräch (job interview) phrases: how to introduce yourself professionally, answer typical questions (Erzählen Sie über sich, Warum möchten Sie bei uns arbeiten?, Was sind Ihre Stärken/Schwächen?), ask questions, and negotiate. Directly useful for TELC B1 Sprechen Teil 1 (self-intro) and professional vocabulary.",
+      "key_concept": "Interview structure: 1) Greeting + self-introduction, 2) Career summary ('Ich habe ... studiert und arbeite seit ... Jahren als...'), 3) Motivation ('Was mich an dieser Stelle reizt, ist...'), 4) Strengths + example, 5) Your questions ('Dürfte ich fragen, ob/wie/wann...'). Use formal register throughout.",
+      "grammar_rule": "Self-intro: 'Mein Name ist... Ich bin ... von Beruf / Ich arbeite als...' Career: 'Ich habe ... studiert / eine Ausbildung gemacht.' Duration: 'seit + Dativ': 'Ich arbeite seit drei Jahren in diesem Bereich.' Questions: 'Dürfte ich fragen, ob + Nebensatz' / 'Könnten Sie mir sagen, wann + Nebensatz'",
+      "word_order_note": "'seit' takes Dativ and Präsens tense (not Perfekt!): 'Ich arbeite seit 2020 hier.' (not 'habe gearbeitet'). Indirect questions: 'Könnten Sie mir sagen, wann der Vertrag beginnt?' (verb at end in Nebensatz).",
+      "common_mistakes": [
+        "Using Perfekt with seit: 'Ich habe seit 3 Jahren gearbeitet' → 'Ich arbeite seit 3 Jahren' (Präsens!)",
+        "Being too casual: 'Ich bin Peter, ich will den Job' → 'Mein Name ist Peter Schmidt. Ich interessiere mich für diese Position.'",
+        "Listing only weaknesses without positive spin: 'Ich bin ungeduldig' → 'Manchmal bin ich ungeduldig, aber ich arbeite daran.'",
+        "Not asking questions at the end: always prepare 2-3 questions to show interest",
+        "Forgetting Dativ with 'bei': 'Ich möchte bei Ihrem Unternehmen arbeiten' → 'bei Ihrer Firma' (Dativ!)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "Erzählen Sie etwas über sich.", "en": "Tell us about yourself.", "example_de": "Mein Name ist Anna. Ich bin Informatikerin und arbeite seit 5 Jahren im IT-Bereich.", "example_en": "My name is Anna. I'm a computer scientist and have been working in IT for 5 years."},
+      {"de": "von Beruf", "en": "by profession", "example_de": "Ich bin Lehrerin von Beruf.", "example_en": "I am a teacher by profession."},
+      {"de": "die Ausbildung", "en": "vocational training, apprenticeship", "example_de": "Ich habe eine Ausbildung als Bürokauffrau gemacht.", "example_en": "I completed an apprenticeship as an office clerk."},
+      {"de": "Warum möchten Sie bei uns arbeiten?", "en": "Why would you like to work for us?", "example_de": "Ich möchte bei Ihnen arbeiten, weil Ihr Unternehmen innovativ ist.", "example_en": "I'd like to work for you because your company is innovative."},
+      {"de": "Dürfte ich fragen, ...?", "en": "Might I ask...?", "example_de": "Dürfte ich fragen, wie die Arbeitszeiten sind?", "example_en": "Might I ask what the working hours are?"},
+      {"de": "seit + Dativ (+ Präsens)", "en": "since/for (with present tense)", "example_de": "Ich lerne seit zwei Jahren Deutsch.", "example_en": "I have been learning German for two years."},
+      {"de": "das Gehalt, -er", "en": "salary", "example_de": "Dürfte ich nach dem Gehalt fragen?", "example_en": "Might I ask about the salary?"},
+      {"de": "die Arbeitszeit, -en", "en": "working hours", "example_de": "Wie sind die Arbeitszeiten in Ihrem Unternehmen?", "example_en": "What are the working hours in your company?"}
+    ],
+    "grammar_patterns": [
+      {"pattern": "seit + Dativ + Präsens", "structure": "Ich + V(Präsens) + seit + Dativ + ...", "example_de": "Ich arbeite seit fünf Jahren als Ingenieur.", "example_en": "I have been working as an engineer for five years.", "telc_relevance": "seit + Präsens is a key B1 structure — tested in Sprachbausteine"},
+      {"pattern": "Indirect question: Dürfte/Könnten Sie...?", "structure": "Dürfte ich fragen, ob/wie/wann + V(end)?", "example_de": "Dürfte ich fragen, ob es Weiterbildungsmöglichkeiten gibt?", "example_en": "Might I ask if there are training opportunities?", "telc_relevance": "Polite questions with KII — essential for Sprechen formality"},
+      {"pattern": "Career summary", "structure": "Ich habe + Beruf + studiert/gelernt + und arbeite seit + Zeit + als + Beruf", "example_de": "Ich habe BWL studiert und arbeite seit drei Jahren als Projektmanager.", "example_en": "I studied business and have been working as a project manager for 3 years.", "telc_relevance": "Self-introduction for Sprechen Teil 1"},
+      {"pattern": "Positive weakness framing", "structure": "Manchmal bin ich + negative Adj., aber ich arbeite daran/lerne daraus", "example_de": "Manchmal bin ich zu detailorientiert, aber das hilft bei der Qualitätssicherung.", "example_en": "Sometimes I'm too detail-oriented, but that helps with quality assurance.", "telc_relevance": "Professional self-description — shows nuanced B1 language"}
+    ],
+    "flashcards": [
+      {"front": "seit + which tense?", "back": "PRÄSENS! 'Ich arbeite seit 3 Jahren hier.' (not Perfekt!)", "type": "grammar"},
+      {"front": "Erzählen Sie etwas über sich.", "back": "Tell us about yourself. — Start with: Name, Beruf, Erfahrung, Motivation.", "type": "exam_tip"},
+      {"front": "Dürfte ich fragen, ob...?", "back": "Might I ask if...? (very polite KII question + Nebensatz)", "type": "vocabulary"},
+      {"front": "von Beruf", "back": "by profession — Ich bin Ingenieur von Beruf.", "type": "vocabulary"},
+      {"front": "die Ausbildung", "back": "vocational training — Ich habe eine Ausbildung als Koch gemacht.", "type": "vocabulary"},
+      {"front": "How to answer 'Schwächen'?", "back": "Frame positively: 'Manchmal bin ich zu perfektionistisch, aber ich arbeite daran.'", "type": "exam_tip"},
+      {"front": "bei + Dativ for employer", "back": "bei Ihrer Firma / bei diesem Unternehmen (Dativ!)", "type": "grammar"},
+      {"front": "Warum möchten Sie bei uns arbeiten?", "back": "Why would you like to work for us? → 'Weil Ihr Unternehmen ... / Mich reizt, dass...'", "type": "exam_tip"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich arbeite __________ drei Jahren als Softwareentwickler.", "en": "I have been working as a software developer for three years.", "hint": "seit (+ Dativ + Präsens!)"},
+      {"de": "__________ ich fragen, wie die Arbeitszeiten sind?", "en": "Might I ask what the working hours are?", "hint": "Dürfte (polite KII question)"},
+      {"de": "Ich bin Ärztin __________ __________.", "en": "I am a doctor by profession.", "hint": "von Beruf (fixed phrase)"},
+      {"de": "Ich habe eine __________ als Bürokaufmann gemacht.", "en": "I completed an apprenticeship as an office clerk.", "hint": "Ausbildung (vocational training)"},
+      {"de": "Ich möchte __________ Ihrem Unternehmen arbeiten, weil es international tätig ist.", "en": "I would like to work for your company because it operates internationally.", "hint": "bei (bei + Dativ for employer)"}
+    ],
+    "exam_tips": [
+      {"tip": "seit + Präsens is tested in Sprachbausteine: 'Ich lerne seit 2 Jahren Deutsch' (NOT 'Ich habe seit 2 Jahren gelernt').", "telc_section": "Sprachbausteine"},
+      {"tip": "For Sprechen Teil 1, prepare a 2-minute self-intro: Name, Herkunft, Beruf/Studium, seit wann in Deutschland, Hobbys.", "telc_section": "Sprechen"},
+      {"tip": "Use indirect questions for politeness: 'Könnten Sie mir sagen, ob...' instead of 'Ist...?' — sounds much more professional.", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Jobsuche Teil 3 — Interview Phrases",
+      "table": {
+        "headers": ["Interview Phase", "German Phrase", "English"],
+        "rows": [
+          ["Self-intro", "Mein Name ist... Ich bin ... von Beruf.", "My name is... I am a ... by profession."],
+          ["Experience", "Ich arbeite seit X Jahren als...", "I've been working for X years as..."],
+          ["Motivation", "Mich reizt an dieser Stelle, dass...", "What attracts me is that..."],
+          ["Strengths", "Ich bin teamfähig/zuverlässig/flexibel", "I'm a team player/reliable/flexible"],
+          ["Questions", "Dürfte ich fragen, ob/wie/wann...?", "Might I ask if/how/when...?"]
+        ]
+      },
+      "key_points": [
+        "seit + Dativ + PRÄSENS (never Perfekt!)",
+        "Frame weaknesses positively",
+        "Use KII for polite questions: Dürfte/Könnten",
+        "Always prepare 2-3 questions for the interviewer"
+      ]
+    }
+  },
+  {
+    "video_id": "6hnXuXAHm30",
+    "title": "B1 - Lesson 38 | Jobsuche Teil 4 | Workplace Vocabulary | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=6hnXuXAHm30",
+    "telc_section": "General B1",
+    "study_notes": {
+      "summary": "Part 4 covers workplace vocabulary and expressions: types of work (Vollzeit, Teilzeit, Minijob), workplace culture (Arbeitsklima, Kollegen), work conditions (Überstunden, Urlaub, Vertrag), and talking about your daily work routine. Integrates grammar like Nebensätze and Konnektoren to describe work situations.",
+      "key_concept": "Work vocabulary categories: Employment types (Vollzeit/Teilzeit/befristet/unbefristet), Documents (Arbeitsvertrag/Kündigung/Zeugnis), Daily work (Besprechung/Termin/Projekt/Deadline), Benefits (Urlaubstage/Fortbildung/Betriebsrente). Use 'Ich bin zuständig für + Akk.' to describe responsibilities.",
+      "grammar_rule": "Responsibility: 'Ich bin zuständig für + Akk.' (I am responsible for). Describing tasks: 'Zu meinen Aufgaben gehört es, ... zu + Inf.' (Among my tasks is to...). Work conditions: 'Mein Vertrag ist befristet/unbefristet.' Opinions about work: 'Was mir an meiner Arbeit gefällt, ist...'",
+      "word_order_note": "'Zu meinen Aufgaben gehört es, ...' is followed by zu-Infinitiv: 'Zu meinen Aufgaben gehört es, Kunden zu beraten.' 'Was mir gefällt, ist...' starts with a was-clause (verb at end): 'Was mir an der Arbeit gefällt, ist die Abwechslung.'",
+      "common_mistakes": [
+        "Confusing befristet (temporary) and unbefristet (permanent) — critical for contracts!",
+        "Saying 'Arbeitzeit' instead of 'Arbeitszeit' — compound nouns with -s-: Arbeit-s-zeit",
+        "Using 'Job' too informally: prefer 'Stelle', 'Arbeit', 'Position' in formal contexts",
+        "Forgetting gender: der Vertrag, die Kündigung, das Gehalt, die Besprechung",
+        "Not knowing work-related compound nouns: Weiterbildung, Arbeitsklima, Betriebsrat"
+      ]
+    },
+    "vocabulary": [
+      {"de": "Vollzeit / Teilzeit", "en": "full-time / part-time", "example_de": "Ich arbeite Vollzeit, 40 Stunden pro Woche.", "example_en": "I work full-time, 40 hours per week."},
+      {"de": "befristet / unbefristet", "en": "temporary / permanent (contract)", "example_de": "Mein Vertrag ist auf zwei Jahre befristet.", "example_en": "My contract is limited to two years."},
+      {"de": "der Arbeitsvertrag, -e", "en": "employment contract", "example_de": "Ich habe den Arbeitsvertrag unterschrieben.", "example_en": "I signed the employment contract."},
+      {"de": "die Kündigung, -en", "en": "termination, resignation", "example_de": "Die Kündigungsfrist beträgt drei Monate.", "example_en": "The notice period is three months."},
+      {"de": "die Überstunde, -n", "en": "overtime hour", "example_de": "Letzte Woche habe ich viele Überstunden gemacht.", "example_en": "Last week I worked a lot of overtime."},
+      {"de": "die Fortbildung / Weiterbildung", "en": "further training, professional development", "example_de": "Meine Firma bietet regelmäßig Fortbildungen an.", "example_en": "My company regularly offers training courses."},
+      {"de": "zuständig für + Akk.", "en": "responsible for", "example_de": "Ich bin zuständig für die Kundenbetreuung.", "example_en": "I am responsible for customer service."},
+      {"de": "das Arbeitsklima", "en": "work atmosphere, workplace climate", "example_de": "Das Arbeitsklima in unserer Firma ist sehr gut.", "example_en": "The workplace atmosphere in our company is very good."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "zuständig für + Akkusativ", "structure": "Ich bin zuständig für + Akk.", "example_de": "Ich bin zuständig für den Einkauf.", "example_en": "I am responsible for purchasing.", "telc_relevance": "Describing responsibilities — Sprechen self-introduction"},
+      {"pattern": "Zu meinen Aufgaben gehört es, ... zu + Inf.", "structure": "Zu + Dat. + gehört es, (Akk.) + zu + Infinitiv", "example_de": "Zu meinen Aufgaben gehört es, Berichte zu schreiben.", "example_en": "Among my tasks is writing reports.", "telc_relevance": "Formal description of work — Schreiben and Sprechen"},
+      {"pattern": "Was mir gefällt/nicht gefällt", "structure": "Was mir an + Dat. + gefällt, ist + Nom.", "example_de": "Was mir an meiner Arbeit gefällt, ist die Teamarbeit.", "example_en": "What I like about my work is the teamwork.", "telc_relevance": "Expressing opinions about work — Sprechen Teil 2"},
+      {"pattern": "Compound nouns for workplace", "structure": "Arbeit-s-vertrag, Arbeit-s-zeit, Arbeit-s-klima", "example_de": "Die Arbeitszeit beträgt 40 Stunden pro Woche.", "example_en": "The working time is 40 hours per week.", "telc_relevance": "Compound nouns appear heavily in Lesen — learn to break them down"}
+    ],
+    "flashcards": [
+      {"front": "Vollzeit vs. Teilzeit", "back": "Full-time (40h) vs. Part-time (20-30h): 'Ich arbeite Teilzeit, 25 Stunden pro Woche.'", "type": "vocabulary"},
+      {"front": "befristet vs. unbefristet", "back": "temporary (fixed-term) vs. permanent: 'Mein Vertrag ist unbefristet.'", "type": "vocabulary"},
+      {"front": "zuständig für + ?", "back": "Akkusativ: 'Ich bin zuständig für die Buchhaltung.'", "type": "grammar"},
+      {"front": "die Kündigung", "back": "termination/resignation — 'Eine Kündigung muss schriftlich erfolgen.'", "type": "vocabulary"},
+      {"front": "die Überstunde", "back": "overtime — 'Ich mache selten Überstunden.'", "type": "vocabulary"},
+      {"front": "die Fortbildung / Weiterbildung", "back": "further training — 'Meine Firma bietet Weiterbildungen an.'", "type": "vocabulary"},
+      {"front": "Zu meinen Aufgaben gehört es, ...", "back": "Among my tasks is... + zu-Infinitiv: '...Kunden zu betreuen.'", "type": "grammar"},
+      {"front": "das Arbeitsklima", "back": "workplace climate/atmosphere — 'Ein gutes Arbeitsklima ist mir wichtig.'", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich arbeite __________, 40 Stunden pro Woche.", "en": "I work full-time, 40 hours per week.", "hint": "Vollzeit (employment type)"},
+      {"de": "Mein Vertrag ist auf ein Jahr __________.", "en": "My contract is limited to one year.", "hint": "befristet (temporary/fixed-term)"},
+      {"de": "Ich bin __________ __________ den Kundenservice.", "en": "I am responsible for customer service.", "hint": "zuständig für (+ Akkusativ)"},
+      {"de": "__________ meinen Aufgaben __________ es, E-Mails zu beantworten.", "en": "Among my tasks is answering emails.", "hint": "Zu ... gehört (Zu + Dat. gehört es, ... zu + Inf.)"},
+      {"de": "Meine Firma bietet regelmäßig __________ an.", "en": "My company regularly offers further training.", "hint": "Fortbildungen / Weiterbildungen (professional development)"}
+    ],
+    "exam_tips": [
+      {"tip": "Work vocabulary is essential for Lesen Teil 3 where you match people to job ads. Know: Vollzeit/Teilzeit, befristet/unbefristet, Berufserfahrung, Kenntnisse.", "telc_section": "Lesen"},
+      {"tip": "In Hören, workplace conversations appear frequently. Listen for: Vertrag, Kündigung, Überstunden, Besprechung, Termin.", "telc_section": "Hören"},
+      {"tip": "For Sprechen Teil 1, describe your work: 'Ich arbeite als... bei... Ich bin zuständig für... Was mir besonders gefällt, ist...'", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Jobsuche Teil 4 — Workplace Vocabulary",
+      "table": {
+        "headers": ["Category", "German", "English"],
+        "rows": [
+          ["Employment", "Vollzeit / Teilzeit / Minijob", "Full-time / Part-time / Mini job"],
+          ["Contract", "befristet / unbefristet / Kündigung", "Temporary / Permanent / Termination"],
+          ["Tasks", "zuständig für / Aufgaben / Projekt", "Responsible for / Tasks / Project"],
+          ["Conditions", "Überstunden / Urlaub / Gehalt", "Overtime / Vacation / Salary"],
+          ["Development", "Fortbildung / Weiterbildung / Karriere", "Training / Development / Career"]
+        ]
+      },
+      "key_points": [
+        "befristet (temporary) vs. unbefristet (permanent) — know the difference!",
+        "zuständig für + Akk. for describing responsibilities",
+        "Compound nouns: break them down to understand (Arbeits-klima, Arbeits-vertrag)",
+        "Common in Lesen Teil 3 job ad matching exercises"
+      ]
+    }
+  },
+  {
+    "video_id": "IGC-ciq2yso",
+    "title": "B1 - Lesson 39 | Futur I | Future Tense | werden + Infinitiv | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=IGC-ciq2yso",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Futur I (Future I) in German uses 'werden + Infinitiv' to express future plans, predictions, and assumptions. Formation: 'Ich werde morgen kommen.' While German often uses Präsens + time expression for the future ('Ich komme morgen'), Futur I adds emphasis on intention, prediction, or assumption.",
+      "key_concept": "Futur I = werden + Infinitiv. 'werden' is conjugated, Infinitiv goes to the END. Three main uses: 1) Future plans/intentions: 'Ich werde nächstes Jahr studieren.' 2) Predictions: 'Es wird morgen regnen.' 3) Assumptions: 'Er wird wohl schon schlafen.' (He's probably already sleeping.) For near future, Germans usually prefer Präsens + time: 'Ich gehe morgen einkaufen.'",
+      "grammar_rule": "Conjugation of werden: ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden. Structure: S + werden(conj.) + ... + Infinitiv(end). In Nebensatz: '...weil ich morgen arbeiten werde.' (werden at end after Infinitiv). Assumption marker: 'wohl/wahrscheinlich' + Futur I.",
+      "word_order_note": "Main clause: 'Ich werde nächstes Jahr nach Berlin ziehen.' (werden pos.2, Inf. at end). Nebensatz: '...weil er nächste Woche kommen wird.' (Infinitiv before wird at end). With modal: very rare/avoided — use Präsens instead.",
+      "common_mistakes": [
+        "Confusing werden (future auxiliary) with werden (become) and werden (passive auxiliary)",
+        "Overusing Futur I when Präsens + time word is more natural: 'Morgen gehe ich einkaufen' (not 'Morgen werde ich einkaufen gehen')",
+        "Wrong word order: Infinitiv must go to END: 'Ich werde morgen kommen' (not 'Ich werde kommen morgen')",
+        "Wrong werden conjugation: du wirst (not werdest), er wird (not werdet)",
+        "In Nebensatz, placing werden before Infinitiv: '...dass ich kommen werde' (not '...dass ich werde kommen')"
+      ]
+    },
+    "vocabulary": [
+      {"de": "werden + Infinitiv", "en": "will (do something)", "example_de": "Ich werde nächstes Jahr heiraten.", "example_en": "I will get married next year."},
+      {"de": "wahrscheinlich", "en": "probably", "example_de": "Es wird wahrscheinlich regnen.", "example_en": "It will probably rain."},
+      {"de": "wohl", "en": "probably, presumably", "example_de": "Sie wird wohl schon zu Hause sein.", "example_en": "She is probably already at home."},
+      {"de": "bestimmt", "en": "certainly, for sure", "example_de": "Das wird bestimmt toll!", "example_en": "That will certainly be great!"},
+      {"de": "irgendwann", "en": "someday, at some point", "example_de": "Irgendwann werde ich nach Japan reisen.", "example_en": "Someday I will travel to Japan."},
+      {"de": "in Zukunft", "en": "in the future", "example_de": "In Zukunft werde ich mehr Sport treiben.", "example_en": "In the future I will exercise more."},
+      {"de": "bald", "en": "soon", "example_de": "Er wird bald ankommen.", "example_en": "He will arrive soon."},
+      {"de": "versprechen", "en": "to promise", "example_de": "Ich verspreche, ich werde pünktlich sein.", "example_en": "I promise, I will be on time."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Futur I: werden + Infinitiv", "structure": "S + werden(conj.) + ... + Infinitiv", "example_de": "Wir werden nächstes Jahr umziehen.", "example_en": "We will move next year.", "telc_relevance": "Future tense structure — tested in Sprachbausteine"},
+      {"pattern": "Futur I for assumptions (wohl)", "structure": "S + werden + wohl/wahrscheinlich + ... + Infinitiv", "example_de": "Er wird wohl krank sein.", "example_en": "He is probably sick. (assumption)", "telc_relevance": "Understanding assumptions in Lesen and Hören passages"},
+      {"pattern": "Präsens for near future", "structure": "Präsens + Zeitangabe (morgen, nächste Woche, bald)", "example_de": "Ich gehe morgen zum Arzt. (= Ich werde morgen zum Arzt gehen.)", "example_en": "I'm going to the doctor tomorrow.", "telc_relevance": "Both are correct — Präsens is more common in spoken German"},
+      {"pattern": "Futur I in Nebensatz", "structure": "...dass/weil/wenn + S + ... + Infinitiv + werden", "example_de": "Ich glaube, dass er morgen kommen wird.", "example_en": "I believe that he will come tomorrow.", "telc_relevance": "Nebensatz word order with werden — Infinitiv BEFORE werden at end"}
+    ],
+    "flashcards": [
+      {"front": "Futur I formation?", "back": "werden + Infinitiv: Ich werde kommen. Er wird arbeiten. Wir werden lernen.", "type": "grammar"},
+      {"front": "Conjugate werden (Futur)", "back": "ich werde, du wirst, er/sie wird, wir werden, ihr werdet, sie/Sie werden", "type": "grammar"},
+      {"front": "3 uses of Futur I?", "back": "1) Future plan: 'Ich werde studieren.' 2) Prediction: 'Es wird regnen.' 3) Assumption: 'Er wird wohl schlafen.'", "type": "grammar"},
+      {"front": "Futur I in Nebensatz?", "back": "Infinitiv BEFORE werden: '...dass er kommen wird.' (not ...dass er wird kommen)", "type": "grammar"},
+      {"front": "Futur I vs. Präsens + morgen?", "back": "Both work for future. Präsens + time word is more natural in speech. Futur I emphasizes intention/prediction.", "type": "grammar"},
+      {"front": "wohl + Futur I = ?", "back": "Assumption: 'Sie wird wohl schon schlafen.' (She is probably already sleeping.)", "type": "grammar"},
+      {"front": "Er wird wahrscheinlich zu spät kommen.", "back": "He will probably come late. (Futur I as prediction)", "type": "vocabulary"},
+      {"front": "Irgendwann werde ich...", "back": "Someday I will... — expressing future wishes/plans", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich __________ nächstes Jahr nach Spanien __________.", "en": "I will travel to Spain next year.", "hint": "werde ... reisen (Futur I: werden + Infinitiv)"},
+      {"de": "Es __________ morgen wahrscheinlich __________.", "en": "It will probably rain tomorrow.", "hint": "wird ... regnen (prediction with Futur I)"},
+      {"de": "Sie __________ __________ schon angekommen sein.", "en": "She has probably already arrived. (assumption)", "hint": "wird wohl (Futur I + wohl = assumption)"},
+      {"de": "Ich glaube, dass er bald __________ __________.", "en": "I believe that he will come soon.", "hint": "kommen wird (Nebensatz: Inf. before werden at end)"},
+      {"de": "In Zukunft __________ ich weniger Zucker __________.", "en": "In the future I will eat less sugar.", "hint": "werde ... essen (future intention with Futur I)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, you may need to choose 'werden' to complete a Futur I sentence. Know: ich werde, du wirst, er wird.", "telc_section": "Sprachbausteine"},
+      {"tip": "In Hören, Futur I with 'wohl/wahrscheinlich' signals an ASSUMPTION — the speaker is guessing, not stating a fact.", "telc_section": "Hören"},
+      {"tip": "For Schreiben, use Futur I for promises and plans: 'Ich werde pünktlich sein.' / 'Wir werden das Problem lösen.'", "telc_section": "Schreiben"},
+      {"tip": "Don't confuse 3 uses of werden: 1) Future: 'Ich werde kommen' 2) Passive: 'Es wird gemacht' 3) Become: 'Er wird Arzt.'", "telc_section": "Sprachbausteine"}
+    ],
+    "visual_summary": {
+      "title": "Futur I — werden + Infinitiv",
+      "table": {
+        "headers": ["Person", "werden", "Example"],
+        "rows": [
+          ["ich", "werde", "Ich werde morgen kommen."],
+          ["du", "wirst", "Du wirst das schaffen."],
+          ["er/sie/es", "wird", "Es wird regnen."],
+          ["wir", "werden", "Wir werden zusammen lernen."],
+          ["ihr", "werdet", "Ihr werdet es bereuen."],
+          ["sie/Sie", "werden", "Sie werden es verstehen."]
+        ]
+      },
+      "key_points": [
+        "werden + Infinitiv = Futur I",
+        "3 uses: plan, prediction, assumption (wohl)",
+        "Präsens + time is more common for near future",
+        "Nebensatz: Infinitiv before werden at end"
+      ]
+    }
+  }
+]

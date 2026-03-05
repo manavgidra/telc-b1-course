@@ -1,0 +1,403 @@
+[
+  {
+    "video_id": "FhONB3omyT4",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 4 : Wortarten and Improving Vocabulary",
+    "url": "https://www.youtube.com/watch?v=FhONB3omyT4",
+    "telc_section": "General B1",
+    "study_notes": {
+      "summary": "Session 4 covers Wortarten (parts of speech) in German and strategies for building B1-level vocabulary. Understanding word types — Nomen, Verben, Adjektive, Adverbien, Präpositionen, Konjunktionen, Pronomen, Artikel — helps learners decode unfamiliar words in context and is essential for Sprachbausteine. The session also teaches vocabulary-building techniques: word families, prefixes/suffixes, and thematic grouping.",
+      "key_concept": "German Wortarten: Nomen (nouns, always capitalized), Verben (verbs, conjugated), Adjektive (adjectives, can be declined), Adverbien (adverbs, invariable), Präpositionen (prepositions, govern case), Konjunktionen (conjunctions, affect word order), Pronomen (pronouns), Artikel (articles). Knowing the Wortart helps you predict grammar behavior.",
+      "grammar_rule": "Word formation patterns: Verb → Nomen by adding -ung (wandern → die Wanderung), Adjektiv → Nomen by adding -heit/-keit (schön → die Schönheit, freundlich → die Freundlichkeit), Nomen → Adjektiv with -lich/-ig/-isch (Freund → freundlich, Hunger → hungrig).",
+      "word_order_note": "Different Wortarten have fixed positions: Verben in position 2 (Hauptsatz) or final (Nebensatz), Adverbien follow TeKaMoLo, Adjektive before nouns need endings, Präpositionen introduce phrases.",
+      "common_mistakes": [
+        "Not capitalizing Nomen — all German nouns are capitalized",
+        "Confusing Adjektive and Adverbien — Adjektive change form before nouns, Adverbien don't",
+        "Not recognizing word families — 'freundlich', 'die Freundlichkeit', 'der Freund' are related",
+        "Ignoring prefixes: ver-, be-, ent-, er- change verb meaning (stehen → verstehen → bestehen)",
+        "Not learning Nomen with articles — always learn 'der Tisch', not just 'Tisch'"
+      ]
+    },
+    "vocabulary": [
+      {"de": "das Nomen", "en": "the noun", "example_de": "Im Deutschen werden alle Nomen großgeschrieben.", "example_en": "In German, all nouns are capitalized."},
+      {"de": "das Verb", "en": "the verb", "example_de": "Das Verb steht im Hauptsatz an zweiter Stelle.", "example_en": "The verb is in second position in the main clause."},
+      {"de": "das Adjektiv", "en": "the adjective", "example_de": "Adjektive vor Nomen brauchen Endungen.", "example_en": "Adjectives before nouns need endings."},
+      {"de": "die Vorsilbe", "en": "the prefix", "example_de": "Die Vorsilbe 'un-' macht das Gegenteil: glücklich → unglücklich.", "example_en": "The prefix 'un-' makes the opposite: happy → unhappy."},
+      {"de": "die Nachsilbe", "en": "the suffix", "example_de": "Die Nachsilbe '-ung' macht aus Verben Nomen.", "example_en": "The suffix '-ung' turns verbs into nouns."},
+      {"de": "die Wortfamilie", "en": "word family", "example_de": "Freund, freundlich, Freundlichkeit — das ist eine Wortfamilie.", "example_en": "Friend, friendly, friendliness — that's a word family."},
+      {"de": "der Wortschatz", "en": "vocabulary", "example_de": "Für B1 braucht man einen guten Wortschatz.", "example_en": "For B1, you need good vocabulary."},
+      {"de": "die Bedeutung", "en": "meaning", "example_de": "Was ist die Bedeutung dieses Wortes?", "example_en": "What is the meaning of this word?"}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Verb → Nomen with -ung", "structure": "Verb stem + -ung (always feminine: die)", "example_de": "wandern → die Wanderung, wohnen → die Wohnung, erfahren → die Erfahrung", "example_en": "to hike → the hike, to live → the apartment, to experience → the experience", "telc_relevance": "-ung nouns appear constantly in Lesen and Sprachbausteine texts"},
+      {"pattern": "Adjektiv → Nomen with -heit/-keit", "structure": "Adj + -heit (short adj) or -keit (adj ending in -lich/-ig)", "example_de": "krank → die Krankheit, möglich → die Möglichkeit", "example_en": "sick → illness, possible → possibility", "telc_relevance": "Recognizing these patterns helps decode unknown words in Lesen"},
+      {"pattern": "un- prefix (negation)", "structure": "un- + Adjektiv/Nomen = opposite meaning", "example_de": "zufrieden → unzufrieden, möglich → unmöglich", "example_en": "satisfied → dissatisfied, possible → impossible", "telc_relevance": "un- words are common distractors in Lesen MCQ — watch for negation"},
+      {"pattern": "Verb prefixes changing meaning", "structure": "ver-/be-/ent-/er- + Verb stem = new meaning", "example_de": "stehen → verstehen (understand), bestehen (pass/exist), entstehen (emerge)", "example_en": "stand → understand, pass/exist, emerge", "telc_relevance": "Prefix verbs tested in Sprachbausteine and important for Lesen comprehension"}
+    ],
+    "flashcards": [
+      {"front": "What suffix turns a verb into a feminine noun?", "back": "-ung (die) — wandern → die Wanderung, bilden → die Bildung", "type": "grammar"},
+      {"front": "What suffixes turn adjectives into nouns?", "back": "-heit (die) for short adjectives, -keit (die) for -lich/-ig adjectives", "type": "grammar"},
+      {"front": "die Vorsilbe", "back": "the prefix — changes the meaning of a word: un+möglich = unmöglich", "type": "vocabulary"},
+      {"front": "die Nachsilbe", "back": "the suffix — changes the word type: wandern + -ung = die Wanderung", "type": "vocabulary"},
+      {"front": "What does the prefix 'un-' do?", "back": "Creates the opposite: zufrieden → unzufrieden, glücklich → unglücklich", "type": "grammar"},
+      {"front": "Name 3 words in the 'Freund' word family", "back": "der Freund, freundlich, die Freundlichkeit, die Freundschaft, befreundet, anfreunden", "type": "vocabulary"},
+      {"front": "der Wortschatz", "back": "vocabulary — Für B1 braucht man ca. 2400 Wörter.", "type": "vocabulary"},
+      {"front": "stehen → verstehen → bestehen → entstehen", "back": "stand → understand → pass/exist → emerge — prefix changes meaning completely", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Die __________ dieser Stadt ist sehr interessant. (erfahren → Nomen)", "en": "The experience of this city is very interesting.", "hint": "Erfahrung (-ung suffix, die)"},
+      {"de": "Er ist sehr __________. Er hilft jedem. (Freund → Adjektiv)", "en": "He is very friendly. He helps everyone.", "hint": "freundlich (-lich suffix)"},
+      {"de": "Die __________ der Prüfung war hoch. (schwierig → Nomen)", "en": "The difficulty of the exam was high.", "hint": "Schwierigkeit (-keit suffix for -ig adjectives)"},
+      {"de": "Das Ergebnis war leider __________. (zufrieden → Gegenteil)", "en": "The result was unfortunately unsatisfactory.", "hint": "unbefriedigend / unzufriedenstellend (un- prefix)"},
+      {"de": "Ich kann den Text nicht __________. (stehen → with ver-)", "en": "I cannot understand the text.", "hint": "verstehen (ver- prefix changes meaning)"}
+    ],
+    "exam_tips": [
+      {"tip": "When you encounter an unknown word in Lesen, break it into parts: prefix + root + suffix. This helps you guess the meaning from familiar components.", "telc_section": "Lesen"},
+      {"tip": "Learn vocabulary in word families, not individual words. If you know 'arbeiten', learn also: die Arbeit, der Arbeiter, arbeitslos, die Arbeitslosigkeit.", "telc_section": "General B1"},
+      {"tip": "In Sprachbausteine, knowing the Wortart of the blank helps you eliminate options. If the blank needs a noun (preceded by article), you can immediately eliminate verb/adjective options.", "telc_section": "Sprachbausteine"},
+      {"tip": "For Schreiben, using word family variations makes your text richer: instead of repeating 'helfen', use also 'die Hilfe', 'hilfreich', 'behilflich'.", "telc_section": "Schreiben"}
+    ],
+    "visual_summary": {
+      "title": "German Word Formation Patterns",
+      "table": {
+        "headers": ["Pattern", "Suffix/Prefix", "Gender", "Example"],
+        "rows": [
+          ["Verb → Nomen", "-ung", "die (fem.)", "wandern → die Wanderung"],
+          ["Adj → Nomen", "-heit", "die (fem.)", "krank → die Krankheit"],
+          ["Adj (-lich/-ig) → Nomen", "-keit", "die (fem.)", "möglich → die Möglichkeit"],
+          ["Nomen → Adj", "-lich / -ig / -isch", "—", "Freund → freundlich"],
+          ["Negation", "un-", "—", "zufrieden → unzufrieden"],
+          ["Verb prefix", "ver-/be-/ent-/er-", "—", "stehen → verstehen"]
+        ]
+      },
+      "key_points": [
+        "-ung nouns are ALWAYS feminine (die)",
+        "-heit/-keit nouns are ALWAYS feminine (die)",
+        "un- prefix = opposite meaning (works for adjectives and some nouns)",
+        "Learn words in families to multiply your vocabulary quickly"
+      ]
+    }
+  },
+  {
+    "video_id": "BsZelDGTvW8",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 3 : Relativsätze",
+    "url": "https://www.youtube.com/watch?v=BsZelDGTvW8",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Session 3 covers Relativsätze (relative clauses) — subordinate clauses that describe or specify a noun using Relativpronomen (der, die, das, etc.). The relative pronoun's gender/number matches the noun it refers to, but its CASE depends on its function in the relative clause. The verb goes to the end. This is a core B1 grammar topic tested in Sprachbausteine and essential for complex sentence building.",
+      "key_concept": "A Relativsatz adds information about a noun. The Relativpronomen agrees with the noun in gender and number but takes the case required by its role in the relative clause. If it's the subject → Nominativ, direct object → Akkusativ, indirect object → Dativ, after a preposition → case required by that preposition.",
+      "grammar_rule": "Relativpronomen: Nom: der/die/das/die(pl); Akk: den/die/das/die; Dat: dem/der/dem/denen; Gen: dessen/deren/dessen/deren. After prepositions: preposition + Relativpronomen in required case. Verb position: LAST in the relative clause.",
+      "word_order_note": "Relativsatz word order: Noun, Relativpronomen + (subject if different) + middle field + VERB. Example: 'Der Mann, der gestern kam, ist mein Onkel.' The relative clause is set off by commas.",
+      "common_mistakes": [
+        "Using the wrong case for the Relativpronomen — 'Der Mann, den ich kenne' (Akk, not Nom)",
+        "Forgetting to put the verb at the END of the relative clause",
+        "Missing commas around the Relativsatz",
+        "Using 'was' instead of 'das' for neuter nouns — 'was' is only for indefinite things (etwas, nichts, alles)",
+        "Confusing Dativ plural 'denen' with singular 'dem/der'"
+      ]
+    },
+    "vocabulary": [
+      {"de": "der Relativsatz", "en": "relative clause", "example_de": "Ein Relativsatz beschreibt ein Nomen genauer.", "example_en": "A relative clause describes a noun more precisely."},
+      {"de": "das Relativpronomen", "en": "relative pronoun", "example_de": "Das Relativpronomen 'der' steht im Nominativ.", "example_en": "The relative pronoun 'der' is in nominative case."},
+      {"de": "sich beziehen auf", "en": "to refer to", "example_de": "Das Pronomen bezieht sich auf das Nomen.", "example_en": "The pronoun refers to the noun."},
+      {"de": "beschreiben", "en": "to describe", "example_de": "Der Relativsatz beschreibt den Mann.", "example_en": "The relative clause describes the man."},
+      {"de": "bestimmen", "en": "to determine", "example_de": "Der Kasus wird durch die Funktion bestimmt.", "example_en": "The case is determined by the function."},
+      {"de": "verbinden", "en": "to connect", "example_de": "Relativsätze verbinden zwei Informationen.", "example_en": "Relative clauses connect two pieces of information."},
+      {"de": "das Bezugswort", "en": "the antecedent (reference word)", "example_de": "Das Bezugswort bestimmt Genus und Numerus.", "example_en": "The antecedent determines gender and number."},
+      {"de": "der Nebensatz", "en": "subordinate clause", "example_de": "Ein Relativsatz ist eine Art Nebensatz.", "example_en": "A relative clause is a type of subordinate clause."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Relativsatz im Nominativ", "structure": "Nomen, der/die/das + ... + Verb", "example_de": "Die Frau, die dort wohnt, ist meine Nachbarin.", "example_en": "The woman who lives there is my neighbor.", "telc_relevance": "Nominativ relative pronouns are most common in Lesen passages"},
+      {"pattern": "Relativsatz im Akkusativ", "structure": "Nomen, den/die/das + Subjekt + ... + Verb", "example_de": "Der Film, den ich gesehen habe, war toll.", "example_en": "The movie that I saw was great.", "telc_relevance": "Frequently tested in Sprachbausteine — which case does the pronoun need?"},
+      {"pattern": "Relativsatz im Dativ", "structure": "Nomen, dem/der/denen + Subjekt + ... + Verb", "example_de": "Der Mann, dem ich geholfen habe, war dankbar.", "example_en": "The man whom I helped was grateful.", "telc_relevance": "Dativ relative pronouns tested with helfen/danken/gehören etc."},
+      {"pattern": "Relativsatz with preposition", "structure": "Nomen, Präp. + Rel.pronomen + ... + Verb", "example_de": "Die Stadt, in der ich wohne, ist sehr schön.", "example_en": "The city in which I live is very beautiful.", "telc_relevance": "Preposition + relative pronoun is a high-frequency Sprachbausteine item"}
+    ],
+    "flashcards": [
+      {"front": "What determines the GENDER of a Relativpronomen?", "back": "The Bezugswort (antecedent noun) it refers to. Masculine noun → der/den/dem/dessen", "type": "grammar"},
+      {"front": "What determines the CASE of a Relativpronomen?", "back": "Its function in the relative clause: subject=Nom, direct object=Akk, indirect object=Dat", "type": "grammar"},
+      {"front": "Relativpronomen Akk. maskulin?", "back": "den — Der Mann, den ich kenne, ist nett.", "type": "grammar"},
+      {"front": "Relativpronomen Dat. feminin?", "back": "der — Die Frau, der ich geholfen habe, war dankbar.", "type": "grammar"},
+      {"front": "Relativpronomen Dat. plural?", "back": "denen — Die Leute, denen ich geschrieben habe, haben geantwortet.", "type": "grammar"},
+      {"front": "Where does the verb go in a Relativsatz?", "back": "At the END: Der Film, den ich gestern gesehen habe, war gut.", "type": "grammar"},
+      {"front": "When do you use 'was' instead of 'das'?", "back": "After etwas, nichts, alles, and superlatives: Das ist alles, was ich weiß.", "type": "grammar"},
+      {"front": "das Bezugswort", "back": "the antecedent — the noun that the relative pronoun refers to", "type": "vocabulary"},
+      {"front": "Die Stadt, in ___ ich wohne, ist schön. (fem.)", "back": "der (Dativ feminine, after 'in' + Dativ for location)", "type": "grammar"},
+      {"front": "Der Computer, ___ ich gekauft habe, ist schnell. (mask.)", "back": "den (Akkusativ masculine — kaufen takes Akkusativ)", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Das ist der Lehrer, __________ uns Deutsch beibringt.", "en": "That is the teacher who teaches us German.", "hint": "der (Nom. mask. — subject of relative clause)"},
+      {"de": "Die Bücher, __________ ich gelesen habe, waren sehr gut.", "en": "The books that I read were very good.", "hint": "die (Akk. plural — direct object of lesen)"},
+      {"de": "Der Freund, __________ ich das Buch gegeben habe, heißt Tom.", "en": "The friend to whom I gave the book is called Tom.", "hint": "dem (Dat. mask. — indirect object of geben)"},
+      {"de": "Die Wohnung, in __________ wir wohnen, hat drei Zimmer.", "en": "The apartment in which we live has three rooms.", "hint": "der (Dat. fem. — in + Dativ for location)"},
+      {"de": "Alles, __________ er gesagt hat, stimmt.", "en": "Everything that he said is true.", "hint": "was (after 'alles', use 'was' not 'das')"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, relative pronoun questions are very common. Step 1: Identify the Bezugswort (gender/number). Step 2: Determine the function in the relative clause (subject/object). Step 3: Choose the correct form.", "telc_section": "Sprachbausteine"},
+      {"tip": "In Lesen passages, relative clauses add extra information. Don't get lost in them — find the main clause first, then read the relative clause as additional detail.", "telc_section": "Lesen"},
+      {"tip": "For Schreiben, use relative clauses to create more complex sentences and show B1-level grammar: 'Ich habe den Kurs besucht, der sehr interessant war.'", "telc_section": "Schreiben"},
+      {"tip": "In Sprechen, relative clauses help you elaborate: 'Ich habe einen Freund, der in Berlin wohnt' sounds more fluent than two separate short sentences.", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Relativpronomen — Complete Declension Table",
+      "table": {
+        "headers": ["Case", "Maskulin", "Feminin", "Neutrum", "Plural"],
+        "rows": [
+          ["Nominativ", "der", "die", "das", "die"],
+          ["Akkusativ", "den", "die", "das", "die"],
+          ["Dativ", "dem", "der", "dem", "denen"],
+          ["Genitiv", "dessen", "deren", "dessen", "deren"]
+        ]
+      },
+      "key_points": [
+        "Gender/Number = from the Bezugswort (noun being described)",
+        "Case = from function in the relative clause",
+        "Verb goes to the END of the relative clause",
+        "After etwas/nichts/alles → use 'was' instead of 'das'",
+        "With prepositions: Präp + Relativpronomen (in der, mit dem, für die)"
+      ]
+    }
+  },
+  {
+    "video_id": "hXF6vIH-9rY",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 2 : zu + infinitiv",
+    "url": "https://www.youtube.com/watch?v=hXF6vIH-9rY",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Session 2 covers zu + Infinitiv constructions — a key B1 grammar topic. These constructions are used after certain verbs, adjectives, and nouns to express purpose, opinion, or necessity. The infinitive with 'zu' always goes to the end of the clause. With separable verbs, 'zu' is inserted between the prefix and stem (anzufangen, aufzuhören).",
+      "key_concept": "zu + Infinitiv replaces a dass-Satz when the subject is the same in both clauses. Instead of 'Ich hoffe, dass ich die Prüfung bestehe' → 'Ich hoffe, die Prüfung zu bestehen.' This makes sentences shorter and more elegant.",
+      "grammar_rule": "Structure: Hauptsatz + , + (Object/Adverb) + zu + Infinitiv. With separable verbs: prefix + zu + stem → 'anzufangen', 'aufzuhören', 'mitzubringen'. Common triggers: versuchen, hoffen, planen, anfangen, aufhören, vorhaben, versprechen; Es ist wichtig/möglich/schwierig; Ich habe die Möglichkeit/Zeit/Lust.",
+      "word_order_note": "The zu + Infinitiv phrase comes at the end, after commas. If there are objects or adverbs, they come before zu + Infinitiv: 'Ich versuche, jeden Tag Deutsch zu lernen.' NOT 'Ich versuche, zu jeden Tag Deutsch lernen.'",
+      "common_mistakes": [
+        "Forgetting 'zu' before the infinitive — 'Ich hoffe, die Prüfung zu bestehen' not 'bestehen'",
+        "Wrong placement of 'zu' with separable verbs — 'anzufangen' not 'zu anfangen'",
+        "Using zu + Infinitiv when subjects differ — then you MUST use a dass-Satz instead",
+        "Forgetting the comma before the infinitive phrase",
+        "Confusing um...zu (purpose) with just zu + Infinitiv (after verbs/adjectives)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "versuchen", "en": "to try", "example_de": "Ich versuche, pünktlich zu kommen.", "example_en": "I try to come on time."},
+      {"de": "hoffen", "en": "to hope", "example_de": "Wir hoffen, euch bald wiederzusehen.", "example_en": "We hope to see you again soon."},
+      {"de": "vorhaben", "en": "to plan, intend", "example_de": "Ich habe vor, nächstes Jahr nach Berlin zu ziehen.", "example_en": "I plan to move to Berlin next year."},
+      {"de": "aufhören", "en": "to stop", "example_de": "Er hat aufgehört, zu rauchen.", "example_en": "He stopped smoking."},
+      {"de": "anfangen", "en": "to begin", "example_de": "Sie fängt an, Deutsch zu lernen.", "example_en": "She is beginning to learn German."},
+      {"de": "versprechen", "en": "to promise", "example_de": "Ich verspreche, dir zu helfen.", "example_en": "I promise to help you."},
+      {"de": "die Möglichkeit", "en": "the opportunity/possibility", "example_de": "Ich habe die Möglichkeit, im Ausland zu arbeiten.", "example_en": "I have the opportunity to work abroad."},
+      {"de": "es ist wichtig", "en": "it is important", "example_de": "Es ist wichtig, regelmäßig zu üben.", "example_en": "It is important to practice regularly."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Verb + zu + Infinitiv", "structure": "Hauptsatz, + zu + Infinitiv (end position)", "example_de": "Ich versuche, jeden Tag zu lernen.", "example_en": "I try to study every day.", "telc_relevance": "One of the most common structures in B1 Sprachbausteine and Lesen"},
+      {"pattern": "Separable verb + zu", "structure": "Prefix + zu + Verb stem → one word", "example_de": "Er hat vor, morgen anzufangen.", "example_en": "He plans to start tomorrow.", "telc_relevance": "Tested in Sprachbausteine — recognize prefix+zu+stem as one word"},
+      {"pattern": "Es ist + Adjektiv + zu + Infinitiv", "structure": "Es ist wichtig/schwierig/möglich, ... zu + Infinitiv", "example_de": "Es ist schwierig, eine Wohnung zu finden.", "example_en": "It is difficult to find an apartment.", "telc_relevance": "Very common construction in Lesen passages and Schreiben"},
+      {"pattern": "Nomen + zu + Infinitiv", "structure": "Ich habe + die Möglichkeit/Zeit/Lust, + ... zu + Infinitiv", "example_de": "Ich habe keine Zeit, heute einzukaufen.", "example_en": "I have no time to go shopping today.", "telc_relevance": "Useful for Schreiben to express reasons and plans"}
+    ],
+    "flashcards": [
+      {"front": "How do you form zu + Infinitiv with separable verbs?", "back": "Insert 'zu' between prefix and stem: an+zu+fangen = anzufangen, mit+zu+bringen = mitzubringen", "type": "grammar"},
+      {"front": "When do you use zu + Infinitiv instead of a dass-Satz?", "back": "When the subject is the SAME in both clauses: Ich hoffe, (ich) die Prüfung zu bestehen.", "type": "grammar"},
+      {"front": "versuchen + zu", "back": "to try to — Ich versuche, mehr Sport zu treiben.", "type": "vocabulary"},
+      {"front": "vorhaben + zu", "back": "to plan/intend to — Ich habe vor, Deutsch zu lernen.", "type": "vocabulary"},
+      {"front": "Es ist wichtig, ...", "back": "It is important to... + zu + Infinitiv: Es ist wichtig, genug zu schlafen.", "type": "grammar"},
+      {"front": "aufhören + zu", "back": "to stop doing — Er hat aufgehört, zu rauchen.", "type": "vocabulary"},
+      {"front": "Where does 'zu + Infinitiv' go in the sentence?", "back": "At the END, preceded by a comma: Ich plane, nächste Woche nach München zu fahren.", "type": "grammar"},
+      {"front": "anfangen vs. beginnen + zu", "back": "Both mean 'to begin/start': Sie fängt an, zu kochen. = Sie beginnt, zu kochen.", "type": "vocabulary"},
+      {"front": "die Möglichkeit, ... zu", "back": "the opportunity/possibility to — Ich habe die Möglichkeit, im Ausland zu studieren.", "type": "vocabulary"},
+      {"front": "How do you say 'without doing something'?", "back": "ohne...zu + Infinitiv: Er ging, ohne sich zu verabschieden. (without saying goodbye)", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich versuche, jeden Tag mindestens eine Stunde Deutsch __________.", "en": "I try to study German for at least one hour every day.", "hint": "zu lernen (zu + Infinitiv at the end)"},
+      {"de": "Es ist sehr wichtig, sich gut auf die Prüfung __________.", "en": "It is very important to prepare well for the exam.", "hint": "vorzubereiten (separable: vor+zu+bereiten)"},
+      {"de": "Sie hat vor, nächsten Monat nach München __________.", "en": "She plans to move to Munich next month.", "hint": "zu ziehen (zu + Infinitiv)"},
+      {"de": "Hast du Lust, am Wochenende __________?", "en": "Do you feel like going out this weekend?", "hint": "auszugehen (separable: aus+zu+gehen)"},
+      {"de": "Er hat versprochen, mir bei den Hausaufgaben __________.", "en": "He promised to help me with the homework.", "hint": "zu helfen (zu + Infinitiv)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, look for zu + Infinitiv triggers: versuchen, hoffen, planen, vorhaben, anfangen, aufhören. If the blank follows one of these, you likely need 'zu'.", "telc_section": "Sprachbausteine"},
+      {"tip": "In Lesen, zu + Infinitiv constructions make sentences longer. Find the main verb first, then identify the infinitive phrase as additional information.", "telc_section": "Lesen"},
+      {"tip": "For Schreiben, zu + Infinitiv is perfect for expressing plans and intentions: 'Ich habe vor, am Montag zu kommen' or 'Ist es möglich, den Termin zu verschieben?'", "telc_section": "Schreiben"},
+      {"tip": "In Sprechen, use zu + Infinitiv for fluent responses: 'Es ist meiner Meinung nach wichtig, gesund zu essen und Sport zu treiben.'", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "zu + Infinitiv Constructions",
+      "table": {
+        "headers": ["Trigger Type", "Example Trigger", "Example Sentence"],
+        "rows": [
+          ["Verb", "versuchen", "Ich versuche, pünktlich zu kommen."],
+          ["Verb", "hoffen", "Wir hoffen, euch bald zu sehen."],
+          ["Verb", "anfangen", "Sie fängt an, Deutsch zu lernen."],
+          ["Adjektiv", "Es ist wichtig", "Es ist wichtig, viel zu üben."],
+          ["Adjektiv", "Es ist schwierig", "Es ist schwierig, eine Wohnung zu finden."],
+          ["Nomen", "die Möglichkeit", "Ich habe die Möglichkeit, zu reisen."],
+          ["Separable", "vorhaben", "Ich habe vor, anzufangen."]
+        ]
+      },
+      "key_points": [
+        "zu + Infinitiv goes at the END of the sentence",
+        "Separable verbs: prefix + zu + stem = ONE word (anzufangen)",
+        "Only use when same subject in both clauses; otherwise use dass-Satz",
+        "Always preceded by a comma"
+      ]
+    }
+  },
+  {
+    "video_id": "pG2Q5AW4QM0",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 1 : Zweiteilige Konnektoren",
+    "url": "https://www.youtube.com/watch?v=pG2Q5AW4QM0",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Session 1 introduces Zweiteilige Konnektoren (two-part connectors) — paired conjunctions that link two parallel ideas. Key pairs: nicht nur...sondern auch (not only...but also), entweder...oder (either...or), weder...noch (neither...nor), zwar...aber (indeed...but), sowohl...als auch (both...and), einerseits...andererseits (on the one hand...on the other). These are essential for B1 writing and speaking to show nuanced argumentation.",
+      "key_concept": "Zweiteilige Konnektoren connect two parallel elements (words, phrases, or clauses). Each part introduces one element of the pair. Word order depends on whether the connector part is in Position 0 (und/oder/aber type — no inversion) or Position 1 (adverbial — causes inversion).",
+      "grammar_rule": "nicht nur...sondern auch: Verb position unchanged. entweder...oder: 'entweder' can be Pos. 0 or Pos. 1 (with inversion). weder...noch: 'noch' causes inversion. zwar...aber: 'zwar' is in the middle field, 'aber' is Pos. 0. sowohl...als auch: connects parallel elements. einerseits...andererseits: both in Pos. 1 (inversion in both clauses).",
+      "word_order_note": "Key distinction: 'aber/oder/und/sondern' are Position 0 connectors (no effect on word order). 'zwar/einerseits/andererseits' behave as adverbs (Position 1, verb follows). 'weder...noch' — 'noch' triggers inversion: 'Weder trinke ich Kaffee, noch trinke ich Tee.'",
+      "common_mistakes": [
+        "Forgetting 'auch' after 'sondern' — 'nicht nur...sondern auch' is the complete pair",
+        "Wrong word order with 'weder...noch' — 'noch' causes inversion",
+        "Placing 'zwar' at the start — it usually goes in the middle field: 'Er ist zwar nett, aber...'",
+        "Mixing up 'entweder...oder' (choice) with 'weder...noch' (double negation)",
+        "Using 'sowohl...als auch' with a singular verb — it requires plural: 'Sowohl er als auch sie kommen.'"
+      ]
+    },
+    "vocabulary": [
+      {"de": "nicht nur...sondern auch", "en": "not only...but also", "example_de": "Er spricht nicht nur Deutsch, sondern auch Englisch.", "example_en": "He speaks not only German but also English."},
+      {"de": "entweder...oder", "en": "either...or", "example_de": "Entweder kommst du mit, oder du bleibst zu Hause.", "example_en": "Either you come along, or you stay at home."},
+      {"de": "weder...noch", "en": "neither...nor", "example_de": "Ich trinke weder Kaffee noch Tee.", "example_en": "I drink neither coffee nor tea."},
+      {"de": "zwar...aber", "en": "indeed...but / it's true that...but", "example_de": "Das Essen ist zwar teuer, aber sehr lecker.", "example_en": "The food is indeed expensive, but very delicious."},
+      {"de": "sowohl...als auch", "en": "both...and", "example_de": "Sowohl Kinder als auch Erwachsene sind willkommen.", "example_en": "Both children and adults are welcome."},
+      {"de": "einerseits...andererseits", "en": "on the one hand...on the other hand", "example_de": "Einerseits möchte ich reisen, andererseits habe ich kein Geld.", "example_en": "On the one hand I'd like to travel, on the other hand I have no money."},
+      {"de": "je...desto/umso", "en": "the more...the more", "example_de": "Je mehr man übt, desto besser wird man.", "example_en": "The more you practice, the better you get."},
+      {"de": "soweit", "en": "as far as", "example_de": "Soweit ich weiß, beginnt der Kurs morgen.", "example_en": "As far as I know, the course starts tomorrow."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "nicht nur...sondern auch", "structure": "Subject + Verb + nicht nur + A, sondern auch + B", "example_de": "Sie lernt nicht nur Deutsch, sondern auch Französisch.", "example_en": "She's learning not only German but also French.", "telc_relevance": "Very common in Sprachbausteine and useful for Schreiben/Sprechen argumentation"},
+      {"pattern": "entweder...oder", "structure": "Entweder + Verb + Subject + ..., oder + Subject + Verb (or normal order)", "example_de": "Entweder fahren wir ans Meer, oder wir bleiben zu Hause.", "example_en": "Either we go to the sea, or we stay at home.", "telc_relevance": "Tests understanding of alternative choices in Lesen and Sprachbausteine"},
+      {"pattern": "weder...noch", "structure": "Subject + Verb + weder + A + noch + B (or with inversion)", "example_de": "Er hat weder Zeit noch Geld für Urlaub.", "example_en": "He has neither time nor money for vacation.", "telc_relevance": "Double negation — frequently tested in Sprachbausteine Teil A"},
+      {"pattern": "zwar...aber", "structure": "Subject + Verb + zwar + ..., aber + ...", "example_de": "Die Arbeit ist zwar anstrengend, aber gut bezahlt.", "example_en": "The work is indeed strenuous, but well paid.", "telc_relevance": "Shows nuance — impressive in Schreiben and Sprechen Teil 2"}
+    ],
+    "flashcards": [
+      {"front": "nicht nur...sondern auch", "back": "not only...but also — Er isst nicht nur Fleisch, sondern auch Gemüse.", "type": "grammar"},
+      {"front": "entweder...oder", "back": "either...or — Entweder kommst du mit, oder du bleibst hier.", "type": "grammar"},
+      {"front": "weder...noch", "back": "neither...nor — Ich habe weder Hunger noch Durst.", "type": "grammar"},
+      {"front": "zwar...aber", "back": "indeed/true...but — Das Hotel ist zwar teuer, aber sehr schön.", "type": "grammar"},
+      {"front": "sowohl...als auch", "back": "both...and — Sowohl Kinder als auch Erwachsene können teilnehmen.", "type": "grammar"},
+      {"front": "einerseits...andererseits", "back": "on one hand...on the other — Useful for presenting two sides of an argument", "type": "grammar"},
+      {"front": "je...desto", "back": "the more...the more — Je mehr man lernt, desto besser versteht man.", "type": "grammar"},
+      {"front": "Does 'weder...noch' need a negative verb?", "back": "No! weder...noch already contains the negation. No 'nicht' or 'kein' needed.", "type": "grammar"},
+      {"front": "Word order after 'andererseits'?", "back": "Inversion (verb in pos. 2): Andererseits möchte ich auch sparen.", "type": "grammar"},
+      {"front": "Where does 'zwar' go in the sentence?", "back": "In the middle field (not at position 1): Er ist zwar müde, aber er arbeitet weiter.", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Sie spricht __________ Deutsch, __________ Englisch.", "en": "She speaks not only German, but also English.", "hint": "nicht nur...sondern auch"},
+      {"de": "__________ gehen wir ins Kino, __________ wir bleiben zu Hause.", "en": "Either we go to the cinema, or we stay at home.", "hint": "Entweder...oder"},
+      {"de": "Er hat __________ ein Auto __________ ein Fahrrad.", "en": "He has neither a car nor a bicycle.", "hint": "weder...noch"},
+      {"de": "Die Wohnung ist __________ klein, __________ sie liegt zentral.", "en": "The apartment is indeed small, but it's centrally located.", "hint": "zwar...aber"},
+      {"de": "__________ mehr du übst, __________ besser wirst du.", "en": "The more you practice, the better you get.", "hint": "Je...desto"}
+    ],
+    "exam_tips": [
+      {"tip": "Zweiteilige Konnektoren are tested in Sprachbausteine Teil A — you'll see one half and need to identify the matching partner. Memorize all pairs.", "telc_section": "Sprachbausteine"},
+      {"tip": "For Schreiben, using zwar...aber or einerseits...andererseits shows sophisticated argumentation and scores higher marks.", "telc_section": "Schreiben"},
+      {"tip": "In Sprechen Teil 2, use these connectors to present balanced opinions: 'Einerseits ist Sport gesund, andererseits hat man nicht immer Zeit dafür.'", "telc_section": "Sprechen"},
+      {"tip": "In Lesen, zweiteilige Konnektoren signal the structure of an argument. 'zwar...aber' means a concession is coming — read for the contrast.", "telc_section": "Lesen"}
+    ],
+    "visual_summary": {
+      "title": "Zweiteilige Konnektoren — Overview",
+      "table": {
+        "headers": ["Konnektor", "Meaning", "Example", "Word Order Note"],
+        "rows": [
+          ["nicht nur...sondern auch", "not only...but also", "nicht nur A, sondern auch B", "Normal order after sondern"],
+          ["entweder...oder", "either...or", "Entweder A, oder B", "entweder can cause inversion"],
+          ["weder...noch", "neither...nor", "weder A noch B", "noch can cause inversion"],
+          ["zwar...aber", "true...but", "zwar A, aber B", "zwar in middle field"],
+          ["sowohl...als auch", "both...and", "sowohl A als auch B", "Plural verb required"],
+          ["einerseits...andererseits", "on one hand...other", "Einerseits A, andererseits B", "Both cause inversion"],
+          ["je...desto/umso", "the more...the more", "Je + Komp., desto + Komp.", "Verb-final / Verb-second"]
+        ]
+      },
+      "key_points": [
+        "Always learn BOTH parts of the connector",
+        "weder...noch = double negation (no extra 'nicht' needed)",
+        "sowohl...als auch = plural verb",
+        "zwar...aber shows concession — impressive in writing and speaking"
+      ]
+    }
+  },
+  {
+    "video_id": "WGMXaRe6UKA",
+    "title": "B1 - Lesson 1 | Reflexivverben | Reflexivpronomen | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=WGMXaRe6UKA",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson introduces Reflexivverben (reflexive verbs) and Reflexivpronomen (reflexive pronouns) at B1 level. Reflexive verbs are verbs where the subject and object refer to the same person. In German, reflexive pronouns change based on person and case (Akkusativ or Dativ). Key reflexive verbs include sich freuen, sich ärgern, sich waschen, sich anziehen, sich fühlen, sich erinnern, sich entscheiden.",
+      "key_concept": "Reflexive verbs use a reflexive pronoun (sich) that refers back to the subject. Akkusativ reflexive: when the reflexive pronoun is the only object (Ich wasche mich). Dativ reflexive: when there is ALSO a direct object (Ich wasche mir die Hände). The reflexive pronoun only differs in 1st/2nd person singular: Akk. mich/dich vs. Dat. mir/dir.",
+      "grammar_rule": "Reflexivpronomen Akkusativ: mich, dich, sich, uns, euch, sich. Dativ: mir, dir, sich, uns, euch, sich. Position: After the conjugated verb in a Hauptsatz; after the subject in a Nebensatz. Example: 'Ich freue mich.' / 'weil ich mich freue.'",
+      "word_order_note": "In a Hauptsatz, the reflexive pronoun comes directly after the conjugated verb: 'Ich ziehe mich an.' In a Nebensatz, after the subject: '...weil ich mich anziehe.' In questions with inversion: 'Freust du dich?'",
+      "common_mistakes": [
+        "Forgetting the reflexive pronoun entirely: 'Ich freue' → must be 'Ich freue mich'",
+        "Using Akkusativ when Dativ is needed: 'Ich wasche mich die Hände' → 'Ich wasche mir die Hände'",
+        "Placing the reflexive pronoun in the wrong position in Nebensätze",
+        "Not knowing which verbs are ALWAYS reflexive (sich erinnern an) vs. sometimes reflexive (waschen)",
+        "Confusing 'sich' with 'mich/mir' — 'sich' is only for er/sie/es/sie(pl)/Sie"
+      ]
+    },
+    "vocabulary": [
+      {"de": "sich freuen", "en": "to be happy/glad", "example_de": "Ich freue mich auf die Ferien.", "example_en": "I'm looking forward to the holidays."},
+      {"de": "sich ärgern", "en": "to be annoyed", "example_de": "Er ärgert sich über das schlechte Wetter.", "example_en": "He's annoyed about the bad weather."},
+      {"de": "sich erinnern an", "en": "to remember", "example_de": "Ich erinnere mich an meine Kindheit.", "example_en": "I remember my childhood."},
+      {"de": "sich entscheiden für", "en": "to decide on/for", "example_de": "Sie hat sich für das rote Kleid entschieden.", "example_en": "She decided on the red dress."},
+      {"de": "sich fühlen", "en": "to feel", "example_de": "Ich fühle mich heute nicht gut.", "example_en": "I don't feel well today."},
+      {"de": "sich waschen", "en": "to wash (oneself)", "example_de": "Die Kinder waschen sich die Hände.", "example_en": "The children wash their hands."},
+      {"de": "sich anziehen", "en": "to get dressed", "example_de": "Er zieht sich schnell an.", "example_en": "He gets dressed quickly."},
+      {"de": "sich vorstellen", "en": "to introduce oneself / to imagine", "example_de": "Darf ich mich vorstellen? Ich heiße Anna.", "example_en": "May I introduce myself? My name is Anna."},
+      {"de": "sich interessieren für", "en": "to be interested in", "example_de": "Ich interessiere mich für Musik.", "example_en": "I'm interested in music."},
+      {"de": "sich treffen mit", "en": "to meet (with someone)", "example_de": "Wir treffen uns mit Freunden.", "example_en": "We're meeting with friends."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Reflexivverb + Akk. Pronomen", "structure": "Subject + Verb + mich/dich/sich/uns/euch/sich", "example_de": "Ich freue mich. Du ärgerst dich. Er fühlt sich gut.", "example_en": "I'm happy. You're annoyed. He feels good.", "telc_relevance": "Core Sprachbausteine item — choosing correct reflexive pronoun"},
+      {"pattern": "Reflexivverb + Dat. Pronomen + Akk. Objekt", "structure": "Subject + Verb + mir/dir/sich + direct object", "example_de": "Ich wasche mir die Hände. Er putzt sich die Zähne.", "example_en": "I wash my hands. He brushes his teeth.", "telc_relevance": "Dativ reflexive appears in cloze tests — look for a second object"},
+      {"pattern": "sich freuen auf + Akk. (future)", "structure": "sich freuen auf = to look forward to", "example_de": "Ich freue mich auf das Wochenende.", "example_en": "I'm looking forward to the weekend.", "telc_relevance": "Reflexive verb + preposition — common in Lesen and Sprachbausteine"},
+      {"pattern": "sich freuen über + Akk. (present/past)", "structure": "sich freuen über = to be happy about", "example_de": "Sie freut sich über das Geschenk.", "example_en": "She's happy about the gift.", "telc_relevance": "auf vs. über distinction is frequently tested"}
+    ],
+    "flashcards": [
+      {"front": "Reflexivpronomen Akkusativ: ich, du, er/sie/es", "back": "mich, dich, sich", "type": "grammar"},
+      {"front": "Reflexivpronomen Dativ: ich, du, er/sie/es", "back": "mir, dir, sich — only 1st/2nd person differ from Akkusativ!", "type": "grammar"},
+      {"front": "sich freuen auf", "back": "to look forward to (future event) — Ich freue mich auf den Urlaub.", "type": "vocabulary"},
+      {"front": "sich freuen über", "back": "to be happy about (present/past) — Ich freue mich über das Geschenk.", "type": "vocabulary"},
+      {"front": "sich ärgern über", "back": "to be annoyed about — Er ärgert sich über den Lärm.", "type": "vocabulary"},
+      {"front": "sich erinnern an + Akk.", "back": "to remember — Ich erinnere mich an dich.", "type": "vocabulary"},
+      {"front": "When do you use Dativ reflexive instead of Akkusativ?", "back": "When there's ALSO a direct object: Ich wasche mir (Dat.) die Hände (Akk. object).", "type": "grammar"},
+      {"front": "sich vorstellen (two meanings)", "back": "1. to introduce oneself: Ich stelle mich vor. 2. to imagine: Ich stelle mir das vor.", "type": "vocabulary"},
+      {"front": "sich entscheiden für", "back": "to decide on/for — Ich habe mich für den Job entschieden.", "type": "vocabulary"},
+      {"front": "Where does the reflexive pronoun go in a Nebensatz?", "back": "After the subject: ...weil ich mich darüber freue.", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich freue __________ auf die B1-Prüfung.", "en": "I'm looking forward to the B1 exam.", "hint": "mich (Akk. reflexive, 1st person)"},
+      {"de": "Er wäscht __________ die Hände vor dem Essen.", "en": "He washes his hands before eating.", "hint": "sich (Dat., because 'die Hände' is the direct object)"},
+      {"de": "Wir treffen __________ morgen um 10 Uhr.", "en": "We're meeting tomorrow at 10 o'clock.", "hint": "uns (Akk. reflexive, 1st person plural)"},
+      {"de": "Erinnerst du __________ an unseren Urlaub?", "en": "Do you remember our vacation?", "hint": "dich (Akk., sich erinnern an)"},
+      {"de": "Sie hat __________ für das Studium entschieden.", "en": "She decided on studying.", "hint": "sich (Akk., sich entscheiden für)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, reflexive pronoun blanks are common. Check: 1) Who is the subject? 2) Is there another direct object? If yes → Dativ reflexive. If no → Akkusativ.", "telc_section": "Sprachbausteine"},
+      {"tip": "For Schreiben: sich freuen auf/über is perfect for email responses: 'Ich freue mich auf Ihre Antwort' (closing) or 'Ich habe mich über Ihre Einladung gefreut' (opening).", "telc_section": "Schreiben"},
+      {"tip": "In Sprechen, reflexive verbs help express personal feelings and experiences: 'Ich interessiere mich sehr für dieses Thema, weil...'", "telc_section": "Sprechen"},
+      {"tip": "sich freuen AUF (future/coming event) vs. sich freuen ÜBER (present/past event) — this distinction is a classic TELC trap.", "telc_section": "Sprachbausteine"}
+    ],
+    "visual_summary": {
+      "title": "Reflexivpronomen — Akkusativ vs. Dativ",
+      "table": {
+        "headers": ["Person", "Akkusativ", "Dativ", "Example (Akk.)", "Example (Dat.)"],
+        "rows": [
+          ["ich", "mich", "mir", "Ich freue mich.", "Ich wasche mir die Hände."],
+          ["du", "dich", "dir", "Du ärgerst dich.", "Du wäschst dir das Gesicht."],
+          ["er/sie/es", "sich", "sich", "Er fühlt sich gut.", "Er putzt sich die Zähne."],
+          ["wir", "uns", "uns", "Wir treffen uns.", "Wir kaufen uns ein Buch."],
+          ["ihr", "euch", "euch", "Ihr freut euch.", "Ihr wascht euch die Hände."],
+          ["sie/Sie", "sich", "sich", "Sie erinnern sich.", "Sie wünschen sich ein Auto."]
+        ]
+      },
+      "key_points": [
+        "Only ich/du have different Akk./Dat. forms (mich/mir, dich/dir)",
+        "sich is the same for Akk. and Dat. (3rd person + Sie)",
+        "Dativ reflexive = when there's also a direct object in the sentence",
+        "Always learn reflexive verbs with their preposition: sich freuen auf/über"
+      ]
+    }
+  }
+]

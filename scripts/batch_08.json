@@ -1,0 +1,383 @@
+[
+  {
+    "video_id": "Bcxq7VDswKI",
+    "title": "B1 - Lesson 17 | brauchen + zu | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=Bcxq7VDswKI",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers 'brauchen + zu + Infinitiv' — a structure used as a softer alternative to 'müssen' in negative and restrictive sentences. 'Du brauchst nicht zu kommen.' (You don't need to come.) It replaces 'nicht müssen' and is used with nur/bloß for 'only need to'. This is a distinctly B1 grammar point.",
+      "key_concept": "'brauchen + zu + Infinitiv' is used instead of 'müssen' in: 1) Negative: 'Du brauchst nicht zu warten.' (= Du musst nicht warten.) 2) With nur/bloß: 'Du brauchst nur anzurufen.' (You only need to call.) It is NEVER used in positive sentences without nur/bloß — say 'Du musst lernen', NOT 'Du brauchst zu lernen'.",
+      "grammar_rule": "Structure: Subject + brauchen + nicht/nur/bloß + ... + zu + Infinitiv. 'Er braucht heute nicht zu arbeiten.' With separable verbs: zu between prefix and stem: 'Du brauchst nicht aufzustehen.' brauchen is conjugated normally: ich brauche, du brauchst, er braucht, wir brauchen...",
+      "word_order_note": "'brauchen' is in position 2, 'zu + Infinitiv' at the end. 'Du brauchst morgen nicht zur Arbeit zu gehen.' With modal verb word order in Perfekt: 'Du hast nicht zu kommen brauchen.' (rare/formal).",
+      "common_mistakes": [
+        "Using brauchen without 'zu': 'Du brauchst nicht kommen' → 'Du brauchst nicht zu kommen' (formal/written)",
+        "Using brauchen in affirmative without nur/bloß: 'Du brauchst zu lernen' → 'Du musst lernen'",
+        "Confusing brauchen (need + zu) with brauchen (need + noun): 'Ich brauche ein Buch' vs. 'Du brauchst nur zu fragen'",
+        "Wrong placement of 'nicht': 'Du brauchst zu kommen nicht' → 'Du brauchst nicht zu kommen'",
+        "In spoken German, people often drop 'zu' — but in B1 written exams, always include it"
+      ]
+    },
+    "vocabulary": [
+      {"de": "brauchen + nicht + zu", "en": "don't need to", "example_de": "Du brauchst nicht zu kommen.", "example_en": "You don't need to come."},
+      {"de": "brauchen + nur + zu", "en": "only need to", "example_de": "Du brauchst nur anzurufen.", "example_en": "You only need to call."},
+      {"de": "brauchen + kein + zu", "en": "don't need to (+ noun)", "example_de": "Du brauchst keine Angst zu haben.", "example_en": "You don't need to be afraid."},
+      {"de": "sich Sorgen machen", "en": "to worry", "example_de": "Du brauchst dir keine Sorgen zu machen.", "example_en": "You don't need to worry."},
+      {"de": "sich beeilen", "en": "to hurry", "example_de": "Du brauchst dich nicht zu beeilen.", "example_en": "You don't need to hurry."},
+      {"de": "aufstehen", "en": "to get up", "example_de": "Morgen brauchst du nicht früh aufzustehen.", "example_en": "Tomorrow you don't need to get up early."},
+      {"de": "bloß", "en": "just, only", "example_de": "Du brauchst bloß Bescheid zu sagen.", "example_en": "You just need to let me know."},
+      {"de": "sich anmelden", "en": "to register, sign up", "example_de": "Du brauchst dich nur online anzumelden.", "example_en": "You only need to register online."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "brauchen + nicht + zu + Inf.", "structure": "S + brauchen + nicht + ... + zu + Infinitiv", "example_de": "Du brauchst heute nicht einzukaufen.", "example_en": "You don't need to shop today.", "telc_relevance": "Replaces 'nicht müssen' — common in Sprachbausteine"},
+      {"pattern": "brauchen + nur/bloß + zu + Inf.", "structure": "S + brauchen + nur/bloß + ... + zu + Infinitiv", "example_de": "Sie brauchen nur dieses Formular auszufüllen.", "example_en": "You only need to fill out this form.", "telc_relevance": "Customer service language — useful for Schreiben and Hören"},
+      {"pattern": "brauchen + kein(e) + zu + Inf.", "structure": "S + brauchen + kein(e) + Nomen + zu + Verb", "example_de": "Du brauchst keine Angst zu haben.", "example_en": "You don't need to be afraid.", "telc_relevance": "Common reassurance phrase in Hören dialogues"},
+      {"pattern": "brauchen vs. müssen (negation)", "structure": "nicht brauchen zu = nicht müssen", "example_de": "Du brauchst nicht zu warten. = Du musst nicht warten.", "example_en": "You don't need to wait.", "telc_relevance": "Understanding equivalence helps in Lesen paraphrasing exercises"}
+    ],
+    "flashcards": [
+      {"front": "Du brauchst nicht zu kommen.", "back": "You don't need to come. (= Du musst nicht kommen.)", "type": "grammar"},
+      {"front": "When to use brauchen + zu?", "back": "Only with NICHT, NUR, BLOSS — never in plain affirmative!", "type": "grammar"},
+      {"front": "Du brauchst nur...", "back": "You only need to... — Du brauchst nur anzurufen. (call)", "type": "grammar"},
+      {"front": "brauchen + separable verb?", "back": "zu between prefix and stem: brauchst nicht aufzustehen / brauchst nur anzurufen", "type": "grammar"},
+      {"front": "Du brauchst keine Angst zu haben.", "back": "You don't need to be afraid. (brauchen + kein + zu + Inf.)", "type": "vocabulary"},
+      {"front": "brauchen (+ noun) vs brauchen (+ zu + Inf)", "back": "Ich brauche ein Buch. (need a thing) vs. Du brauchst nicht zu warten. (don't need to do)", "type": "grammar"},
+      {"front": "Du brauchst dich nicht zu beeilen.", "back": "You don't need to hurry. (reflexive verb with brauchen + zu)", "type": "vocabulary"},
+      {"front": "bloß", "back": "just, only — Du brauchst bloß Bescheid zu sagen.", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Du __________ morgen nicht früh __________.", "en": "You don't need to get up early tomorrow.", "hint": "brauchst ... aufzustehen (brauchen + nicht + zu + separable verb)"},
+      {"de": "Sie __________ nur dieses Formular __________.", "en": "You only need to fill out this form.", "hint": "brauchen ... auszufüllen (brauchen + nur + zu + separable verb)"},
+      {"de": "Ihr __________ keine Angst __________ haben.", "en": "You (plural) don't need to be afraid.", "hint": "braucht ... zu (brauchen + kein + zu)"},
+      {"de": "Du __________ dir keine Sorgen __________ machen.", "en": "You don't need to worry.", "hint": "brauchst ... zu (reflexive: dir + keine Sorgen)"},
+      {"de": "Man __________ __________  einen Termin __________.", "en": "You only need to make an appointment.", "hint": "braucht nur ... zu vereinbaren (brauchen + nur + zu)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, 'brauchen...zu' often appears as an alternative to 'müssen' in negation. If you see 'nicht ... zu + Inf.', brauchen is likely the answer.", "telc_section": "Sprachbausteine"},
+      {"tip": "For Schreiben, 'Sie brauchen nur...' is useful for giving instructions: 'Sie brauchen nur das Formular auszufüllen und zurückzuschicken.'", "telc_section": "Schreiben"},
+      {"tip": "Always include 'zu' in written B1 exams: 'Du brauchst nicht zu kommen' (formal/correct). Dropping 'zu' is spoken only.", "telc_section": "Sprachbausteine"}
+    ],
+    "visual_summary": {
+      "title": "brauchen + zu + Infinitiv",
+      "table": {
+        "headers": ["Pattern", "Meaning", "Example DE", "Example EN"],
+        "rows": [
+          ["brauchen + nicht + zu", "don't need to", "Du brauchst nicht zu kommen.", "You don't need to come."],
+          ["brauchen + nur + zu", "only need to", "Du brauchst nur anzurufen.", "You only need to call."],
+          ["brauchen + bloß + zu", "just need to", "Du brauchst bloß zu fragen.", "You just need to ask."],
+          ["brauchen + kein + zu", "don't need to", "Du brauchst keine Angst zu haben.", "You don't need to be afraid."]
+        ]
+      },
+      "key_points": [
+        "Only with nicht, nur, bloß, kein — NEVER plain affirmative",
+        "= nicht müssen (doesn't need to)",
+        "zu between prefix and stem for separable verbs",
+        "Always write 'zu' in B1 exams (spoken German drops it)"
+      ]
+    }
+  },
+  {
+    "video_id": "vHmPo55aqfE",
+    "title": "B1 - Lesson 18 | Genitivpräpositionen TEIL 2 | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=vHmPo55aqfE",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Part 2 of Genitivpräpositionen expands the list beyond wegen/während/trotz/statt. New prepositions covered: innerhalb (within), außerhalb (outside of), oberhalb/unterhalb (above/below), aufgrund (due to), infolge (as a result of), anlässlich (on the occasion of), mithilfe (with the help of), anhand (on the basis of).",
+      "key_concept": "Beyond the core 4 Genitivpräpositionen (wegen, während, trotz, statt), B1 introduces functional prepositions used in formal/written German: spatial (innerhalb/außerhalb/oberhalb/unterhalb), causal (aufgrund/infolge), and situational (anlässlich/mithilfe/anhand). All require Genitiv.",
+      "grammar_rule": "All these prepositions + Genitiv: innerhalb des Gebäudes (within the building), außerhalb der Stadt (outside the city), aufgrund des Wetters (due to the weather). Remember Genitiv: masc./neut. → des + -(e)s, fem./pl. → der.",
+      "word_order_note": "These can start sentences with inversion: 'Aufgrund des schlechten Wetters fällt das Spiel aus.' Or mid-sentence: 'Das Spiel fällt aufgrund des schlechten Wetters aus.'",
+      "common_mistakes": [
+        "Using Dativ instead of Genitiv: 'innerhalb dem Gebäude' → 'innerhalb des Gebäudes'",
+        "Confusing innerhalb (within) and außerhalb (outside): opposite meanings!",
+        "Forgetting -(e)s on masc./neut. nouns: 'aufgrund des Verkehr' → 'aufgrund des Verkehrs'",
+        "Mixing up aufgrund (due to) and infolge (as a result of) — similar but not identical",
+        "Using these prepositions in casual speech — they are formal and may sound stiff informally"
+      ]
+    },
+    "vocabulary": [
+      {"de": "innerhalb", "en": "within, inside", "example_de": "Bitte antworten Sie innerhalb einer Woche.", "example_en": "Please reply within one week."},
+      {"de": "außerhalb", "en": "outside of", "example_de": "Er wohnt außerhalb der Stadt.", "example_en": "He lives outside the city."},
+      {"de": "aufgrund", "en": "due to, because of", "example_de": "Aufgrund des Streiks fahren keine Züge.", "example_en": "Due to the strike, no trains are running."},
+      {"de": "infolge", "en": "as a result of", "example_de": "Infolge des Unfalls gab es einen Stau.", "example_en": "As a result of the accident, there was a traffic jam."},
+      {"de": "anlässlich", "en": "on the occasion of", "example_de": "Anlässlich des Jubiläums gibt es ein Fest.", "example_en": "On the occasion of the anniversary, there's a party."},
+      {"de": "mithilfe", "en": "with the help of", "example_de": "Mithilfe der neuen Technik spart man Zeit.", "example_en": "With the help of new technology, you save time."},
+      {"de": "anhand", "en": "on the basis of, using", "example_de": "Anhand der Beispiele können Sie das verstehen.", "example_en": "Using the examples, you can understand that."},
+      {"de": "oberhalb / unterhalb", "en": "above / below", "example_de": "Das Dorf liegt oberhalb des Sees.", "example_en": "The village lies above the lake."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "innerhalb/außerhalb + Genitiv", "structure": "innerhalb/außerhalb + des/der + Noun-(s)", "example_de": "Innerhalb der nächsten zwei Wochen / Außerhalb des Gebäudes", "example_en": "Within the next two weeks / Outside the building", "telc_relevance": "Time limits (innerhalb) common in formal letters and Lesen texts"},
+      {"pattern": "aufgrund + Genitiv", "structure": "aufgrund + des/der + Noun-(s) = because of/due to", "example_de": "Aufgrund der hohen Nachfrage sind die Preise gestiegen.", "example_en": "Due to the high demand, prices have risen.", "telc_relevance": "Formal alternative to 'wegen' — appears in Lesen and Hören news-style texts"},
+      {"pattern": "infolge + Genitiv", "structure": "infolge + des/der + Noun-(s) = as a result of", "example_de": "Infolge des Erdbebens wurden viele Häuser zerstört.", "example_en": "As a result of the earthquake, many houses were destroyed.", "telc_relevance": "Formal/news language — useful for understanding Lesen passages"},
+      {"pattern": "mithilfe/anhand + Genitiv", "structure": "mithilfe/anhand + des/der + Noun-(s)", "example_de": "Mithilfe eines Wörterbuchs kann man den Text übersetzen.", "example_en": "With the help of a dictionary, you can translate the text.", "telc_relevance": "Instruction/explanation language — common in exam task descriptions"}
+    ],
+    "flashcards": [
+      {"front": "innerhalb + Gen.", "back": "within — innerhalb der Stadt / innerhalb einer Woche", "type": "vocabulary"},
+      {"front": "außerhalb + Gen.", "back": "outside of — außerhalb der Öffnungszeiten (outside business hours)", "type": "vocabulary"},
+      {"front": "aufgrund + Gen.", "back": "due to, because of (formal 'wegen') — aufgrund des Streiks", "type": "vocabulary"},
+      {"front": "infolge + Gen.", "back": "as a result of — infolge des Unwetters", "type": "vocabulary"},
+      {"front": "anlässlich + Gen.", "back": "on the occasion of — anlässlich des Geburtstags", "type": "vocabulary"},
+      {"front": "mithilfe + Gen.", "back": "with the help of — mithilfe des Internets", "type": "vocabulary"},
+      {"front": "anhand + Gen.", "back": "on the basis of / using — anhand der Daten", "type": "vocabulary"},
+      {"front": "All Genitivpräpositionen so far?", "back": "wegen, während, trotz, statt, innerhalb, außerhalb, aufgrund, infolge, anlässlich, mithilfe, anhand, oberhalb, unterhalb", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Bitte antworten Sie __________ __________ nächsten drei Tage.", "en": "Please reply within the next three days.", "hint": "innerhalb der (Genitiv feminine plural)"},
+      {"de": "__________ des starken Regens wurde das Konzert abgesagt.", "en": "Due to the heavy rain, the concert was cancelled.", "hint": "Aufgrund (formal 'wegen')"},
+      {"de": "Er wohnt __________ der Stadt auf dem Land.", "en": "He lives outside the city in the countryside.", "hint": "außerhalb (+ Genitiv)"},
+      {"de": "__________ eines Computers kann man schneller arbeiten.", "en": "With the help of a computer, you can work faster.", "hint": "Mithilfe (+ Genitiv: eines Computers)"},
+      {"de": "__________ der Beispiele kann man die Regel leicht verstehen.", "en": "Using the examples, you can easily understand the rule.", "hint": "Anhand (+ Genitiv)"}
+    ],
+    "exam_tips": [
+      {"tip": "'Innerhalb' with time is very common in formal correspondences: 'Bitte melden Sie sich innerhalb von 14 Tagen.' Recognize this in Lesen.", "telc_section": "Lesen"},
+      {"tip": "'Aufgrund' is the formal equivalent of 'wegen'. Both appear in Lesen, but aufgrund is more common in news and official texts.", "telc_section": "Lesen"},
+      {"tip": "For Schreiben, using 'aufgrund' or 'mithilfe' shows formal register: 'Aufgrund eines Missverständnisses möchte ich...'", "telc_section": "Schreiben"}
+    ],
+    "visual_summary": {
+      "title": "Genitivpräpositionen Teil 2 — Extended List",
+      "table": {
+        "headers": ["Preposition", "Meaning", "Category", "Example"],
+        "rows": [
+          ["innerhalb", "within", "spatial/temporal", "innerhalb der Stadt"],
+          ["außerhalb", "outside of", "spatial/temporal", "außerhalb der Arbeitszeit"],
+          ["aufgrund", "due to", "causal", "aufgrund des Problems"],
+          ["infolge", "as a result of", "causal", "infolge des Unfalls"],
+          ["anlässlich", "on the occasion of", "situational", "anlässlich des Festes"],
+          ["mithilfe", "with the help of", "instrumental", "mithilfe der Technik"],
+          ["anhand", "on the basis of", "reference", "anhand der Daten"]
+        ]
+      },
+      "key_points": [
+        "All require Genitiv: des + -(e)s / der",
+        "aufgrund ≈ wegen (more formal)",
+        "innerhalb = within (time/space), außerhalb = outside",
+        "These are formal — mainly for written German and exam texts"
+      ]
+    }
+  },
+  {
+    "video_id": "sf0mZaNVpfQ",
+    "title": "B1 - Lesson 19 | Partizip I als Adjektiv | Present Participle | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=sf0mZaNVpfQ",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers Partizip I (present participle) used as an adjective. Partizip I is formed by adding -d to the infinitive: spielend (playing), laufend (running), kommend (coming). When used as an adjective before a noun, it takes regular adjective endings: 'das spielende Kind' (the playing child).",
+      "key_concept": "Partizip I = Infinitiv + d: spielen → spielend, laufen → laufend, kommen → kommend. As adjective: add adjective endings: 'ein weinendes Kind' (a crying child). Partizip I describes an ONGOING action — the noun is actively doing something. It corresponds to English '-ing' form used as adjective.",
+      "grammar_rule": "Formation: Infinitiv + d = Partizip I. As adjective: Partizip I + adjective ending. 'der schlafende Hund' (the sleeping dog), 'die kommende Woche' (the coming/next week), 'das weinende Kind' (the crying child). Adjective endings follow normal rules (strong/weak/mixed declension).",
+      "word_order_note": "Partizip I adjectives come BEFORE the noun like any other adjective: 'der ankommende Zug' (the arriving train). They can also be used as adverbs without endings: 'Sie kam lachend herein.' (She came in laughing.)",
+      "common_mistakes": [
+        "Forgetting the -d: 'das spielen Kind' → 'das spielende Kind'",
+        "Confusing Partizip I (ongoing) with Partizip II (completed): 'der kochende Mann' (man who is cooking) vs. 'das gekochte Ei' (the cooked egg)",
+        "Wrong adjective endings: 'der schlafend Hund' → 'der schlafende Hund' (weak ending with 'der')",
+        "Using Partizip I for passive meaning: 'the eaten cake' is NOT Partizip I — use Partizip II: 'der gegessene Kuchen'",
+        "Over-using Partizip I in speech — it's more common in written German"
+      ]
+    },
+    "vocabulary": [
+      {"de": "schlafend", "en": "sleeping", "example_de": "Bitte weck den schlafenden Hund nicht auf.", "example_en": "Please don't wake the sleeping dog."},
+      {"de": "kommend", "en": "coming, next", "example_de": "Die kommende Woche wird stressig.", "example_en": "The coming week will be stressful."},
+      {"de": "laufend", "en": "running, ongoing", "example_de": "Die laufenden Kosten sind zu hoch.", "example_en": "The running costs are too high."},
+      {"de": "steigend", "en": "rising, increasing", "example_de": "Die steigenden Preise sind ein Problem.", "example_en": "The rising prices are a problem."},
+      {"de": "folgend", "en": "following", "example_de": "Beantworten Sie die folgenden Fragen.", "example_en": "Answer the following questions."},
+      {"de": "wachsend", "en": "growing", "example_de": "Die wachsende Bevölkerung braucht mehr Wohnraum.", "example_en": "The growing population needs more housing."},
+      {"de": "passend", "en": "suitable, fitting", "example_de": "Wählen Sie die passende Antwort.", "example_en": "Choose the suitable answer."},
+      {"de": "fehlend", "en": "missing", "example_de": "Ergänzen Sie die fehlenden Wörter.", "example_en": "Complete the missing words."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Partizip I Formation", "structure": "Infinitiv + d = Partizip I", "example_de": "spielen → spielend, laufen → laufend, kommen → kommend", "example_en": "playing, running, coming", "telc_relevance": "Formation is straightforward — focus on correct adjective endings"},
+      {"pattern": "Partizip I as attributive adjective", "structure": "Partizip I + adjective ending + Noun", "example_de": "ein weinendes Kind / der ankommende Zug / die steigende Temperatur", "example_en": "a crying child / the arriving train / the rising temperature", "telc_relevance": "Appears in Lesen passages — recognizing Partizip I helps comprehension"},
+      {"pattern": "Partizip I vs. Partizip II as adjective", "structure": "P I = active/ongoing, P II = passive/completed", "example_de": "der kochende Mann (who cooks) vs. das gekochte Ei (that was cooked)", "example_en": "the cooking man vs. the cooked egg", "telc_relevance": "Distinguishing P I and P II is critical for Sprachbausteine"},
+      {"pattern": "Partizip I as adverb (no ending)", "structure": "Subject + Verb + Partizip I (no ending)", "example_de": "Sie kam lachend ins Zimmer.", "example_en": "She came into the room laughing.", "telc_relevance": "Common in narrative Lesen texts"}
+    ],
+    "flashcards": [
+      {"front": "How to form Partizip I?", "back": "Infinitiv + d: spielen → spielend, laufen → laufend", "type": "grammar"},
+      {"front": "das weinende Kind", "back": "the crying child (Partizip I: weinen + d + e ending)", "type": "grammar"},
+      {"front": "Partizip I vs. Partizip II?", "back": "P I = active/ongoing: der schlafende Hund (sleeping dog). P II = passive/completed: das geschlossene Fenster (closed window)", "type": "grammar"},
+      {"front": "die steigenden Preise", "back": "the rising prices (steigen → steigend + en ending)", "type": "vocabulary"},
+      {"front": "die folgenden Fragen", "back": "the following questions — common exam instruction", "type": "vocabulary"},
+      {"front": "die kommende Woche", "back": "the coming/next week (kommen → kommend + e ending)", "type": "vocabulary"},
+      {"front": "Partizip I as adverb?", "back": "No ending needed: 'Er ging lachend weg.' (He left laughing.)", "type": "grammar"},
+      {"front": "die laufenden Kosten", "back": "the running/ongoing costs", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Bitte stören Sie den __________ Hund nicht. (schlafen)", "en": "Please don't disturb the sleeping dog.", "hint": "schlafenden (Partizip I + weak ending: den + -en)"},
+      {"de": "Die __________ Preise beunruhigen die Verbraucher. (steigen)", "en": "The rising prices worry the consumers.", "hint": "steigenden (Partizip I + weak ending: Die + -en)"},
+      {"de": "Beantworten Sie die __________ Fragen. (folgen)", "en": "Answer the following questions.", "hint": "folgenden (Partizip I + weak ending)"},
+      {"de": "Er kam __________ ins Zimmer. (lachen)", "en": "He came laughing into the room.", "hint": "lachend (Partizip I as adverb — no ending)"},
+      {"de": "Die __________ Woche habe ich einen Termin. (kommen)", "en": "Next week I have an appointment.", "hint": "kommende (Partizip I + weak ending: Die + -e)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Lesen, Partizip I adjectives appear frequently in formal texts. Recognize them by the -end pattern to understand what's happening.", "telc_section": "Lesen"},
+      {"tip": "In exam instructions themselves: 'die folgenden Fragen', 'die passende Antwort', 'die fehlenden Wörter' — these are all Partizip I adjectives!", "telc_section": "General B1"},
+      {"tip": "For Sprachbausteine, distinguish: Partizip I = -end (active, ongoing) vs. Partizip II = ge-...-t/-en (passive, completed).", "telc_section": "Sprachbausteine"}
+    ],
+    "visual_summary": {
+      "title": "Partizip I als Adjektiv",
+      "table": {
+        "headers": ["Infinitiv", "Partizip I", "As Adjective", "Meaning"],
+        "rows": [
+          ["spielen", "spielend", "das spielende Kind", "the playing child"],
+          ["schlafen", "schlafend", "der schlafende Hund", "the sleeping dog"],
+          ["steigen", "steigend", "die steigenden Preise", "the rising prices"],
+          ["folgen", "folgend", "die folgenden Fragen", "the following questions"],
+          ["kommen", "kommend", "die kommende Woche", "the coming week"]
+        ]
+      },
+      "key_points": [
+        "Partizip I = Infinitiv + d (spielend, laufend)",
+        "Add adjective endings when before a noun",
+        "Active/ongoing meaning: -ing in English",
+        "No ending when used as adverb: Er ging lachend."
+      ]
+    }
+  },
+  {
+    "video_id": "KP5gxUqb9nE",
+    "title": "B1 - Lesson 20 | Partizip II als Adjektiv | Past Participle | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=KP5gxUqb9nE",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers Partizip II (past participle) used as an adjective. Unlike Partizip I (active/ongoing), Partizip II as adjective has a passive/completed meaning. 'das geöffnete Fenster' (the opened window), 'der verletzte Spieler' (the injured player). Partizip II is formed with ge-...-t (weak) or ge-...-en (strong).",
+      "key_concept": "Partizip II as adjective = completed/passive action. Formation: weak verbs ge-...-t (gemacht, gekauft), strong verbs ge-...-en (geschrieben, gefahren), mixed verbs ge-...-t (gebracht, gedacht). Add adjective endings: 'das geschriebene Buch' (the written book). Contrast with Partizip I: 'der kochende Mann' (cooking) vs. 'das gekochte Ei' (cooked).",
+      "grammar_rule": "Partizip II + adjective ending + Noun. 'der gebrochene Arm' (the broken arm), 'die geschlossene Tür' (the closed door), 'ein verletztes Kind' (an injured child). Adjective endings follow the same rules as any adjective (weak/strong/mixed declension). The Partizip II form is the same as in Perfekt.",
+      "word_order_note": "Partizip II adjectives go before the noun like any attributive adjective: 'Das reparierte Auto fährt wieder.' (The repaired car runs again.) Multiple adjectives: 'das frisch gebackene Brot' (the freshly baked bread).",
+      "common_mistakes": [
+        "Confusing Partizip I (active) and Partizip II (passive): 'der kochende Mann' (cooking) vs. 'das gekochte Ei' (cooked)",
+        "Wrong Partizip II form: strong verbs need ge-...-en: 'geschreibt' → 'geschrieben'",
+        "Forgetting adjective endings: 'das geschlossen Fenster' → 'das geschlossene Fenster'",
+        "Using Partizip II for active ongoing: 'the running dog' is NOT 'der gerannte Hund' — use Partizip I: 'der rennende Hund'",
+        "Inseparable verbs: no 'ge-': 'das bestellte Essen' (not 'gebestellte')"
+      ]
+    },
+    "vocabulary": [
+      {"de": "geschlossen", "en": "closed", "example_de": "Die geschlossene Tür blockiert den Weg.", "example_en": "The closed door blocks the way."},
+      {"de": "geöffnet", "en": "opened", "example_de": "Gehen Sie durch die geöffnete Tür.", "example_en": "Go through the opened door."},
+      {"de": "verletzt", "en": "injured", "example_de": "Der verletzte Spieler musste ins Krankenhaus.", "example_en": "The injured player had to go to the hospital."},
+      {"de": "gebrochen", "en": "broken", "example_de": "Er hat einen gebrochenen Arm.", "example_en": "He has a broken arm."},
+      {"de": "geschrieben", "en": "written", "example_de": "Der geschriebene Text war sehr lang.", "example_en": "The written text was very long."},
+      {"de": "gekocht", "en": "cooked, boiled", "example_de": "Möchtest du ein gekochtes Ei?", "example_en": "Would you like a boiled egg?"},
+      {"de": "bestellt", "en": "ordered", "example_de": "Das bestellte Paket ist angekommen.", "example_en": "The ordered package has arrived."},
+      {"de": "empfohlen", "en": "recommended", "example_de": "Das empfohlene Restaurant war ausgezeichnet.", "example_en": "The recommended restaurant was excellent."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Partizip II as attributive adjective", "structure": "Partizip II + adjective ending + Noun", "example_de": "das reparierte Auto / ein geschlossenes Geschäft", "example_en": "the repaired car / a closed shop", "telc_relevance": "Appears frequently in Lesen descriptions — recognizing Partizip II is essential"},
+      {"pattern": "Partizip I vs. Partizip II contrast", "structure": "P I = doing (active) / P II = done (passive)", "example_de": "der schlafende Hund (sleeping) / der gefundene Hund (found)", "example_en": "the sleeping dog / the found dog", "telc_relevance": "Classic Sprachbausteine choice: which participle fits?"},
+      {"pattern": "Inseparable verbs → no ge-", "structure": "be-/ver-/er-/ent-/emp- verbs: no ge-", "example_de": "das bestellte Essen / die verletzte Person", "example_en": "the ordered food / the injured person", "telc_relevance": "Don't add 'ge-' to inseparable prefix verbs"},
+      {"pattern": "Partizip II with adverb", "structure": "Adverb + Partizip II + Adj.ending + Noun", "example_de": "das frisch gebackene Brot / ein gut bezahlter Job", "example_en": "the freshly baked bread / a well-paid job", "telc_relevance": "Adverb + Partizip II combinations appear in Lesen and are tested in Sprachbausteine"}
+    ],
+    "flashcards": [
+      {"front": "Partizip II as adjective — meaning?", "back": "Completed/passive: das geschlossene Fenster (the closed window = it was closed)", "type": "grammar"},
+      {"front": "der verletzte Spieler", "back": "the injured player (verletzen → verletzt + e ending)", "type": "vocabulary"},
+      {"front": "Partizip I vs. II: der kochende Mann / das gekochte Ei", "back": "P I: the man who IS cooking (active). P II: the egg that WAS cooked (passive/completed)", "type": "grammar"},
+      {"front": "Inseparable verbs — Partizip II as adjective?", "back": "No ge-: bestellt (not gebestellt), verletzt, empfohlen, verstanden", "type": "grammar"},
+      {"front": "ein gut bezahlter Job", "back": "a well-paid job (adverb + Partizip II + adjective ending)", "type": "vocabulary"},
+      {"front": "das frisch gebackene Brot", "back": "the freshly baked bread (adverb + Partizip II)", "type": "vocabulary"},
+      {"front": "die geschlossene Tür", "back": "the closed door (schließen → geschlossen + e ending)", "type": "vocabulary"},
+      {"front": "geöffnet vs. geschlossen", "back": "opened vs. closed — common opposites as Partizip II adjectives", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Das __________ Fenster lässt kalte Luft herein. (öffnen)", "en": "The opened window lets cold air in.", "hint": "geöffnete (Partizip II + weak adjective ending)"},
+      {"de": "Der __________ Brief lag auf dem Tisch. (schreiben)", "en": "The written letter was on the table.", "hint": "geschriebene (strong verb: geschrieben + e)"},
+      {"de": "Das __________ Essen schmeckt wunderbar. (kochen)", "en": "The cooked food tastes wonderful.", "hint": "gekochte (weak verb: gekocht + e)"},
+      {"de": "Der __________ Spieler muss drei Wochen pausieren. (verletzen)", "en": "The injured player has to take a three-week break.", "hint": "verletzte (inseparable → no ge-: verletzt + e)"},
+      {"de": "Möchten Sie ein frisch __________ Brötchen? (backen)", "en": "Would you like a freshly baked roll?", "hint": "gebackenes (strong P II: gebacken + es for ein + neut.)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Lesen, Partizip II adjectives describe states: 'die geschlossene Filiale' (the closed branch), 'der verletzte Patient' (the injured patient). Recognize them to understand the text.", "telc_section": "Lesen"},
+      {"tip": "For Sprachbausteine, if the blank needs an adjective describing a completed state, use Partizip II: 'das ___ Fenster' → geschlossene / geöffnete / gebrochene.", "telc_section": "Sprachbausteine"},
+      {"tip": "Common exam vocabulary: die empfohlene Antwort, das bestellte Produkt, die gewünschte Information — all Partizip II adjectives.", "telc_section": "Lesen"}
+    ],
+    "visual_summary": {
+      "title": "Partizip II als Adjektiv",
+      "table": {
+        "headers": ["Infinitiv", "Partizip II", "As Adjective", "Meaning"],
+        "rows": [
+          ["schließen", "geschlossen", "die geschlossene Tür", "the closed door"],
+          ["verletzen", "verletzt", "der verletzte Mann", "the injured man"],
+          ["kochen", "gekocht", "das gekochte Ei", "the boiled egg"],
+          ["schreiben", "geschrieben", "der geschriebene Brief", "the written letter"],
+          ["bestellen", "bestellt", "das bestellte Paket", "the ordered package"]
+        ]
+      },
+      "key_points": [
+        "Partizip II adjective = passive/completed meaning",
+        "Same form as in Perfekt: geschrieben, gemacht, verletzt",
+        "Add normal adjective endings",
+        "Inseparable verbs: NO ge- (bestellt, verletzt, empfohlen)"
+      ]
+    }
+  },
+  {
+    "video_id": "E5zWj0NGo4A",
+    "title": "B1 - Lesson 21 | Zustandspassiv | Statal Passive | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=E5zWj0NGo4A",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "The Zustandspassiv (statal passive) describes a STATE that results from an action, using 'sein + Partizip II'. 'Die Tür ist geschlossen.' (The door IS closed — it's a state.) Unlike Vorgangspassiv with 'werden' (action happening), Zustandspassiv with 'sein' describes the result. This distinction is important for B1.",
+      "key_concept": "Zustandspassiv = sein + Partizip II. Describes a RESULT/STATE. 'Das Fenster ist geöffnet.' (The window is open — result.) vs. Vorgangspassiv = werden + Partizip II. Describes a PROCESS/ACTION. 'Das Fenster wird geöffnet.' (The window is being opened — action.)",
+      "grammar_rule": "Formation: Subject + sein (conjugated) + Partizip II. Present: 'Die Tür ist geschlossen.' Past: 'Die Tür war geschlossen.' The subject is the thing in the state. No agent (von + Dativ) is typically used — we focus on the state, not who caused it.",
+      "word_order_note": "sein is in position 2, Partizip II at the end: 'Das Geschäft ist heute geschlossen.' In Nebensatz: '...weil das Geschäft geschlossen ist.' Past: 'Das Geschäft war gestern geschlossen.'",
+      "common_mistakes": [
+        "Confusing Zustandspassiv (sein) with Vorgangspassiv (werden): 'Die Tür ist geschlossen' (state) vs. 'Die Tür wird geschlossen' (action)",
+        "Confusing Zustandspassiv with Perfekt: 'Er ist gefahren' (Perfekt with sein) vs. 'Das Auto ist repariert' (Zustandspassiv)",
+        "Using 'von + agent' with Zustandspassiv: focus is on the state, not the doer",
+        "Not recognizing Zustandspassiv because it looks like Perfekt with sein-verbs",
+        "Wrong tense: Past Zustandspassiv uses 'war', not 'wurde': 'Die Tür war geschlossen' (state) vs. 'Die Tür wurde geschlossen' (action)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "geschlossen sein", "en": "to be closed", "example_de": "Der Laden ist heute geschlossen.", "example_en": "The shop is closed today."},
+      {"de": "geöffnet sein", "en": "to be open(ed)", "example_de": "Die Bibliothek ist ab 9 Uhr geöffnet.", "example_en": "The library is open from 9 o'clock."},
+      {"de": "repariert sein", "en": "to be repaired", "example_de": "Das Auto ist endlich repariert.", "example_en": "The car is finally repaired."},
+      {"de": "besetzt sein", "en": "to be occupied", "example_de": "Alle Plätze sind besetzt.", "example_en": "All seats are occupied."},
+      {"de": "vorbereitet sein", "en": "to be prepared", "example_de": "Das Essen ist schon vorbereitet.", "example_en": "The food is already prepared."},
+      {"de": "verboten sein", "en": "to be forbidden", "example_de": "Das Rauchen ist hier verboten.", "example_en": "Smoking is forbidden here."},
+      {"de": "erlaubt sein", "en": "to be allowed", "example_de": "Handys sind im Unterricht nicht erlaubt.", "example_en": "Phones are not allowed in class."},
+      {"de": "beschädigt sein", "en": "to be damaged", "example_de": "Das Paket war beschädigt.", "example_en": "The package was damaged."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Zustandspassiv Präsens", "structure": "Subject + ist/sind + Partizip II", "example_de": "Die Tür ist geschlossen. / Die Fenster sind geöffnet.", "example_en": "The door is closed. / The windows are open.", "telc_relevance": "Very common in everyday descriptions — frequent in Lesen and Hören"},
+      {"pattern": "Zustandspassiv Präteritum", "structure": "Subject + war/waren + Partizip II", "example_de": "Die Tür war geschlossen, als ich ankam.", "example_en": "The door was closed when I arrived.", "telc_relevance": "Past descriptions in Lesen narrative texts"},
+      {"pattern": "Zustandspassiv vs. Vorgangspassiv", "structure": "sein + P II (state) vs. werden + P II (action)", "example_de": "Die Tür ist geschlossen. (state) / Die Tür wird geschlossen. (being closed)", "example_en": "The door is closed. / The door is being closed.", "telc_relevance": "Classic Sprachbausteine choice: sein or werden?"},
+      {"pattern": "Common fixed Zustandspassiv expressions", "structure": "verboten/erlaubt/besetzt/geöffnet/geschlossen + sein", "example_de": "Rauchen ist verboten. / Der Platz ist besetzt.", "example_en": "Smoking is forbidden. / The seat is taken.", "telc_relevance": "Signs and rules — very practical for B1 real-life scenarios"}
+    ],
+    "flashcards": [
+      {"front": "Zustandspassiv — formation?", "back": "sein + Partizip II: Die Tür ist geschlossen. (state/result)", "type": "grammar"},
+      {"front": "Zustandspassiv vs. Vorgangspassiv?", "back": "sein + P II = state: ist geschlossen (IS closed). werden + P II = action: wird geschlossen (IS BEING closed)", "type": "grammar"},
+      {"front": "Die Tür ist geschlossen.", "back": "The door is closed. (Zustandspassiv — state, not action)", "type": "grammar"},
+      {"front": "Die Tür wird geschlossen.", "back": "The door is being closed. (Vorgangspassiv — action happening now)", "type": "grammar"},
+      {"front": "Past Zustandspassiv?", "back": "war + Partizip II: Die Tür war geschlossen. (The door was closed.)", "type": "grammar"},
+      {"front": "Rauchen ist verboten.", "back": "Smoking is forbidden. (Zustandspassiv — state/rule)", "type": "vocabulary"},
+      {"front": "Alle Plätze sind besetzt.", "back": "All seats are taken/occupied. (Zustandspassiv)", "type": "vocabulary"},
+      {"front": "Zustandspassiv vs. Perfekt with sein?", "back": "Zustandspassiv: Das Auto ist repariert. (state). Perfekt: Er ist gefahren. (he drove — intransitive verb)", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Der Laden __________ heute __________. (schließen — state)", "en": "The shop is closed today.", "hint": "ist geschlossen (Zustandspassiv: sein + P II)"},
+      {"de": "Die Fenster __________ schon __________. (öffnen — state)", "en": "The windows are already open.", "hint": "sind geöffnet (plural → sind)"},
+      {"de": "Handys __________ im Unterricht nicht __________. (erlauben — state)", "en": "Phones are not allowed in class.", "hint": "sind ... erlaubt (Zustandspassiv: sein + P II)"},
+      {"de": "Als ich ankam, __________ die Tür schon __________. (schließen — past state)", "en": "When I arrived, the door was already closed.", "hint": "war ... geschlossen (past Zustandspassiv: war + P II)"},
+      {"de": "Das Essen __________ schon __________. Wir können essen. (vorbereiten — state)", "en": "The food is already prepared. We can eat.", "hint": "ist ... vorbereitet (Zustandspassiv: result state)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, the choice between 'ist' and 'wird' determines Zustands- vs. Vorgangspassiv. Read the context: ongoing action = wird, existing state = ist.", "telc_section": "Sprachbausteine"},
+      {"tip": "In Lesen, signs and notices use Zustandspassiv: 'Geschlossen', 'Besetzt', 'Verboten' — all describe states.", "telc_section": "Lesen"},
+      {"tip": "For Hören, 'Der Platz ist besetzt' and 'Das Geschäft ist geschlossen' are common phrases — recognize them instantly.", "telc_section": "Hören"},
+      {"tip": "In Schreiben complaints: 'Das Paket war beschädigt, als es ankam.' — past Zustandspassiv for describing what you received.", "telc_section": "Schreiben"}
+    ],
+    "visual_summary": {
+      "title": "Zustandspassiv (sein + Partizip II)",
+      "table": {
+        "headers": ["Type", "Formation", "Example", "Meaning"],
+        "rows": [
+          ["Zustandspassiv Präsens", "ist/sind + P II", "Die Tür ist geschlossen.", "The door IS closed (state)"],
+          ["Zustandspassiv Prät.", "war/waren + P II", "Die Tür war geschlossen.", "The door WAS closed (state)"],
+          ["Vorgangspassiv Präsens", "wird/werden + P II", "Die Tür wird geschlossen.", "The door IS BEING closed (action)"],
+          ["Vorgangspassiv Prät.", "wurde/wurden + P II", "Die Tür wurde geschlossen.", "The door WAS closed (action)"]
+        ]
+      },
+      "key_points": [
+        "sein + P II = state/result (Zustandspassiv)",
+        "werden + P II = action/process (Vorgangspassiv)",
+        "Past: war (state) vs. wurde (action)",
+        "Common: geschlossen, geöffnet, besetzt, verboten, erlaubt"
+      ]
+    }
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "video_id": "yhQNtZG526c",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 14 : Verben mit Präpositionen, Nomen-Verb-Verbindungen",
+    "url": "https://www.youtube.com/watch?v=yhQNtZG526c",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This session covers Verben mit Präpositionen (verbs with fixed prepositions) and Nomen-Verb-Verbindungen (noun-verb combinations). These are essential for the Sprachbausteine section where you must choose correct prepositions.",
+      "key_concept": "Many German verbs require specific prepositions that must be memorized: warten auf (+ Akk), sich freuen auf/über, denken an, sich interessieren für, abhängen von, etc.",
+      "grammar_rule": "The preposition determines the case: auf/über/für → usually Akkusativ; mit/von/nach/aus → always Dativ. Some prepositions (an, in, auf) can be both depending on the verb.",
+      "word_order_note": "The prepositional phrase usually follows the verb: 'Ich warte auf den Bus.' For emphasis, it can come first: 'Auf den Bus warte ich schon lange.'",
+      "common_mistakes": [
+        "Using the wrong preposition (e.g., 'warten für' instead of 'warten auf')",
+        "Wrong case after the preposition (e.g., Dativ instead of Akkusativ)",
+        "Confusing sich freuen auf (looking forward to) vs. sich freuen über (happy about)",
+        "Forgetting the preposition entirely in spoken German",
+        "Not knowing Nomen-Verb-Verbindungen (e.g., 'eine Frage stellen' not 'eine Frage fragen')"
+      ]
+    },
+    "vocabulary": [
+      {"de": "warten auf + Akk", "en": "to wait for", "example_de": "Ich warte auf den Bus.", "example_en": "I am waiting for the bus."},
+      {"de": "sich freuen auf + Akk", "en": "to look forward to", "example_de": "Ich freue mich auf die Ferien.", "example_en": "I am looking forward to the holidays."},
+      {"de": "sich freuen über + Akk", "en": "to be happy about", "example_de": "Ich freue mich über das Geschenk.", "example_en": "I am happy about the gift."},
+      {"de": "denken an + Akk", "en": "to think of/about", "example_de": "Ich denke oft an meine Familie.", "example_en": "I often think about my family."},
+      {"de": "sich interessieren für + Akk", "en": "to be interested in", "example_de": "Er interessiert sich für Musik.", "example_en": "He is interested in music."},
+      {"de": "abhängen von + Dat", "en": "to depend on", "example_de": "Das hängt vom Wetter ab.", "example_en": "That depends on the weather."},
+      {"de": "sich beschäftigen mit + Dat", "en": "to deal with/work on", "example_de": "Sie beschäftigt sich mit dem Projekt.", "example_en": "She is working on the project."},
+      {"de": "teilnehmen an + Dat", "en": "to participate in", "example_de": "Ich nehme am Deutschkurs teil.", "example_en": "I participate in the German course."},
+      {"de": "eine Frage stellen", "en": "to ask a question (NVV)", "example_de": "Darf ich Ihnen eine Frage stellen?", "example_en": "May I ask you a question?"},
+      {"de": "eine Entscheidung treffen", "en": "to make a decision (NVV)", "example_de": "Wir müssen eine Entscheidung treffen.", "example_en": "We have to make a decision."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Verb + auf + Akkusativ", "structure": "Subjekt + Verb + auf + Akk-Objekt", "example_de": "Ich warte auf meinen Freund.", "example_en": "I am waiting for my friend.", "telc_relevance": "Frequently tested in Sprachbausteine — choose the correct preposition"},
+      {"pattern": "sich freuen auf vs. über", "structure": "auf + Akk (future) / über + Akk (past/present)", "example_de": "Ich freue mich auf den Urlaub. / Ich freue mich über die gute Note.", "example_en": "I look forward to the vacation. / I am happy about the good grade.", "telc_relevance": "Classic TELC trick question — auf (future joy) vs. über (current joy)"},
+      {"pattern": "Nomen-Verb-Verbindung", "structure": "bestimmtes Nomen + bestimmtes Verb", "example_de": "Er hat einen Fehler gemacht. (NOT 'einen Fehler getan')", "example_en": "He made a mistake.", "telc_relevance": "Tested in Sprachbausteine Teil B — word bank cloze"},
+      {"pattern": "Verb + von + Dativ", "structure": "Subjekt + Verb + von + Dat-Objekt", "example_de": "Das Ergebnis hängt von der Vorbereitung ab.", "example_en": "The result depends on the preparation.", "telc_relevance": "von always takes Dativ — tested in preposition cloze"}
+    ],
+    "flashcards": [
+      {"front": "warten ___", "back": "warten auf + Akkusativ (to wait for)", "type": "grammar"},
+      {"front": "sich freuen ___ (future event)", "back": "sich freuen auf + Akk (looking forward to)", "type": "grammar"},
+      {"front": "sich freuen ___ (something that happened)", "back": "sich freuen über + Akk (happy about)", "type": "grammar"},
+      {"front": "denken ___", "back": "denken an + Akkusativ (to think about)", "type": "grammar"},
+      {"front": "abhängen ___", "back": "abhängen von + Dativ (to depend on)", "type": "grammar"},
+      {"front": "teilnehmen ___", "back": "teilnehmen an + Dativ (to participate in)", "type": "grammar"},
+      {"front": "sich interessieren ___", "back": "sich interessieren für + Akkusativ (to be interested in)", "type": "grammar"},
+      {"front": "eine Entscheidung ___", "back": "eine Entscheidung treffen (to make a decision) — NVV", "type": "vocabulary"},
+      {"front": "eine Frage ___", "back": "eine Frage stellen (to ask a question) — NVV", "type": "vocabulary"},
+      {"front": "Rücksicht ___ nehmen", "back": "Rücksicht auf + Akk nehmen (to show consideration for)", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich freue mich schon sehr auf unseren gemeinsamen Urlaub in Italien!", "en": "I am really looking forward to our vacation together in Italy!", "hint": "auf + Akk for future joy"},
+      {"de": "Das Ergebnis der Prüfung hängt stark von deiner Vorbereitung ab.", "en": "The exam result strongly depends on your preparation.", "hint": "abhängen von + Dativ (separable verb)"},
+      {"de": "Darf ich Sie bitten, an der Umfrage teilzunehmen?", "en": "May I ask you to participate in the survey?", "hint": "teilnehmen an + Dat"},
+      {"de": "Wir müssen bald eine wichtige Entscheidung über unsere Zukunft treffen.", "en": "We must soon make an important decision about our future.", "hint": "NVV: eine Entscheidung treffen"},
+      {"de": "Er hat sich nie für Politik interessiert, aber jetzt liest er jeden Tag die Zeitung.", "en": "He was never interested in politics, but now he reads the newspaper every day.", "hint": "sich interessieren für + Akk"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine Teil A, preposition questions are very common. Memorize the top 20 verb+preposition combos.", "telc_section": "Sprachbausteine"},
+      {"tip": "Remember: auf/über/für → usually Akkusativ; mit/von/nach/aus/bei/seit → always Dativ.", "telc_section": "Sprachbausteine"},
+      {"tip": "Nomen-Verb-Verbindungen often appear in Teil B (word bank). Learn: Frage stellen, Entscheidung treffen, Rücksicht nehmen, Bescheid geben.", "telc_section": "Sprachbausteine"},
+      {"tip": "If unsure about auf vs. über with freuen: auf = future (I look forward TO), über = past/present (I'm happy ABOUT).", "telc_section": "Sprachbausteine"}
+    ],
+    "visual_summary": {
+      "title": "Verben mit Präpositionen & Nomen-Verb-Verbindungen",
+      "table": {
+        "headers": ["Verb", "Preposition", "Case", "Meaning"],
+        "rows": [
+          ["warten", "auf", "Akk", "to wait for"],
+          ["sich freuen", "auf / über", "Akk / Akk", "look forward to / be happy about"],
+          ["denken", "an", "Akk", "to think about"],
+          ["abhängen", "von", "Dat", "to depend on"],
+          ["teilnehmen", "an", "Dat", "to participate in"],
+          ["sich kümmern", "um", "Akk", "to take care of"],
+          ["sich beschäftigen", "mit", "Dat", "to work on / deal with"]
+        ]
+      },
+      "key_points": [
+        "Verb + Preposition combos must be memorized — no shortcuts",
+        "The preposition determines the case (Akk or Dat)",
+        "sich freuen auf (future) ≠ sich freuen über (present/past)",
+        "NVV: eine Frage stellen, Entscheidung treffen, Bescheid geben"
+      ]
+    }
+  },
+  {
+    "video_id": "CKFMX8Hwz3w",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 13 : Reflexive Verbs and TeKaMoLo",
+    "url": "https://www.youtube.com/watch?v=CKFMX8Hwz3w",
+    "telc_section": "General B1",
+    "study_notes": {
+      "summary": "This session covers Reflexive Verbs (sich waschen, sich freuen, sich erinnern) and the TeKaMoLo rule for ordering adverbials in a German sentence: Temporal (when) → Kausal (why) → Modal (how) → Lokal (where).",
+      "key_concept": "Reflexive verbs use a reflexive pronoun (mich/dich/sich/uns/euch/sich). TeKaMoLo is the default order of adverbials: Time → Cause → Manner → Place.",
+      "grammar_rule": "TeKaMoLo: Ich fahre morgen (Te) wegen der Arbeit (Ka) schnell (Mo) nach Berlin (Lo).",
+      "word_order_note": "Reflexive pronoun position: after the verb in main clauses ('Ich wasche mich'), after the subject in subordinate clauses ('...weil ich mich wasche').",
+      "common_mistakes": [
+        "Using the wrong reflexive pronoun (mich vs. mir)",
+        "Forgetting that some verbs are reflexive in German but not in English",
+        "Putting Local before Modal (wrong TeKaMoLo order)",
+        "Not knowing whether a verb takes Akkusativ (sich) or Dativ (sich) reflexive",
+        "Forgetting reflexive pronoun in Nebensätze"
+      ]
+    },
+    "vocabulary": [
+      {"de": "sich waschen", "en": "to wash oneself", "example_de": "Ich wasche mich jeden Morgen.", "example_en": "I wash myself every morning."},
+      {"de": "sich erinnern an + Akk", "en": "to remember", "example_de": "Ich erinnere mich an meinen ersten Schultag.", "example_en": "I remember my first day of school."},
+      {"de": "sich entscheiden für + Akk", "en": "to decide on", "example_de": "Ich habe mich für das rote Kleid entschieden.", "example_en": "I decided on the red dress."},
+      {"de": "sich anmelden", "en": "to register/sign up", "example_de": "Ich melde mich für den Kurs an.", "example_en": "I am signing up for the course."},
+      {"de": "sich beeilen", "en": "to hurry", "example_de": "Wir müssen uns beeilen!", "example_en": "We have to hurry!"},
+      {"de": "sich treffen mit + Dat", "en": "to meet up with", "example_de": "Ich treffe mich heute mit meiner Freundin.", "example_en": "I am meeting up with my friend today."},
+      {"de": "sich um|ziehen", "en": "to change clothes", "example_de": "Ich muss mich schnell umziehen.", "example_en": "I have to change clothes quickly."},
+      {"de": "sich unterhalten mit + Dat", "en": "to chat with", "example_de": "Wir haben uns lange unterhalten.", "example_en": "We chatted for a long time."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Reflexive verb + Akkusativ", "structure": "Subject + Verb + Akk-Reflexivpron. (mich/dich/sich/uns/euch/sich)", "example_de": "Er wäscht sich die Hände. → Wait, sich = Dat here because 'die Hände' is Akk. Correct Akk example: Er wäscht sich.", "example_en": "He washes himself.", "telc_relevance": "Reflexive verbs appear in Sprachbausteine cloze and Schreiben"},
+      {"pattern": "Reflexive verb + Dativ", "structure": "Subject + Verb + Dat-Reflexivpron. (mir/dir/sich/uns/euch/sich) + Akk-Objekt", "example_de": "Ich wasche mir die Hände.", "example_en": "I wash my hands. (lit: I wash for myself the hands)", "telc_relevance": "Dativ reflexive when there is also an Akk object"},
+      {"pattern": "TeKaMoLo order", "structure": "Temporal → Kausal → Modal → Lokal", "example_de": "Ich fahre morgen wegen der Konferenz mit dem Zug nach München.", "example_en": "I am traveling tomorrow because of the conference by train to Munich.", "telc_relevance": "Correct word order in writing and speaking scores higher"},
+      {"pattern": "Reflexive in Nebensatz", "structure": "...weil/dass + Subject + Reflexivpron. + ... + Verb(end)", "example_de": "Ich bin müde, weil ich mich nicht ausgeruht habe.", "example_en": "I am tired because I did not rest.", "telc_relevance": "Reflexive pronoun comes after subject in Nebensätze"}
+    ],
+    "flashcards": [
+      {"front": "What does TeKaMoLo stand for?", "back": "Temporal (when) → Kausal (why) → Modal (how) → Lokal (where)", "type": "grammar"},
+      {"front": "sich waschen — Akk or Dat reflexive?", "back": "Akk (sich): Ich wasche mich. BUT Dat (mir) if there's an Akk object: Ich wasche mir die Hände.", "type": "grammar"},
+      {"front": "sich erinnern ___", "back": "sich erinnern an + Akkusativ (to remember)", "type": "grammar"},
+      {"front": "sich beeilen", "back": "to hurry (Wir müssen uns beeilen!)", "type": "vocabulary"},
+      {"front": "Reflexive pronouns (Akk): ich/du/er/wir/ihr/sie", "back": "mich / dich / sich / uns / euch / sich", "type": "grammar"},
+      {"front": "Reflexive pronouns (Dat): ich/du/er/wir/ihr/sie", "back": "mir / dir / sich / uns / euch / sich", "type": "grammar"},
+      {"front": "sich anmelden für", "back": "to register/sign up for (Ich melde mich für den B1-Kurs an.)", "type": "vocabulary"},
+      {"front": "Put in order: nach Berlin / morgen / mit dem Auto / wegen der Arbeit", "back": "morgen (Te) wegen der Arbeit (Ka) mit dem Auto (Mo) nach Berlin (Lo)", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich treffe mich morgen Abend mit meinem Bruder im Restaurant.", "en": "I am meeting my brother tomorrow evening in the restaurant.", "hint": "TeKaMoLo: morgen Abend (Te) → im Restaurant (Lo)"},
+      {"de": "Er fährt jeden Tag wegen der Arbeit mit dem Fahrrad ins Büro.", "en": "He rides his bike to the office every day because of work.", "hint": "Perfect TeKaMoLo: jeden Tag (Te) → wegen der Arbeit (Ka) → mit dem Fahrrad (Mo) → ins Büro (Lo)"},
+      {"de": "Ich habe mich für den Intensivkurs im September angemeldet.", "en": "I registered for the intensive course in September.", "hint": "sich anmelden für with Perfekt"},
+      {"de": "Kannst du dich bitte beeilen? Wir kommen sonst zu spät!", "en": "Can you please hurry? Otherwise we'll be late!", "hint": "sich beeilen — reflexive with modal verb"},
+      {"de": "Sie hat sich lange nicht an mich erinnert, aber gestern hat sie mich angerufen.", "en": "She didn't remember me for a long time, but yesterday she called me.", "hint": "sich erinnern an + Akk"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, reflexive pronoun questions are common. Remember: Akk reflexive (mich/dich/sich) unless there's ALSO an Akk object → then Dativ (mir/dir/sich).", "telc_section": "Sprachbausteine"},
+      {"tip": "TeKaMoLo isn't a strict rule but a guideline. In the exam, following it makes your writing sound more natural.", "telc_section": "Schreiben"},
+      {"tip": "Common reflexive verbs for B1: sich freuen, sich erinnern, sich entscheiden, sich bewerben, sich beschweren, sich anmelden, sich verabreden.", "telc_section": "General B1"},
+      {"tip": "Watch out: some verbs are reflexive in German but not in English (sich beeilen = to hurry, sich erinnern = to remember).", "telc_section": "Sprachbausteine"}
+    ],
+    "visual_summary": {
+      "title": "Reflexive Verbs & TeKaMoLo",
+      "table": {
+        "headers": ["Position", "TeKaMoLo", "Example"],
+        "rows": [
+          ["1", "Temporal (wann?)", "morgen, jeden Tag, nächste Woche"],
+          ["2", "Kausal (warum?)", "wegen der Arbeit, aus Liebe"],
+          ["3", "Modal (wie?)", "mit dem Auto, schnell, gerne"],
+          ["4", "Lokal (wo/wohin?)", "nach Berlin, im Park, zu Hause"]
+        ]
+      },
+      "key_points": [
+        "TeKaMoLo = Time → Reason → Manner → Place",
+        "Reflexive Akk: mich/dich/sich/uns/euch/sich",
+        "Reflexive Dat: mir/dir/sich/uns/euch/sich (when Akk object exists)",
+        "Reflexive pronoun goes after verb in main clause, after subject in Nebensatz"
+      ]
+    }
+  },
+  {
+    "video_id": "gbUcEEGegOk",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 12 : Konjunktiv 2",
+    "url": "https://www.youtube.com/watch?v=gbUcEEGegOk",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Konjunktiv II is used for unreal situations, wishes, polite requests, and hypothetical conditions. Key forms: wäre (sein), hätte (haben), würde + Infinitiv (most other verbs), and modal verb forms (könnte, müsste, sollte, dürfte).",
+      "key_concept": "Konjunktiv II expresses: 1) Irreale Wünsche (If I were rich...) 2) Höfliche Bitten (Could you help me?) 3) Ratschläge (You should...) 4) Irreale Bedingungen (If it didn't rain, I would go out).",
+      "grammar_rule": "Formation: wäre, hätte, würde + Infinitiv. Wenn-clause: 'Wenn ich Zeit hätte, würde ich kommen.' Both parts use Konjunktiv II.",
+      "word_order_note": "In wenn-Sätze: 'Wenn + S + ... + V(end), V2 + S + ...': 'Wenn ich reich wäre, würde ich ein Haus kaufen.'",
+      "common_mistakes": [
+        "Using Indikativ instead of Konjunktiv II in hypothetical sentences",
+        "Confusing würde + Infinitiv with wäre/hätte (use wäre/hätte for sein/haben, not würde sein/haben)",
+        "Wrong word order in wenn-Sätze",
+        "Forgetting Konjunktiv II in the MAIN clause too (both clauses need it)",
+        "Not using Konjunktiv II for polite requests (sounds rude without it)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "wäre", "en": "would be (Konj. II of sein)", "example_de": "Wenn ich reich wäre, würde ich eine Weltreise machen.", "example_en": "If I were rich, I would take a trip around the world."},
+      {"de": "hätte", "en": "would have (Konj. II of haben)", "example_de": "Wenn ich mehr Zeit hätte, würde ich Klavier lernen.", "example_en": "If I had more time, I would learn piano."},
+      {"de": "würde + Infinitiv", "en": "would + verb", "example_de": "Ich würde gerne nach Japan reisen.", "example_en": "I would like to travel to Japan."},
+      {"de": "könnte", "en": "could (Konj. II of können)", "example_de": "Könnten Sie mir bitte helfen?", "example_en": "Could you please help me?"},
+      {"de": "müsste", "en": "would have to (Konj. II of müssen)", "example_de": "Eigentlich müsste ich jetzt lernen.", "example_en": "Actually I should be studying now."},
+      {"de": "sollte", "en": "should (Konj. II of sollen)", "example_de": "Du solltest mehr Sport treiben.", "example_en": "You should do more sport."},
+      {"de": "dürfte", "en": "might / would be allowed to", "example_de": "Das dürfte schwierig werden.", "example_en": "That might become difficult."},
+      {"de": "an deiner Stelle", "en": "in your place / if I were you", "example_de": "An deiner Stelle würde ich zum Arzt gehen.", "example_en": "If I were you, I would go to the doctor."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Irrealer Wunsch (wenn-Satz)", "structure": "Wenn + S + ... + hätte/wäre(end), würde + S + ... + Infinitiv", "example_de": "Wenn ich Deutsch perfekt sprechen könnte, würde ich in Berlin arbeiten.", "example_en": "If I could speak German perfectly, I would work in Berlin.", "telc_relevance": "Konjunktiv II wenn-Sätze appear in Sprachbausteine and Schreiben"},
+      {"pattern": "Höfliche Bitte", "structure": "Könnten/Würden + Sie/du + bitte + Infinitiv?", "example_de": "Könnten Sie bitte das Fenster aufmachen?", "example_en": "Could you please open the window?", "telc_relevance": "Polite requests are essential for Schreiben (formal emails)"},
+      {"pattern": "Ratschlag mit sollte", "structure": "Du solltest + Infinitiv / An deiner Stelle würde ich + Infinitiv", "example_de": "Du solltest weniger Zucker essen.", "example_en": "You should eat less sugar.", "telc_relevance": "Giving advice — relevant for Sprechen Teil 2"},
+      {"pattern": "Irreale Bedingung (ohne wenn)", "structure": "Hätte ich + ..., würde ich + Infinitiv", "example_de": "Hätte ich ein Auto, würde ich dich abholen.", "example_en": "If I had a car, I would pick you up.", "telc_relevance": "Advanced structure — shows high-level grammar competence"}
+    ],
+    "flashcards": [
+      {"front": "Konjunktiv II of 'sein'", "back": "wäre (ich wäre, du wärst, er wäre, wir wären, ihr wärt, sie wären)", "type": "grammar"},
+      {"front": "Konjunktiv II of 'haben'", "back": "hätte (ich hätte, du hättest, er hätte, wir hätten, ihr hättet, sie hätten)", "type": "grammar"},
+      {"front": "Konjunktiv II of 'können'", "back": "könnte (ich könnte, du könntest, er könnte...)", "type": "grammar"},
+      {"front": "How to form Konjunktiv II for most verbs?", "back": "würde + Infinitiv: 'Ich würde kommen.'", "type": "grammar"},
+      {"front": "Wenn ich Zeit hätte, ...", "back": "If I had time, ... (+ würde + Infinitiv in main clause)", "type": "grammar"},
+      {"front": "An deiner Stelle würde ich...", "back": "If I were you, I would... (advice structure)", "type": "phrase"},
+      {"front": "Könnten Sie bitte...?", "back": "Could you please...? (polite request)", "type": "phrase"},
+      {"front": "When do you use wäre/hätte vs. würde?", "back": "wäre for sein, hätte for haben, könnte/müsste/sollte for modals. würde + Infinitiv for all other verbs.", "type": "grammar"},
+      {"front": "Du solltest...", "back": "You should... (giving advice)", "type": "phrase"},
+      {"front": "4 uses of Konjunktiv II", "back": "1) Irreale Wünsche 2) Höfliche Bitten 3) Ratschläge 4) Irreale Bedingungen", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Wenn ich mehr Geld hätte, würde ich mir ein neues Auto kaufen.", "en": "If I had more money, I would buy myself a new car.", "hint": "hätte (haben) + würde + Infinitiv"},
+      {"de": "Könnten Sie mir bitte sagen, wo der Bahnhof ist?", "en": "Could you please tell me where the train station is?", "hint": "Polite request with könnten"},
+      {"de": "An deiner Stelle würde ich früher aufstehen und mehr lernen.", "en": "If I were you, I would get up earlier and study more.", "hint": "Advice with 'An deiner Stelle'"},
+      {"de": "Wenn das Wetter besser wäre, könnten wir im Park spazieren gehen.", "en": "If the weather were better, we could go for a walk in the park.", "hint": "wäre (sein) + könnten in main clause"},
+      {"de": "Ich wäre Ihnen sehr dankbar, wenn Sie mir die Unterlagen schicken könnten.", "en": "I would be very grateful if you could send me the documents.", "hint": "Very polite formal request — great for Schreiben"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, Konjunktiv II forms (hätte, wäre, könnte, würde) are frequently tested. Know them cold!", "telc_section": "Sprachbausteine"},
+      {"tip": "In Schreiben, use 'Ich wäre Ihnen dankbar, wenn...' for formal polite requests — examiners love this structure.", "telc_section": "Schreiben"},
+      {"tip": "For Sprechen Teil 2 (advice topics), use 'Man sollte...' and 'An meiner Stelle würde ich...' to give recommendations.", "telc_section": "Sprechen"},
+      {"tip": "Remember: never say 'würde sein' or 'würde haben' — always use 'wäre' and 'hätte' instead.", "telc_section": "General B1"}
+    ],
+    "visual_summary": {
+      "title": "Konjunktiv II — Forms and Uses",
+      "table": {
+        "headers": ["Verb", "Konjunktiv II", "Example"],
+        "rows": [
+          ["sein", "wäre", "Wenn ich reich wäre..."],
+          ["haben", "hätte", "Wenn ich Zeit hätte..."],
+          ["können", "könnte", "Könnten Sie mir helfen?"],
+          ["müssen", "müsste", "Ich müsste jetzt gehen."],
+          ["sollen", "sollte", "Du solltest mehr lernen."],
+          ["other verbs", "würde + Inf.", "Ich würde gerne kommen."]
+        ]
+      },
+      "key_points": [
+        "4 uses: wishes, polite requests, advice, hypotheticals",
+        "sein → wäre, haben → hätte, können → könnte, sollen → sollte",
+        "Most other verbs: würde + Infinitiv",
+        "Wenn-Satz: verb at end in wenn-clause, würde/wäre in main clause"
+      ]
+    }
+  },
+  {
+    "video_id": "mXrj0KvQsRo",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 11 : lassen, fehlen and Vocabulary",
+    "url": "https://www.youtube.com/watch?v=mXrj0KvQsRo",
+    "telc_section": "General B1",
+    "study_notes": {
+      "summary": "This session covers the versatile verb 'lassen' (to let/leave/have something done), the verb 'fehlen' (to be missing/to miss someone), and general B1-level vocabulary building strategies.",
+      "key_concept": "lassen has 3 main meanings: 1) etwas lassen = to leave/stop something, 2) jemanden etwas machen lassen = to let someone do something, 3) etwas machen lassen = to have something done (causative). fehlen: Mir fehlt... = I miss / I lack...",
+      "grammar_rule": "lassen + Infinitiv: 'Ich lasse mein Auto reparieren.' (I'm having my car repaired). fehlen + Dativ: 'Mir fehlt meine Familie.' (I miss my family).",
+      "word_order_note": "With lassen + Infinitiv, lassen is conjugated and the other verb stays as infinitiv at the end: 'Er lässt seinen Sohn alleine spielen.'",
+      "common_mistakes": [
+        "Confusing the 3 meanings of 'lassen'",
+        "Wrong case with fehlen (always Dativ person, Nominativ thing that is missing)",
+        "Forgetting that lassen + Infinitiv puts the infinitive at the end",
+        "Using 'vermissen' and 'fehlen' interchangeably (different structures)",
+        "In Perfekt: 'Ich habe das Auto reparieren lassen' (double infinitive, not 'gelassen')"
+      ]
+    },
+    "vocabulary": [
+      {"de": "lassen (lässt, ließ, hat gelassen)", "en": "to leave/stop", "example_de": "Lass das! (Stop that!)", "example_en": "Lass das! = Stop that! / Leave it!"},
+      {"de": "lassen + Infinitiv", "en": "to let / to have done", "example_de": "Ich lasse mir die Haare schneiden.", "example_en": "I'm having my hair cut."},
+      {"de": "fehlen + Dativ", "en": "to be missing / to miss", "example_de": "Mir fehlt mein Heimatland.", "example_en": "I miss my home country."},
+      {"de": "vermissen", "en": "to miss (emotionally)", "example_de": "Ich vermisse meine Eltern.", "example_en": "I miss my parents."},
+      {"de": "der Wortschatz", "en": "vocabulary", "example_de": "Um B1 zu bestehen, braucht man einen guten Wortschatz.", "example_en": "To pass B1, you need good vocabulary."},
+      {"de": "die Übung", "en": "exercise/practice", "example_de": "Übung macht den Meister!", "example_en": "Practice makes perfect!"},
+      {"de": "sich verbessern", "en": "to improve", "example_de": "Mein Deutsch hat sich sehr verbessert.", "example_en": "My German has improved a lot."},
+      {"de": "die Bedeutung", "en": "meaning", "example_de": "Was ist die Bedeutung dieses Wortes?", "example_en": "What is the meaning of this word?"}
+    ],
+    "grammar_patterns": [
+      {"pattern": "lassen + Infinitiv (causative)", "structure": "Subject + lassen (conjugated) + Objekt + Infinitiv", "example_de": "Ich lasse mein Auto reparieren.", "example_en": "I'm having my car repaired.", "telc_relevance": "Advanced B1 structure for Schreiben and Sprechen"},
+      {"pattern": "lassen = to let someone do something", "structure": "Subject + lassen + Person(Akk) + Infinitiv", "example_de": "Die Mutter lässt die Kinder im Garten spielen.", "example_en": "The mother lets the children play in the garden.", "telc_relevance": "Common in Lesen passages"},
+      {"pattern": "fehlen + Dativ", "structure": "Dativ-Person + fehlt/fehlen + Nominativ (what's missing)", "example_de": "Mir fehlen 10 Euro. / Ihm fehlt die Motivation.", "example_en": "I am 10 euros short. / He lacks motivation.", "telc_relevance": "Dativ structure — tested in Sprachbausteine"},
+      {"pattern": "lassen in Perfekt (double infinitive)", "structure": "haben + Infinitiv + lassen (not gelassen!)", "example_de": "Ich habe mir die Haare schneiden lassen.", "example_en": "I had my hair cut.", "telc_relevance": "Tricky Perfekt form — TELC may test this"}
+    ],
+    "flashcards": [
+      {"front": "3 meanings of 'lassen'", "back": "1) leave/stop (Lass das!) 2) let someone do (Lass mich helfen) 3) have something done (Ich lasse es reparieren)", "type": "grammar"},
+      {"front": "Ich lasse mein Auto reparieren.", "back": "I'm having my car repaired. (causative lassen)", "type": "phrase"},
+      {"front": "fehlen + ?", "back": "fehlen + Dativ (person) + Nominativ (thing): 'Mir fehlt Geld.'", "type": "grammar"},
+      {"front": "fehlen vs. vermissen", "back": "fehlen: Mir fehlt X (Dativ structure) / vermissen: Ich vermisse X (Akkusativ)", "type": "grammar"},
+      {"front": "Lass mich in Ruhe!", "back": "Leave me alone!", "type": "phrase"},
+      {"front": "Lassen in Perfekt", "back": "Double infinitive: Ich habe es reparieren LASSEN (not gelassen when used with another infinitive)", "type": "grammar"},
+      {"front": "Was fehlt dir?", "back": "What's wrong? / What are you missing?", "type": "phrase"},
+      {"front": "Übung macht den Meister!", "back": "Practice makes perfect!", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich lasse mir jeden Monat die Haare schneiden.", "en": "I have my hair cut every month.", "hint": "Causative lassen: having something done for yourself (mir = Dativ)"},
+      {"de": "Meine Eltern lassen mich am Wochenende lange schlafen.", "en": "My parents let me sleep late on weekends.", "hint": "lassen = to let someone do something"},
+      {"de": "Mir fehlt noch ein Dokument für die Anmeldung.", "en": "I am still missing one document for the registration.", "hint": "fehlen + Dativ: Mir fehlt..."},
+      {"de": "Ich habe mein Fahrrad in der Werkstatt reparieren lassen.", "en": "I had my bike repaired at the workshop.", "hint": "Perfekt of causative lassen: double infinitive"},
+      {"de": "Lass uns zusammen für die Prüfung lernen!", "en": "Let's study for the exam together!", "hint": "Lass uns... = Let's... (common idiom)"}
+    ],
+    "exam_tips": [
+      {"tip": "'lassen' with double infinitive in Perfekt (habe...reparieren lassen) is a tricky structure that appears in Sprachbausteine.", "telc_section": "Sprachbausteine"},
+      {"tip": "fehlen + Dativ: 'Mir fehlt/fehlen...' — the thing that's missing is Nominativ (and determines verb conjugation: fehlt vs. fehlen).", "telc_section": "Sprachbausteine"},
+      {"tip": "To build vocabulary fast: read German news (Deutsche Welle B1), learn word families (arbeiten → die Arbeit → der Arbeiter → arbeitslos).", "telc_section": "General B1"},
+      {"tip": "In Lesen, knowing multiple meanings of common words like 'lassen' helps you understand texts faster.", "telc_section": "Lesen"}
+    ],
+    "visual_summary": {
+      "title": "lassen, fehlen & Vocabulary Building",
+      "table": {
+        "headers": ["Use of lassen", "Structure", "Example"],
+        "rows": [
+          ["Stop / Leave", "Lass + das/es!", "Lass das! (Stop that!)"],
+          ["Let someone", "lassen + Akk + Infinitiv", "Er lässt mich fahren."],
+          ["Have sth. done", "lassen + Obj + Infinitiv", "Ich lasse es reparieren."],
+          ["Let's...", "Lass uns + Infinitiv", "Lass uns gehen!"],
+          ["Perfekt", "haben + Inf + lassen", "Ich habe es machen lassen."]
+        ]
+      },
+      "key_points": [
+        "lassen has 3 meanings: stop, let, have done",
+        "fehlen + Dativ person: 'Mir fehlt...'",
+        "Perfekt of lassen + Inf: double infinitive (nicht 'gelassen')",
+        "vermissen (+ Akk) vs. fehlen (+ Dat) — different structures, similar meaning"
+      ]
+    }
+  },
+  {
+    "video_id": "41bTqe1NGhw",
+    "title": "Learn German with Kedar Jadhav : B1 : Session 10 : Dative verbs",
+    "url": "https://www.youtube.com/watch?v=41bTqe1NGhw",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Dative verbs are verbs that take a Dativ object instead of the usual Akkusativ. These include helfen, gefallen, gehören, danken, gratulieren, folgen, passen, schmecken, fehlen, and others. These are high-frequency TELC B1 verbs.",
+      "key_concept": "Certain German verbs always take Dativ: helfen (to help), gefallen (to like/please), gehören (to belong to), danken (to thank), antworten (to answer), folgen (to follow). You must memorize them.",
+      "grammar_rule": "Dativ verb structure: Dativ-Person + Verb: 'Das Buch gehört mir.' NOT 'Das Buch gehört mich.'",
+      "word_order_note": "Dativ often comes before Akkusativ in sentences with both: 'Er gibt mir (Dat) das Buch (Akk).' But pronouns always come first: 'Er gibt es (Akk-pron) mir (Dat).'",
+      "common_mistakes": [
+        "Using Akkusativ instead of Dativ with these verbs (helfen mich → helfen mir)",
+        "Confusing gefallen (Dat: Es gefällt mir) with mögen (Akk: Ich mag es)",
+        "Forgetting which verbs are Dativ — no shortcut, must memorize",
+        "Wrong pronoun form: mir/dir/ihm/ihr/uns/euch/ihnen",
+        "Word order errors with two objects (Dat before Akk for nouns)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "helfen + Dat", "en": "to help", "example_de": "Kannst du mir bitte helfen?", "example_en": "Can you please help me?"},
+      {"de": "gefallen + Dat", "en": "to be pleasing to / to like", "example_de": "Wie gefällt dir Deutschland?", "example_en": "How do you like Germany? (lit: How is Germany pleasing to you?)"},
+      {"de": "gehören + Dat", "en": "to belong to", "example_de": "Dieses Buch gehört meiner Schwester.", "example_en": "This book belongs to my sister."},
+      {"de": "danken + Dat", "en": "to thank", "example_de": "Ich danke Ihnen für Ihre Hilfe.", "example_en": "I thank you for your help."},
+      {"de": "gratulieren + Dat", "en": "to congratulate", "example_de": "Ich gratuliere dir zum Geburtstag!", "example_en": "I congratulate you on your birthday!"},
+      {"de": "schmecken + Dat", "en": "to taste (good) to", "example_de": "Das Essen schmeckt mir sehr gut.", "example_en": "The food tastes very good to me."},
+      {"de": "passen + Dat", "en": "to fit / to suit", "example_de": "Der Termin passt mir nicht.", "example_en": "The appointment doesn't suit me."},
+      {"de": "folgen + Dat", "en": "to follow", "example_de": "Können Sie mir bitte folgen?", "example_en": "Can you please follow me?"},
+      {"de": "antworten + Dat", "en": "to answer/reply to", "example_de": "Er antwortet dem Lehrer.", "example_en": "He answers the teacher."},
+      {"de": "vertrauen + Dat", "en": "to trust", "example_de": "Ich vertraue meinem besten Freund.", "example_en": "I trust my best friend."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "helfen + Dativ", "structure": "Subject + helfen + Dativ-Person", "example_de": "Mein Bruder hilft mir bei den Hausaufgaben.", "example_en": "My brother helps me with homework.", "telc_relevance": "One of the most common Dativ verbs in all TELC sections"},
+      {"pattern": "gefallen + Dativ", "structure": "Nominativ (thing) + gefallen + Dativ (person)", "example_de": "Die Stadt gefällt mir sehr gut.", "example_en": "I like the city very much.", "telc_relevance": "Different structure from mögen — watch for this in Lesen"},
+      {"pattern": "gehören + Dativ", "structure": "Nominativ (thing) + gehören + Dativ (person)", "example_de": "Wem gehört dieses Handy? — Es gehört mir.", "example_en": "Whose phone is this? — It belongs to me.", "telc_relevance": "Common in Hören and Lesen passages"},
+      {"pattern": "Two objects: Dat before Akk", "structure": "Verb + Dativ(person) + Akkusativ(thing)", "example_de": "Er gibt seinem Freund (Dat) ein Geschenk (Akk).", "example_en": "He gives his friend a gift.", "telc_relevance": "Word order with two objects — tested in Sprachbausteine"}
+    ],
+    "flashcards": [
+      {"front": "helfen + ?", "back": "helfen + Dativ: Ich helfe DIR (not dich)", "type": "grammar"},
+      {"front": "gefallen + ?", "back": "gefallen + Dativ: Es gefällt MIR (not mich)", "type": "grammar"},
+      {"front": "gehören + ?", "back": "gehören + Dativ: Das gehört MIR (not mich)", "type": "grammar"},
+      {"front": "Dativ pronouns: ich/du/er/sie/wir/ihr/sie", "back": "mir / dir / ihm / ihr / uns / euch / ihnen", "type": "grammar"},
+      {"front": "Das Essen schmeckt mir gut.", "back": "The food tastes good to me. (schmecken + Dativ)", "type": "phrase"},
+      {"front": "Der Termin passt mir nicht.", "back": "The appointment doesn't suit me. (passen + Dativ)", "type": "phrase"},
+      {"front": "Ich gratuliere dir zum Geburtstag!", "back": "I congratulate you on your birthday! (gratulieren + Dativ)", "type": "phrase"},
+      {"front": "Name 8 Dativ verbs", "back": "helfen, gefallen, gehören, danken, gratulieren, folgen, passen, schmecken, fehlen, antworten, vertrauen, begegnen", "type": "grammar"},
+      {"front": "Two objects word order (nouns)", "back": "Dativ before Akkusativ: 'Er gibt dem Kind (D) den Ball (A).'", "type": "grammar"},
+      {"front": "Two objects word order (pronouns)", "back": "Akkusativ pronoun first: 'Er gibt ihn (A) dem Kind (D).' / Both pronouns: 'Er gibt ihn (A) ihm (D).'", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Könntest du mir bitte bei meinen Hausaufgaben helfen?", "en": "Could you please help me with my homework?", "hint": "helfen + Dativ (mir, not mich)"},
+      {"de": "Die neue Wohnung gefällt meiner Mutter sehr gut.", "en": "My mother really likes the new apartment.", "hint": "gefallen + Dativ: meiner Mutter (Dat) gefällt die Wohnung (Nom)"},
+      {"de": "Wem gehört dieses Fahrrad? — Es gehört meinem Nachbarn.", "en": "Whose bicycle is this? — It belongs to my neighbor.", "hint": "gehören + Dativ: meinem Nachbarn"},
+      {"de": "Ich möchte Ihnen herzlich für Ihre Unterstützung danken.", "en": "I would like to thank you sincerely for your support.", "hint": "danken + Dativ: Ihnen"},
+      {"de": "Das blaue Kleid passt dir viel besser als das grüne.", "en": "The blue dress suits you much better than the green one.", "hint": "passen + Dativ: dir"}
+    ],
+    "exam_tips": [
+      {"tip": "Memorize the top 10 Dativ verbs: helfen, gefallen, gehören, danken, gratulieren, schmecken, passen, fehlen, folgen, antworten. They appear in every TELC exam.", "telc_section": "Sprachbausteine"},
+      {"tip": "In Sprachbausteine cloze, you'll be choosing between mir/mich or dem/den — knowing Dativ verbs is the key.", "telc_section": "Sprachbausteine"},
+      {"tip": "gefallen ≠ mögen: 'Es gefällt mir' (Dativ) vs. 'Ich mag es' (Akkusativ). Same meaning, different grammar.", "telc_section": "General B1"},
+      {"tip": "In Lesen, Dativ verbs appear in reading passages. Knowing them helps you understand quickly who does what to whom.", "telc_section": "Lesen"}
+    ],
+    "visual_summary": {
+      "title": "Dative Verbs — Verben mit Dativ",
+      "table": {
+        "headers": ["Verb", "Meaning", "Example"],
+        "rows": [
+          ["helfen", "to help", "Er hilft mir."],
+          ["gefallen", "to please/like", "Die Stadt gefällt mir."],
+          ["gehören", "to belong to", "Das gehört mir."],
+          ["danken", "to thank", "Ich danke dir."],
+          ["schmecken", "to taste (to)", "Es schmeckt mir."],
+          ["passen", "to fit/suit", "Der Termin passt mir."],
+          ["fehlen", "to be missing", "Du fehlst mir."],
+          ["gratulieren", "to congratulate", "Ich gratuliere dir!"]
+        ]
+      },
+      "key_points": [
+        "Dativ verbs take DATIV object (mir, dir, ihm, ihr, uns, euch, ihnen)",
+        "Must be memorized — no rule to derive them",
+        "gefallen (Dat) vs. mögen (Akk) — both mean 'to like'",
+        "Two objects: Dat before Akk (nouns), but Akk before Dat (pronouns)"
+      ]
+    }
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "video_id": "ZqelGAzSG90",
+    "title": "B1 - Lesson 12 | Wo-Komposita | Wo-Compounds | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=ZqelGAzSG90",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Wo-Komposita (wo-compounds) are the question form of da-compounds. They combine 'wo(r)' + preposition to ask questions about things: 'Worauf wartest du?' (What are you waiting for?). Like da-compounds, they are only used for things — for people, use preposition + wen/wem.",
+      "key_concept": "Wo-compounds = wo(r) + preposition. wo- before consonants: womit, wofür, wovon, wonach. wor- before vowels: worauf, worüber, woran, woraus, worin. They ask 'what ... preposition?' and are the question equivalents of da-compounds.",
+      "grammar_rule": "Formation: wo + consonant-preposition: womit, wofür, wovon, wogegen, wonach. wor + vowel-preposition: worauf, worüber, woran, woraus, worin. For people: Prep. + wen (Akk.) / wem (Dat.): 'Auf wen wartest du?' (person) vs. 'Worauf wartest du?' (thing).",
+      "word_order_note": "Wo-compounds go at position 1 in questions: 'Worüber sprecht ihr?' In indirect questions: '...wovon er spricht' — normal Nebensatz word order. 'Ich weiß nicht, worauf er wartet.'",
+      "common_mistakes": [
+        "Using wo-compounds for people: 'Worauf wartest du?' (thing) vs. 'Auf wen wartest du?' (person)",
+        "Forgetting 'r' before vowels: 'woauf' → 'worauf'",
+        "Using 'was' instead of wo-compound: 'Auf was wartest du?' (colloquial) → 'Worauf wartest du?' (correct)",
+        "Not recognizing wo-compounds in indirect questions as Nebensätze (verb goes to end)"
+      ]
+    },
+    "vocabulary": [
+      {"de": "worauf", "en": "what ... for / on what", "example_de": "Worauf wartest du?", "example_en": "What are you waiting for?"},
+      {"de": "worüber", "en": "about what", "example_de": "Worüber habt ihr gesprochen?", "example_en": "What did you talk about?"},
+      {"de": "woran", "en": "on/about what", "example_de": "Woran denkst du?", "example_en": "What are you thinking about?"},
+      {"de": "womit", "en": "with what", "example_de": "Womit kann ich Ihnen helfen?", "example_en": "How can I help you?"},
+      {"de": "wofür", "en": "what for", "example_de": "Wofür interessierst du dich?", "example_en": "What are you interested in?"},
+      {"de": "wovon", "en": "of/from what", "example_de": "Wovon träumst du?", "example_en": "What do you dream of?"},
+      {"de": "wogegen", "en": "against what", "example_de": "Wogegen protestieren sie?", "example_en": "What are they protesting against?"},
+      {"de": "wozu", "en": "what for / to what purpose", "example_de": "Wozu brauchst du das?", "example_en": "What do you need that for?"}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Wo-compound as question word", "structure": "Wo(r)+Präp. + Verb + Subjekt + ...?", "example_de": "Worüber ärgerst du dich?", "example_en": "What are you annoyed about?", "telc_relevance": "Understanding questions in Hören depends on recognizing wo-compounds"},
+      {"pattern": "Wo-compound in indirect question", "structure": "..., wo(r)+Präp. + Subjekt + ... + Verb", "example_de": "Ich weiß nicht, wovon er spricht.", "example_en": "I don't know what he's talking about.", "telc_relevance": "Indirect wo-compound questions appear in Lesen"},
+      {"pattern": "Wo-compound vs. Prep + wen/wem", "structure": "Things: Worauf? / People: Auf wen?", "example_de": "Worauf wartest du? (bus) / Auf wen wartest du? (friend)", "example_en": "What are you waiting for? / Who are you waiting for?", "telc_relevance": "Person vs. thing distinction tested in Sprachbausteine"},
+      {"pattern": "Da-/Wo-compound pairs", "structure": "Q: Worüber? → A: Darüber. Q: Womit? → A: Damit.", "example_de": "Worüber spricht er? — Er spricht darüber.", "example_en": "What's he talking about? — He's talking about it.", "telc_relevance": "Matching pairs appear in Hören Q&A sections"}
+    ],
+    "flashcards": [
+      {"front": "Worauf wartest du?", "back": "What are you waiting for? (thing) — Answer: Ich warte darauf.", "type": "grammar"},
+      {"front": "worüber", "back": "about what — Worüber lachst du? (What are you laughing about?)", "type": "vocabulary"},
+      {"front": "For people: 'Who are you waiting for?'", "back": "Auf wen wartest du? (NOT 'Worauf' — that's for things)", "type": "grammar"},
+      {"front": "womit", "back": "with what — Womit fährst du zur Arbeit? (What do you commute with?)", "type": "vocabulary"},
+      {"front": "woran", "back": "on/about what — Woran denkst du? (What are you thinking about?)", "type": "vocabulary"},
+      {"front": "wofür", "back": "what for — Wofür gibst du dein Geld aus? (What do you spend money on?)", "type": "vocabulary"},
+      {"front": "wo- or wor-?", "back": "wor- before vowels (worauf, woran), wo- before consonants (womit, wofür)", "type": "grammar"},
+      {"front": "Indirect question with wo-compound", "back": "Ich weiß nicht, worüber er spricht. (verb at end — Nebensatz)", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "__________ interessierst du dich?", "en": "What are you interested in?", "hint": "Wofür (sich interessieren für → wofür)"},
+      {"de": "__________ hast du Angst?", "en": "What are you afraid of?", "hint": "Wovor (Angst haben vor → wovor)"},
+      {"de": "Ich weiß nicht, __________ er sich beschwert.", "en": "I don't know what he's complaining about.", "hint": "worüber (sich beschweren über → worüber, Nebensatz)"},
+      {"de": "__________ träumst du? — Ich träume __________, in Japan zu leben.", "en": "What do you dream of? — I dream of living in Japan.", "hint": "Wovon... davon (träumen von → wovon/davon)"},
+      {"de": "__________ ärgerst du dich? — Ich ärgere mich __________.", "en": "What are you annoyed about? — I'm annoyed about it.", "hint": "Worüber... darüber (sich ärgern über)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Hören, questions often use wo-compounds. Train yourself to instantly recognize: Worüber? = about what, Womit? = with what. This helps decode the question quickly.", "telc_section": "Hören"},
+      {"tip": "For Sprachbausteine, remember: wo-compounds for things, Preposition + wen/wem for people. This is a classic test distinction.", "telc_section": "Sprachbausteine"},
+      {"tip": "For Sprechen, wo-compounds help you ask follow-up questions naturally: 'Und worüber möchten Sie sprechen?' or 'Wozu brauchen wir das?'", "telc_section": "Sprechen"}
+    ],
+    "visual_summary": {
+      "title": "Wo-Komposita — Question Compounds",
+      "table": {
+        "headers": ["Wo-Compound", "Verb Example", "Question", "Answer (Da-Compound)"],
+        "rows": [
+          ["worauf", "warten auf", "Worauf wartest du?", "Darauf."],
+          ["worüber", "sprechen über", "Worüber sprecht ihr?", "Darüber."],
+          ["woran", "denken an", "Woran denkst du?", "Daran."],
+          ["womit", "fahren mit", "Womit fährst du?", "Damit."],
+          ["wofür", "sich interessieren für", "Wofür interessierst du dich?", "Dafür."],
+          ["wovon", "träumen von", "Wovon träumst du?", "Davon."]
+        ]
+      },
+      "key_points": [
+        "wo- before consonants, wor- before vowels",
+        "Only for THINGS — for people use Prep. + wen/wem",
+        "Wo-compounds pair with da-compounds: Worauf? → Darauf",
+        "In indirect questions, verb goes to end: ...worüber er spricht"
+      ]
+    }
+  },
+  {
+    "video_id": "DGK6LC76X1c",
+    "title": "B1 - Lesson 13 | Instrumentalsätze | Indem | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=DGK6LC76X1c",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Instrumentalsätze express HOW or BY WHAT MEANS something is done, using the conjunction 'indem' (by doing / by means of). 'Man lernt Deutsch, indem man viel liest.' (You learn German by reading a lot.) Indem introduces a Nebensatz (subordinate clause) and is a key B1 connector.",
+      "key_concept": "'indem' means 'by doing' — it describes the method or means. It introduces a Nebensatz with verb at the end. Alternative: 'dadurch, dass' (a more formal equivalent of 'indem'). Informal alternative: durch + Nomen (without a clause).",
+      "grammar_rule": "Main clause + , indem + Subject + ... + Verb (end). 'Du sparst Geld, indem du weniger einkaufst.' Also possible: 'Indem du weniger einkaufst, sparst du Geld.' (inverted). Alternative: 'dadurch, dass': 'Du sparst Geld dadurch, dass du weniger einkaufst.'",
+      "word_order_note": "After 'indem', the subordinate clause follows with verb-final word order. If the indem-clause comes first, the main clause has inverted word order (verb before subject): 'Indem man viel übt, wird man besser.'",
+      "common_mistakes": [
+        "Using verb-second order after indem: 'indem man liest viel' → 'indem man viel liest' (verb at END)",
+        "Confusing indem with um...zu: indem = method/means, um...zu = purpose/goal",
+        "Translating 'by + gerund' literally instead of using indem + clause",
+        "Forgetting the comma before 'indem'",
+        "Using indem when 'durch + Nomen' would be more natural in short phrases"
+      ]
+    },
+    "vocabulary": [
+      {"de": "indem", "en": "by (doing something)", "example_de": "Man bleibt fit, indem man regelmäßig Sport treibt.", "example_en": "You stay fit by exercising regularly."},
+      {"de": "dadurch, dass", "en": "by the fact that, by means of", "example_de": "Er hat Geld gespart, dadurch, dass er weniger ausging.", "example_en": "He saved money by going out less."},
+      {"de": "auf diese Weise", "en": "in this way", "example_de": "Auf diese Weise kann man viel lernen.", "example_en": "In this way, you can learn a lot."},
+      {"de": "sparen", "en": "to save (money/time)", "example_de": "Man spart Zeit, indem man den Zug nimmt.", "example_en": "You save time by taking the train."},
+      {"de": "vermeiden", "en": "to avoid", "example_de": "Man kann Fehler vermeiden, indem man aufpasst.", "example_en": "You can avoid mistakes by paying attention."},
+      {"de": "verbessern", "en": "to improve", "example_de": "Man verbessert sein Deutsch, indem man viel spricht.", "example_en": "You improve your German by speaking a lot."},
+      {"de": "schützen", "en": "to protect", "example_de": "Man schützt die Umwelt, indem man weniger Auto fährt.", "example_en": "You protect the environment by driving less."},
+      {"de": "beitragen zu", "en": "to contribute to", "example_de": "Jeder kann dazu beitragen, indem er Müll trennt.", "example_en": "Everyone can contribute by separating trash."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "Hauptsatz + indem + Nebensatz", "structure": "Main clause, indem + S + ... + Verb(end)", "example_de": "Man lernt Deutsch, indem man täglich übt.", "example_en": "You learn German by practicing daily.", "telc_relevance": "indem-Sätze are tested in Sprachbausteine and valued in Schreiben"},
+      {"pattern": "indem-Satz at position 1", "structure": "Indem + S + ... + V(end), V + S + ...", "example_de": "Indem man viel liest, erweitert man seinen Wortschatz.", "example_en": "By reading a lot, you expand your vocabulary.", "telc_relevance": "Shows advanced sentence structure in Schreiben"},
+      {"pattern": "dadurch, dass (formal alternative)", "structure": "Main clause, dadurch, dass + S + ... + V(end)", "example_de": "Die Firma spart Kosten dadurch, dass sie online arbeitet.", "example_en": "The company saves costs by working online.", "telc_relevance": "More formal — occasionally seen in Lesen formal texts"},
+      {"pattern": "indem vs. um...zu", "structure": "indem = method (HOW), um...zu = purpose (WHY)", "example_de": "Ich lerne Deutsch, um in Deutschland zu arbeiten. (purpose) / Ich lerne Deutsch, indem ich täglich übe. (method)", "example_en": "I learn German (in order) to work in Germany. / I learn German by practicing daily.", "telc_relevance": "Distinguishing purpose vs. method — common Sprachbausteine trap"}
+    ],
+    "flashcards": [
+      {"front": "indem", "back": "by (doing something) — introduces a Nebensatz describing the method/means", "type": "grammar"},
+      {"front": "Man bleibt gesund, indem...", "back": "You stay healthy by... — indem man sich gut ernährt / Sport treibt", "type": "grammar"},
+      {"front": "indem vs. um...zu?", "back": "indem = HOW (method): Ich spare, indem ich weniger kaufe. / um...zu = WHY (purpose): Ich spare, um ein Auto zu kaufen.", "type": "grammar"},
+      {"front": "dadurch, dass", "back": "Formal alternative to 'indem' — Er spart dadurch, dass er nicht raucht.", "type": "grammar"},
+      {"front": "Indem-Satz at position 1 — word order?", "back": "Indem + S + V(end), V + S: 'Indem man übt, wird man besser.'", "type": "grammar"},
+      {"front": "Man schützt die Umwelt, indem...", "back": "man weniger Auto fährt / Müll trennt / Energie spart", "type": "vocabulary"},
+      {"front": "How to translate 'by reading a lot'?", "back": "...indem man viel liest (Nebensatz with verb at end)", "type": "grammar"},
+      {"front": "vermeiden", "back": "to avoid — Man vermeidet Fehler, indem man aufpasst.", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Man kann Stress reduzieren, __________ man regelmäßig meditiert.", "en": "You can reduce stress by meditating regularly.", "hint": "indem (method/means — verb at end)"},
+      {"de": "__________ man jeden Tag Vokabeln lernt, verbessert man seinen Wortschatz.", "en": "By learning vocabulary every day, you improve your vocabulary.", "hint": "Indem (indem-clause at start, main clause inverted)"},
+      {"de": "Man schützt die Umwelt, __________ man weniger Plastik benutzt.", "en": "You protect the environment by using less plastic.", "hint": "indem (method/means Nebensatz)"},
+      {"de": "Ich lerne Deutsch, __________ ich in Deutschland zu arbeiten. (purpose)", "en": "I learn German in order to work in Germany.", "hint": "um (purpose → um...zu, NOT indem)"},
+      {"de": "Die Firma spart Geld __________, __________ sie Mitarbeiter im Homeoffice arbeiten lässt.", "en": "The company saves money by having employees work from home.", "hint": "dadurch, dass (formal alternative to indem)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, 'indem' is often the answer when the sentence asks HOW something is achieved. Look for method/means context.", "telc_section": "Sprachbausteine"},
+      {"tip": "For Schreiben, using 'indem' shows advanced B1 grammar. Example: 'Man kann das Problem lösen, indem man...'", "telc_section": "Schreiben"},
+      {"tip": "Don't confuse indem (how/method) with um...zu (why/purpose) or damit (so that). This distinction is a classic exam trap.", "telc_section": "Sprachbausteine"}
+    ],
+    "visual_summary": {
+      "title": "Instrumentalsätze mit 'indem'",
+      "table": {
+        "headers": ["Conjunction", "Meaning", "Function", "Example"],
+        "rows": [
+          ["indem", "by doing", "method/means", "Man lernt, indem man übt."],
+          ["dadurch, dass", "by the fact that", "formal means", "Er half dadurch, dass er zuhörte."],
+          ["um...zu", "in order to", "purpose (contrast!)", "Ich lerne, um zu bestehen."],
+          ["durch + Nomen", "through/by", "noun phrase (no clause)", "durch regelmäßiges Üben"]
+        ]
+      },
+      "key_points": [
+        "indem introduces a Nebensatz — verb goes to the END",
+        "indem = HOW (method), um...zu = WHY (purpose) — don't mix!",
+        "dadurch, dass is the formal equivalent of indem",
+        "Common topics: Umwelt, Gesundheit, Lernen — 'Man kann X, indem man Y'"
+      ]
+    }
+  },
+  {
+    "video_id": "QeNzj72acE4",
+    "title": "B1 - Lesson 14 | Finalsätze | um...zu / damit | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=QeNzj72acE4",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "Finalsätze express PURPOSE — why someone does something. Two main structures: 'um...zu + Infinitiv' (when subjects are the same) and 'damit + Nebensatz' (when subjects are different). 'Ich lerne Deutsch, um in Deutschland zu arbeiten.' / 'Ich spreche langsam, damit du mich verstehst.'",
+      "key_concept": "um...zu + Infinitiv: Same subject in both clauses. 'um' starts the clause, 'zu + Infinitiv' ends it. damit + Nebensatz: Different subjects. damit introduces a subordinate clause with verb at the end. Both answer the question 'Wozu?' or 'Warum?'",
+      "grammar_rule": "um...zu: Subject is the SAME in both clauses → 'Ich spare Geld, um ein Auto zu kaufen.' (I save money to buy a car.) damit: Subjects are DIFFERENT → 'Ich spreche langsam, damit die Kinder mich verstehen.' (I speak slowly so the children understand me.) Note: 'damit' can always replace 'um...zu', but not vice versa.",
+      "word_order_note": "um...zu: 'um' comes after comma, objects/adverbs in between, 'zu + Infinitiv' at end: '...um schnell Deutsch zu lernen.' damit: normal Nebensatz word order: '...damit er die Prüfung besteht.' Both can begin the sentence with inversion: 'Um pünktlich zu sein, stehe ich früh auf.'",
+      "common_mistakes": [
+        "Using um...zu with different subjects: 'Ich koche, um die Kinder essen.' → 'Ich koche, damit die Kinder essen.'",
+        "Forgetting 'zu' in um...zu constructions: 'um lernen' → 'um zu lernen'",
+        "Placing zu incorrectly with separable verbs: 'um aufzustehen' (correct: zu goes between prefix and stem)",
+        "Confusing damit (so that, purpose) with damit (with it, da-compound) — context determines meaning",
+        "Using 'für' instead of 'um...zu' for purpose: 'für lernen' → 'um zu lernen'"
+      ]
+    },
+    "vocabulary": [
+      {"de": "um...zu + Infinitiv", "en": "in order to", "example_de": "Ich lerne Deutsch, um in Deutschland zu studieren.", "example_en": "I'm learning German in order to study in Germany."},
+      {"de": "damit", "en": "so that (with different subject)", "example_de": "Ich schreibe es auf, damit ich es nicht vergesse.", "example_en": "I write it down so that I don't forget it."},
+      {"de": "Wozu?", "en": "What for? / For what purpose?", "example_de": "Wozu brauchst du das?", "example_en": "What do you need that for?"},
+      {"de": "bestehen", "en": "to pass (an exam)", "example_de": "Ich lerne viel, um die Prüfung zu bestehen.", "example_en": "I study a lot to pass the exam."},
+      {"de": "sich bewerben", "en": "to apply (for a job)", "example_de": "Er lernt Englisch, um sich im Ausland zu bewerben.", "example_en": "He's learning English to apply abroad."},
+      {"de": "aufpassen", "en": "to pay attention", "example_de": "Pass auf, damit du keinen Fehler machst.", "example_en": "Pay attention so you don't make a mistake."},
+      {"de": "rechtzeitig", "en": "on time, in time", "example_de": "Ich stehe früh auf, um rechtzeitig anzukommen.", "example_en": "I get up early to arrive on time."},
+      {"de": "sich anstrengen", "en": "to make an effort", "example_de": "Sie strengt sich an, um gute Noten zu bekommen.", "example_en": "She makes an effort to get good grades."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "um...zu (same subject)", "structure": "S + V + ..., um + (objects) + zu + Infinitiv", "example_de": "Ich fahre nach Berlin, um meine Freunde zu besuchen.", "example_en": "I'm going to Berlin to visit my friends.", "telc_relevance": "Very frequent in Sprachbausteine — choice between um...zu and damit"},
+      {"pattern": "damit (different subjects)", "structure": "S + V + ..., damit + S2 + ... + V(end)", "example_de": "Ich erkläre es nochmal, damit alle es verstehen.", "example_en": "I'll explain it again so that everyone understands.", "telc_relevance": "damit-Sätze appear in Lesen and are tested in Sprachbausteine"},
+      {"pattern": "um...zu with separable verbs", "structure": "um + ... + Prefix-zu-Stem (one word)", "example_de": "Ich stehe früh auf, um rechtzeitig anzukommen.", "example_en": "I get up early to arrive on time.", "telc_relevance": "Separable verb + zu fusion tested in Sprachbausteine"},
+      {"pattern": "Finalsatz at position 1", "structure": "Um + ... + zu + Inf., V + S + ...", "example_de": "Um Geld zu sparen, fahre ich mit dem Fahrrad.", "example_en": "To save money, I ride my bike.", "telc_relevance": "Impressive sentence structure for Schreiben"}
+    ],
+    "flashcards": [
+      {"front": "um...zu — when to use?", "back": "When the subject is the SAME in both clauses: Ich lerne, um zu bestehen.", "type": "grammar"},
+      {"front": "damit — when to use?", "back": "When subjects are DIFFERENT: Ich koche, damit die Kinder essen.", "type": "grammar"},
+      {"front": "Where does 'zu' go with separable verbs?", "back": "Between prefix and stem: um auf|zu|stehen, um an|zu|kommen, um ein|zu|kaufen", "type": "grammar"},
+      {"front": "Ich lerne Deutsch, um...", "back": "...in Deutschland zu arbeiten / zu studieren / die Prüfung zu bestehen", "type": "grammar"},
+      {"front": "Can 'damit' replace 'um...zu'?", "back": "Yes! damit can always replace um...zu: 'Ich lerne, damit ich bestehe.' But um...zu cannot replace damit when subjects differ.", "type": "grammar"},
+      {"front": "Wozu brauchst du das?", "back": "What do you need that for? — Question word for Finalsätze", "type": "vocabulary"},
+      {"front": "damit (purpose) vs. damit (da-compound)?", "back": "damit (purpose) = so that (+ clause): Ich sage es, damit du es weißt. / damit (da-compound) = with it: Was machst du damit?", "type": "grammar"},
+      {"front": "Um Geld zu sparen, ...", "back": "To save money, ... + inverted main clause: 'Um Geld zu sparen, fahre ich Rad.'", "type": "grammar"}
+    ],
+    "practice_sentences": [
+      {"de": "Ich lerne jeden Tag, __________ die Prüfung __________ bestehen.", "en": "I study every day to pass the exam.", "hint": "um ... zu (same subject → um...zu)"},
+      {"de": "Die Mutter kocht gesund, __________ die Kinder fit bleiben.", "en": "The mother cooks healthy so the children stay fit.", "hint": "damit (different subjects → damit + Nebensatz)"},
+      {"de": "__________ bessere Noten zu bekommen, lernt sie jeden Abend.", "en": "To get better grades, she studies every evening.", "hint": "Um (Finalsatz at position 1 + inversion)"},
+      {"de": "Ich stehe früh auf, __________ rechtzeitig __________.", "en": "I get up early to arrive on time.", "hint": "um ... anzukommen (separable verb: an-zu-kommen)"},
+      {"de": "Er spricht langsam, __________ alle ihn verstehen.", "en": "He speaks slowly so everyone understands him.", "hint": "damit (different subjects: er → alle)"}
+    ],
+    "exam_tips": [
+      {"tip": "Classic Sprachbausteine question: 'um...zu or damit?' Check if the subjects match. Same subject = um...zu. Different subjects = damit.", "telc_section": "Sprachbausteine"},
+      {"tip": "For Schreiben, start a sentence with 'Um + ... + zu + Inf.' to show purpose elegantly: 'Um das Problem zu lösen, schlage ich vor, dass...'", "telc_section": "Schreiben"},
+      {"tip": "In Sprechen Teil 2, use Finalsätze to justify opinions: 'Man sollte Sport treiben, um gesund zu bleiben.'", "telc_section": "Sprechen"},
+      {"tip": "In Lesen, Finalsätze often signal motivation or intention — they answer 'why' someone does something.", "telc_section": "Lesen"}
+    ],
+    "visual_summary": {
+      "title": "Finalsätze — um...zu & damit",
+      "table": {
+        "headers": ["Structure", "When to Use", "Example DE", "Example EN"],
+        "rows": [
+          ["um...zu + Inf.", "Same subject", "Ich lerne, um zu bestehen.", "I study to pass."],
+          ["damit + Nebensatz", "Different subjects", "Ich koche, damit die Kinder essen.", "I cook so the kids eat."],
+          ["damit + Nebensatz", "Same subject (also OK)", "Ich lerne, damit ich bestehe.", "I study so I pass."],
+          ["Um...zu at start", "Emphasis", "Um fit zu bleiben, jogge ich.", "To stay fit, I jog."]
+        ]
+      },
+      "key_points": [
+        "Same subject → um...zu (preferred) or damit",
+        "Different subjects → ONLY damit (never um...zu)",
+        "Separable verbs: zu goes between prefix and stem",
+        "Finalsätze answer Wozu? / Warum?"
+      ]
+    }
+  },
+  {
+    "video_id": "BNgaxbtMoBI",
+    "title": "B1 - Lesson 15 | ohne...zu | ohne dass | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=BNgaxbtMoBI",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers 'ohne...zu' and 'ohne dass' — two structures that express 'without doing something'. 'ohne...zu + Infinitiv' is used when the subject is the same in both clauses, and 'ohne dass + Nebensatz' when subjects differ. These structures are essential B1 connectors tested in Sprachbausteine.",
+      "key_concept": "'ohne...zu + Infinitiv' = without doing (same subject). 'Er ging, ohne sich zu verabschieden.' (He left without saying goodbye.) 'ohne dass + Nebensatz' = without (different subjects or more complex). 'Er ging, ohne dass wir es merkten.' (He left without us noticing.)",
+      "grammar_rule": "ohne...zu: S + V + ..., ohne + ... + zu + Infinitiv. Verb is NOT conjugated — always infinitive at end. 'Sie arbeitet, ohne Pause zu machen.' ohne dass: S + V + ..., ohne dass + S2 + ... + V(end). Regular Nebensatz word order. 'Er hat bezahlt, ohne dass ich es wusste.'",
+      "word_order_note": "ohne...zu clause can come first with inversion: 'Ohne nachzudenken, hat er zugesagt.' (Without thinking, he agreed.) In ohne...zu, 'zu' goes between prefix and stem for separable verbs: 'ohne nachzudenken', 'ohne aufzuhören'.",
+      "common_mistakes": [
+        "Using ohne...zu with different subjects: 'Er ging, ohne ich merken zu' → 'Er ging, ohne dass ich es merkte.'",
+        "Conjugating the verb after ohne...zu: 'ohne macht' → 'ohne zu machen' (always infinitive!)",
+        "Forgetting zu: 'ohne machen' → 'ohne zu machen'",
+        "Wrong zu-placement with separable verbs: 'ohne zu nachdenken' → 'ohne nachzudenken'",
+        "Using 'nicht' instead of 'ohne': 'ohne' already carries the negative meaning — no need for 'nicht'"
+      ]
+    },
+    "vocabulary": [
+      {"de": "ohne...zu + Infinitiv", "en": "without doing", "example_de": "Er ist gegangen, ohne sich zu verabschieden.", "example_en": "He left without saying goodbye."},
+      {"de": "ohne dass", "en": "without (different subjects)", "example_de": "Sie hat es gemacht, ohne dass er es wusste.", "example_en": "She did it without him knowing."},
+      {"de": "sich verabschieden", "en": "to say goodbye", "example_de": "Man sollte nicht gehen, ohne sich zu verabschieden.", "example_en": "One shouldn't leave without saying goodbye."},
+      {"de": "nachdenken", "en": "to think about / reflect", "example_de": "Er hat zugesagt, ohne nachzudenken.", "example_en": "He agreed without thinking."},
+      {"de": "aufhören", "en": "to stop", "example_de": "Es regnete stundenlang, ohne aufzuhören.", "example_en": "It rained for hours without stopping."},
+      {"de": "bemerken", "en": "to notice", "example_de": "Er hat das Haus verlassen, ohne dass jemand es bemerkte.", "example_en": "He left the house without anyone noticing."},
+      {"de": "zögern", "en": "to hesitate", "example_de": "Sie hat sofort zugesagt, ohne zu zögern.", "example_en": "She agreed immediately without hesitating."},
+      {"de": "erlauben", "en": "to allow", "example_de": "Das Kind ist rausgegangen, ohne dass die Eltern es erlaubt hatten.", "example_en": "The child went out without the parents having allowed it."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "ohne...zu (same subject)", "structure": "S + V + ..., ohne + (obj) + zu + Infinitiv", "example_de": "Sie ging weg, ohne etwas zu sagen.", "example_en": "She left without saying anything.", "telc_relevance": "High-frequency Sprachbausteine item"},
+      {"pattern": "ohne dass (different subjects)", "structure": "S + V + ..., ohne dass + S2 + ... + V(end)", "example_de": "Ich habe es gemacht, ohne dass mein Chef es wusste.", "example_en": "I did it without my boss knowing.", "telc_relevance": "Appears in Lesen passages about situations between people"},
+      {"pattern": "ohne...zu with separable verbs", "structure": "ohne + Prefix-zu-Stem", "example_de": "Er fuhr weiter, ohne anzuhalten.", "example_en": "He kept driving without stopping.", "telc_relevance": "Separable verb + zu combination — tested in Sprachbausteine"},
+      {"pattern": "ohne...zu at position 1", "structure": "Ohne ... zu + Inf., V + S + ...", "example_de": "Ohne lange nachzudenken, hat sie zugestimmt.", "example_en": "Without thinking long, she agreed.", "telc_relevance": "Shows advanced sentence construction in Schreiben"}
+    ],
+    "flashcards": [
+      {"front": "ohne...zu — when to use?", "back": "Without doing — SAME subject: Er ging, ohne sich zu verabschieden.", "type": "grammar"},
+      {"front": "ohne dass — when to use?", "back": "Without — DIFFERENT subjects: Er ging, ohne dass wir es merkten.", "type": "grammar"},
+      {"front": "ohne + separable verb + zu?", "back": "zu goes between prefix and stem: ohne nachZUdenken, ohne aufZUhören", "type": "grammar"},
+      {"front": "Er hat geantwortet, ohne...", "back": "...nachzudenken / zu zögern / die Frage zu verstehen", "type": "grammar"},
+      {"front": "Is the verb conjugated in ohne...zu?", "back": "NO — always infinitive: ohne zu machen / ohne zu gehen (never conjugated)", "type": "grammar"},
+      {"front": "ohne...zu vs. ohne dass — rule?", "back": "Same subject → ohne...zu / Different subjects → ohne dass", "type": "grammar"},
+      {"front": "Ohne lange nachzudenken, ...", "back": "Without thinking long, ... (ohne...zu at position 1, main clause inverted)", "type": "grammar"},
+      {"front": "sich verabschieden", "back": "to say goodbye — Er ging, ohne sich zu verabschieden.", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "Sie hat den Vertrag unterschrieben, __________ ihn __________ lesen.", "en": "She signed the contract without reading it.", "hint": "ohne ... zu (same subject, infinitive)"},
+      {"de": "Er ist weggegangen, __________ __________ jemand es bemerkte.", "en": "He left without anyone noticing.", "hint": "ohne dass (different implied subjects)"},
+      {"de": "__________ lange __________ (nachdenken), sagte er ja.", "en": "Without thinking long, he said yes.", "hint": "Ohne ... nachzudenken (separable: nach-zu-denken, at start)"},
+      {"de": "Das Kind hat die Schokolade gegessen, __________ die Mutter __________ fragen.", "en": "The child ate the chocolate without asking the mother.", "hint": "ohne ... zu — same subject (the child does both actions)"},
+      {"de": "Es hat den ganzen Tag geregnet, __________ __________.", "en": "It rained the whole day without stopping.", "hint": "ohne aufzuhören (separable: auf-zu-hören)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, ohne...zu and ohne dass blanks test whether you know: same subject = ohne...zu, different subjects = ohne dass.", "telc_section": "Sprachbausteine"},
+      {"tip": "For Schreiben complaints: 'Sie haben die Ware geliefert, ohne mich zu informieren.' — sehr useful for Reklamation.", "telc_section": "Schreiben"},
+      {"tip": "Remember: ohne already means 'without' — never add 'nicht' inside the ohne-clause.", "telc_section": "Sprachbausteine"}
+    ],
+    "visual_summary": {
+      "title": "ohne...zu & ohne dass — Without Doing",
+      "table": {
+        "headers": ["Structure", "Subject Rule", "Example DE", "Example EN"],
+        "rows": [
+          ["ohne...zu + Inf.", "Same subject", "Er ging, ohne zu zahlen.", "He left without paying."],
+          ["ohne dass + Nebensatz", "Different subjects", "Er ging, ohne dass ich es sah.", "He left without me seeing."],
+          ["ohne...zu + sep. verb", "Same subject", "ohne nachzudenken", "without thinking"],
+          ["ohne...zu at start", "Same subject", "Ohne zu fragen, nahm er es.", "Without asking, he took it."]
+        ]
+      },
+      "key_points": [
+        "ohne...zu: same subject, infinitive (never conjugated!)",
+        "ohne dass: different subjects, normal Nebensatz word order",
+        "Separable verbs: zu between prefix and stem (nachzudenken)",
+        "ohne already contains negation — never add 'nicht'"
+      ]
+    }
+  },
+  {
+    "video_id": "DcWpmjmA-gU",
+    "title": "B1 - Lesson 16 | (an)statt...zu | (an)statt dass | Learn German Intermediate",
+    "url": "https://www.youtube.com/watch?v=DcWpmjmA-gU",
+    "telc_section": "Sprachbausteine",
+    "study_notes": {
+      "summary": "This lesson covers '(an)statt...zu' and '(an)statt dass' — structures meaning 'instead of (doing something)'. '(an)statt...zu + Infinitiv' is used when subjects are the same; '(an)statt dass + Nebensatz' when subjects differ. These are part of the B1 Infinitivsatz family alongside um...zu and ohne...zu.",
+      "key_concept": "(an)statt...zu + Infinitiv: instead of doing (same subject). 'Statt zu lernen, hat er ferngesehen.' (Instead of studying, he watched TV.) (an)statt dass + Nebensatz: instead of (different subjects). 'Statt dass er lernt, sieht er fern.' Both 'statt' and 'anstatt' are interchangeable.",
+      "grammar_rule": "(an)statt...zu: S + V + ..., (an)statt + ... + zu + Infinitiv. OR: (An)statt + ... + zu + Inf., + V + S + ... (an)statt dass: S + V + ..., (an)statt dass + S2 + ... + V(end). The verb in (an)statt...zu is always infinitive, the verb in (an)statt dass is conjugated at the end.",
+      "word_order_note": "(an)statt...zu clause often comes FIRST: 'Statt zu Hause zu bleiben, sind wir spazieren gegangen.' The main clause then has inverted word order. (an)statt dass follows normal Nebensatz rules (verb at end).",
+      "common_mistakes": [
+        "Using (an)statt...zu with different subjects: 'Statt er lernt, er sieht fern' → 'Statt dass er lernt, sieht er fern.'",
+        "Forgetting 'zu' in the infinitive construction: 'statt lernen' → 'statt zu lernen'",
+        "Wrong word order when (an)statt-clause is first: remember inversion in main clause",
+        "Confusing statt (instead of) with trotz (despite) — different meanings!",
+        "Using 'statt' alone without 'zu' or 'dass' when a clause follows"
+      ]
+    },
+    "vocabulary": [
+      {"de": "(an)statt...zu + Infinitiv", "en": "instead of doing", "example_de": "Statt zu kochen, haben wir Pizza bestellt.", "example_en": "Instead of cooking, we ordered pizza."},
+      {"de": "(an)statt dass", "en": "instead of (different subj.)", "example_de": "Anstatt dass er hilft, sitzt er nur da.", "example_en": "Instead of helping, he just sits there."},
+      {"de": "fernsehen", "en": "to watch TV", "example_de": "Statt zu lernen, sieht er fern.", "example_en": "Instead of studying, he watches TV."},
+      {"de": "faulenzen", "en": "to laze around", "example_de": "Statt zu faulenzen, solltest du aufräumen.", "example_en": "Instead of lazing around, you should clean up."},
+      {"de": "sich beschweren", "en": "to complain", "example_de": "Statt dich zu beschweren, solltest du etwas ändern.", "example_en": "Instead of complaining, you should change something."},
+      {"de": "verschwenden", "en": "to waste", "example_de": "Statt Zeit zu verschwenden, fang an zu arbeiten!", "example_en": "Instead of wasting time, start working!"},
+      {"de": "vorschlagen", "en": "to suggest", "example_de": "Statt nur zu kritisieren, schlage ich etwas Besseres vor.", "example_en": "Instead of just criticizing, I suggest something better."},
+      {"de": "sich Mühe geben", "en": "to make an effort", "example_de": "Statt aufzugeben, sollte man sich Mühe geben.", "example_en": "Instead of giving up, one should make an effort."}
+    ],
+    "grammar_patterns": [
+      {"pattern": "(an)statt...zu (same subject)", "structure": "(An)statt + ... + zu + Inf., V + S + ...", "example_de": "Statt Auto zu fahren, nimmt er das Fahrrad.", "example_en": "Instead of driving, he takes his bike.", "telc_relevance": "Part of the zu-Infinitiv family — tested alongside um...zu and ohne...zu"},
+      {"pattern": "(an)statt dass (different subjects)", "structure": "(An)statt dass + S + ... + V(end), V + S + ...", "example_de": "Anstatt dass die Regierung handelt, passiert nichts.", "example_en": "Instead of the government acting, nothing happens.", "telc_relevance": "Less common but appears in formal Lesen texts"},
+      {"pattern": "The three Infinitivsatz types", "structure": "um...zu (purpose) / ohne...zu (without) / (an)statt...zu (instead of)", "example_de": "um zu lernen / ohne zu lernen / statt zu lernen", "example_en": "to learn / without learning / instead of learning", "telc_relevance": "All three are B1 core — easy to confuse. Know the meanings!"},
+      {"pattern": "(an)statt...zu with separable verbs", "structure": "(an)statt + Prefix-zu-Stem", "example_de": "Statt aufzuräumen, hat er geschlafen.", "example_en": "Instead of cleaning up, he slept.", "telc_relevance": "Separable verb + zu tested in Sprachbausteine"}
+    ],
+    "flashcards": [
+      {"front": "(an)statt...zu — meaning?", "back": "instead of doing — same subject: Statt zu lernen, spielt er. (Instead of studying, he plays.)", "type": "grammar"},
+      {"front": "(an)statt dass — meaning?", "back": "instead of — different subjects: Anstatt dass er hilft, sitzt er da. (Instead of him helping, he sits there.)", "type": "grammar"},
+      {"front": "The 3 Infinitivsatz types?", "back": "um...zu (purpose/in order to) / ohne...zu (without) / (an)statt...zu (instead of)", "type": "grammar"},
+      {"front": "Statt zu kochen, ...", "back": "Instead of cooking, ... + haben wir bestellt / sind wir essen gegangen", "type": "grammar"},
+      {"front": "statt aufzuräumen", "back": "instead of cleaning up — separable: auf-zu-räumen", "type": "grammar"},
+      {"front": "statt vs. trotz?", "back": "statt = instead of / trotz = despite — completely different meanings!", "type": "grammar"},
+      {"front": "Can you use statt and anstatt interchangeably?", "back": "Yes — statt and anstatt have the exact same meaning", "type": "grammar"},
+      {"front": "sich beschweren", "back": "to complain — Statt dich zu beschweren, handle!", "type": "vocabulary"}
+    ],
+    "practice_sentences": [
+      {"de": "__________ __________ lernen, hat er den ganzen Tag ferngesehen.", "en": "Instead of studying, he watched TV all day.", "hint": "Statt zu (same subject → statt...zu)"},
+      {"de": "__________ __________ __________ die Eltern kochen, bestellen die Kinder Pizza.", "en": "Instead of the parents cooking, the children order pizza.", "hint": "Anstatt dass (different subjects → anstatt dass + Nebensatz)"},
+      {"de": "__________ mit dem Auto zu fahren, nehme ich das Fahrrad.", "en": "Instead of driving, I take the bike.", "hint": "Statt (statt...zu at position 1, main clause inverted)"},
+      {"de": "Du solltest Sport treiben, __________ nur zu Hause __________ sitzen.", "en": "You should exercise instead of just sitting at home.", "hint": "statt ... zu (anstatt...zu + Infinitiv)"},
+      {"de": "__________ __________ (aufgeben), solltest du es nochmal versuchen.", "en": "Instead of giving up, you should try again.", "hint": "Statt aufzugeben (separable: auf-zu-geben)"}
+    ],
+    "exam_tips": [
+      {"tip": "In Sprachbausteine, the three Infinitivsätze (um...zu, ohne...zu, statt...zu) are often tested together. Know the meanings: purpose, without, instead of.", "telc_section": "Sprachbausteine"},
+      {"tip": "For Schreiben, statt...zu adds variety: 'Statt nur die Theorie zu lernen, sollte man auch praktisch üben.'", "telc_section": "Schreiben"},
+      {"tip": "For Sprechen Teil 2 (opinion), use statt...zu to contrast: 'Statt fernzusehen, sollte man lieber ein Buch lesen.'", "telc_section": "Sprechen"},
+      {"tip": "Remember: statt + Genitiv (noun) vs. statt...zu (clause) vs. statt dass (different subject clause). Three different constructions!", "telc_section": "Sprachbausteine"}
+    ],
+    "visual_summary": {
+      "title": "(an)statt...zu & (an)statt dass — Instead Of",
+      "table": {
+        "headers": ["Structure", "Subject Rule", "Example DE", "Example EN"],
+        "rows": [
+          ["statt...zu + Inf.", "Same subject", "Statt zu lernen, schläft er.", "Instead of studying, he sleeps."],
+          ["statt dass + NS", "Different subjects", "Statt dass er lernt, schläft er.", "Instead of him studying, he sleeps."],
+          ["The 3 Infinitivsätze", "—", "um zu / ohne zu / statt zu", "to / without / instead of"],
+          ["statt + Genitiv", "Noun phrase", "Statt des Autos nimmt er den Bus.", "Instead of the car, he takes the bus."]
+        ]
+      },
+      "key_points": [
+        "(an)statt...zu = instead of doing (same subject, infinitive)",
+        "(an)statt dass = instead of (different subjects, Nebensatz)",
+        "statt and anstatt are 100% interchangeable",
+        "Part of the B1 trio: um...zu / ohne...zu / (an)statt...zu"
+      ]
+    }
+  }
+]
