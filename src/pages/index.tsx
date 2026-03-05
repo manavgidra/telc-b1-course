@@ -1,7 +1,8 @@
-import React, { useState, useMemo } from 'react'
+import React, { useState, useMemo, useEffect, useCallback } from 'react'
 import Head from 'next/head'
 import Link from 'next/link'
 import Layout from '@/components/Layout'
+import { cleanTitle } from '@/utils/cleanTitle'
 import styles from '@/styles/Home.module.css'
 
 // Types
@@ -72,14 +73,53 @@ const QUICK_ACTIONS = [
   { href: '/practice/horen', icon: '🎧', label: 'Hören', desc: 'Listening strategies', color: '#fefcbf' },
 ]
 
+// Exam date: June 16, 2026
+const EXAM_DATE = new Date('2026-06-16T09:00:00')
+
+function getProgress(): Record<string, boolean> {
+  if (typeof window === 'undefined') return {}
+  try {
+    return JSON.parse(localStorage.getItem('telc-progress') || '{}')
+  } catch { return {} }
+}
+
+function setProgress(progress: Record<string, boolean>) {
+  if (typeof window === 'undefined') return
+  localStorage.setItem('telc-progress', JSON.stringify(progress))
+}
+
+function getDaysUntilExam(): number {
+  const now = new Date()
+  const diff = EXAM_DATE.getTime() - now.getTime()
+  return Math.max(0, Math.ceil(diff / (1000 * 60 * 60 * 24)))
+}
+
 export default function HomePage() {
   const videos: Video[] = courseContent?.videos ?? []
   const [search, setSearch] = useState('')
   const [activeSection, setActiveSection] = useState('All')
+  const [progress, setProgressState] = useState<Record<string, boolean>>({})
+  const [daysLeft, setDaysLeft] = useState<number | null>(null)
+
+  useEffect(() => {
+    setProgressState(getProgress())
+    setDaysLeft(getDaysUntilExam())
+  }, [])
+
+  const toggleComplete = useCallback((videoId: string, e: React.MouseEvent) => {
+    e.preventDefault()
+    e.stopPropagation()
+    setProgressState(prev => {
+      const next = { ...prev, [videoId]: !prev[videoId] }
+      setProgress(next)
+      return next
+    })
+  }, [])
 
   const filtered = useMemo(() => {
     return videos.filter(v => {
-      const matchSearch = search === '' || v.title?.toLowerCase().includes(search.toLowerCase())
+      const title = cleanTitle(v.title)
+      const matchSearch = search === '' || title.toLowerCase().includes(search.toLowerCase())
       const matchSection = activeSection === 'All' || v.telc_section === activeSection
       return matchSearch && matchSection
     })
@@ -94,12 +134,45 @@ export default function HomePage() {
     return counts
   }, [videos])
 
+  const sectionProgress = useMemo(() => {
+    const result: Record<string, { done: number; total: number }> = {}
+    videos.forEach(v => {
+      const s = v.telc_section ?? 'General B1'
+      if (!result[s]) result[s] = { done: 0, total: 0 }
+      result[s].total++
+      if (progress[v.video_id]) result[s].done++
+    })
+    return result
+  }, [videos, progress])
+
+  const totalDone = Object.values(progress).filter(Boolean).length
+  const totalPercent = videos.length > 0 ? Math.round((totalDone / videos.length) * 100) : 0
+
   return (
     <Layout title="TELC B1 Deutsch — Home">
       <Head>
         <title>TELC B1 Deutsch — Complete Study Platform</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
+
+      {/* Exam Countdown Banner */}
+      {daysLeft !== null && daysLeft > 0 && (
+        <div className={styles.countdownBanner}>
+          <div className={styles.countdownInner}>
+            <span className={styles.countdownIcon}>📅</span>
+            <span className={styles.countdownText}>
+              <strong>{daysLeft} days</strong> until your TELC B1 exam — 16 June 2026
+            </span>
+            <span className={styles.countdownBar}>
+              <span
+                className={styles.countdownBarFill}
+                style={{ width: `${totalPercent}%` }}
+              />
+            </span>
+            <span className={styles.countdownPercent}>{totalPercent}% complete</span>
+          </div>
+        </div>
+      )}
 
       {/* Hero */}
       <div className={styles.hero}>
@@ -121,6 +194,10 @@ export default function HomePage() {
               <div className={styles.heroStatLabel}>Videos</div>
             </div>
             <div className={styles.heroStat}>
+              <div className={styles.heroStatNumber}>{totalDone}</div>
+              <div className={styles.heroStatLabel}>Completed</div>
+            </div>
+            <div className={styles.heroStat}>
               <div className={styles.heroStatNumber}>{Object.keys(sectionCounts).length}</div>
               <div className={styles.heroStatLabel}>Sections</div>
             </div>
@@ -129,6 +206,35 @@ export default function HomePage() {
               <div className={styles.heroStatLabel}>Level</div>
             </div>
           </div>
+        </div>
+      </div>
+
+      {/* Section Progress Bars */}
+      <div className={styles.sectionProgressContainer}>
+        <div className={styles.sectionProgressTitle}>Progress by Section</div>
+        <div className={styles.sectionProgressGrid}>
+          {ALL_SECTIONS.filter(s => s !== 'All').map(s => {
+            const sp = sectionProgress[s] ?? { done: 0, total: 0 }
+            const pct = sp.total > 0 ? Math.round((sp.done / sp.total) * 100) : 0
+            return (
+              <button
+                key={s}
+                className={`${styles.sectionProgressCard} ${activeSection === s ? styles.sectionProgressCardActive : ''}`}
+                onClick={() => setActiveSection(s === activeSection ? 'All' : s)}
+              >
+                <div className={styles.sectionProgressHeader}>
+                  <span>{SECTION_ICONS[s] ?? ''} {s}</span>
+                  <span className={styles.sectionProgressCount}>{sp.done}/{sp.total}</span>
+                </div>
+                <div className={styles.sectionProgressBarOuter}>
+                  <div
+                    className={styles.sectionProgressBarInner}
+                    style={{ width: `${pct}%` }}
+                  />
+                </div>
+              </button>
+            )
+          })}
         </div>
       </div>
 
@@ -197,7 +303,7 @@ export default function HomePage() {
                 <Link
                   key={video.video_id}
                   href={`/video/${video.video_id}`}
-                  className={styles.videoCard}
+                  className={`${styles.videoCard} ${progress[video.video_id] ? styles.videoCardDone : ''}`}
                 >
                   <div className={styles.videoCardHeader}>
                     <div className={styles.videoThumbnailPlaceholder}>
@@ -209,9 +315,17 @@ export default function HomePage() {
                           {video.telc_section}
                         </span>
                       )}
+                      <button
+                        className={`${styles.checkBtn} ${progress[video.video_id] ? styles.checkBtnDone : ''}`}
+                        onClick={(e) => toggleComplete(video.video_id, e)}
+                        title={progress[video.video_id] ? 'Mark as not done' : 'Mark as done'}
+                        aria-label="Toggle completed"
+                      >
+                        {progress[video.video_id] ? '✅' : '⬜'}
+                      </button>
                     </div>
                   </div>
-                  <div className={styles.videoTitle}>{video.title}</div>
+                  <div className={styles.videoTitle}>{cleanTitle(video.title)}</div>
                   <div className={styles.videoCardFooter}>
                     <span className={styles.videoCardMeta}>
                       {[

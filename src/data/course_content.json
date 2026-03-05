@@ -13806,6 +13806,1762 @@
           "Nebensatz: Infinitiv before werden at end"
         ]
       }
+    },
+    {
+      "video_id": "lesen-strategy-teil1",
+      "title": "Lesen · Teil 1 — Globalverstehen (Headlines to Texts)",
+      "url": "",
+      "telc_section": "Lesen",
+      "study_notes": {
+        "summary": "Lesen Teil 1 tests your ability to match newspaper headlines with short text summaries. You have 5 headlines and 10 short texts — you must find the correct match for each. This is a global reading exercise: you don't need every word, just the main idea.",
+        "key_concept": "Globalverstehen — grasping the main idea without reading every detail. Focus on keywords (Schlüsselwörter) in both the headline and the text.",
+        "grammar_rule": "Headlines often use Nominalisierung (noun-heavy style): 'Steigende Mieten in Berlin' instead of 'Die Mieten in Berlin steigen.' Learn to convert between these forms.",
+        "word_order_note": "German headlines frequently drop articles and verbs. 'Neues Gesetz gegen Plastikmüll' = 'Ein neues Gesetz gegen Plastikmüll wurde verabschiedet.'",
+        "common_mistakes": [
+          "Reading every word instead of scanning for keywords",
+          "Matching based on a single shared word rather than overall meaning",
+          "Ignoring distractors — two texts may share a topic but have different main ideas",
+          "Spending too much time on one pair instead of moving forward"
+        ]
+      },
+      "vocabulary": [
+        {
+          "de": "die Überschrift",
+          "en": "headline",
+          "example_de": "Lesen Sie die Überschriften und ordnen Sie zu.",
+          "example_en": "Read the headlines and match them."
+        },
+        {
+          "de": "zuordnen",
+          "en": "to match/assign",
+          "example_de": "Ordnen Sie jede Überschrift einem Text zu.",
+          "example_en": "Match each headline to a text."
+        },
+        {
+          "de": "der Abschnitt",
+          "en": "paragraph/section",
+          "example_de": "Lesen Sie jeden Abschnitt sorgfältig.",
+          "example_en": "Read each section carefully."
+        },
+        {
+          "de": "das Schlüsselwort",
+          "en": "keyword",
+          "example_de": "Unterstreichen Sie die Schlüsselwörter.",
+          "example_en": "Underline the keywords."
+        },
+        {
+          "de": "die Hauptidee",
+          "en": "main idea",
+          "example_de": "Was ist die Hauptidee des Textes?",
+          "example_en": "What is the main idea of the text?"
+        },
+        {
+          "de": "überfliegen",
+          "en": "to skim/scan",
+          "example_de": "Überfliegen Sie den Text zuerst.",
+          "example_en": "Skim the text first."
+        },
+        {
+          "de": "der Zusammenhang",
+          "en": "context/connection",
+          "example_de": "Der Zusammenhang zwischen Titel und Text ist wichtig.",
+          "example_en": "The connection between title and text is important."
+        },
+        {
+          "de": "die Zusammenfassung",
+          "en": "summary",
+          "example_de": "Schreiben Sie eine kurze Zusammenfassung.",
+          "example_en": "Write a short summary."
+        }
+      ],
+      "grammar_patterns": [
+        {
+          "pattern": "Nominalisierung",
+          "structure": "Verb → Noun: steigen → die Steigerung, wachsen → das Wachstum",
+          "example_de": "Die Steigerung der Preise betrifft alle.",
+          "example_en": "The increase in prices affects everyone.",
+          "telc_relevance": "Headlines in Teil 1 frequently use nominalized forms"
+        },
+        {
+          "pattern": "Passive headlines",
+          "structure": "Partizip II + worden: 'Neues Gesetz beschlossen'",
+          "example_de": "Ein neues Gesetz wurde beschlossen.",
+          "example_en": "A new law was passed.",
+          "telc_relevance": "Understanding shortened passive in headlines is essential"
+        },
+        {
+          "pattern": "Compound nouns in headlines",
+          "structure": "Noun+Noun: Umweltschutzmaßnahmen, Verkehrspolitik",
+          "example_de": "Neue Umweltschutzmaßnahmen geplant.",
+          "example_en": "New environmental protection measures planned.",
+          "telc_relevance": "Breaking down compound nouns helps decode headline meaning"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "What is Globalverstehen?",
+          "back": "Understanding the general/main idea of a text without reading every word",
+          "type": "concept"
+        },
+        {
+          "front": "How many headlines in Lesen Teil 1?",
+          "back": "5 headlines to match with 10 texts (5 are distractors)",
+          "type": "exam"
+        },
+        {
+          "front": "überfliegen",
+          "back": "to skim/scan a text quickly",
+          "type": "vocab"
+        },
+        {
+          "front": "die Überschrift → der Text",
+          "back": "Match headline to text by finding shared keywords and main idea",
+          "type": "strategy"
+        },
+        {
+          "front": "Steigende Mieten = ?",
+          "back": "Die Mieten steigen (Rising rents = Rents are rising)",
+          "type": "grammar"
+        },
+        {
+          "front": "Time limit for Lesen Teil 1?",
+          "back": "About 10 minutes — scan quickly, don't read word by word",
+          "type": "exam"
+        },
+        {
+          "front": "What is a Schlüsselwort?",
+          "back": "A keyword — the most important word in a sentence that carries the core meaning",
+          "type": "vocab"
+        },
+        {
+          "front": "Common trap in Teil 1?",
+          "back": "Two texts share a topic word but have different main ideas — always check the FULL meaning",
+          "type": "strategy"
+        }
+      ],
+      "practice_sentences": [
+        {
+          "de": "Lesen Sie zuerst alle Überschriften durch.",
+          "en": "First read through all the headlines.",
+          "hint": "Start with headlines to know what topics to expect"
+        },
+        {
+          "de": "Unterstreichen Sie die wichtigsten Wörter in jedem Text.",
+          "en": "Underline the most important words in each text.",
+          "hint": "Focus on nouns and verbs"
+        },
+        {
+          "de": "Wenn zwei Texte ähnlich sind, achten Sie auf die Details.",
+          "en": "If two texts are similar, pay attention to the details.",
+          "hint": "Details differentiate distractors"
+        },
+        {
+          "de": "Die Überschrift fasst die Hauptidee zusammen.",
+          "en": "The headline summarizes the main idea.",
+          "hint": "zusammenfassen = to summarize"
+        },
+        {
+          "de": "Arbeiten Sie systematisch: ein Text nach dem anderen.",
+          "en": "Work systematically: one text after another.",
+          "hint": "Don't jump around randomly"
+        }
+      ],
+      "exam_tips": [
+        {
+          "tip": "Read ALL 5 headlines first before looking at any texts. This primes your brain for what to look for.",
+          "telc_section": "Lesen"
+        },
+        {
+          "tip": "For each text, ask: 'What is the ONE main point?' Then find the headline that matches that point.",
+          "telc_section": "Lesen"
+        },
+        {
+          "tip": "Beware of word-level traps: 'Schule' in both a headline and text doesn't mean they match — check the full meaning.",
+          "telc_section": "Lesen"
+        },
+        {
+          "tip": "Cross out headlines as you match them to narrow down remaining options.",
+          "telc_section": "Lesen"
+        }
+      ],
+      "visual_summary": {
+        "title": "Lesen Teil 1 — Strategy Overview",
+        "table": {
+          "headers": [
+            "Step",
+            "Action",
+            "Time"
+          ],
+          "rows": [
+            [
+              "1",
+              "Read all 5 headlines, underline keywords",
+              "2 min"
+            ],
+            [
+              "2",
+              "Read Text 1, identify main idea",
+              "1 min"
+            ],
+            [
+              "3",
+              "Match to headline, cross it off",
+              "30 sec"
+            ],
+            [
+              "4",
+              "Repeat for Texts 2–5",
+              "5 min"
+            ],
+            [
+              "5",
+              "Double-check unmatched items",
+              "1.5 min"
+            ]
+          ]
+        },
+        "key_points": [
+          "Globalverstehen = main idea, not details",
+          "5 headlines + 10 texts = 5 distractors",
+          "Keywords in headline ↔ keywords in text",
+          "Don't be fooled by surface-level word matches"
+        ]
+      }
+    },
+    {
+      "video_id": "lesen-strategy-teil2",
+      "title": "Lesen · Teil 2 — Detailverstehen (Multiple Choice)",
+      "url": "",
+      "telc_section": "Lesen",
+      "study_notes": {
+        "summary": "Lesen Teil 2 is a detail reading comprehension exercise. You read a longer text (newspaper article, report, or essay) and answer 5 multiple-choice questions with 3 options each (a, b, c). You need to understand specific details, not just the main idea.",
+        "key_concept": "Detailverstehen — understanding specific information, opinions, and arguments in a text. The correct answer is often a paraphrase (Umformulierung) of what the text says.",
+        "grammar_rule": "Watch for negation and qualification: 'nicht alle' ≠ 'keine', 'manchmal' ≠ 'immer'. TELC loves testing whether you catch these subtle differences.",
+        "word_order_note": "Questions follow the order of the text — Question 1 relates to the beginning, Question 5 to the end. Use this to locate answers efficiently.",
+        "common_mistakes": [
+          "Choosing an answer because it uses the same words as the text (often a distractor)",
+          "Not reading all three options before deciding",
+          "Missing negation words: nicht, kein, nie, selten, kaum",
+          "Bringing in outside knowledge instead of answering from the text only"
+        ]
+      },
+      "vocabulary": [
+        {
+          "de": "der Bericht",
+          "en": "report",
+          "example_de": "Lesen Sie den Bericht über Umweltschutz.",
+          "example_en": "Read the report about environmental protection."
+        },
+        {
+          "de": "die Aussage",
+          "en": "statement",
+          "example_de": "Welche Aussage ist richtig?",
+          "example_en": "Which statement is correct?"
+        },
+        {
+          "de": "laut dem Text",
+          "en": "according to the text",
+          "example_de": "Laut dem Text steigen die Preise.",
+          "example_en": "According to the text, prices are rising."
+        },
+        {
+          "de": "die Umformulierung",
+          "en": "paraphrase",
+          "example_de": "Die richtige Antwort ist oft eine Umformulierung.",
+          "example_en": "The correct answer is often a paraphrase."
+        },
+        {
+          "de": "der Ablenker",
+          "en": "distractor",
+          "example_de": "Vorsicht vor Ablenkern bei Multiple-Choice.",
+          "example_en": "Watch out for distractors in multiple choice."
+        },
+        {
+          "de": "die Meinung",
+          "en": "opinion",
+          "example_de": "Was ist die Meinung des Autors?",
+          "example_en": "What is the author's opinion?"
+        },
+        {
+          "de": "begründen",
+          "en": "to justify/reason",
+          "example_de": "Der Autor begründet seine Meinung.",
+          "example_en": "The author justifies his opinion."
+        },
+        {
+          "de": "im Gegensatz zu",
+          "en": "in contrast to",
+          "example_de": "Im Gegensatz zu früher arbeiten mehr Frauen.",
+          "example_en": "In contrast to before, more women work."
+        }
+      ],
+      "grammar_patterns": [
+        {
+          "pattern": "Indirect speech (Konjunktiv I)",
+          "structure": "Er sagt, er habe / sie sei / man könne",
+          "example_de": "Der Experte sagt, die Situation sei ernst.",
+          "example_en": "The expert says the situation is serious.",
+          "telc_relevance": "Newspaper articles use Konjunktiv I for reported speech — recognize it to identify opinions vs facts"
+        },
+        {
+          "pattern": "Qualification words",
+          "structure": "fast, kaum, selten, manchmal, häufig, meistens",
+          "example_de": "Fast alle Teilnehmer bestanden die Prüfung.",
+          "example_en": "Almost all participants passed the exam.",
+          "telc_relevance": "Distractors often change 'fast alle' to 'alle' — tiny word, big meaning change"
+        },
+        {
+          "pattern": "Cause-effect connectors",
+          "structure": "weil, da, deshalb, daher, aus diesem Grund, aufgrund",
+          "example_de": "Aufgrund des schlechten Wetters fiel das Fest aus.",
+          "example_en": "Due to the bad weather, the festival was canceled.",
+          "telc_relevance": "Questions often ask WHY something happened — find the cause connector"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "How many questions in Lesen Teil 2?",
+          "back": "5 multiple-choice questions with 3 options each (a, b, c)",
+          "type": "exam"
+        },
+        {
+          "front": "What is Detailverstehen?",
+          "back": "Understanding specific details and information in a text, not just the general idea",
+          "type": "concept"
+        },
+        {
+          "front": "What is an Umformulierung?",
+          "back": "A paraphrase — saying the same thing with different words. Correct TELC answers are usually paraphrases.",
+          "type": "strategy"
+        },
+        {
+          "front": "'fast alle' vs 'alle'?",
+          "back": "These mean different things! 'fast alle' = almost all, 'alle' = all. TELC tests this distinction.",
+          "type": "strategy"
+        },
+        {
+          "front": "laut dem Text",
+          "back": "according to the text — answer based on what the TEXT says, not your own knowledge",
+          "type": "vocab"
+        },
+        {
+          "front": "Do questions follow text order?",
+          "back": "Yes! Q1 = beginning of text, Q5 = end. Use this to locate answers.",
+          "type": "strategy"
+        },
+        {
+          "front": "der Ablenker",
+          "back": "distractor — a wrong answer designed to look correct (often uses same words as text)",
+          "type": "vocab"
+        },
+        {
+          "front": "Key strategy for Teil 2?",
+          "back": "Read the question + all options FIRST, then find the relevant paragraph in the text",
+          "type": "strategy"
+        }
+      ],
+      "practice_sentences": [
+        {
+          "de": "Lesen Sie die Fragen vor dem Text.",
+          "en": "Read the questions before the text.",
+          "hint": "This helps you know what to look for"
+        },
+        {
+          "de": "Die richtige Antwort verwendet oft andere Wörter als der Text.",
+          "en": "The correct answer often uses different words than the text.",
+          "hint": "Paraphrase = Umformulierung"
+        },
+        {
+          "de": "Achten Sie auf kleine Wörter wie 'nicht', 'kaum', 'nur'.",
+          "en": "Pay attention to small words like 'not', 'hardly', 'only'.",
+          "hint": "These change the entire meaning"
+        },
+        {
+          "de": "Laut dem Autor ist Bildung der wichtigste Faktor.",
+          "en": "According to the author, education is the most important factor.",
+          "hint": "laut + Dativ = according to"
+        },
+        {
+          "de": "Streichen Sie die falsche Antwort zuerst durch.",
+          "en": "Cross out the wrong answer first.",
+          "hint": "Elimination strategy"
+        }
+      ],
+      "exam_tips": [
+        {
+          "tip": "Read ALL three options before choosing — the third option might be a better fit than the first one you liked.",
+          "telc_section": "Lesen"
+        },
+        {
+          "tip": "If two options seem correct, the one that paraphrases the text (rather than copying exact words) is usually right.",
+          "telc_section": "Lesen"
+        },
+        {
+          "tip": "When the question asks about someone's opinion, look for reporting verbs: sagt, meint, findet, glaubt, ist der Meinung.",
+          "telc_section": "Lesen"
+        },
+        {
+          "tip": "Negation trap: if the text says 'Er hat nicht gesagt, dass...' don't choose an option that states he said it.",
+          "telc_section": "Lesen"
+        }
+      ],
+      "visual_summary": {
+        "title": "Lesen Teil 2 — MCQ Strategy",
+        "table": {
+          "headers": [
+            "Step",
+            "Action",
+            "Why"
+          ],
+          "rows": [
+            [
+              "1",
+              "Read Q1 + options a/b/c",
+              "Know what to find"
+            ],
+            [
+              "2",
+              "Find relevant paragraph (start of text)",
+              "Questions follow text order"
+            ],
+            [
+              "3",
+              "Compare each option to text",
+              "Find paraphrased match"
+            ],
+            [
+              "4",
+              "Eliminate wrong options",
+              "Cross out clearly wrong ones first"
+            ],
+            [
+              "5",
+              "Choose best remaining answer",
+              "The paraphrase, not the copy"
+            ]
+          ]
+        },
+        "key_points": [
+          "Correct answer = paraphrase of text",
+          "Distractor = looks right but changes a detail",
+          "Small words change everything (nicht, kaum, nur)",
+          "Answer from the TEXT, not from your knowledge"
+        ]
+      }
+    },
+    {
+      "video_id": "lesen-strategy-teil3",
+      "title": "Lesen · Teil 3 — Selektives Lesen (People → Notices)",
+      "url": "",
+      "telc_section": "Lesen",
+      "study_notes": {
+        "summary": "Lesen Teil 3 is selective reading: 10 people each need something specific, and you must match them to the correct advertisement or notice from a list of 12 options (2 are distractors). This tests your ability to scan for specific information quickly.",
+        "key_concept": "Selektives Lesen — scanning for specific details rather than reading everything. Each person has 2-3 requirements. The correct ad must match ALL requirements, not just one.",
+        "grammar_rule": "Conditional and requirement expressions: sucht...mit, braucht...die/das, möchte gerne...wo, interessiert sich für...die",
+        "word_order_note": "Person descriptions use modals: 'Sie möchte einen Kurs besuchen, der am Wochenende stattfindet.' The subordinate clause (der am Wochenende stattfindet) contains the KEY requirement.",
+        "common_mistakes": [
+          "Matching based on only ONE requirement instead of ALL listed requirements",
+          "Confusing similar ads (two language courses, but different times/levels)",
+          "Missing age restrictions or location requirements in ads",
+          "Not reading the full person description — the last sentence often has the critical detail"
+        ]
+      },
+      "vocabulary": [
+        {
+          "de": "die Anzeige",
+          "en": "advertisement/notice",
+          "example_de": "Lesen Sie die Anzeigen sorgfältig.",
+          "example_en": "Read the advertisements carefully."
+        },
+        {
+          "de": "die Anforderung",
+          "en": "requirement",
+          "example_de": "Welche Anforderungen hat die Person?",
+          "example_en": "What requirements does the person have?"
+        },
+        {
+          "de": "der Kurs",
+          "en": "course",
+          "example_de": "Sie sucht einen Kurs am Abend.",
+          "example_en": "She is looking for an evening course."
+        },
+        {
+          "de": "die Veranstaltung",
+          "en": "event",
+          "example_de": "Die Veranstaltung findet am Samstag statt.",
+          "example_en": "The event takes place on Saturday."
+        },
+        {
+          "de": "die Voraussetzung",
+          "en": "prerequisite",
+          "example_de": "Voraussetzung: mindestens 18 Jahre.",
+          "example_en": "Prerequisite: at least 18 years old."
+        },
+        {
+          "de": "sich eignen für",
+          "en": "to be suitable for",
+          "example_de": "Welche Anzeige eignet sich für Maria?",
+          "example_en": "Which ad is suitable for Maria?"
+        },
+        {
+          "de": "stattfinden",
+          "en": "to take place",
+          "example_de": "Der Kurs findet montags statt.",
+          "example_en": "The course takes place on Mondays."
+        },
+        {
+          "de": "die Ermäßigung",
+          "en": "discount/reduction",
+          "example_de": "Für Studenten gibt es eine Ermäßigung.",
+          "example_en": "There is a discount for students."
+        }
+      ],
+      "grammar_patterns": [
+        {
+          "pattern": "Relativsätze (relative clauses)",
+          "structure": "...Kurs, der / ...Wohnung, die / ...Angebot, das",
+          "example_de": "Er sucht einen Kurs, der abends stattfindet.",
+          "example_en": "He's looking for a course that takes place in the evening.",
+          "telc_relevance": "Person descriptions use relative clauses to state requirements — these are your matching criteria"
+        },
+        {
+          "pattern": "Modal verbs for wishes",
+          "structure": "möchte, will, soll, muss + Infinitiv",
+          "example_de": "Sie möchte einen Kurs besuchen, der nicht zu teuer ist.",
+          "example_en": "She would like to take a course that isn't too expensive.",
+          "telc_relevance": "Modal verbs signal requirements: möchte = preference, muss = strict requirement"
+        },
+        {
+          "pattern": "Conditional expressions",
+          "structure": "am liebsten, wenn möglich, auf keinen Fall",
+          "example_de": "Am liebsten möchte er einen Kurs am Wochenende.",
+          "example_en": "Ideally he'd like a weekend course.",
+          "telc_relevance": "These qualify how important each requirement is"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "How many people / ads in Teil 3?",
+          "back": "10 people, 12 ads — 2 ads are distractors with no match",
+          "type": "exam"
+        },
+        {
+          "front": "What is Selektives Lesen?",
+          "back": "Scanning for specific information — not reading everything, just what matches the requirements",
+          "type": "concept"
+        },
+        {
+          "front": "Main trap in Teil 3?",
+          "back": "An ad matches ONE requirement but NOT all. You must check ALL requirements match.",
+          "type": "strategy"
+        },
+        {
+          "front": "die Anzeige",
+          "back": "advertisement/notice — the items you match people to",
+          "type": "vocab"
+        },
+        {
+          "front": "'...der am Wochenende stattfindet'",
+          "back": "Relative clause stating a requirement: 'that takes place on the weekend'",
+          "type": "grammar"
+        },
+        {
+          "front": "Strategy for Teil 3?",
+          "back": "1) Underline each person's requirements, 2) Scan ads for ALL matches, 3) Cross off used ads",
+          "type": "strategy"
+        },
+        {
+          "front": "sich eignen für",
+          "back": "to be suitable for — 'Welche Anzeige eignet sich für Person 1?'",
+          "type": "vocab"
+        },
+        {
+          "front": "Time management for Teil 3?",
+          "back": "Spend ~1 min per person-ad match. Do the easy/obvious ones first.",
+          "type": "strategy"
+        }
+      ],
+      "practice_sentences": [
+        {
+          "de": "Unterstreichen Sie alle Anforderungen der Person.",
+          "en": "Underline all of the person's requirements.",
+          "hint": "Usually 2-3 key requirements per person"
+        },
+        {
+          "de": "Die Anzeige muss ALLE Anforderungen erfüllen.",
+          "en": "The ad must meet ALL requirements.",
+          "hint": "One match isn't enough"
+        },
+        {
+          "de": "Streichen Sie Anzeigen durch, die Sie schon zugeordnet haben.",
+          "en": "Cross out ads you've already assigned.",
+          "hint": "Each ad is used only once"
+        },
+        {
+          "de": "Achten Sie auf Zeiten, Preise und Ortsangaben.",
+          "en": "Pay attention to times, prices, and locations.",
+          "hint": "These are common matching criteria"
+        },
+        {
+          "de": "Zwei Anzeigen bleiben übrig — sie sind Ablenker.",
+          "en": "Two ads remain — they are distractors.",
+          "hint": "It's normal for 2 to have no match"
+        }
+      ],
+      "exam_tips": [
+        {
+          "tip": "Underline EACH person's requirements in different colors or numbered marks — then check ads against the full list.",
+          "telc_section": "Lesen"
+        },
+        {
+          "tip": "Do the obvious matches first (very specific requirements). Save harder ones for later when fewer ads remain.",
+          "telc_section": "Lesen"
+        },
+        {
+          "tip": "Check for hidden requirements at the END of each person description — TELC often puts the decisive detail there.",
+          "telc_section": "Lesen"
+        },
+        {
+          "tip": "Each ad can only be used ONCE. If you assign one, cross it off your list immediately.",
+          "telc_section": "Lesen"
+        }
+      ],
+      "visual_summary": {
+        "title": "Lesen Teil 3 — Matching Strategy",
+        "table": {
+          "headers": [
+            "Step",
+            "Action",
+            "Tip"
+          ],
+          "rows": [
+            [
+              "1",
+              "Read Person 1 description",
+              "Underline requirements"
+            ],
+            [
+              "2",
+              "Scan ALL 12 ads",
+              "Look for ALL requirements"
+            ],
+            [
+              "3",
+              "Match and cross off ad",
+              "Only use each ad once"
+            ],
+            [
+              "4",
+              "Repeat for remaining people",
+              "Do easy matches first"
+            ],
+            [
+              "5",
+              "Verify — 2 ads should remain",
+              "They are distractors"
+            ]
+          ]
+        },
+        "key_points": [
+          "10 people + 12 ads = 2 distractors",
+          "ALL requirements must match, not just one",
+          "Each ad used exactly once",
+          "Check the LAST sentence of each person description"
+        ]
+      }
+    },
+    {
+      "video_id": "lesen-strategy-overall",
+      "title": "Lesen — Overall Strategy & Time Management",
+      "url": "",
+      "telc_section": "Lesen",
+      "study_notes": {
+        "summary": "The Lesen section is worth 75 points (25% of total). You have about 65 minutes for all three parts. Time management is critical — many students fail because they spend too long on Teil 2 and rush Teil 3.",
+        "key_concept": "Budget your time: ~10 min Tel 1, ~25 min Teil 2, ~15 min Teil 3, ~15 min buffer/review. Teil 2 is the hardest but Teil 3 has the most points per minute if you're efficient.",
+        "grammar_rule": "Cross-part skills: Nominalisierung (Teil 1), Paraphrase recognition (Teil 2), Relative clauses for requirements (Teil 3). These three grammar areas cover 80% of what you need.",
+        "word_order_note": "In exam conditions, always read the QUESTIONS or TASKS first, then the text. This is true for all three Teile.",
+        "common_mistakes": [
+          "Spending all time on Teil 2 and not finishing Teil 3",
+          "Reading every word when scanning is more efficient",
+          "Not transferring answers to the answer sheet (separate from the question booklet!)",
+          "Second-guessing correct answers and changing them"
+        ]
+      },
+      "vocabulary": [
+        {
+          "de": "die Prüfungszeit",
+          "en": "exam time",
+          "example_de": "Die Prüfungszeit für Lesen beträgt 65 Minuten.",
+          "example_en": "The exam time for Reading is 65 minutes."
+        },
+        {
+          "de": "der Antwortbogen",
+          "en": "answer sheet",
+          "example_de": "Übertragen Sie Ihre Antworten auf den Antwortbogen.",
+          "example_en": "Transfer your answers to the answer sheet."
+        },
+        {
+          "de": "die Strategie",
+          "en": "strategy",
+          "example_de": "Eine gute Strategie spart Zeit.",
+          "example_en": "A good strategy saves time."
+        },
+        {
+          "de": "die Punktzahl",
+          "en": "score/points",
+          "example_de": "Sie brauchen mindestens 60% der Punktzahl.",
+          "example_en": "You need at least 60% of the points."
+        },
+        {
+          "de": "aufteilen",
+          "en": "to divide/allocate",
+          "example_de": "Teilen Sie Ihre Zeit sinnvoll auf.",
+          "example_en": "Allocate your time wisely."
+        },
+        {
+          "de": "überprüfen",
+          "en": "to check/verify",
+          "example_de": "Überprüfen Sie Ihre Antworten am Ende.",
+          "example_en": "Check your answers at the end."
+        },
+        {
+          "de": "die Zeitverschwendung",
+          "en": "waste of time",
+          "example_de": "Zu lange grübeln ist Zeitverschwendung.",
+          "example_en": "Thinking too long is a waste of time."
+        },
+        {
+          "de": "bestehen",
+          "en": "to pass (exam)",
+          "example_de": "Um zu bestehen, brauchen Sie 60%.",
+          "example_en": "To pass, you need 60%."
+        }
+      ],
+      "grammar_patterns": [
+        {
+          "pattern": "Time expressions for planning",
+          "structure": "innerhalb von + Dat, in ... Minuten, bis zum Ende",
+          "example_de": "Innerhalb von 10 Minuten sollten Sie Teil 1 fertig haben.",
+          "example_en": "Within 10 minutes you should have finished Part 1.",
+          "telc_relevance": "Practice these phrases for your own time management during the exam"
+        },
+        {
+          "pattern": "Imperative for self-instruction",
+          "structure": "Les(e)! / Unterstreiche! / Überprüf(e)!",
+          "example_de": "Lies die Frage zuerst!",
+          "example_en": "Read the question first!",
+          "telc_relevance": "Use mental self-talk during the exam to stay focused"
+        },
+        {
+          "pattern": "Comparative for evaluation",
+          "structure": "wichtiger als, schwieriger als, mehr Punkte als",
+          "example_de": "Teil 3 ist oft einfacher als Teil 2.",
+          "example_en": "Part 3 is often easier than Part 2.",
+          "telc_relevance": "Prioritize parts where you can score most efficiently"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Total points for Lesen?",
+          "back": "75 points — 25% of the total TELC B1 exam (300 points)",
+          "type": "exam"
+        },
+        {
+          "front": "Time for Lesen?",
+          "back": "~65 minutes total: ~10 min Teil 1, ~25 min Teil 2, ~15 min Teil 3, ~15 min buffer",
+          "type": "exam"
+        },
+        {
+          "front": "Pass threshold?",
+          "back": "60% on the written section overall (Lesen + Sprachbausteine + Hören + Schreiben combined)",
+          "type": "exam"
+        },
+        {
+          "front": "What to do FIRST in each Teil?",
+          "back": "Read the questions/tasks FIRST, then read the text. Never read the text blind.",
+          "type": "strategy"
+        },
+        {
+          "front": "der Antwortbogen",
+          "back": "answer sheet — don't forget to transfer your answers! It's separate from the question booklet.",
+          "type": "vocab"
+        },
+        {
+          "front": "Which Teil gives most ROI?",
+          "back": "Teil 3 — if you're efficient at matching, you can score high with less time than Teil 2",
+          "type": "strategy"
+        },
+        {
+          "front": "Should you change answers?",
+          "back": "Usually NO — first instinct is often correct. Only change if you find clear evidence.",
+          "type": "strategy"
+        },
+        {
+          "front": "Common time mistake?",
+          "back": "Spending too long on one difficult question in Teil 2. Move on and come back later.",
+          "type": "strategy"
+        }
+      ],
+      "practice_sentences": [
+        {
+          "de": "Teilen Sie Ihre Zeit vor der Prüfung auf.",
+          "en": "Divide your time before the exam.",
+          "hint": "Have a time plan ready before exam day"
+        },
+        {
+          "de": "Wenn Sie eine Antwort nicht wissen, raten Sie und gehen Sie weiter.",
+          "en": "If you don't know an answer, guess and move on.",
+          "hint": "No penalty for wrong answers"
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Antworten zu übertragen.",
+          "en": "Don't forget to transfer your answers.",
+          "hint": "Answer sheet (Antwortbogen) is separate"
+        },
+        {
+          "de": "Teil 3 ist oft einfacher als Teil 2.",
+          "en": "Part 3 is often easier than Part 2.",
+          "hint": "Don't panic if Teil 2 was hard"
+        },
+        {
+          "de": "Übung macht den Meister.",
+          "en": "Practice makes perfect.",
+          "hint": "Do timed practice regularly"
+        }
+      ],
+      "exam_tips": [
+        {
+          "tip": "Bring a watch! Monitor your time. If you've spent 30+ minutes and haven't started Teil 3, skip ahead.",
+          "telc_section": "Lesen"
+        },
+        {
+          "tip": "Never leave a question blank — there's no penalty for guessing. Always mark something.",
+          "telc_section": "Lesen"
+        },
+        {
+          "tip": "Transfer answers to the Antwortbogen with 5 minutes to spare. Don't wait until the very end.",
+          "telc_section": "Lesen"
+        },
+        {
+          "tip": "Do 2-3 full timed practice tests before exam day so you know your natural pace.",
+          "telc_section": "Lesen"
+        }
+      ],
+      "visual_summary": {
+        "title": "Lesen — Time Budget",
+        "table": {
+          "headers": [
+            "Teil",
+            "Task",
+            "Time",
+            "Points",
+            "Difficulty"
+          ],
+          "rows": [
+            [
+              "Teil 1",
+              "Headlines → Texts",
+              "~10 min",
+              "25 pts",
+              "Medium"
+            ],
+            [
+              "Teil 2",
+              "MCQ detail reading",
+              "~25 min",
+              "25 pts",
+              "Hard"
+            ],
+            [
+              "Teil 3",
+              "People → Ads matching",
+              "~15 min",
+              "25 pts",
+              "Medium"
+            ],
+            [
+              "Buffer",
+              "Review + transfer answers",
+              "~15 min",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        "key_points": [
+          "Total: 75 points in ~65 minutes",
+          "Questions first, then text — always",
+          "Don't get stuck — skip and return",
+          "Transfer answers to Antwortbogen!"
+        ]
+      }
+    },
+    {
+      "video_id": "horen-strategy-teil1",
+      "title": "Hören · Teil 1 — Globalverstehen (True/False)",
+      "url": "",
+      "telc_section": "Hören",
+      "study_notes": {
+        "summary": "Hören Teil 1 plays 5 short audio clips (announcements, messages, conversations). For each, you answer one true/false (richtig/falsch) question. You hear each clip ONCE only. Focus on the overall message, not every word.",
+        "key_concept": "Globalverstehen beim Hören — grasping the main point of a spoken text. You won't understand everything, and that's fine. Listen for the KEY information that answers the specific question.",
+        "grammar_rule": "Spoken German uses contractions and reductions: 'ne statt eine', 'hab' statt habe', 'isses statt ist es'. Train your ear for these informal forms.",
+        "word_order_note": "In spoken announcements, the most important information often comes at the END: '...und deshalb ist die Straße bis Freitag gesperrt.' The conclusion carries the answer.",
+        "common_mistakes": [
+          "Panicking after missing a word and losing focus for the rest of the clip",
+          "Not reading the question BEFORE the audio plays",
+          "Confusing richtig/falsch because of negation in the question or audio",
+          "Trying to understand every word instead of listening for the key point"
+        ]
+      },
+      "vocabulary": [
+        {
+          "de": "die Durchsage",
+          "en": "announcement",
+          "example_de": "Hören Sie die Durchsage am Bahnhof.",
+          "example_en": "Listen to the announcement at the train station."
+        },
+        {
+          "de": "die Nachricht",
+          "en": "message",
+          "example_de": "Sie hören eine Nachricht auf dem Anrufbeantworter.",
+          "example_en": "You hear a message on the answering machine."
+        },
+        {
+          "de": "richtig oder falsch",
+          "en": "true or false",
+          "example_de": "Entscheiden Sie: richtig oder falsch?",
+          "example_en": "Decide: true or false?"
+        },
+        {
+          "de": "der Anrufbeantworter",
+          "en": "answering machine",
+          "example_de": "Auf dem Anrufbeantworter ist eine Nachricht.",
+          "example_en": "There is a message on the answering machine."
+        },
+        {
+          "de": "absagen",
+          "en": "to cancel",
+          "example_de": "Der Termin wurde abgesagt.",
+          "example_en": "The appointment was canceled."
+        },
+        {
+          "de": "verschieben",
+          "en": "to postpone",
+          "example_de": "Das Meeting wird auf Montag verschoben.",
+          "example_en": "The meeting is postponed to Monday."
+        },
+        {
+          "de": "die Verspätung",
+          "en": "delay",
+          "example_de": "Der Zug hat 20 Minuten Verspätung.",
+          "example_en": "The train is 20 minutes late."
+        },
+        {
+          "de": "die Ansage",
+          "en": "announcement/notice",
+          "example_de": "Achten Sie auf die Ansage.",
+          "example_en": "Pay attention to the announcement."
+        }
+      ],
+      "grammar_patterns": [
+        {
+          "pattern": "Spoken contractions",
+          "structure": "'ne = eine, hab' = habe, is' = ist, 'nen = einen",
+          "example_de": "Ich hab' 'ne Frage.",
+          "example_en": "I have a question.",
+          "telc_relevance": "Audio uses natural spoken German with contractions — train your ear"
+        },
+        {
+          "pattern": "Negation in questions",
+          "structure": "Statement: 'Der Laden hat zu.' Question: 'Der Laden hat geöffnet.' → FALSCH",
+          "example_de": "Der Laden hat heute nicht geöffnet.",
+          "example_en": "The store is not open today.",
+          "telc_relevance": "Questions often state the OPPOSITE of what you hear — listen for negation"
+        },
+        {
+          "pattern": "Time/place change expressions",
+          "structure": "stattdessen, anstatt, verschoben auf, geändert zu",
+          "example_de": "Der Kurs wurde auf Donnerstag verschoben.",
+          "example_en": "The course was postponed to Thursday.",
+          "telc_relevance": "Hören Teil 1 loves testing schedule changes"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "How many clips in Hören Teil 1?",
+          "back": "5 short clips, each with 1 richtig/falsch question. You hear each clip ONCE.",
+          "type": "exam"
+        },
+        {
+          "front": "What is Globalverstehen beim Hören?",
+          "back": "Understanding the MAIN POINT of what you hear, without catching every word",
+          "type": "concept"
+        },
+        {
+          "front": "When should you read the question?",
+          "back": "BEFORE the audio plays! Use the pause time to read and predict.",
+          "type": "strategy"
+        },
+        {
+          "front": "'ne = ?",
+          "back": "eine (spoken contraction): 'Ich hab' 'ne Frage' = 'Ich habe eine Frage'",
+          "type": "grammar"
+        },
+        {
+          "front": "verschieben vs absagen?",
+          "back": "verschieben = postpone (to a new time), absagen = cancel (not happening at all)",
+          "type": "vocab"
+        },
+        {
+          "front": "Where is key info in announcements?",
+          "back": "Often at the END — listen all the way through, don't decide too early",
+          "type": "strategy"
+        },
+        {
+          "front": "What if you miss a word?",
+          "back": "Don't panic! Keep listening. One missed word doesn't mean you can't answer.",
+          "type": "strategy"
+        },
+        {
+          "front": "Common Hören Teil 1 topics?",
+          "back": "Train/flight announcements, voicemail messages, store/office closures, schedule changes",
+          "type": "exam"
+        }
+      ],
+      "practice_sentences": [
+        {
+          "de": "Lesen Sie die Aufgabe, bevor Sie das Audio hören.",
+          "en": "Read the task before you hear the audio.",
+          "hint": "Use pause time wisely"
+        },
+        {
+          "de": "Konzentrieren Sie sich auf die Schlüsselwörter.",
+          "en": "Concentrate on the keywords.",
+          "hint": "Not every word matters"
+        },
+        {
+          "de": "Wenn Sie etwas nicht verstehen, hören Sie weiter zu.",
+          "en": "If you don't understand something, keep listening.",
+          "hint": "Don't get stuck on one word"
+        },
+        {
+          "de": "Die wichtigste Information kommt oft am Ende.",
+          "en": "The most important information often comes at the end.",
+          "hint": "Listen to the full clip"
+        },
+        {
+          "de": "Achten Sie auf Verneinungen wie 'nicht', 'kein', 'nie'.",
+          "en": "Watch out for negations like 'not', 'no', 'never'.",
+          "hint": "Negation flips the meaning"
+        }
+      ],
+      "exam_tips": [
+        {
+          "tip": "Read the question in the 10-second pause BEFORE each clip. Predict what you'll hear.",
+          "telc_section": "Hören"
+        },
+        {
+          "tip": "For richtig/falsch: listen for whether the audio CONFIRMS or CONTRADICTS the statement. Don't overthink it.",
+          "telc_section": "Hören"
+        },
+        {
+          "tip": "Common trap: audio says 'verschoben auf Mittwoch' but question says 'findet am Dienstag statt' → FALSCH.",
+          "telc_section": "Hören"
+        },
+        {
+          "tip": "If unsure, go with your first impression. You only hear it once — no time to deliberate.",
+          "telc_section": "Hören"
+        }
+      ],
+      "visual_summary": {
+        "title": "Hören Teil 1 — Quick Strategy",
+        "table": {
+          "headers": [
+            "Phase",
+            "Action",
+            "Time"
+          ],
+          "rows": [
+            [
+              "Before",
+              "Read question, underline keywords",
+              "10 sec pause"
+            ],
+            [
+              "During",
+              "Listen for key info, not every word",
+              "30-60 sec clip"
+            ],
+            [
+              "After",
+              "Mark richtig/falsch immediately",
+              "5 sec"
+            ],
+            [
+              "Move on",
+              "Read next question in the pause",
+              "10 sec pause"
+            ]
+          ]
+        },
+        "key_points": [
+          "5 clips × 1 richtig/falsch = easy points if prepared",
+          "Read question BEFORE audio",
+          "Key info often at the END of clip",
+          "Don't panic if you miss a word"
+        ]
+      }
+    },
+    {
+      "video_id": "horen-strategy-teil2",
+      "title": "Hören · Teil 2 — Detailverstehen (Multiple Choice)",
+      "url": "",
+      "telc_section": "Hören",
+      "study_notes": {
+        "summary": "Hören Teil 2 plays a longer conversation or interview (~3-4 minutes). You answer 5 multiple-choice questions (a, b, c) about specific details. You hear the audio TWICE, which gives you two chances to catch the answers.",
+        "key_concept": "Detailverstehen — listening for specific facts, numbers, opinions, and reasons. Unlike Teil 1, you need precision here. Use the first listen for overall understanding, the second listen to confirm specific answers.",
+        "grammar_rule": "Interview language often uses indirect speech and reported opinions: 'Sie meinte, dass...', 'Er hat gesagt, er würde...'. Distinguish between the interviewer's questions and the interviewee's actual answers.",
+        "word_order_note": "In spoken German, the verb in dass-clauses should go to the end, but speakers often use V2 order: 'Er sagt, dass er kommt morgen' instead of correct 'dass er morgen kommt'. Both mean the same.",
+        "common_mistakes": [
+          "Using the first listen to answer and not actually listening the second time",
+          "Choosing an answer because you heard those exact words (distractor trap)",
+          "Missing the speaker's REAL opinion vs what they describe other people thinking",
+          "Not distinguishing between what was true BEFORE vs what is true NOW"
+        ]
+      },
+      "vocabulary": [
+        {
+          "de": "das Interview",
+          "en": "interview",
+          "example_de": "Sie hören ein Interview mit einer Ärztin.",
+          "example_en": "You hear an interview with a doctor."
+        },
+        {
+          "de": "das Gespräch",
+          "en": "conversation",
+          "example_de": "Hören Sie das Gespräch zwischen zwei Kollegen.",
+          "example_en": "Listen to the conversation between two colleagues."
+        },
+        {
+          "de": "der Moderator",
+          "en": "host/moderator",
+          "example_de": "Der Moderator stellt die Fragen.",
+          "example_en": "The host asks the questions."
+        },
+        {
+          "de": "die Erfahrung",
+          "en": "experience",
+          "example_de": "Sie spricht über ihre Erfahrungen.",
+          "example_en": "She talks about her experiences."
+        },
+        {
+          "de": "der Grund",
+          "en": "reason",
+          "example_de": "Was ist der Grund für ihre Entscheidung?",
+          "example_en": "What is the reason for her decision?"
+        },
+        {
+          "de": "die Meinung äußern",
+          "en": "to express an opinion",
+          "example_de": "Er äußert seine Meinung zum Thema.",
+          "example_en": "He expresses his opinion on the topic."
+        },
+        {
+          "de": "zustimmen",
+          "en": "to agree",
+          "example_de": "Stimmt die Frau dem Mann zu?",
+          "example_en": "Does the woman agree with the man?"
+        },
+        {
+          "de": "widersprechen",
+          "en": "to contradict",
+          "example_de": "Sie widerspricht seinem Vorschlag.",
+          "example_en": "She contradicts his suggestion."
+        }
+      ],
+      "grammar_patterns": [
+        {
+          "pattern": "Reported speech markers",
+          "structure": "Er/Sie sagt/meint/findet/glaubt, dass...",
+          "example_de": "Die Expertin meint, dass Sport sehr wichtig ist.",
+          "example_en": "The expert thinks that sport is very important.",
+          "telc_relevance": "Identify WHO says WHAT — questions test specific people's opinions"
+        },
+        {
+          "pattern": "Past vs Present contrast",
+          "structure": "Früher... aber jetzt/heute... | Damals... aber inzwischen...",
+          "example_de": "Früher hat sie in München gewohnt, aber jetzt lebt sie in Berlin.",
+          "example_en": "She used to live in Munich, but now she lives in Berlin.",
+          "telc_relevance": "Questions often ask about current situation — don't pick the old information"
+        },
+        {
+          "pattern": "Concession/contrast",
+          "structure": "zwar...aber, obwohl, trotzdem, dennoch",
+          "example_de": "Er findet den Job zwar stressig, aber interessant.",
+          "example_en": "He finds the job stressful, but interesting.",
+          "telc_relevance": "The part after 'aber' usually contains the speaker's REAL opinion"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "How many times do you hear Teil 2?",
+          "back": "TWICE — use 1st listen for overview, 2nd listen to confirm answers",
+          "type": "exam"
+        },
+        {
+          "front": "How many questions in Teil 2?",
+          "back": "5 MCQ with 3 options (a, b, c)",
+          "type": "exam"
+        },
+        {
+          "front": "1st listen strategy?",
+          "back": "Get the general picture + try to answer easy questions. Mark uncertain ones.",
+          "type": "strategy"
+        },
+        {
+          "front": "2nd listen strategy?",
+          "back": "Focus on questions you're unsure about. Confirm your answers.",
+          "type": "strategy"
+        },
+        {
+          "front": "'zwar...aber' — which part is the real opinion?",
+          "back": "The part after 'aber' — 'zwar stressig, aber interessant' → overall positive",
+          "type": "grammar"
+        },
+        {
+          "front": "Distractor trap in Hören MCQ?",
+          "back": "An option uses exact words from the audio but in a DIFFERENT context than what's being asked",
+          "type": "strategy"
+        },
+        {
+          "front": "Früher vs jetzt?",
+          "back": "Questions usually ask about NOW (jetzt/heute). Don't pick what was true in the past (früher).",
+          "type": "strategy"
+        },
+        {
+          "front": "das Gespräch vs das Interview?",
+          "back": "Gespräch = general conversation (peers), Interview = one person questions another (expert)",
+          "type": "vocab"
+        }
+      ],
+      "practice_sentences": [
+        {
+          "de": "Beim ersten Hören: Versuchen Sie, die Hauptidee zu verstehen.",
+          "en": "On the first listen: Try to understand the main idea.",
+          "hint": "Don't stress about details yet"
+        },
+        {
+          "de": "Beim zweiten Hören: Konzentrieren Sie sich auf offene Fragen.",
+          "en": "On the second listen: Focus on unanswered questions.",
+          "hint": "Target your attention"
+        },
+        {
+          "de": "Achten Sie darauf, WER etwas sagt.",
+          "en": "Pay attention to WHO says something.",
+          "hint": "Different speakers may have different opinions"
+        },
+        {
+          "de": "Die Antwort ist oft eine Umformulierung des Gesagten.",
+          "en": "The answer is often a paraphrase of what was said.",
+          "hint": "Not the exact same words"
+        },
+        {
+          "de": "Markieren Sie unsichere Antworten mit einem Fragezeichen.",
+          "en": "Mark uncertain answers with a question mark.",
+          "hint": "So you know where to focus on 2nd listen"
+        }
+      ],
+      "exam_tips": [
+        {
+          "tip": "Between the two plays, quickly review which questions you're uncertain about. Use the second listen strategically.",
+          "telc_section": "Hören"
+        },
+        {
+          "tip": "If two speakers disagree, make sure you identify WHICH speaker the question asks about.",
+          "telc_section": "Hören"
+        },
+        {
+          "tip": "Numbers, dates, and times are popular question targets. Write them down as you hear them.",
+          "telc_section": "Hören"
+        },
+        {
+          "tip": "The correct option usually paraphrases the audio. If an option uses the EXACT same phrase, it might be a trap.",
+          "telc_section": "Hören"
+        }
+      ],
+      "visual_summary": {
+        "title": "Hören Teil 2 — Two-Listen Strategy",
+        "table": {
+          "headers": [
+            "Listen",
+            "Focus",
+            "Action"
+          ],
+          "rows": [
+            [
+              "1st",
+              "Overview + easy questions",
+              "Answer what you can, mark uncertainties"
+            ],
+            [
+              "Pause",
+              "Review uncertain questions",
+              "Re-read options for those questions"
+            ],
+            [
+              "2nd",
+              "Targeted listening",
+              "Listen specifically for unsure answers"
+            ],
+            [
+              "After",
+              "Final check",
+              "Fill in any remaining blanks"
+            ]
+          ]
+        },
+        "key_points": [
+          "You hear it TWICE — use each listen differently",
+          "1st = overview, 2nd = targeted",
+          "Paraphrase = likely correct, exact words = possible trap",
+          "Track WHO says WHAT — multiple speakers!"
+        ]
+      }
+    },
+    {
+      "video_id": "horen-strategy-teil3",
+      "title": "Hören · Teil 3 — Selektives Hören (Matching)",
+      "url": "",
+      "telc_section": "Hören",
+      "study_notes": {
+        "summary": "Hören Teil 3 tests selective listening: you hear 5 short statements or announcements, and match each to the correct description from a list. Like Lesen Teil 3 but with audio. You hear each statement ONCE.",
+        "key_concept": "Selektives Hören — listening for specific key information to make a match. You need to catch WHO needs WHAT or WHERE/WHEN something happens. Each statement has one unique matching criterion.",
+        "grammar_rule": "Statements use location/time/purpose markers: 'am Montag um 14 Uhr', 'im dritten Stock', 'für Kinder ab 6 Jahren'. These specific details are what you match against.",
+        "word_order_note": "Announcements often front important info: 'Am Samstag, den 15. März, findet...' — the date/time at the start is usually the key matching detail.",
+        "common_mistakes": [
+          "Not reading the matching options before the audio plays",
+          "Getting confused between similar options (two events, different times)",
+          "Missing the one distinguishing detail (age limit, day, location)",
+          "Not marking answers immediately — forgetting by the next clip"
+        ]
+      },
+      "vocabulary": [
+        {
+          "de": "die Zuordnung",
+          "en": "matching/assignment",
+          "example_de": "Ordnen Sie jede Aussage der passenden Beschreibung zu.",
+          "example_en": "Match each statement to the fitting description."
+        },
+        {
+          "de": "die Aussage",
+          "en": "statement",
+          "example_de": "Sie hören fünf kurze Aussagen.",
+          "example_en": "You hear five short statements."
+        },
+        {
+          "de": "die Beschreibung",
+          "en": "description",
+          "example_de": "Welche Beschreibung passt?",
+          "example_en": "Which description fits?"
+        },
+        {
+          "de": "die Abteilung",
+          "en": "department",
+          "example_de": "Die Abteilung für Kinderbekleidung ist im 2. Stock.",
+          "example_en": "The children's clothing department is on the 2nd floor."
+        },
+        {
+          "de": "die Öffnungszeiten",
+          "en": "opening hours",
+          "example_de": "Die Öffnungszeiten sind von 9 bis 18 Uhr.",
+          "example_en": "Opening hours are from 9 to 6."
+        },
+        {
+          "de": "die Ermäßigung",
+          "en": "discount",
+          "example_de": "Es gibt eine Ermäßigung für Senioren.",
+          "example_en": "There is a discount for seniors."
+        },
+        {
+          "de": "die Veranstaltung",
+          "en": "event",
+          "example_de": "Die Veranstaltung beginnt um 19 Uhr.",
+          "example_en": "The event starts at 7 PM."
+        },
+        {
+          "de": "die Anmeldung",
+          "en": "registration",
+          "example_de": "Eine Anmeldung ist erforderlich.",
+          "example_en": "Registration is required."
+        }
+      ],
+      "grammar_patterns": [
+        {
+          "pattern": "Temporal prepositions",
+          "structure": "am + day, um + time, vom...bis, ab + date",
+          "example_de": "Am Freitag um 15 Uhr beginnt der Workshop.",
+          "example_en": "The workshop starts on Friday at 3 PM.",
+          "telc_relevance": "Time details are the most common matching criteria in Teil 3"
+        },
+        {
+          "pattern": "Local prepositions",
+          "structure": "im + Stock/Raum, in der + Abteilung, vor dem + Gebäude",
+          "example_de": "Der Kurs findet im Raum 204 statt.",
+          "example_en": "The course takes place in Room 204.",
+          "telc_relevance": "Location details differentiate similar-sounding options"
+        },
+        {
+          "pattern": "Restriction expressions",
+          "structure": "nur für + Akk, ab + age, bis zu + limit",
+          "example_de": "Das Angebot gilt nur für Mitglieder.",
+          "example_en": "The offer is only for members.",
+          "telc_relevance": "Restrictions narrow down matches — listen for 'nur', 'ab', 'bis'"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "How many clips in Hören Teil 3?",
+          "back": "5 short statements, each heard ONCE, matched to descriptions from a list",
+          "type": "exam"
+        },
+        {
+          "front": "Key strategy for Teil 3?",
+          "back": "Read ALL matching options BEFORE audio starts. Underline key differences between options.",
+          "type": "strategy"
+        },
+        {
+          "front": "What details to listen for?",
+          "back": "Time, place, price, age limits, who it's for — the specific details that differentiate options",
+          "type": "strategy"
+        },
+        {
+          "front": "am + day, um + time",
+          "back": "'am Montag um 14 Uhr' = on Monday at 2 PM — temporal prepositions for matching",
+          "type": "grammar"
+        },
+        {
+          "front": "What if two options seem similar?",
+          "back": "They differ by ONE detail (time, age, location). That's the detail you must catch.",
+          "type": "strategy"
+        },
+        {
+          "front": "die Zuordnung",
+          "back": "matching/assignment — the core task of Teil 3",
+          "type": "vocab"
+        },
+        {
+          "front": "Mark answers immediately because...",
+          "back": "You hear each clip ONCE only. If you wait, you'll forget by the next clip.",
+          "type": "strategy"
+        },
+        {
+          "front": "die Anmeldung erforderlich",
+          "back": "registration required — common restriction in announcements",
+          "type": "vocab"
+        }
+      ],
+      "practice_sentences": [
+        {
+          "de": "Lesen Sie alle Beschreibungen, bevor das Audio beginnt.",
+          "en": "Read all descriptions before the audio starts.",
+          "hint": "Use preparation time wisely"
+        },
+        {
+          "de": "Achten Sie auf Uhrzeiten und Wochentage.",
+          "en": "Pay attention to times and days of the week.",
+          "hint": "These are the most common differentiators"
+        },
+        {
+          "de": "Markieren Sie Ihre Antwort sofort nach jeder Aussage.",
+          "en": "Mark your answer immediately after each statement.",
+          "hint": "You only hear it once!"
+        },
+        {
+          "de": "Zwei Beschreibungen bleiben übrig.",
+          "en": "Two descriptions remain (unused).",
+          "hint": "Like Lesen Teil 3, there are distractors"
+        },
+        {
+          "de": "Konzentrieren Sie sich auf die Unterschiede zwischen ähnlichen Optionen.",
+          "en": "Focus on the differences between similar options.",
+          "hint": "The one detail that's different is the key"
+        }
+      ],
+      "exam_tips": [
+        {
+          "tip": "In the preparation time, read ALL descriptions and mark what makes each one UNIQUE (day, time, age, location).",
+          "telc_section": "Hören"
+        },
+        {
+          "tip": "Listen for the ONE differentiating detail, not the general topic. Two options about a 'Kochkurs' differ by when/where/for whom.",
+          "telc_section": "Hören"
+        },
+        {
+          "tip": "Write your answer after EACH clip. Don't try to remember multiple answers at once.",
+          "telc_section": "Hören"
+        },
+        {
+          "tip": "If you miss a clip, make your best guess and focus fully on the NEXT one. Don't let one missed clip ruin the rest.",
+          "telc_section": "Hören"
+        }
+      ],
+      "visual_summary": {
+        "title": "Hören Teil 3 — Selective Listening",
+        "table": {
+          "headers": [
+            "Phase",
+            "Action",
+            "Key Focus"
+          ],
+          "rows": [
+            [
+              "Prep",
+              "Read all descriptions",
+              "Mark unique details per option"
+            ],
+            [
+              "Clip 1",
+              "Listen for differentiating detail",
+              "Time? Place? Who?"
+            ],
+            [
+              "Between clips",
+              "Mark answer, prep for next",
+              "Don't deliberate too long"
+            ],
+            [
+              "After all 5",
+              "Review, fill gaps",
+              "2 options should be unused"
+            ]
+          ]
+        },
+        "key_points": [
+          "5 clips × 1 match each, heard ONCE",
+          "Options differ by one key detail",
+          "Mark immediately after each clip",
+          "Read descriptions BEFORE audio starts"
+        ]
+      }
+    },
+    {
+      "video_id": "horen-strategy-overall",
+      "title": "Hören — Overall Strategy & Common Traps",
+      "url": "",
+      "telc_section": "Hören",
+      "study_notes": {
+        "summary": "The Hören section is worth 75 points (25% of total). It consists of three Teile played on a CD in the exam room. You cannot control playback. Total listening time is about 20-25 minutes. This section rewards preparation and calm focus.",
+        "key_concept": "Hören is often the section students fear most, but with strategy it becomes predictable. Key principle: you are NOT expected to understand every word. You need to understand enough to answer the specific question being asked.",
+        "grammar_rule": "Spoken German differs from written: reductions (hab' statt habe), filler words (also, na ja, ähm), and false starts (Ich wollte... also ich meine...). Don't let these confuse you — they're normal speech.",
+        "word_order_note": "In spoken German, speakers often use verb-second order even in subordinate clauses: 'weil ich hab' keine Zeit' instead of correct 'weil ich keine Zeit habe'. Both mean the same thing.",
+        "common_mistakes": [
+          "Not using preparation time to read questions/options before audio",
+          "Panicking after Teil 1 (heard once) and losing focus for Teil 2-3",
+          "Trying to take detailed notes instead of listening and marking",
+          "Forgetting to transfer answers to the Antwortbogen"
+        ]
+      },
+      "vocabulary": [
+        {
+          "de": "die Hörprüfung",
+          "en": "listening exam",
+          "example_de": "Die Hörprüfung dauert etwa 25 Minuten.",
+          "example_en": "The listening exam lasts about 25 minutes."
+        },
+        {
+          "de": "die Aufnahme",
+          "en": "recording",
+          "example_de": "Sie hören jetzt die Aufnahme.",
+          "example_en": "You will now hear the recording."
+        },
+        {
+          "de": "einmal / zweimal",
+          "en": "once / twice",
+          "example_de": "Sie hören den Text einmal / zweimal.",
+          "example_en": "You hear the text once / twice."
+        },
+        {
+          "de": "die Pause",
+          "en": "pause",
+          "example_de": "In der Pause lesen Sie die nächste Aufgabe.",
+          "example_en": "During the pause, read the next task."
+        },
+        {
+          "de": "sich konzentrieren",
+          "en": "to concentrate",
+          "example_de": "Konzentrieren Sie sich auf die Schlüsselwörter.",
+          "example_en": "Concentrate on the keywords."
+        },
+        {
+          "de": "die Ablenkung",
+          "en": "distraction",
+          "example_de": "Lassen Sie sich nicht ablenken.",
+          "example_en": "Don't let yourself be distracted."
+        },
+        {
+          "de": "das Füllwort",
+          "en": "filler word",
+          "example_de": "Füllwörter wie 'also' und 'na ja' sind normal.",
+          "example_en": "Filler words like 'also' and 'na ja' are normal."
+        },
+        {
+          "de": "der Hintergrund",
+          "en": "background",
+          "example_de": "Manchmal gibt es Hintergrundgeräusche.",
+          "example_en": "Sometimes there are background noises."
+        }
+      ],
+      "grammar_patterns": [
+        {
+          "pattern": "Filler expressions in speech",
+          "structure": "also, na ja, ähm, ich meine, sozusagen, gewissermaßen",
+          "example_de": "Also, ich finde, na ja, das ist schwierig, sozusagen.",
+          "example_en": "Well, I think, you know, it's difficult, so to speak.",
+          "telc_relevance": "Don't be confused by fillers — skip over them mentally to catch the real content"
+        },
+        {
+          "pattern": "Spoken subordinate clauses",
+          "structure": "weil + V2 (spoken) vs weil + V-final (written)",
+          "example_de": "Spoken: 'weil ich hab' keine Zeit' = Written: 'weil ich keine Zeit habe'",
+          "example_en": "Both mean 'because I have no time'",
+          "telc_relevance": "Accept both word orders when listening — focus on meaning, not grammar"
+        },
+        {
+          "pattern": "Opinion softeners",
+          "structure": "eigentlich, irgendwie, so ein bisschen, nicht unbedingt",
+          "example_de": "Eigentlich finde ich das nicht so gut.",
+          "example_en": "Actually, I don't think that's so good.",
+          "telc_relevance": "Softeners signal nuanced opinions — 'eigentlich nicht' ≈ 'no'"
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Total points for Hören?",
+          "back": "75 points — 25% of total. Three parts: Teil 1 (1x), Teil 2 (2x), Teil 3 (1x)",
+          "type": "exam"
+        },
+        {
+          "front": "Which Teil do you hear twice?",
+          "back": "Teil 2 only. Teil 1 and Teil 3 are heard once.",
+          "type": "exam"
+        },
+        {
+          "front": "#1 rule for Hören?",
+          "back": "Use preparation time to READ QUESTIONS FIRST. Never listen 'blind'.",
+          "type": "strategy"
+        },
+        {
+          "front": "What are Füllwörter?",
+          "back": "Filler words: also, na ja, ähm. They carry no meaning — mentally skip them.",
+          "type": "concept"
+        },
+        {
+          "front": "'eigentlich nicht'",
+          "back": "Means 'not really / actually no' — a soft negation. The answer is essentially negative.",
+          "type": "grammar"
+        },
+        {
+          "front": "How to prepare for Hören at home?",
+          "back": "Listen to German podcasts/radio daily, even 10 min. Deutsche Welle Langsam Gesprochene Nachrichten is ideal.",
+          "type": "strategy"
+        },
+        {
+          "front": "What if the exam room is noisy?",
+          "back": "Raise your hand and tell the examiner. You have the right to hear clearly.",
+          "type": "exam"
+        },
+        {
+          "front": "Transfer answers?",
+          "back": "Yes — after Hören ends, you get time to transfer to Antwortbogen. Don't forget!",
+          "type": "exam"
+        }
+      ],
+      "practice_sentences": [
+        {
+          "de": "Nutzen Sie jede Pause, um die nächsten Fragen zu lesen.",
+          "en": "Use every pause to read the next questions.",
+          "hint": "Pauses are your preparation time"
+        },
+        {
+          "de": "Hören Sie jeden Tag 10 Minuten deutsche Nachrichten.",
+          "en": "Listen to 10 minutes of German news every day.",
+          "hint": "Deutsche Welle Langsam Gesprochene Nachrichten"
+        },
+        {
+          "de": "Lassen Sie sich von Füllwörtern nicht verwirren.",
+          "en": "Don't let filler words confuse you.",
+          "hint": "also, ähm, na ja = ignore"
+        },
+        {
+          "de": "Schreiben Sie wichtige Zahlen und Daten sofort auf.",
+          "en": "Write down important numbers and dates immediately.",
+          "hint": "Numbers are easy to forget"
+        },
+        {
+          "de": "Bleiben Sie ruhig, auch wenn Sie etwas nicht verstehen.",
+          "en": "Stay calm even if you don't understand something.",
+          "hint": "Panic = more mistakes"
+        }
+      ],
+      "exam_tips": [
+        {
+          "tip": "Daily listening practice for 2 weeks before the exam makes more difference than grammar cramming. Listen to DW Langsam Gesprochene Nachrichten.",
+          "telc_section": "Hören"
+        },
+        {
+          "tip": "In the exam, sit near the speaker/CD player if you can choose your seat.",
+          "telc_section": "Hören"
+        },
+        {
+          "tip": "If you completely miss a Teil 1 or Teil 3 clip, guess and move on. Dwelling on it ruins the next question.",
+          "telc_section": "Hören"
+        },
+        {
+          "tip": "Practice with real TELC mock exams at exam speed. Slowing down audio while practicing gives a false sense of security.",
+          "telc_section": "Hören"
+        }
+      ],
+      "visual_summary": {
+        "title": "Hören — Complete Section Overview",
+        "table": {
+          "headers": [
+            "Teil",
+            "Type",
+            "Plays",
+            "Questions",
+            "Approx Points"
+          ],
+          "rows": [
+            [
+              "Teil 1",
+              "Global (richtig/falsch)",
+              "1x",
+              "5",
+              "25 pts"
+            ],
+            [
+              "Teil 2",
+              "Detail (MCQ a/b/c)",
+              "2x",
+              "5",
+              "25 pts"
+            ],
+            [
+              "Teil 3",
+              "Selective (matching)",
+              "1x",
+              "5",
+              "25 pts"
+            ]
+          ]
+        },
+        "key_points": [
+          "75 points total, ~25 minutes",
+          "Teil 2 heard twice — use strategically",
+          "ALWAYS read questions in pause time",
+          "Daily listening practice > last-minute cramming"
+        ]
+      }
     }
   ]
 }

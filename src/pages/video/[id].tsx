@@ -7,6 +7,7 @@ import FlashcardDeck from '@/components/FlashcardDeck'
 import VocabularyTable from '@/components/VocabularyTable'
 import GrammarPatterns from '@/components/GrammarPatterns'
 import ExamTips from '@/components/ExamTips'
+import { cleanTitle } from '@/utils/cleanTitle'
 import styles from '@/styles/Video.module.css'
 
 // ─── Types ────────────────────────────────────────────────────────────────────
@@ -272,11 +273,12 @@ function NoContent({ message }: { message: string }) {
 export default function VideoPage({ video }: { video: Video }) {
   const [activeTab, setActiveTab] = useState<Tab>('Notes')
   const ytId = video.url ? getYouTubeId(video.url) : null
+  const displayTitle = cleanTitle(video.title)
 
   return (
-    <Layout title={video.title}>
+    <Layout title={displayTitle}>
       <Head>
-        <title>{video.title} — TELC B1 Deutsch</title>
+        <title>{displayTitle} — TELC B1 Deutsch</title>
       </Head>
 
       {/* Hero */}
@@ -292,7 +294,7 @@ export default function VideoPage({ video }: { video: Video }) {
               </span>
             )}
           </div>
-          <h1 className={styles.videoTitle}>{video.title}</h1>
+          <h1 className={styles.videoTitle}>{displayTitle}</h1>
           {video.url && (
             <p className={styles.videoSection}>
               <a href={video.url} target="_blank" rel="noopener noreferrer" style={{ color: '#FFCE00' }}>

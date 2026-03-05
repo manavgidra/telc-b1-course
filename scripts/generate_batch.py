@@ -47,7 +47,16 @@ if __name__ == '__main__':
     
     batch_file = sys.argv[1]
     with open(batch_file, encoding='utf-8') as f:
-        new_videos = json.load(f)
+        batch_data = json.load(f)
+    
+    # Support both {"videos": [...]} and plain [...] format
+    if isinstance(batch_data, dict) and 'videos' in batch_data:
+        new_videos = batch_data['videos']
+    elif isinstance(batch_data, list):
+        new_videos = batch_data
+    else:
+        print("Error: batch file must be a JSON array or {\"videos\": [...]}")
+        sys.exit(1)
     
     existing = load_existing()
     merged = merge_batch(existing, new_videos)

@@ -5,6 +5,164 @@
   padding: 2rem 0 4rem;
 }
 
+/* Exam Countdown Banner */
+.countdownBanner {
+  background: linear-gradient(135deg, #1a202c 0%, #2d3748 100%);
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  border-bottom: 3px solid var(--color-gold);
+}
+
+.countdownInner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.countdownIcon {
+  font-size: 1.2rem;
+}
+
+.countdownText {
+  font-size: 0.9rem;
+  color: #e2e8f0;
+}
+
+.countdownText strong {
+  color: var(--color-gold);
+  font-size: 1.05rem;
+}
+
+.countdownBar {
+  flex: 1;
+  min-width: 100px;
+  height: 8px;
+  background: rgba(255,255,255,0.15);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.countdownBarFill {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, var(--color-gold), #38a169);
+  border-radius: 4px;
+  transition: width 0.5s ease;
+}
+
+.countdownPercent {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--color-gold);
+  white-space: nowrap;
+}
+
+/* Section Progress */
+.sectionProgressContainer {
+  max-width: 1200px;
+  margin: 0 auto 2rem;
+  padding: 0 1.5rem;
+}
+
+.sectionProgressTitle {
+  font-size: 0.85rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.sectionProgressGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.75rem;
+}
+
+.sectionProgressCard {
+  background: var(--color-surface);
+  border: 1.5px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 0.75rem;
+  cursor: pointer;
+  transition: all var(--transition);
+  text-align: left;
+}
+
+.sectionProgressCard:hover {
+  border-color: var(--color-gold);
+  box-shadow: var(--shadow-sm);
+}
+
+.sectionProgressCardActive {
+  border-color: var(--color-gold);
+  background: #fffef5;
+}
+
+.sectionProgressHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.sectionProgressCount {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+  font-weight: 500;
+}
+
+.sectionProgressBarOuter {
+  height: 6px;
+  background: #e2e8f0;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.sectionProgressBarInner {
+  height: 100%;
+  background: linear-gradient(90deg, var(--color-gold), #38a169);
+  border-radius: 3px;
+  transition: width 0.4s ease;
+}
+
+/* Video Card - completed state */
+.videoCardDone {
+  opacity: 0.75;
+  border-color: var(--color-success) !important;
+}
+
+.videoCardDone::before {
+  background: var(--color-success) !important;
+  opacity: 1 !important;
+}
+
+.checkBtn {
+  background: none;
+  border: none;
+  font-size: 1.1rem;
+  cursor: pointer;
+  padding: 0;
+  line-height: 1;
+  transition: transform var(--transition);
+}
+
+.checkBtn:hover {
+  transform: scale(1.2);
+}
+
+.checkBtnDone {
+  opacity: 1;
+}
+
 /* Hero */
 .hero {
   background: linear-gradient(135deg, var(--color-black) 0%, #2d2d2d 50%, #1a1a1a 100%);
